@@ -1,0 +1,54 @@
+{
+ "camera-movement": {
+  "zh": "镜头运动",
+  "en": "Camera Movement"
+ },
+ "framing": {
+  "zh": "景别与景框",
+  "en": "Framing and Shot Size"
+ },
+ "camera-angles": {
+  "zh": "机位与角度",
+  "en": "Camera Angles"
+ },
+ "lighting": {
+  "zh": "灯光",
+  "en": "Lighting"
+ },
+ "composition": {
+  "zh": "构图",
+  "en": "Composition"
+ },
+ "lenses": {
+  "zh": "镜头与光学",
+  "en": "Lenses and Optics"
+ },
+ "color": {
+  "zh": "色彩与胶片感",
+  "en": "Color and Film Look"
+ },
+ "time-and-motion": {
+  "zh": "时间与运动",
+  "en": "Time and Motion"
+ },
+ "effects": {
+  "zh": "机内与光学特效",
+  "en": "In-Camera and Optical Effects"
+ },
+ "editing": {
+  "zh": "剪辑与转场",
+  "en": "Editing and Transitions"
+ },
+ "atmosphere": {
+  "zh": "氛围与天气",
+  "en": "Atmosphere and Weather"
+ },
+ "genre-looks": {
+  "zh": "类型片风格",
+  "en": "Genre Looks"
+ },
+ "viral-looks": {
+  "zh": "短视频风格",
+  "en": "Viral Looks"
+ }
+}

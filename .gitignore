@@ -1,0 +1,5 @@
+.vercel
+.playwright-mcp
+.DS_Store
+__pycache__/
+build/body_tr/out/parts*/
