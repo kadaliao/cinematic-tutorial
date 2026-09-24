@@ -347,7 +347,8 @@ mark.subj.set{background:var(--accent);color:var(--accent-ink)}
 /* ---------- quiz ---------- */
 .quiz-start{max-width:560px;display:flex;flex-direction:column;gap:16px;align-items:flex-start}
 .quiz-start .field{width:100%}
-.quiz-top{display:flex;align-items:center;gap:14px;font-size:13.5px;color:var(--muted);margin-bottom:16px;max-width:720px}
+.quiz-top{display:flex;align-items:center;gap:14px;font-size:13.5px;color:var(--muted);margin-bottom:16px;max-width:860px}
+.quiz-quit{height:32px;padding:0 12px;font-size:13px;color:var(--muted)}
 .quiz-card{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:26px;align-items:start}
 .quiz-media{border-radius:14px;overflow:hidden;background:#000;aspect-ratio:16/9;border:1px solid var(--line)}
 .quiz-media video,.quiz-media img{width:100%;height:100%;object-fit:contain}
@@ -369,6 +370,19 @@ mark.subj.set{background:var(--accent);color:var(--accent-ink)}
 .quiz-end{display:flex;flex-direction:column;gap:12px}
 .quiz-score{font:700 56px/1 var(--serif);margin:0;color:var(--accent)}
 .quiz-end .tile-grid{margin:6px 0 10px}
+
+/* ---------- wrongbook / search snippet ---------- */
+.wrongbook{margin-top:40px}
+.wb-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:14px;margin-bottom:16px}
+.wb-head h2{margin:0 0 4px;font:700 24px/1.3 var(--serif);display:flex;align-items:center;gap:8px}
+.wb-head p{margin:0}
+.wb-count{font:700 13px/1 var(--sans);padding:4px 9px;border-radius:999px;background:var(--bad-soft);color:var(--bad)}
+.wb-times{margin-top:6px;font-size:12px;color:var(--bad);font-weight:600}
+.fb-note{display:inline-block;margin-left:10px;font-size:12px;color:var(--muted)}
+.tile-snip{margin-top:6px;font-size:12.5px;line-height:1.6;color:var(--text-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.tile-snip b{display:inline-block;margin-right:6px;font-size:11px;color:var(--accent);font-weight:700}
+.tile-snip mark,.pal-main .tile-snip mark{background:var(--mark);color:var(--text);border-radius:3px;padding:0 1px}
+.pal-main .tile-snip{margin-top:2px;font-size:12px;-webkit-line-clamp:2;color:var(--muted)}
 
 /* ---------- board ---------- */
 .board{display:grid;grid-template-columns:minmax(0,1fr) 400px;gap:28px;align-items:start}

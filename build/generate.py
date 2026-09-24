@@ -14,6 +14,7 @@ Outputs (repository root):
   data-tutorial.js  - chapters + 424-entry light index + the 91 full entries the lessons need
   data-library.js   - all 424 full entries (loaded on demand: 图鉴搜索全文 / 打开非课程词条)
   body/<slug>.json  - 原站正文 {zh, en}，详情弹层打开时才 fetch
+  data-search.js    - 讲解正文中文全文索引，输入搜索词时才加载
 """
 
 import hashlib
@@ -126,6 +127,14 @@ for slug in library:
             raise SystemExit("body_zh %s.%s: %d paragraphs, source has %d" % (slug, k, len(zh[k]), len(en[k])))
     bodies[slug] = json.dumps({"zh": zh, "en": en}, ensure_ascii=False, separators=(",", ":"))
 
+# 讲解正文的中文全文索引：slug -> 拼接后的纯文本（图鉴 / 搜索面板按需加载）
+def flat(sec):
+    return " ".join((p["q"] + " " + p["a"]) if isinstance(p, dict) else p for k in BODY_SECS for p in sec[k])
+
+
+search_js = "window.CT_BODYTXT=" + json.dumps({s: flat(body_zh[s]) for s in library},
+                                             ensure_ascii=False, separators=(",", ":")) + ";\n"
+
 ver = lambda s: hashlib.sha1(s.encode()).hexdigest()[:10]  # 内容变了 URL 才变，避免浏览器/CDN 用旧数据
 
 page = (HERE / "page.html").read_text()
@@ -134,11 +143,13 @@ page = (page.replace("/*__CSS__*/", (HERE / "app.css").read_text().strip())
             .replace("__TOTAL__", str(len(library)))
             .replace("__TUTV__", ver(tut_js))
             .replace("__LIBV__", ver(lib_js))
+            .replace("__SEARCHV__", ver(search_js))
             .replace("__BODYV__", ver("".join(bodies[s] for s in sorted(bodies)))))
 
 (ROOT / "index.html").write_text(page)
 (ROOT / "data-tutorial.js").write_text(tut_js)
 (ROOT / "data-library.js").write_text(lib_js)
+(ROOT / "data-search.js").write_text(search_js)
 body_dir = ROOT / "body"
 body_dir.mkdir(exist_ok=True)
 for old in body_dir.glob("*.json"):
@@ -151,4 +162,5 @@ print("data-tutorial.js %d bytes (%d chapters, %d lessons, %d entries)" % (
     (ROOT / "data-tutorial.js").stat().st_size, len(chapters),
     sum(len(c["lessons"]) for c in chapters), len(TUTORIAL_LIB)))
 print("body/*.json %d files, %d bytes" % (len(bodies), sum(len(t.encode()) for t in bodies.values())))
+print("data-search.js %d bytes" % len(search_js.encode()))
 print("data-library.js %d bytes (%d entries)" % ((ROOT / "data-library.js").stat().st_size, len(library)))

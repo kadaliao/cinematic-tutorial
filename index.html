@@ -359,7 +359,8 @@ mark.subj.set{background:var(--accent);color:var(--accent-ink)}
 /* ---------- quiz ---------- */
 .quiz-start{max-width:560px;display:flex;flex-direction:column;gap:16px;align-items:flex-start}
 .quiz-start .field{width:100%}
-.quiz-top{display:flex;align-items:center;gap:14px;font-size:13.5px;color:var(--muted);margin-bottom:16px;max-width:720px}
+.quiz-top{display:flex;align-items:center;gap:14px;font-size:13.5px;color:var(--muted);margin-bottom:16px;max-width:860px}
+.quiz-quit{height:32px;padding:0 12px;font-size:13px;color:var(--muted)}
 .quiz-card{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:26px;align-items:start}
 .quiz-media{border-radius:14px;overflow:hidden;background:#000;aspect-ratio:16/9;border:1px solid var(--line)}
 .quiz-media video,.quiz-media img{width:100%;height:100%;object-fit:contain}
@@ -381,6 +382,19 @@ mark.subj.set{background:var(--accent);color:var(--accent-ink)}
 .quiz-end{display:flex;flex-direction:column;gap:12px}
 .quiz-score{font:700 56px/1 var(--serif);margin:0;color:var(--accent)}
 .quiz-end .tile-grid{margin:6px 0 10px}
+
+/* ---------- wrongbook / search snippet ---------- */
+.wrongbook{margin-top:40px}
+.wb-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:14px;margin-bottom:16px}
+.wb-head h2{margin:0 0 4px;font:700 24px/1.3 var(--serif);display:flex;align-items:center;gap:8px}
+.wb-head p{margin:0}
+.wb-count{font:700 13px/1 var(--sans);padding:4px 9px;border-radius:999px;background:var(--bad-soft);color:var(--bad)}
+.wb-times{margin-top:6px;font-size:12px;color:var(--bad);font-weight:600}
+.fb-note{display:inline-block;margin-left:10px;font-size:12px;color:var(--muted)}
+.tile-snip{margin-top:6px;font-size:12.5px;line-height:1.6;color:var(--text-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.tile-snip b{display:inline-block;margin-right:6px;font-size:11px;color:var(--accent);font-weight:700}
+.tile-snip mark,.pal-main .tile-snip mark{background:var(--mark);color:var(--text);border-radius:3px;padding:0 1px}
+.pal-main .tile-snip{margin-top:2px;font-size:12px;-webkit-line-clamp:2;color:var(--muted)}
 
 /* ---------- board ---------- */
 .board{display:grid;grid-template-columns:minmax(0,1fr) 400px;gap:28px;align-items:start}
@@ -554,7 +568,8 @@ const S = {
   zh: store.get('zh', true),
   tab: store.get('tab', 'pi'),
   bodyEn: store.get('body-en', false),
-  pick: store.get('pick', {}),          // 收藏夹里被勾选进组合的条目（默认全选）
+  pick: store.get('pick', {}),
+  wrong: store.get('wrong', {}),        // 错题本：slug -> {n: 答错次数, t: 最近答错时间}          // 收藏夹里被勾选进组合的条目（默认全选）
   lib: { q: '', cat: '', kind: '', favOnly: false }
 };
 
@@ -643,6 +658,19 @@ function loadFull() {
     document.head.appendChild(s);
   });
   return fullPromise;
+}
+// 原站讲解的中文全文索引（约 1.3MB），只在真正输入搜索词时才加载
+let BODYTXT = null, bodyTxtPromise = null;
+function loadBodyIndex() {
+  if (BODYTXT) return Promise.resolve(BODYTXT);
+  if (bodyTxtPromise) return bodyTxtPromise;
+  bodyTxtPromise = new Promise((resolve, reject) => {
+    const s = h('script', { src: 'data-search.js?v=148cbdaf68' });
+    s.onload = () => { BODYTXT = window.CT_BODYTXT; resolve(BODYTXT); };
+    s.onerror = () => { bodyTxtPromise = null; s.remove(); reject(new Error('data-search.js 载入失败')); };
+    document.head.appendChild(s);
+  });
+  return bodyTxtPromise;
 }
 const entryOf = slug => (FULL && FULL[slug]) || CT.lib[slug] || null;
 
@@ -739,7 +767,8 @@ function tile(slug, opts) {
     h('span', { class: 'tile-zh' }, r[2]),
     h('span', { class: 'tile-en', lang: 'en' }, r[1]),
     opts.def && e ? h('span', { class: 'tile-def' }, e.d[1] || e.d[0]) : null,
-    opts.note ? h('span', { class: 'tile-def', lang: 'en' }, opts.note) : null);
+    opts.note ? h('span', { class: 'tile-def', lang: 'en' }, opts.note) : null,
+    opts.snip ? snipView(opts.snip) : null);
   const a = h('a', { class: 'tile' + (opts.small ? ' small' : ''), href: '#' + curPath + '?e=' + slug, 'data-slug': slug },
     thumb, body);
   a.addEventListener('click', ev => {
@@ -866,7 +895,7 @@ function viewHome() {
   main.appendChild(h('section', { class: 'section' },
     h('div', { class: 'section-head' },
       h('div', null, h('h2', null, '学习路线'), h('p', null, '建议按顺序学，每次只学一课：读讲解 → 看片例 → 拍 10 秒练习 → 标记已练习。')),
-      h('a', { class: 'link-more', href: '#/quiz' }, '学完几章？来测一测', icon('right'))),
+      h('a', { class: 'link-more', href: '#/quiz' }, wrongList().length ? '错题本还有 ' + wrongList().length + ' 个，去复习' : '学完几章？来测一测', icon('right'))),
     grid));
 
   // 按原站分类快速进入图鉴
@@ -975,6 +1004,7 @@ function viewChapter(ci) {
 function searchEntries(q, pool) {
   const toks = q.toLowerCase().split(/\s+/).filter(Boolean);
   const rows = pool || IDX;
+  for (const k in SNIP) delete SNIP[k];
   if (toks.length === 0) return rows.map(r => r[0]);
   const out = [];
   rows.forEach(r => {
@@ -982,13 +1012,39 @@ function searchEntries(q, pool) {
     const head = [r[1], r[2], r[0].replace(/-/g, ' '), r[7] || ''].join(' ').toLowerCase();
     const body = head + ' ' + [catZh(r[3]), CATS[r[3]] ? CATS[r[3]].en : '',
       e ? [e.d[0], e.d[1], e.pi[0], e.pi[1], e.cp[0], e.cp[1]].join(' ') : ''].join(' ').toLowerCase();
-    if (toks.every(t => body.indexOf(t) >= 0)) out.push([toks.every(t => head.indexOf(t) >= 0) ? 0 : 1, r[0]]);
+    if (toks.every(t => body.indexOf(t) >= 0)) { out.push([toks.every(t => head.indexOf(t) >= 0) ? 0 : 1, r[0]]); return; }
+    // 第三档：只在原站讲解正文里提到
+    const txt = BODYTXT && BODYTXT[r[0]];
+    if (txt) {
+      const low = txt.toLowerCase();
+      if (toks.every(t => body.indexOf(t) >= 0 || low.indexOf(t) >= 0)) {
+        const t0 = toks.find(t => body.indexOf(t) < 0) || toks[0];
+        const at = low.indexOf(t0);
+        if (at >= 0) {
+          SNIP[r[0]] = { text: (at > 24 ? '…' : '') + txt.slice(Math.max(0, at - 24), at + t0.length + 36) + (at + t0.length + 36 < txt.length ? '…' : ''), tok: t0 };
+          out.push([2, r[0]]);
+        }
+      }
+    }
   });
   return out.sort((a, b) => a[0] - b[0]).map(x => x[1]);
 }
+const SNIP = {};   // slug -> {text, tok}：仅在讲解正文命中时的上下文片段
+function snipView(sn) {
+  const p = h('span', { class: 'tile-snip' }, h('b', null, '讲解中提到'));
+  const low = sn.text.toLowerCase();
+  let i = 0, at;
+  while ((at = low.indexOf(sn.tok, i)) >= 0) {
+    p.appendChild(document.createTextNode(sn.text.slice(i, at)));
+    p.appendChild(h('mark', null, sn.text.slice(at, at + sn.tok.length)));
+    i = at + sn.tok.length;
+  }
+  p.appendChild(document.createTextNode(sn.text.slice(i)));
+  return p;
+}
 function viewLibrary() {
   const L = S.lib;
-  const input = h('input', { type: 'search', class: 'input', placeholder: '搜中文、英文或提示词：推轨、dutch、halation、雨夜…', 'aria-label': '搜索手法', value: L.q, autocomplete: 'off' });
+  const input = h('input', { type: 'search', class: 'input', placeholder: '搜名称、定义、提示词或讲解正文：推轨、dutch、halation、库布里克…', 'aria-label': '搜索手法', value: L.q, autocomplete: 'off' });
   const count = h('span', { class: 'result-count', 'aria-live': 'polite' });
   const status = h('span', { class: 'lib-status' });
   const grid = h('div', { class: 'tile-grid lib-tiles' });
@@ -1011,9 +1067,16 @@ function viewLibrary() {
     });
     grid.textContent = '';
     const frag = document.createDocumentFragment();
-    list.forEach(s => frag.appendChild(tile(s, { list, cat: L.cat === '' })));
+    const q = L.q.trim();
+    list.forEach(s => frag.appendChild(tile(s, { list, cat: L.cat === '', snip: q ? SNIP[s] : null })));
     grid.appendChild(frag);
-    count.textContent = list.length + ' 条';
+    const inBody = q ? list.filter(s => SNIP[s]).length : 0;
+    count.textContent = list.length + ' 条' + (inBody ? '（其中 ' + inBody + ' 条是讲解正文提到）' : '');
+    if (q && BODYTXT == null) {
+      status.textContent = '· 正在载入讲解全文…';
+      loadBodyIndex().then(() => { status.textContent = ''; if (curPath === '/library' && L.q.trim()) apply(); },
+        () => { status.textContent = '· 讲解全文索引载入失败'; });
+    }
     if (list.length === 0) grid.appendChild(h('div', { class: 'empty' },
       h('p', null, L.favOnly && S.fav.length === 0 ? '收藏夹还是空的：打开任意手法，点「收藏」即可加入。' : '没有匹配的手法。'),
       h('button', { type: 'button', class: 'btn', onclick: () => { L.q = ''; L.cat = ''; L.kind = ''; L.favOnly = false; input.value = ''; syncCtl(); apply(); } }, '清除筛选')));
@@ -1043,7 +1106,7 @@ function viewLibrary() {
   apply();
   if (FULL == null) {
     status.textContent = '· 正在载入全文索引…';
-    loadFull().then(() => { status.textContent = ''; if (L.q.trim() && curPath === '/library') apply(); },
+    loadFull().then(() => { if (status.textContent.indexOf('全文索引') >= 0) status.textContent = ''; if (L.q.trim() && curPath === '/library') apply(); },
       () => { status.textContent = '· 全文索引载入失败，只能按名称搜索'; });
   }
   if (canHover && L.q) input.focus();
@@ -1246,7 +1309,21 @@ modal.addEventListener('click', ev => { if (ev.target.hasAttribute('data-close')
 /* ----- quiz ----- */
 const Q = { round: null };
 function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+// 错题本：按最近答错排序；答对一次即移出
+const wrongList = () => Object.keys(S.wrong).filter(s => CT.lib[s]).sort((x, y) => S.wrong[y].t - S.wrong[x].t);
+function markWrong(slug) {
+  const w = S.wrong[slug] || { n: 0, t: 0 };
+  S.wrong[slug] = { n: w.n + 1, t: Date.now() };
+  store.set('wrong', S.wrong);
+}
+function clearWrong(slug) {
+  if (S.wrong[slug] == null) return false;
+  delete S.wrong[slug];
+  store.set('wrong', S.wrong);
+  return true;
+}
 function quizPool(scope) {
+  if (scope === 'wrong') return wrongList();
   const s = [];
   CH.forEach((c, ci) => { if (scope === 'all' || String(ci) === scope) c.lessons.forEach(l => l.s.forEach(x => { if (s.indexOf(x) < 0) s.push(x); })); });
   return s;
@@ -1256,7 +1333,7 @@ function viewQuiz() {
   main.appendChild(h('section', { class: 'page-head' },
     h('p', { class: 'eyebrow' }, 'QUIZ · 看片识手法'),
     h('h1', null, '看片测验'),
-    h('p', { class: 'lead' }, '看一段片例，从 4 个选项里认出它用的手法。选完立刻看到定义，错题会列出来方便复习。')));
+    h('p', { class: 'lead' }, '看一段片例，从 4 个选项里认出它用的手法。选完立刻看到定义；答错的会进错题本，下次可以只练错题。')));
   main.appendChild(wrap);
   if (Q.round && Q.round.i < Q.round.qs.length) quizQuestion(wrap); else quizStart(wrap);
 }
@@ -1265,15 +1342,44 @@ function quizStart(wrap) {
   const sel = h('select', { class: 'input', 'aria-label': '出题范围' },
     h('option', { value: 'all' }, '全部 12 章（' + quizPool('all').length + ' 个片例）'),
     CH.map((c, ci) => h('option', { value: String(ci) }, '第 ' + (ci + 1) + ' 章 · ' + c.n + '（' + quizPool(String(ci)).length + '）')));
+  const wl = wrongList();
+  if (wl.length) sel.insertBefore(h('option', { value: 'wrong' }, '错题本（' + wl.length + ' 个）'), sel.firstChild.nextSibling);
   const best = store.get('quiz-best', null);
+  const start = scope => {
+    const pool = scope === 'wrong' ? quizPool('wrong') : shuffle(quizPool(scope).slice());
+    Q.round = { scope, qs: pool.slice(0, Math.min(10, pool.length)), i: 0, score: 0, wrong: [], cleared: 0, answered: null };
+    quizQuestion(wrap);
+  };
   wrap.appendChild(h('div', { class: 'quiz-start card' },
     h('label', { class: 'field' }, h('span', null, '出题范围'), sel),
-    h('button', { class: 'btn primary', type: 'button', onclick: () => {
-      const pool = shuffle(quizPool(sel.value).slice());
-      Q.round = { scope: sel.value, qs: pool.slice(0, Math.min(10, pool.length)), i: 0, score: 0, wrong: [], answered: null };
-      quizQuestion(wrap);
-    } }, '开始 10 题', icon('right')),
+    h('button', { class: 'btn primary', type: 'button', onclick: () => start(sel.value) }, '开始 10 题', icon('right')),
     best ? h('p', { class: 'muted' }, '最近一轮：' + best) : null));
+
+  // 错题本
+  const book = h('section', { class: 'wrongbook' });
+  if (wl.length === 0) {
+    book.appendChild(h('div', { class: 'wb-head' }, h('div', null, h('h2', null, '错题本'), h('p', { class: 'muted' }, '答错的片例会自动收进来（只存在本机），答对一次就移出。现在是空的。'))));
+  } else {
+    const clearBtn = h('button', { class: 'btn ghost', type: 'button' }, '清空错题本');
+    clearBtn.addEventListener('click', () => {
+      if (clearBtn.dataset.armed) { S.wrong = {}; store.set('wrong', S.wrong); toast('错题本已清空'); quizStart(wrap); return; }
+      clearBtn.dataset.armed = '1';
+      clearBtn.textContent = '再点一次确认清空';
+      setTimeout(() => { if (clearBtn.isConnected) { delete clearBtn.dataset.armed; clearBtn.textContent = '清空错题本'; } }, 3000);
+    });
+    book.appendChild(h('div', { class: 'wb-head' },
+      h('div', null, h('h2', null, '错题本 ', h('span', { class: 'wb-count' }, wl.length)),
+        h('p', { class: 'muted' }, '按最近答错排序；答对一次就移出。先点开看定义和讲解，再来一轮只练错题。')),
+      h('div', { class: 'row' },
+        h('button', { class: 'btn primary', type: 'button', onclick: () => start('wrong') }, '只练错题（' + Math.min(10, wl.length) + ' 题）'),
+        clearBtn)));
+    book.appendChild(h('div', { class: 'tile-grid' }, wl.map(s => {
+      const t = tile(s, { list: wl, def: true });
+      t.querySelector('.tile-body').appendChild(h('span', { class: 'wb-times' }, '答错 ' + S.wrong[s].n + ' 次'));
+      return t;
+    })));
+  }
+  wrap.appendChild(book);
 }
 function quizQuestion(wrap) {
   const R = Q.round;
@@ -1304,13 +1410,15 @@ function quizQuestion(wrap) {
   function answer(s) {
     if (R.answered != null) return;
     R.answered = s;
-    if (s === slug) R.score++; else R.wrong.push(slug);
+    if (s === slug) { R.score++; if (clearWrong(slug)) { R.cleared++; R.justCleared = slug; } }
+    else { R.wrong.push(slug); markWrong(slug); }
     quizQuestion(wrap);
   }
   wrap.appendChild(h('div', { class: 'quiz-top' },
     h('span', null, '第 ' + (R.i + 1) + ' / ' + R.qs.length + ' 题'),
     progressBar(R.i + (R.answered ? 1 : 0), R.qs.length, '测验进度'),
-    h('span', null, '得分 ' + R.score)));
+    h('span', null, '得分 ' + R.score),
+    h('button', { type: 'button', class: 'btn ghost quiz-quit', onclick: () => { Q.round = null; quizStart(wrap); } }, '结束本轮')));
   const card = h('div', { class: 'quiz-card' },
     h('div', { class: 'quiz-media' }, media),
     h('div', { class: 'quiz-side' },
@@ -1318,6 +1426,8 @@ function quizQuestion(wrap) {
       opts,
       R.answered != null ? h('div', { class: 'quiz-feedback ' + (R.answered === slug ? 'ok' : 'no') },
         h('b', null, R.answered === slug ? '答对了' : '正确答案：' + e.z),
+        R.answered === slug && R.justCleared === slug ? h('span', { class: 'fb-note' }, '已移出错题本') : null,
+        R.answered !== slug ? h('span', { class: 'fb-note' }, '已收进错题本') : null,
         h('p', null, e.d[1]),
         h('div', { class: 'row' },
           h('button', { class: 'btn primary', type: 'button', id: 'quiz-next', onclick: () => {
@@ -1337,10 +1447,11 @@ function quizEnd(wrap) {
   wrap.appendChild(h('div', { class: 'quiz-end card' },
     h('p', { class: 'eyebrow' }, '本轮结果'),
     h('p', { class: 'quiz-score' }, msg),
-    h('p', null, R.score === R.qs.length ? '全对！可以换一章，或者去图鉴里挑战更多手法。' : R.wrong.length + ' 个没认出来，点开复习一下：'),
+    h('p', null, R.score === R.qs.length ? '全对！可以换一章，或者去图鉴里挑战更多手法。' : R.wrong.length + ' 个没认出来，已收进错题本，点开复习一下：'),
+    R.cleared ? h('p', { class: 'muted' }, '本轮从错题本移出 ' + R.cleared + ' 个。') : null,
     R.wrong.length ? h('div', { class: 'tile-grid' }, R.wrong.map(s => tile(s, { list: R.wrong, def: true }))) : null,
     h('div', { class: 'row' },
-      h('button', { class: 'btn primary', type: 'button', onclick: () => { Q.round = null; quizStart(wrap); } }, '再来一轮'),
+      h('button', { class: 'btn primary', type: 'button', onclick: () => { Q.round = null; quizStart(wrap); } }, wrongList().length ? '再来一轮 / 看错题本（' + wrongList().length + '）' : '再来一轮'),
       h('a', { class: 'btn', href: '#/learn/0' }, '回到学习路线'))));
   Q.round = null;
 }
@@ -1438,8 +1549,9 @@ function renderPalette() {
     const hits = searchEntries(q);
     hits.slice(0, 40).forEach(s => {
       const r = IDXMAP[s];
-      palItems.push({ kind: catZh(r[3]), t: r[2], en: r[1], thumb: r[5], go: () => openEntry(s, hits.slice(0, 40)) });
+      palItems.push({ kind: SNIP[s] ? '讲解' : catZh(r[3]), t: r[2], en: SNIP[s] ? null : r[1], snip: SNIP[s], thumb: r[5], go: () => openEntry(s, hits.slice(0, 40)) });
     });
+    if (BODYTXT == null) loadBodyIndex().then(() => { if (pal.hidden === false && palQ.value.trim()) renderPalette(); }, () => {});
   }
   palSel = 0;
   palList.textContent = '';
@@ -1448,11 +1560,11 @@ function renderPalette() {
     const row = h('div', { class: 'pal-item', role: 'option', id: 'pal-' + i, 'aria-selected': i === 0 ? 'true' : 'false',
       onclick: () => pick(i), onmousemove: () => select(i) },
       it.thumb ? h('span', { class: 'pal-thumb' }, thumbImg(it.thumb, '')) : h('span', { class: 'pal-thumb ph' }, icon('book')),
-      h('span', { class: 'pal-main' }, h('b', null, it.t), it.en ? h('small', { lang: 'en' }, it.en) : it.sub ? h('small', null, it.sub) : null),
+      h('span', { class: 'pal-main' }, h('b', null, it.t), it.snip ? snipView(it.snip) : it.en ? h('small', { lang: 'en' }, it.en) : it.sub ? h('small', null, it.sub) : null),
       h('span', { class: 'pal-kind' }, it.kind));
     palList.appendChild(row);
   });
-  if (FULL == null && q) palList.appendChild(h('p', { class: 'pal-empty' }, '全文索引载入中，稍后会包含提示词里的匹配…'));
+  if ((FULL == null || BODYTXT == null) && q) palList.appendChild(h('p', { class: 'pal-empty' }, '全文索引载入中，稍后会包含提示词与讲解正文里的匹配…'));
 }
 function select(i) {
   if (palItems.length === 0) return;
