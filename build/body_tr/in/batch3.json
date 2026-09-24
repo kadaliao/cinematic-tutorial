@@ -1,0 +1,2642 @@
+[
+ {
+  "slug": "tilt",
+  "title": "Tilt",
+  "zh_title": "上下摇镜",
+  "narrative": [
+   "Reveal height without traveling. A body from shoes to face, a building from door to roof, a dinosaur from ankle to skull: the facts are stacked on one vertical.",
+   "The feet do not move. A crane or a jib is the wrong tool only if you wanted parallax of a rising support.",
+   "If the foreground must slide as you climb, boom. If you only need to look up, tilt."
+  ],
+  "how": [
+   "Tripod, fluid head, horizontal axis. Start and end on composed frames; do not overshoot into ceiling unless that is the gag.",
+   "A wide lens exaggerates vertical stretch; a longer lens keeps the stack calmer. Prompt: Tilt on [Subject], camera rotating on its horizontal axis, climbing or descending the world from a fixed point."
+  ],
+  "when": [
+   "Use it to reveal height from one stance: a statue, a tower, a person from ground to face. Do not tilt as a fake crane-up."
+  ],
+  "vs": [
+   "Tilt Up and Tilt Down name direction. A Crane Up physically lifts the camera, so rooftops and streets change in parallax.",
+   "A Pedestal Up raises the support on a column without pitching. A Pan is the horizontal cousin."
+  ],
+  "examples_film": [
+   "Jurassic Park tilts up bodies and gates to stack scale from a planted stance. Citizen Kane uses vertical swings and stacked compositions to turn height into power.",
+   "Grammar: rotation, not travel."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a crane-up. The tell: foreground sliding, the support rising, the person shrinking in a map.",
+   "The fix: lock the position, pitch only, and let height arrive as angle."
+  ],
+  "faq": [
+   {
+    "q": "What is Tilt in film?",
+    "a": "A tilt rotates the camera vertically from a fixed position. The tripod stays put; the frame climbs or drops to reveal height."
+   },
+   {
+    "q": "Tilt vs Crane Up",
+    "a": "A tilt only changes angle. A crane physically moves the camera through space, so parallax appears and the map can change."
+   },
+   {
+    "q": "When should I use Tilt?",
+    "a": "Use it to reveal height without traveling. Do not use it when you need the camera to climb and ease back over a city."
+   },
+   {
+    "q": "How do I prompt Tilt for AI image or video?",
+    "a": "Write a planted tripod and a vertical rotation. Example: Tilt on [Subject], camera rotating on its horizontal axis, climbing or descending the world from a fixed point."
+   }
+  ]
+ },
+ {
+  "slug": "tilt-down",
+  "title": "Tilt Down",
+  "zh_title": "向下摇",
+  "narrative": [
+   "The new fact is below: a body, a key, a grave, a child. Establishing scale above, then landing, keeps rank in the pitch of the head rather than in a descending crane.",
+   "It is the wrong tool when you must arrive from a map into a street with true height change. A tilt cannot lower the lens into a crowd; it can only look down at one."
+  ],
+  "how": [
+   "Compose the high start and the low end. Control exposure as you leave the sky.",
+   "Keep the support still so the move stays pitch, not boom. Prompt a slow tilt down onto the subject, starting in sky or ceiling and descending to the figure, a measured vertical scan."
+  ],
+  "when": [
+   "Use it to land on a person or object after establishing scale above. Concrete beat: a ceiling fan, then the sleeper.",
+   "Do not use it when the camera itself must come down to eye height."
+  ],
+  "vs": [
+   "A Tilt Up is the opposite pitch. A Crane Down translates through height and can keep walking after the descent.",
+   "A Pedestal Down lowers the whole camera with tilt unchanged. Tilt down looks down; it does not sit down."
+  ],
+  "examples_film": [
+   "Citizen Kane uses vertical looking so ceilings and power share a sentence. The Godfather lands from rooms onto faces and objects as rank.",
+   "These are pitch grammar, distinct from crane descents that change station."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Crane Down . The tell is the camera's eyeline dropping through floors, with parallax as objects rise in frame.",
+   "The fix: keep the sticks planted, pitch down, end on the lower fact."
+  ],
+  "faq": [
+   {
+    "q": "What is Tilt Down in film?",
+    "a": "It is a downward pitch of a camera that stays in one position, scanning from a higher composition to a lower one."
+   },
+   {
+    "q": "Tilt Down vs Crane Down",
+    "a": "Crane down physically lowers (and often advances) the camera. Tilt down only rotates, so height of the lens stays put while the look drops."
+   },
+   {
+    "q": "When should I use Tilt Down?",
+    "a": "When the story fact is below the current look and you do not need a new station. Do not use it to enter a street from the sky."
+   },
+   {
+    "q": "How do I prompt Tilt Down for AI image or video?",
+    "a": "Write fixed camera, tilt down from sky or ceiling onto [Subject], no crane, no pedestal. Name the landing object."
+   }
+  ]
+ },
+ {
+  "slug": "tilt-up",
+  "title": "Tilt Up",
+  "zh_title": "向上摇",
+  "narrative": [
+   "Height, awe, or a face can be delayed until the last part of the image is shown. Ground evidence connects to its source.",
+   "Scale becomes a relationship because we are forced to look up from where we already stand. It is the wrong tool when the camera must actually climb: a tilt cannot gain a rooftop's true station.",
+   "If architecture must slide down the frame with parallax, you wanted a pedestal or a crane."
+  ],
+  "how": [
+   "Set a stable pivot and compose the lower and upper frames. Manage exposure if the move includes a bright sky.",
+   "Distinguish a tilt from physically lifting the camera. Prompt a slow tilt up, rotation on the horizontal axis, from ground detail to face or from face to towering architecture."
+  ],
+  "when": [
+   "Use it to reveal height, awe, or a face last. Concrete beat: boots, then the rifle, then the face.",
+   "Do not use it as a fake crane that never leaves the sticks."
+  ],
+  "vs": [
+   "A Crane Up and a Pedestal Up translate the camera through height, so parallax appears. A Tilt Down is the same pitch axis the other way.",
+   "A Low Angle may be a still end frame; tilt up is the motion that can arrive there."
+  ],
+  "examples_film": [
+   "Psycho associates the motel with the house above it through vertical looking. Besieged connects a house's levels with vertical camera rotation.",
+   "Jurassic Park uses upward tilts so scale arrives as recognition. Confirm whether a given dinosaur reveal also dollies; the tilt is the pitch, not the track."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Crane Up or Pedestal Up . The tell is a changing eyeline height and sliding parallax of near objects.",
+   "The fix: freeze the tripod height, pitch up only, and let the top of the frame be the new fact."
+  ],
+  "faq": [
+   {
+    "q": "What is Tilt Up in film?",
+    "a": "It is a vertical rotation of a locked-off camera that pitches the lens upward, revealing higher parts of the same scene without lifting the support."
+   },
+   {
+    "q": "Tilt Up vs Crane Up",
+    "a": "Crane up moves the camera through space, often backing away as it rises. Tilt up only turns on the head, so you look up from the same spot."
+   },
+   {
+    "q": "When should I use Tilt Up?",
+    "a": "When height or a delayed face is the information and you are willing to stay at one station. Do not use it to fake a lift onto a roof."
+   },
+   {
+    "q": "How do I prompt Tilt Up for AI image or video?",
+    "a": "Say fixed position, tilt up, horizontal-axis rotation, no crane, no pedestal. Name the start (ground, hem, desk) and the end (face, tower, sky)."
+   }
+  ]
+ },
+ {
+  "slug": "tracking",
+  "title": "Tracking Shot",
+  "zh_title": "跟拍镜头",
+  "narrative": [
+   "Accompany a walker. The picture is not a postcard of a person; it is duration spent in their path.",
+   "Side-on tracking keeps cause, distance, and fatigue visible, which is why corridor fights and long walks live here. It is the wrong tool for a seated confession, and the wrong tool if you only panned from a locked tripod with a long lens.",
+   "If foreground does not slide, you did not track."
+  ],
+  "how": [
+   "Use dolly, Steadicam, gimbal, or vehicle on a path parallel to the action. Match speed.",
+   "Hold a consistent distance and shoulder height unless the story changes rank. One direction.",
+   "Prompt a lateral tracking shot, camera matching pace on a parallel path, shoulder height, parallax of three planes."
+  ],
+  "when": [
+   "Use it to accompany a walker through space that must stay readable. Concrete beat: a side-on corridor fight in which exhaustion is as visible as the hits.",
+   "Do not track a still interrogation."
+  ],
+  "vs": [
+   "A Follow Shot trails behind, using the back of the head as foreground. A Walk and Talk is tracking put to conversation coverage.",
+   "Steadicam is a support that often executes tracks. A Dolly Left can track a still line; tracking as a job is subject-locked travel.",
+   "Do not confuse it with a static telephoto pan."
+  ],
+  "examples_film": [
+   "Touch of Evil opens with a long traveling sentence. Children of Men and 1917 keep geography continuous while people move.",
+   "Oldboy 's hammer fight is predominantly side-on tracking in a narrow corridor. The 400 Blows ends on Antoine's run toward the sea.",
+   "Grammar of matched pace, not a stunt to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Pan Left from a locked head, or a Slow Zoom In that only changes size. The tell is no sliding foreground.",
+   "The fix: a traveling support, matching pace, near objects passing."
+  ],
+  "faq": [
+   {
+    "q": "What is Tracking Shot in film?",
+    "a": "It is a camera move that travels with a subject, usually matching their pace and holding distance so the world slides past in parallax."
+   },
+   {
+    "q": "Tracking Shot vs Follow Shot",
+    "a": "Follow typically sits behind and uses the back of the head as a foreground. Tracking is the broader job and often rides beside, keeping a side-on view of action."
+   },
+   {
+    "q": "When should I use Tracking Shot?",
+    "a": "When walking, running, or fighting must stay continuous in space. Do not use it for a seated scene that only needed a slow push."
+   },
+   {
+    "q": "How do I prompt Tracking Shot for AI image or video?",
+    "a": "Write camera tracks alongside [Subject] at matching pace, consistent distance, shoulder height, foreground parallax. One direction. No tripod pan."
+   }
+  ]
+ },
+ {
+  "slug": "trucking",
+  "title": "Trucking",
+  "zh_title": "横向平移",
+  "narrative": [
+   "Stay beside a walker. Talk, walk, and the city or the hallway becomes a moving set.",
+   "The camera is a polite companion, not a hunter in front and not a conveyor belt. If you lead from the front, you are tracking or following.",
+   "If the world is a factory that does not care, you are on a conveyor. Trucking is the side-on companion."
+  ],
+  "how": [
+   "Track parallel to the walk, camera at eye or chest, often 35 to 50mm. Match speed to the stride.",
+   "Foreground (posts, extras, doorways) should shear; the far wall crawls. Prompt: Trucking with [Subject], lateral dolly, the camera sliding sideways, a sidewalk or corridor peeling by."
+  ],
+  "when": [
+   "Use it to stay beside a walker through a street or hall. Do not truck on a static portrait; then you only have a slider fidget."
+  ],
+  "vs": [
+   "Dolly Left names a lateral direction on wheels. Tracking Shot is the broader follow along a path, including front and behind.",
+   "Conveyor is constant industrial speed with the person as cargo. A Pan from sticks will lose the walker or smear them."
+  ],
+  "examples_film": [
+   "The Goodfellas Copacabana take includes lateral travel through service spaces as a companion. Touch of Evil moves with people through a town so the street peels.",
+   "Grammar: beside, matching speed, lateral parallax."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a pan with a walking person. The tell: the subject changes size and the background only swings.",
+   "The fix: translate sideways, match stride, keep size, let the sidewalk peel."
+  ],
+  "faq": [
+   {
+    "q": "What is Trucking in film?",
+    "a": "Trucking is a lateral dolly beside a walker. The camera slides sideways so the sidewalk or corridor peels by and the subject stays a constant size."
+   },
+   {
+    "q": "Trucking vs Tracking",
+    "a": "Tracking is the general follow along a path, including front and behind. Trucking is specifically the side-on, lateral companion."
+   },
+   {
+    "q": "When should I use Trucking?",
+    "a": "Use it to stay beside a person walking and talking. Do not use it on a locked portrait."
+   },
+   {
+    "q": "How do I prompt Trucking for AI image or video?",
+    "a": "Write a lateral dolly matching walk speed. Example: Trucking with [Subject], lateral dolly, the camera sliding sideways, a sidewalk or corridor peeling by."
+   }
+  ]
+ },
+ {
+  "slug": "walk-and-talk",
+  "title": "Walk and Talk",
+  "zh_title": "边走边谈",
+  "narrative": [
+   "Talk does not pause for a room, and the room does not pause for talk. Doorways, extras, and turning corners become the punctuation of the lines.",
+   "The job is coverage of conversation in motion, not a silent hunt. It is the wrong tool for a chase with no words, and the wrong tool for a seated interrogation.",
+   "If nobody is walking while talking, it is just a track."
+  ],
+  "how": [
+   "Steadicam or gimbal, often leading, sometimes flanking. Hold a moving medium, shoulder height, leave headroom for doorways.",
+   "Recorders and extras must be blocked as part of the path. Prompt walk-and-talk tracking, camera leading or flanking at medium, architecture flowing, corridor energy."
+  ],
+  "when": [
+   "Use it when information and geography must move together. Concrete beat: two people argue policy while threading a bullpen, never sitting.",
+   "Do not walk-and-talk a scene that wants a table."
+  ],
+  "vs": [
+   "Tracking Shot is the broader travel job and may be silent action. A Follow Shot hides faces behind heads.",
+   "Steadicam is the usual support. Walk-and-talk is specifically dialogue plus path: West Wing grammar, not a hammer fight."
+  ],
+  "examples_film": [
+   "The West Wing made corridor walk-and-talk the series' coverage engine. The Social Network uses walking conversation so status and architecture share the lines.",
+   "Birdman is a cousin in longer connecting talk. Speech in motion: that is the grammar."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a silent Follow Shot or a seated two-shot with a slow Dolly In . The tell is the back of a head, or feet that do not walk.",
+   "The fix: people talking while walking, camera leading or flanking, faces readable, rooms changing."
+  ],
+  "faq": [
+   {
+    "q": "What is Walk and Talk in film?",
+    "a": "It is moving coverage of conversation: the camera travels with people who are walking while they speak, so the lines and the building unfold together."
+   },
+   {
+    "q": "Walk and Talk vs Tracking Shot",
+    "a": "Tracking can follow a silent walker or a fight. Walk-and-talk requires dialogue in motion, usually as a leading or flanking medium."
+   },
+   {
+    "q": "When should I use Walk and Talk?",
+    "a": "When exposition or argument should happen on the move through a workplace or campus. Do not use it for a still confession."
+   },
+   {
+    "q": "How do I prompt Walk and Talk for AI image or video?",
+    "a": "Write camera leads or flanks [Subject] walking and talking, moving medium, architecture flowing, faces readable. Ban a silent follow from behind."
+   }
+  ]
+ },
+ {
+  "slug": "wandering",
+  "title": "Wandering",
+  "zh_title": "游移运镜",
+  "narrative": [
+   "Looking is the action. Openings, parties, streets: the lens behaves like a guest who has not decided what matters.",
+   "Discovery is the point, not a pre-aimed hero. Once the camera knows the target and drives at it, the wandering is over.",
+   "A hunt is a track. A tour that never finds anything is also empty: curiosity still needs a world worth searching."
+  ],
+  "how": [
+   "Steadicam or handheld, human height, no locked axis. Speed is uneven on purpose.",
+   "Let the frame glance off extras, corners, and unfinished business, then arrive. Prompt: Wandering camera near [Subject], unmotivated drift that becomes curiosity, a search without a target yet."
+  ],
+  "when": [
+   "Use it when the scene is a search: an opening that discovers a location, a camera that has not chosen a side. Do not wander through a scene whose power geography is already known."
+  ],
+  "vs": [
+   "Handheld is a body and a shake; it can still be aimed. Steadicam is a float that can wander or can be a laser.",
+   "Wandering is the motive: discovery, not targeting. A Pan from sticks surveys from one point; wandering translates."
+  ],
+  "examples_film": [
+   "Children of Men openings let the camera discover a street before the event lands. The Player 's start wanders a lot as a search that becomes a sentence.",
+   "Grammar: looking before knowing."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a hero-cam walk or a clean track. The tell: the subject is already centered and inevitable.",
+   "The fix: drift, miss, then find; let the space exist before the aim."
+  ],
+  "faq": [
+   {
+    "q": "What is Wandering in film?",
+    "a": "A wandering camera searches a space without a chosen target yet. Looking is the action; discovery comes after the drift."
+   },
+   {
+    "q": "Wandering vs Handheld",
+    "a": "Handheld is a mounting and a shake. Wandering is a motive: curiosity rather than a pre-aimed subject. A wander can be smooth on a vest."
+   },
+   {
+    "q": "When should I use Wandering?",
+    "a": "Use it for openings and searches, when the camera has not chosen a side. Do not wander a scene whose blocking is already the point."
+   },
+   {
+    "q": "How do I prompt Wandering for AI image or video?",
+    "a": "Write a drift that discovers rather than targets. Example: Wandering camera near [Subject], unmotivated drift that becomes curiosity, a search without a target yet."
+   }
+  ]
+ },
+ {
+  "slug": "whip-pan",
+  "title": "Whip Pan",
+  "zh_title": "甩镜头",
+  "narrative": [
+   "The move is a transition, a punchline, or a sudden shift of attention. Energy transfers between spaces that may not even be adjacent.",
+   "An ordinary change of location can feel like a comic snap if the blur matches. It is the wrong tool for a readable pan across a mural, and the wrong tool if you need to see the travel.",
+   "If the landing is not sharp, the whip is only a smear."
+  ],
+  "how": [
+   "Match blur direction, luminance, duration, and acceleration if you cut inside the blur. Design the sharp landing before generating the two sides.",
+   "Opposite pan directions or mismatched brightness expose the seam. Prompt a violent whip pan off the subject, horizontal motion blur streaking the world, then a snap resolve on the next beat."
+  ],
+  "when": [
+   "Use it as a transition, punchline, or sudden attention shift. Concrete beat: a look off, a blur, a new room already in progress.",
+   "Do not whip across information the audience must read."
+  ],
+  "vs": [
+   "A Pan Left or Pan Right stays readable. A Whip Tilt is the same idea on the pitch axis.",
+   "A Crash Zoom In blurs radially by changing focal length, not by yaw. Whip pan is horizontal speed past recognition, then a hard stop."
+  ],
+  "examples_film": [
+   "Shaun of the Dead compresses routine and travel with fast visual joins. Hot Fuzz accelerates exposition with whip-like moves.",
+   "Baby Driver and Whiplash time the blur to music and hits. Use the matched smear and the landing, not the playlist."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a fast Pan Right that never blurs, or a Crash Zoom In . The tell is readable detail in the middle, radial zoom blur, or a seam where blur directions disagree.",
+   "The fix: commit to unreadability in the middle, match the join, stop sharp."
+  ],
+  "faq": [
+   {
+    "q": "What is Whip Pan in film?",
+    "a": "It is a pan so fast that the frame becomes horizontal motion blur, often used to hide a cut or to sting a new composition."
+   },
+   {
+    "q": "Whip Pan vs Crash Zoom In",
+    "a": "Crash zoom in changes focal length and blurs radially. Whip pan rotates the camera on yaw and blurs sideways, then resolves on a new aim."
+   },
+   {
+    "q": "When should I use Whip Pan?",
+    "a": "When you need a snap of attention or an invisible join between two setups. Do not use it to show a landscape."
+   },
+   {
+    "q": "How do I prompt Whip Pan for AI image or video?",
+    "a": "Demand extremely fast horizontal pan, heavy motion blur, then a sharp stop on a named landing. If used as a cut, match blur direction on both sides."
+   }
+  ]
+ },
+ {
+  "slug": "whip-tilt",
+  "title": "Whip Tilt",
+  "zh_title": "上下甩镜",
+  "narrative": [
+   "Vertical shock instead of a horizontal whip. A body hits the floor, a face is found in a tree, a sign slams down from sky.",
+   "The middle of the move should be unreadable on purpose. It is the wrong tool for a slow reveal of a tower, and the wrong tool if you needed the camera to fall with a body.",
+   "Blurred pitch is not a crane collapse."
+  ],
+  "how": [
+   "Rotate on the horizontal axis past blur, then hard-stop on a composed frame. Match blur if you cut inside it.",
+   "Keep the tripod planted so you do not add a drop. Prompt a violent vertical whip tilt, the frame ripping up or down with motion blur, then a hard stop."
+  ],
+  "when": [
+   "Use it for vertical shock instead of a horizontal whip. Concrete beat: from a screaming mouth down onto the weapon that caused it.",
+   "Do not use it to measure a building."
+  ],
+  "vs": [
+   "A Whip Pan blurs on yaw. A Tilt Up or Tilt Down stays readable on the same axis.",
+   "A Crash Zoom In is optical, not a head rotation. Whip tilt is pitch speed, then a stop."
+  ],
+  "examples_film": [
+   "Evil Dead throws the camera through violent vertical reorientations as shock grammar. Crank uses similar speed as body panic.",
+   "These are references for blur-and-stop, not for copying specific gags."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Whip Pan or a fast Tilt Down that remains readable. The tell is horizontal streaks, or a clear building in the middle of the move.",
+   "The fix: vertical blur, planted support, sharp landing."
+  ],
+  "faq": [
+   {
+    "q": "What is Whip Tilt in film?",
+    "a": "It is a tilt so fast that the image streaks vertically, then a hard stop on a new high or low composition."
+   },
+   {
+    "q": "Whip Tilt vs Whip Pan",
+    "a": "Whip pan blurs horizontally by yawing. Whip tilt blurs vertically by pitching. Both plant the support and hide the middle in speed."
+   },
+   {
+    "q": "When should I use Whip Tilt?",
+    "a": "When the shock is above or below, not beside. Do not use it for a gentle height reveal."
+   },
+   {
+    "q": "How do I prompt Whip Tilt for AI image or video?",
+    "a": "Write extremely fast vertical tilt, heavy motion blur, hard stop on a named end frame. Specify up or down. No crane travel."
+   }
+  ]
+ },
+ {
+  "slug": "wiggle",
+  "title": "Wiggle",
+  "zh_title": "摇摆运镜",
+  "narrative": [
+   "Add life to a lock-off without a real move. Lenticular photos, stereo gifs, a still that breathes: depth as a fidget.",
+   "Near objects shift a little; the far wall almost holds. If the camera walks, you have parallax as a path, not a wiggle.",
+   "A full slider is already too much. The point is two nearby viewpoints, not a tour."
+  ],
+  "how": [
+   "Nodal shift of a few centimeters, or a pair of stills played as a loop. Subject mostly still.",
+   "Prompt: Wiggle cam on [Subject], tiny stereo rock, a living postcard, depth as a fidget."
+  ],
+  "when": [
+   "Use it to wake a still without committing to a move. Do not use it as coverage of a walk."
+  ],
+  "vs": [
+   "Wigglegram is the lenticular or stereo-gif cousin, often a pair of stills. Parallax is the optical fact; a wiggle is parallax as a tiny rock.",
+   "A Slider Shot travels 60 to 120 centimeters, which is already a real move."
+  ],
+  "examples_film": [
+   "Lenticular photos and TikTok stereo are the grammar: two nearby eyes, a postcard that lives. Not a narrative dolly."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a slider or a dolly. The tell: the background really travels, the path is a meter.",
+   "The fix: rock between two nearby viewpoints, stereo fidget only."
+  ],
+  "faq": [
+   {
+    "q": "What is Wiggle in film?",
+    "a": "A wiggle is a tiny stereo rock between two nearby viewpoints, centimeters of travel, so a lock-off reads as a living postcard."
+   },
+   {
+    "q": "Wiggle vs Parallax",
+    "a": "Parallax is the relative motion of planes when the camera translates any distance. Wiggle is that fact used as a fidget, not as a path."
+   },
+   {
+    "q": "When should I use Wiggle?",
+    "a": "Use it to add life to a still without a real move. Do not use it to cover a walk."
+   },
+   {
+    "q": "How do I prompt Wiggle for AI image or video?",
+    "a": "Write a tiny stereo rock between two nearby viewpoints. Example: Wiggle cam on [Subject], tiny stereo rock, a living postcard, depth as a fidget."
+   }
+  ]
+ },
+ {
+  "slug": "yoyo-zoom",
+  "title": "YoYo Zoom",
+  "zh_title": "往复变焦",
+  "narrative": [
+   "One axis, two punches. A thought that arrives and leaves, a sting, a joke: crash in, crash out, same breath.",
+   "Hold at neither end for long. A funeral may not want it.",
+   "A slow zoom that wanders is not a yoyo. Crash zoom in is a one-way punch; this is a punch and a release."
+  ],
+  "how": [
+   "Locked body, zoom lens. In then out (or out then in) on one axis, short duration.",
+   "Comic or violent depending on speed. Prompt: Yo-yo zoom on [Subject], in and out on the same axis, a punch then a release, optical breathing."
+  ],
+  "when": [
+   "Use it for a sting or a joke on one optical axis. Do not use a slow hunt and call it a yoyo."
+  ],
+  "vs": [
+   "Crash Zoom In is one way in. Crash Zoom Out is one way out.",
+   "Zoom is the parent optical change. Yoyo does both in one breath.",
+   "A Rapid Zoom In snaps in and holds."
+  ],
+  "examples_film": [
+   "Shaun of the Dead uses snap zooms as comic grammar, including in-and-out breaths. Music videos treat optical breathing as percussion.",
+   "Grammar: punch then release, body still."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a slow zoom or a one-way crash. The tell: it never comes back, or it crawls.",
+   "The fix: snap both ways on a locked body, no wheels."
+  ],
+  "faq": [
+   {
+    "q": "What is YoYo Zoom in film?",
+    "a": "A yoyo zoom is an in-then-out (or out-then-in) on the optical axis in one breath, camera body still. A punch and a release."
+   },
+   {
+    "q": "YoYo Zoom vs Crash Zoom In",
+    "a": "A crash zoom in is a one-way punch that holds. A yoyo zoom returns on the same axis in the same breath."
+   },
+   {
+    "q": "When should I use YoYo Zoom?",
+    "a": "Use it for a sting, a joke, or a thought that arrives and leaves. Do not use it as a slow search."
+   },
+   {
+    "q": "How do I prompt YoYo Zoom for AI image or video?",
+    "a": "Write in then out on one axis, body still. Example: Yo-yo zoom on [Subject], in and out on the same axis, a punch then a release, optical breathing."
+   }
+  ]
+ },
+ {
+  "slug": "zoom",
+  "title": "Zoom",
+  "zh_title": "变焦",
+  "narrative": [
+   "Change size without walking. Surveillance, emphasis, a punch: the glass does the work.",
+   "The background does not shear; it merely occupies more or less of the frame. If you need the room to be real, dolly.",
+   "The compound cousin is a dolly zoom, where travel and glass disagree on purpose. A zoom used as fake geography will flatten the set and give the cheat away."
+  ],
+  "how": [
+   "Locked body, zoom lens, often on sticks. In flattens (more telephoto); out opens (more wide).",
+   "No near-object shear. Prompt: Zoom on [Subject], optical magnification, camera body still, space flattening or opening without parallax."
+  ],
+  "when": [
+   "Use it to change size from one stance: a watcher's glass, a snap to a face, a slow tightening. Do not label a dolly as a zoom."
+  ],
+  "vs": [
+   "Slow Zoom In is the same axis at a crawl. Crash Zoom In is the punch.",
+   "A Dolly Zoom pairs opposite travel and glass so perspective warps. A Dolly translates and produces parallax."
+  ],
+  "examples_film": [
+   "The Conversation uses optical magnification as surveillance, glass doing the watching. Jaws is famous for a dolly zoom, the other move: do not cite that beach shock as a plain zoom."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a dolly-in. The tell: a lamp shears, a doorway slides, true parallax.",
+   "The fix: lock the camera, change only focal length, and let planes scale together."
+  ],
+  "faq": [
+   {
+    "q": "What is Zoom in film?",
+    "a": "A zoom changes focal length while the camera body stays put. Size changes; parallax does not appear."
+   },
+   {
+    "q": "Zoom vs Dolly",
+    "a": "A dolly moves the camera through space, so near objects shear. A zoom only changes the lens, so the world scales as one card."
+   },
+   {
+    "q": "When should I use Zoom?",
+    "a": "Use it to change size without walking: surveillance, a snap, a slow tighten. Do not use it to fake a walk through a room."
+   },
+   {
+    "q": "How do I prompt Zoom for AI image or video?",
+    "a": "Write optical magnification and no camera travel. Example: Zoom on [Subject], optical magnification, camera body still, space flattening or opening without parallax."
+   }
+  ]
+ },
+ {
+  "slug": "bleach-bypass",
+  "title": "Bleach Bypass",
+  "zh_title": "留银工艺",
+  "narrative": [
+   "The world looks abrasive, contaminated, or exhausted. Combat, crime, and unforgiving cities live here because color has been punished, not tastefully split.",
+   "Skin can go towards brass or grey. Blacks pack down.",
+   "It is a coordinated tonal system, not just the removal of hue. It is the wrong tool when you wanted complementary studio punch.",
+   "Teal and Orange keeps faces warm and skies cyan; bleach-bypass does not throw a party on the color wheel. It is also the wrong tool if you need full Monochrome : there is still some chroma, just crushed.",
+   "A simple Desaturation without the silver contrast is a paler, softer cousin."
+  ],
+  "how": [
+   "For a digital recreation, grade contrast, saturation, and highlight roll-off separately and test skin. Lift nothing in the blacks that should stay packed.",
+   "Keep a little hue so it does not collapse into black and white unless that is the intent. Original films may use different negative, intermediate, or print treatments; do not assume one lab recipe.",
+   "Prompt: Bleach-bypass look on [Subject], retained silver, crushed color, harsh contrast, metallic midtones."
+  ],
+  "when": [
+   "Use it for war, crime, or a world without mercy: a landing, a hunt through rain, a fluorescent interrogation. Do not use it as a synonym for teal-orange action gloss, and do not call every desaturated image bleach-bypass."
+  ],
+  "vs": [
+   "Desaturation only pulls chroma; contrast and silver behavior may stay gentle. Monochrome removes hue entirely.",
+   "Teal and Orange is a complementary grade with warm skin. Tonal Contrast is how you place dark against light in the rectangle, not a lab process."
+  ],
+  "examples_film": [
+   "Saving Private Ryan 's combat imagery has a harsh, desaturated, high-contrast character associated with silver retention. Se7en packs interiors and city scenes with dense shadows and restrained color.",
+   "Minority Report is often cited for a related cold, dense, drained finish. Grammar of density, not a still to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Teal and Orange or mild Desaturation . The tell is warm peach skin against cyan night, or a flat grey wash with no extra density.",
+   "Fix: packed blacks, harsh highlights, drained but not absent color, metallic mids. A look label does not verify the exact photochemical stage of a particular release."
+  ],
+  "faq": [
+   {
+    "q": "What is bleach bypass in film?",
+    "a": "It is a silver-retention process, or a digital imitation, that leaves metallic density in the image. Contrast and grain go up, saturation goes down, and highlights look harsh."
+   },
+   {
+    "q": "Bleach Bypass vs Desaturation",
+    "a": "Desaturation only reduces chroma. Bleach bypass also densifies the image: deeper blacks, harsher highlights, a metallic leftover. Drained color without that density is not bleach-bypass."
+   },
+   {
+    "q": "When should I use bleach bypass?",
+    "a": "Use it for war, crime, or any world that should feel merciless and abrasive. Skip it for studio complementary gloss and for true black and white."
+   },
+   {
+    "q": "How do I prompt bleach bypass for AI image or video?",
+    "a": "Write: Bleach-bypass look on [Subject], retained silver, crushed color, harsh contrast, metallic midtones. Forbid teal-orange skin splits and candy saturation."
+   }
+  ]
+ },
+ {
+  "slug": "color-shift",
+  "title": "Color Shift",
+  "zh_title": "色彩偏移",
+  "narrative": [
+   "Dorothy opens a door and the world gains hue. A zone, a lie, a memory: the threshold can be a cut, a doorway, or a grade that travels inside the take.",
+   "The audience crosses with the character. A global saturation ramp is different from a color world revealed through a door.",
+   "It is the wrong tool when the film simply has more than one static Palette across chapters. Palettes can sit still; a shift is a change you watch.",
+   "It is also the wrong tool for Cross Process or Split Toning that never move. If the beat is one loud world from the first frame, you wanted Hyper-Saturation or a locked palette, not a shift."
+  ],
+  "how": [
+   "Choose whether the change occurs across a cut, through an opening, or gradually inside the image. Match production design and exposure so the arrival of color (or of a new temperature) feels intended.",
+   "If you go from grey to hue, expose the grey chapter so the later color has somewhere to live. Prompt: Color shift across [Subject], hues sliding mid-shot or mid-grade, a world that changes temperature in front of us.",
+   "For video: The grade around [Subject] shifts hue during the shot, warmth turning cold or the reverse."
+  ],
+  "when": [
+   "Use it when color is the event: a door onto a new world, a lie that changes temperature, a zone. Do not use it as a random hue drift, and do not call two static chapter palettes a shift unless we watch the change."
+  ],
+  "vs": [
+   "Palette assigns stable hue systems to strands or places. Split Toning is a static two-hue curve.",
+   "Cross Process is a skewed primary look. Monochrome is a state you might leave.",
+   "Color-shift is the transition."
+  ],
+  "examples_film": [
+   "The Wizard of Oz makes the farmhouse door a threshold into hue. Stalker changes visual treatment between the outside world and the Zone.",
+   "Hero retells events in different dominant colors; some transitions are chapter cuts, which is palette as much as shift. Suspiria (2018) lets color states mutate with the story.",
+   "Grammar of a threshold, not a still of a ruby shoe."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a static Palette or a Split Toning that never moves. The tell is two looks in two scenes with no threshold, or a random hue drift.",
+   "Fix: a defined before-state, a defined after-state, and a visible crossing (door, cut, or traveling grade)."
+  ],
+  "faq": [
+   {
+    "q": "What is a color shift in film?",
+    "a": "It is a noticeable change of color state: grey to hue, warm to cold, or one world-color to another. The change is the event, whether across a door, a cut, or a traveling grade."
+   },
+   {
+    "q": "Color Shift vs Split Toning",
+    "a": "Split toning is a stable pair of highlight and shadow hues. A color shift is a transition the audience watches. If the pair never moves, it is not a shift."
+   },
+   {
+    "q": "When should I use a color shift?",
+    "a": "Use it when crossing a world, a lie, or a memory should be visible as color. Skip it when each chapter simply has its own still palette."
+   },
+   {
+    "q": "How do I prompt a color shift for AI image or video?",
+    "a": "Name the before and after and the threshold. For video: the grade around [Subject] shifts hue during the shot, warmth turning cold or the reverse. For a still, show the crossing (a door, a wipe of hue). Forbid a static LUT."
+   }
+  ]
+ },
+ {
+  "slug": "cool-blue",
+  "title": "Cool Blue",
+  "zh_title": "冷蓝色调",
+  "narrative": [
+   "Cold institutions, night, or alienation live in this family. A hospital, a CIA office, a pre-dawn street: the air has no honey.",
+   "Skin goes toward porcelain or grey-pink. One tungsten desk lamp, if you allow it, becomes the only hearth.",
+   "It is the wrong tool when you are faking night with underexposed sun. That is Day for Night , a capture trick, not only a blue LUT.",
+   "It is the wrong tool for sculpted moon as a key on a dark set: Moonlight Gel is a lighting decision. It is also the wrong tool if the complementary split of Teal and Orange is what you actually wanted (warm skin, teal air, not an overall steel wash)."
+  ],
+  "how": [
+   "Bias white balance or the grade toward high Kelvin in the mids and shadows. Hold or isolate a warm practical if the scene needs one hearth.",
+   "Keep skin just readable; full cyan faces look sick unless that is the line. Night windows and fluorescent rooms already help.",
+   "Prompt: Cool blue grade on [Subject], steel shadows, hospital or moonlight, warmth reserved for one practical if any."
+  ],
+  "when": [
+   "Use it for cold institutions, night, or alienation: a lawyer in a glass tower at 5 a.m., a clinic corridor. Do not use it as a synonym for day-for-night, and do not steel every romance interior."
+  ],
+  "vs": [
+   "Blue Hour is actual dusk light, a capture window. Day for Night turns daylight into a night reading.",
+   "Moonlight Gel is a cool key on set. Warm Amber is the opposing overall grade.",
+   "Teal and Orange keeps skin warm on purpose."
+  ],
+  "examples_film": [
+   "The Bourne Ultimatum runs steel-green-blue through offices, streets, and stations so the institution never thaws. Michael Clayton uses cold corporate and night hues against the few warmer domestic scraps.",
+   "Grammar of withheld warmth, not a copied still."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Teal and Orange (skin stays warm) or Day for Night (hard shadows from a high sun). The tell is peach faces against cyan, or daytime sky structure.",
+   "Fix: overall cool bias, maybe one warm practical, no high-sun day cues."
+  ],
+  "faq": [
+   {
+    "q": "What is cool blue in film?",
+    "a": "It is an overall cool color grade: steel, cyan, or moonlight blues in shadows and mids. Warmth is scarce and usually limited to a chosen practical."
+   },
+   {
+    "q": "Cool Blue vs Teal and Orange",
+    "a": "Teal-orange protects warm skin and splits the rest toward cyan. Cool blue chills the whole world, faces included unless you reserve one lamp. One is a complementary split. The other is a cold wash."
+   },
+   {
+    "q": "When should I use cool blue?",
+    "a": "Use it for institutions, night, or alienation. Skip it when you needed complementary punch, sculpted moon lighting, or a day-for-night capture."
+   },
+   {
+    "q": "How do I prompt cool blue for AI image or video?",
+    "a": "Write: Cool blue grade on [Subject], steel shadows, hospital or moonlight, warmth reserved for one practical if any. Forbid peach-and-teal complementary splits and obvious daytime sun."
+   }
+  ]
+ },
+ {
+  "slug": "cross-process",
+  "title": "Cross Process",
+  "zh_title": "交叉冲洗",
+  "narrative": [
+   "Wrong chemistry on purpose. Fashion films and music videos of the 1990s used the accident as style: skies go odd, shadows pick up cyan or green, skin slides toward magenta or jaundice.",
+   "The world looks like a lab error you kept. It is the wrong tool when you wanted true hues only louder.",
+   "That is Hyper-Saturation . It is the wrong tool for a designed complementary split with protected skin ( Teal and Orange ).",
+   "Vaporwave may borrow skewed primaries as a genre costume; cross-process is the chemical alibi, not the nostalgia package."
+  ],
+  "how": [
+   "Offset primary relationships: push shadows toward cyan or green, let highlights go yellow, magenta, or red depending on the stock story, and raise contrast. Skin will not grade like a commercial unless you isolate it, which fights the look.",
+   "Do not randomly assign hues shot to shot; pick one accident and keep it. Prompt: Cross-processed look on [Subject], skewed primaries, cyan shadows, magenta skin shift, music-video chemical accident."
+  ],
+  "when": [
+   "Use it when the image should look like a kept lab error: a 1990s fashion clip, a music video, an unreliable night. Do not use it as loud-but-true color, and do not confuse it with teal-orange."
+  ],
+  "vs": [
+   "Hyper-Saturation intensifies correct hues. Teal and Orange is a controlled complementary grade.",
+   "Vaporwave is a genre palette. Color Shift is a change of color state over time or across a threshold.",
+   "Cross-process is a skewed primary relationship from the start."
+  ],
+  "examples_film": [
+   "1990s fashion films and music videos are the grammar: chemical accident as style, not a single canonical feature. When a narrative film borrows it, the tell is displaced primaries rather than simple loud red.",
+   "Treat those clips as the reference class."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Hyper-Saturation or Teal and Orange . The tell is correct reds that are only louder, or peach faces on cyan streets in a studio-split pattern.",
+   "Fix: hues that have slipped to the wrong neighbors, contrasty accident, skin not commercially protected."
+  ],
+  "faq": [
+   {
+    "q": "What is cross process in film?",
+    "a": "It is the look of film developed in the wrong chemistry, or a digital imitation of that mismatch. Primaries skew, contrast often rises, and skin and shadows take on unnatural neighbors."
+   },
+   {
+    "q": "Cross Process vs Hyper-Saturation",
+    "a": "Hyper-saturation makes true hues louder. Cross-process puts hues in the wrong place: cyan shadows, magenta skin, yellow highlights. Loud is not the same as wrong."
+   },
+   {
+    "q": "When should I use cross process?",
+    "a": "Use it for a kept chemical accident: fashion, music video, unreliable color. Skip it when hues should be true, even if loud, or when you wanted a teal-orange split."
+   },
+   {
+    "q": "How do I prompt cross process for AI image or video?",
+    "a": "Write: Cross-processed look on [Subject], skewed primaries, cyan shadows, magenta skin shift, music-video chemical accident. Forbid correct loud primaries and protected peach skin."
+   }
+  ]
+ },
+ {
+  "slug": "day-for-night",
+  "title": "Day for Night",
+  "zh_title": "日拍夜",
+  "narrative": [
+   "You cannot wait for night, or night must still show a desert, a ranch, a ridge. The sun is skipped, flagged, or placed as a hard moon.",
+   "Underexposure and a cool bias sell darkness, but headlights, windows, and eyes must still find something to see. It is the wrong tool when you can light a real night with a sculpted moon ( Moonlight Gel ) and do not need miles of terrain.",
+   "It is the wrong tool if you only grade a day interior steel ( Cool Blue ) without hiding day cues: blue sky, short hard shadows from high sun, warm unlit windows. Ordinary day-for-night and a special high-sensitivity or infrared capture system are not the same production method."
+  ],
+  "how": [
+   "Control daylight direction, often shooting when the sun is lower or back, and underexpose. Avoid obvious daytime cues (pale blue zenith, visible sun disc, lit-looking clouds).",
+   "Reshape color toward moonlight. More advanced approaches combine differently sensitive captures.",
+   "Do not equate the technique with simply making footage blue. Prompt: Day-for-night treatment of [Subject], underexposed daylight, blue wash, skipped-over sun, moonlight as a lie that reads."
+  ],
+  "when": [
+   "Use it when you cannot wait for night, or night must still show terrain: a desert chase, a ranch under a false moon. Do not use it as a blue LUT on a sunny street with the sun in frame."
+  ],
+  "vs": [
+   "Cool Blue is a grade, including on true night or interiors. Moonlight Gel is a cool key you hang.",
+   "Blue Hour is real twilight. Tungsten Balance can turn daylight windows blue as mixed color, which is not the same as selling a whole landscape as night."
+  ],
+  "examples_film": [
+   "Classic Westerns often sold day as night to keep horses and mesas readable. Mad Max: Fury Road has stylized blue night passages in the desert.",
+   "Nope 's ranch-at-night work uses a specific capture approach that should not be flattened into ordinary day-for-night. Grammar of terrain-at-night, not a copied sky."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Cool Blue LUT on obvious day, or underexposed day that still shows a white sky and short noon shadows. The tell is blue-tinted sunlight with the sun in shot.",
+   "Fix: skip the sun, underexpose, cool the key, keep terrain, kill daytime sky cues."
+  ],
+  "faq": [
+   {
+    "q": "What is day for night in film?",
+    "a": "It is daylight photography transformed to read as night while retaining enough information to show large spaces. Exposure, sky, and highlights do the work, not only a blue tint."
+   },
+   {
+    "q": "Day for Night vs Cool Blue",
+    "a": "Cool blue is a grade you can put on any capture. Day-for-night is a way of shooting or transforming daylight so it passes as night. If the sun and a pale zenith are still obvious, you have only tinted day."
+   },
+   {
+    "q": "When should I use day for night?",
+    "a": "Use it when night must show terrain you cannot light, or when true night is impractical. Skip it when you can sculpt a real moon key, and skip a blue LUT on unhidden day."
+   },
+   {
+    "q": "How do I prompt day for night for AI image or video?",
+    "a": "Write: Day-for-night treatment of [Subject], underexposed daylight, blue wash, skipped-over sun, moonlight as a lie that reads. Forbid a visible sun and a pale daytime sky."
+   }
+  ]
+ },
+ {
+  "slug": "desaturation",
+  "title": "Desaturation",
+  "zh_title": "低饱和",
+  "narrative": [
+   "Drain the world without going fully mono. A grey-green England, a dusty border, a road the color of ash: emotion sits in whatever hue remains, a red taillight or a pale face.",
+   "The audience feels the withholding. It is the wrong tool when you needed silver density and harsh highlights.",
+   "That is Bleach Bypass . It is the wrong tool when hue should be gone entirely ( Monochrome ) or when feeling should be louder than fact ( Hyper-Saturation ).",
+   "A teal-orange split can coexist with moderate saturation; do not confuse a complementary grade with a drain."
+  ],
+  "how": [
+   "Pull global chroma down, then decide which accents survive (a practical, a costume, blood). Keep contrast independent: desaturation is not automatically high contrast.",
+   "Skin should stay identifiable as skin, just quieter. Prompt: Desaturated palette on [Subject], chroma pulled back, dusty, wintered, emotion in leftover color accents."
+  ],
+  "when": [
+   "Use it to drain the world without going fully mono: a refugee road, a winter city, a moral hangover. Do not use it as bleach-bypass, and do not desaturate until nothing but grey remains unless you meant monochrome."
+  ],
+  "vs": [
+   "Bleach Bypass adds silver contrast and metallic mids on top of a drain. Monochrome is zero chroma.",
+   "Cool Blue is a hue family, which may still be saturated. Hyper-Saturation is the opposite lever."
+  ],
+  "examples_film": [
+   "Children of Men winters a near-future England so leftover color hurts. Sicario dusts the border until chroma is a ration.",
+   "The Road goes further, almost ash. Grammar of withheld hue, not a copied sky."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Bleach Bypass or Monochrome . The tell is metallic packed blacks with harsh grain, or zero hue.",
+   "Fix: quieter chroma, identifiable leftover color, contrast set independently of the drain."
+  ],
+  "faq": [
+   {
+    "q": "What is desaturation in film?",
+    "a": "It is a reduction of color intensity with hue still present. The image looks dusty or wintered, and leftover accents carry what emotion remains."
+   },
+   {
+    "q": "Desaturation vs Bleach Bypass",
+    "a": "Desaturation is a chroma lever. Bleach bypass is silver retention: denser contrast, metallic highlights, crushed color as a system. You can desaturate gently without that density."
+   },
+   {
+    "q": "When should I use desaturation?",
+    "a": "Use it when the world should be drained but not drawn in grey ink. Skip it for merciless silver processes and for loud, lacquered color."
+   },
+   {
+    "q": "How do I prompt desaturation for AI image or video?",
+    "a": "Write: Desaturated palette on [Subject], chroma pulled back, dusty, wintered, emotion in leftover color accents. Forbid full monochrome and bleach-bypass metal."
+   }
+  ]
+ },
+ {
+  "slug": "filmic-faded",
+  "title": "Filmic Faded",
+  "zh_title": "胶片褪色",
+  "narrative": [
+   "The image looks like it could have gone through a projector. Shadows have air.",
+   "Bright windows go creamy instead of digital-clipped. Romance and memory often live here because the display already forgives, but the hues can still be present and modern.",
+   "It is the wrong tool when you need packed, merciless blacks ( Bleach Bypass or a hard digital contrast). It is the wrong tool if the fade is meant as expired dyes and period chemistry as a whole costume: that is Vintage .",
+   "Vintage Cine Glass is the taking lens; you can shoot modern glass and still fade the print. Film Grain is texture you may add, not the fade itself."
+  ],
+  "how": [
+   "Lift the toe (blacks sit at a low grey, not 0). Roll the shoulder so highlights compress instead of hard-clipping.",
+   "Keep saturation moderate unless the story is candy. A print-emulation LUT is a starting point; still check skin and that blacks are lifted, not milky-brown by accident.",
+   "Prompt: Filmic faded grade on [Subject], lifted blacks, rolled-off highlights, print-emulation, slightly expired romance."
+  ],
+  "when": [
+   "Use it when the display should feel like a print rather than HDR: a summer memory, a period-adjacent present. Do not use it on a look that needs crushed blacks, and do not treat fade as a substitute for vintage glass."
+  ],
+  "vs": [
+   "Vintage is a broader past-as-chemistry treatment (dye fade, period). Vintage Cine Glass is the lens.",
+   "Film Grain is grain. Bleach Bypass packs density instead of lifting the toe.",
+   "Natural Grade can be print-like or not; natural is about hue honesty, not the toe and shoulder."
+  ],
+  "examples_film": [
+   "The Master often sits in a print-like contrast with air in the blacks. Call Me by Your Name lets summer highlights roll instead of biting like video.",
+   "Grammar of toe and shoulder, not a still of a peach."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Bleach Bypass (packed, harsh) or a milky brown wash. The tell is crushed blacks, or a foggy image with no rolled shoulder.",
+   "Fix: lifted toe, compressed highlights, hues still present, contrast like a print."
+  ],
+  "faq": [
+   {
+    "q": "What is filmic faded in film?",
+    "a": "It is a print-emulation grade: lifted blacks, rolled-off highlights, contrast that sits like photochemical display rather than HDR video. Hues may still be present."
+   },
+   {
+    "q": "Filmic Faded vs Vintage Cine Glass",
+    "a": "Vintage cine is the taking lens: coatings, swirl, optical bloom. Filmic faded is the curve of the grade: toe and shoulder of a print. You can fade a modern prime, and you can shoot old glass without lifting the blacks."
+   },
+   {
+    "q": "When should I use filmic faded?",
+    "a": "Use it when the image should feel like a print, not like HDR. Skip it when blacks must pack down, or when you only needed grain or old glass."
+   },
+   {
+    "q": "How do I prompt filmic faded for AI image or video?",
+    "a": "Write: Filmic faded grade on [Subject], lifted blacks, rolled-off highlights, print-emulation, slightly expired romance. Forbid crushed bleach-bypass blacks and HDR clip."
+   }
+  ]
+ },
+ {
+  "slug": "hyper-saturation",
+  "title": "Hyper-Saturation",
+  "zh_title": "超饱和",
+  "narrative": [
+   "Reds become wet enamel. Greens look poisonous or operatic.",
+   "A dance academy, a wuxia desert, a Hong Kong corridor: the world is painted, and the paint is the emotion. Accents do not hide; they shout.",
+   "It is the wrong tool when the location's real color science should be believed. That is Natural Grade .",
+   "It is the wrong tool for a complementary studio split that still wants plausible skin ( Teal and Orange ), and it is not a chemical accident ( Cross Process ), which skews primaries off their true identities. Giallo often uses this lever, but giallo is a genre system, not the saturation knob."
+  ],
+  "how": [
+   "Push chroma, especially in chosen primaries, while watching skin. You may isolate skin to protect it or let it go with the fever.",
+   "Contrast can be high or candy-flat; saturation is independent. Production design should already supply the hues you will amplify, or the grade will invent plastic color.",
+   "Prompt: Hyper-saturated color on [Subject], Velvia intensity, reds like lacquer, a dream or a fever, not documentary."
+  ],
+  "when": [
+   "Use it when feeling is louder than fact: a nightmare corridor, a told-and-retold battle, a romance that is all dye. Do not use it on a documentary claim, and do not confuse it with teal-orange punch."
+  ],
+  "vs": [
+   "Teal and Orange is a complementary split, often at moderate-to-high but controlled chroma. Cross Process misplaces hues (cyan shadows, magenta skin).",
+   "Giallo is a genre package that frequently includes this intensity. Desaturation is the opposite lever."
+  ],
+  "examples_film": [
+   "Suspiria (1977) treats color as a physical force, reds and blues at full scream. Hero organizes versions of a story as saturated fields of cloth and desert.",
+   "In the Mood for Love lets corridor and cheongsam dyes run hotter than life. Grammar of intensity, not a still of a lamp."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Teal and Orange (controlled complementary) or Cross Process (wrong primaries). The tell is cyan shadows with peach skin, or hues that have slipped to the wrong neighbors.",
+   "Fix: true hues, louder than life, design that already holds those colors."
+  ],
+  "faq": [
+   {
+    "q": "What is hyper-saturation in film?",
+    "a": "It is color intensity pushed past ordinary record so hues look like lacquer or fever. The image is not claiming documentary fact."
+   },
+   {
+    "q": "Hyper-Saturation vs Teal and Orange",
+    "a": "Teal-orange is a complementary pairing with protected warm skin. Hyper-saturation is a volume knob on chroma, any hues. You can have quiet teal-orange or loud red-and-green opera."
+   },
+   {
+    "q": "When should I use hyper-saturation?",
+    "a": "Use it when emotion should outrun realism: dream, fever, operatic genre. Skip it when the location must be believed as itself."
+   },
+   {
+    "q": "How do I prompt hyper-saturation for AI image or video?",
+    "a": "Write: Hyper-saturated color on [Subject], Velvia intensity, reds like lacquer, a dream or a fever, not documentary. Name the loud hues. Forbid naturalistic documentary color and teal-orange as a substitute."
+   }
+  ]
+ },
+ {
+  "slug": "monochrome",
+  "title": "Monochrome",
+  "zh_title": "单色",
+  "narrative": [
+   "Strip to drawing. A lighthouse, a boxing ring, a list of names: without hue, costume and light have to carry rank.",
+   "Skin becomes a grey. Blood becomes a density.",
+   "The audience reads edges and tones the way they read a print. It is the wrong tool when leftover color is the point.",
+   "Desaturation still lets a red coat or a yellow lamp speak. Bleach Bypass keeps a little chroma under silver.",
+   "Sepia is not black and white; it is a brown-gold world. If a single object must arrive in hue inside a grey film, that is a Color Shift or a selective hold-out, not this technique used honestly."
+  ],
+  "how": [
+   "Capture in color or in a panchromatic/orthochromatic black-and-white workflow, then discard chroma or never record it. Expose for a full grey scale: hats, skies, and faces need separation that hue is no longer providing.",
+   "Orthochromatic stocks darken lips and skies differently than panchromatic; if you specify a stock era, keep that physics. Prompt: Monochrome treatment of [Subject], silver highlights, deep blacks, no chroma, shape and light only."
+  ],
+  "when": [
+   "Use it when the scene should be a drawing: a confession in a tower, a fight, a historical record. Do not use it if a leftover color accent is doing the emotional work, and do not confuse it with a brown memory tone."
+  ],
+  "vs": [
+   "Desaturation keeps hue at a lower intensity. Bleach Bypass drains and densifies but is not fully grey.",
+   "Sepia tints the whole scale brown-gold. Tonal Contrast is how blacks and whites are placed; monochrome is the missing chroma."
+  ],
+  "examples_film": [
+   "The Lighthouse commits to a hard black-and-white world of texture and rank. Raging Bull uses monochrome so boxing becomes tone and impact.",
+   "Schindler's List is largely black and white, with controlled exceptions that are a different technique. Grammar of value, not a poster."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Desaturation or Sepia . The tell is leftover blue in shadows, or a brown wash calling itself black and white.",
+   "Fix: zero chroma, a real grey scale, texture carrying the image."
+  ],
+  "faq": [
+   {
+    "q": "What is monochrome in film?",
+    "a": "It is an image with no hue: black and white or another single-scale treatment where value, texture, and shape replace color. Chromatic information is removed or never recorded."
+   },
+   {
+    "q": "Monochrome vs Bleach Bypass",
+    "a": "Bleach bypass crushes color and adds silver density but usually leaves some hue. Monochrome has no chroma. If you can still name a leftover green or brown as a color in the world, you are not fully mono."
+   },
+   {
+    "q": "When should I use monochrome?",
+    "a": "Use it when the picture should be a drawing of light and shape. Skip it when leftover color, a brown memory, or a complementary split is the sentence."
+   },
+   {
+    "q": "How do I prompt monochrome for AI image or video?",
+    "a": "Write: Monochrome treatment of [Subject], silver highlights, deep blacks, no chroma, shape and light only. Forbid sepia, teal, and residual color accents unless you want a different technique."
+   }
+  ]
+ },
+ {
+  "slug": "moonlight-gel",
+  "title": "Moonlight Gel",
+  "zh_title": "月光色纸",
+  "narrative": [
+   "A single cool key as the moon, silver edges, ground barely held. Fire, a cabin window, or a lantern can oppose it as a warm hearth.",
+   "The audience should feel a source in the sky even when the moon disc is out of frame. It is the wrong tool when you are faking night with underexposed noon ( Day for Night ).",
+   "It is the wrong tool when the whole file is merely cooled in the timeline ( Cool Blue ) with no sculpted key. Strongly colored, unmotivated gels (academy reds and greens in Suspiria , nightmare color in Mandy ) are cousins in expressive gel work; if the beat is psychological color rather than a moon, say so, and do not call every gelled nightmare moonlight."
+  ],
+  "how": [
+   "Hang a large cool source high, gel toward cyan, steel blue, or pale green, and underexpose the fill so night remains night. Edge the figure with that key; keep faces just inside readability.",
+   "A warm practical can sit in the frame as opposition. Control spill so the moon stays one direction.",
+   "Prompt: Moonlight gel on [Subject], cyan-green night, a single cool key as the moon, deep underexposure, silver edges."
+  ],
+  "when": [
+   "Use it for night that is still sculpted: a forest approach, a snow field, a cabin under a false moon. Do not use it as a blue LUT on day, and do not flatten night into even cool fill."
+  ],
+  "vs": [
+   "Cool Blue is a grade. Day for Night is daylight sold as night.",
+   "Blue Hour is real dusk. Tungsten Balance will make a cool gel even colder if the camera is set to 3200K.",
+   "Hyper-Saturation plus gels becomes expressive color ( Suspiria , Mandy ), which is related gel language but not a moon key."
+  ],
+  "examples_film": [
+   "The Revenant uses cool night against fire so moon and hearth compete. The Witch sculpts dark-forest night as a directional cool.",
+   "Suspiria and Mandy show how far gel color can leave natural moon; use them as grammar for expressive gels, not as default moonlight. Borrow direction and underexposure."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Cool Blue fill or Day for Night sun. The tell is no key direction, or hard noon shadows tinted blue.",
+   "Fix: one high cool source, silver rims, packed night, maybe one warm opposing practical."
+  ],
+  "faq": [
+   {
+    "q": "What is moonlight gel in film?",
+    "a": "It is a cool gelled key used as moonlight: cyan, steel, or pale green from above, with night still underexposed and sculpted. It is lighting, not only a grade."
+   },
+   {
+    "q": "Moonlight Gel vs Cool Blue",
+    "a": "Cool blue can be a global grade with no clear source. Moonlight gel is a directional key that stands in for the moon. If there is no silver edge and no dark fill, you probably only cooled the file."
+   },
+   {
+    "q": "When should I use moonlight gel?",
+    "a": "Use it when night must be sculpted by a moon-like key. Skip it for day-for-night terrain tricks and for even cool fills with no direction."
+   },
+   {
+    "q": "How do I prompt moonlight gel for AI image or video?",
+    "a": "Write: Moonlight gel on [Subject], cyan-green night, a single cool key as the moon, deep underexposure, silver edges. Forbid sunny day-for-night cues and even blue fill."
+   }
+  ]
+ },
+ {
+  "slug": "natural-grade",
+  "title": "Natural Grade",
+  "zh_title": "自然调色",
+  "narrative": [
+   "Style would be a lie. A holiday video that is actually grief, a village in true sun, a fluorescent shop that should stay ugly: the audience is asked to believe the place, not a lookbook.",
+   "Fidelity is the point, which is harder than a LUT because every mistake shows as fakery. It is the wrong tool when color must carry a version of the story ( Palette , Color Shift ) or when the world is merciless silver ( Bleach Bypass ).",
+   "Filmic Faded can still be fairly natural in hue while lifting the toe; natural-grade is about hue honesty first. Available Light is how you captured it; you can still ruin that capture with a stylized grade."
+  ],
+  "how": [
+   "Balance to a plausible white for the location and time of day. Hold skin in a real range (blood, melanin, no teal faces, no plastic orange).",
+   "Restrain saturation; do not invent complementary walls. Contrast should match the light you shot, not a trailer.",
+   "Prompt: Natural grade on [Subject], faithful skin, restrained saturation, no stylized split, the location's real color science."
+  ],
+  "when": [
+   "Use it when style would be a lie: a documentary-adjacent drama, a sunlit memory that must stay ordinary. Do not use it if the beat is a designed palette, a fever, or a complementary poster."
+  ],
+  "vs": [
+   "Available Light is the capture sources. Filmic Faded is a print curve that may still be honest in hue.",
+   "Teal and Orange and Split Toning editorialize the wheel. Warm Amber and Cool Blue are overall biases.",
+   "Natural-grade refuses those biases except what the location already had."
+  ],
+  "examples_film": [
+   "Aftersun lets holiday light stay plausible so the grief is not costumed in a look. Timbuktu holds desert and village color as themselves.",
+   "Grammar of restraint, not a still to match."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a mild Teal and Orange or a Filmic Faded LUT that still splits hues. The tell is cyan shadows under 'natural', or plastic skin.",
+   "Fix: faithful skin, location-true walls and sky, no complementary law, restrained chroma."
+  ],
+  "faq": [
+   {
+    "q": "What is a natural grade in film?",
+    "a": "It is a color finish that keeps skin faithful and saturation restrained, so the location's real hues remain in charge. The grade refuses a stylized split or a fever."
+   },
+   {
+    "q": "Natural Grade vs Filmic Faded",
+    "a": "Filmic faded is about the print curve: lifted blacks, rolled highlights. A natural grade is about hue honesty. They can combine, but a faded print can still be teal-orange, which is no longer natural."
+   },
+   {
+    "q": "When should I use a natural grade?",
+    "a": "Use it when a stylized look would be a lie. Skip it when palette, fever, silver, or a complementary split is the sentence."
+   },
+   {
+    "q": "How do I prompt a natural grade for AI image or video?",
+    "a": "Write: Natural grade on [Subject], faithful skin, restrained saturation, no stylized split, the location's real color science. Name place and time. Forbid teal-orange and hyper-saturation."
+   }
+  ]
+ },
+ {
+  "slug": "overexposed",
+  "title": "Overexposed",
+  "zh_title": "过曝",
+  "narrative": [
+   "Blow the whites as a choice. A window becomes heaven or fluorescent hell.",
+   "Faces can go toward erasure. The image says there is more light than the medium will hold: revelation, amnesia, a club, a death, a childhood sun that cannot be looked at.",
+   "It is the wrong tool when the scene is simply bright and even with detail in the shirts ( High-Key Lighting ). It is the wrong tool for a white flash as an edit event ( Light Flash ) if the shot itself is normally exposed.",
+   "Do not underexpose and crush, then call it the opposite. Clipping is directional: you are throwing away the top, not the bottom."
+  ],
+  "how": [
+   "Expose until the shoulder clips or the highlights bloom beyond recovery. Decide what must survive (eyes, a silhouette) and let the rest go.",
+   "A blooming lens and Halation can soften the burn; a digital clip is harder-edged unless you diffuse. Prompt: Overexposed [Subject], values clipping toward heaven or fluorescent hell, information burned on purpose."
+  ],
+  "when": [
+   "Use it when blowing the whites is the sentence: a door onto blinding sun, a memory that erases, a club strobe that stays. Do not use it as a synonym for high-key beauty, and do not clip by accident and keep the take."
+  ],
+  "vs": [
+   "High-Key Lighting is low-contrast bright lighting that usually still holds detail. Light Flash is a transient white event, often an edit.",
+   "Filmic Faded rolls highlights instead of clipping them. Halation blooms bright points without necessarily destroying the whole shoulder."
+  ],
+  "examples_film": [
+   "The Tree of Life lets sun and windows blow so childhood light exceeds the medium. Enter the Void uses overbright interiors and flashes as sensory overload.",
+   "Grammar of burned information, not a copied still of a child."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is High-Key Lighting (bright, detailed, low contrast) or a Light Flash cut. The tell is a bright image with texture in the shirts, or a single frame of white in an otherwise normal shot.",
+   "Fix: clipped or blooming highlights, lost highlight information, the burn as the point."
+  ],
+  "faq": [
+   {
+    "q": "What is overexposed in film?",
+    "a": "It is an image whose highlights are allowed to clip or bloom so information at the top of the scale is burned on purpose. Brightness plus lost detail is the fact."
+   },
+   {
+    "q": "Overexposed vs High-Key Lighting",
+    "a": "High-key lighting is bright and low in contrast, but it can still hold detail in whites. Overexposure throws highlight information away. A white shirt with buttons still visible is not overexposed; it is just bright."
+   },
+   {
+    "q": "When should I use overexposed?",
+    "a": "Use it when losing the top of the scale is the meaning: blinding sun, erasure, overload. Skip it when you wanted a bright, detailed, high-key scene."
+   },
+   {
+    "q": "How do I prompt overexposed for AI image or video?",
+    "a": "Write: Overexposed [Subject], values clipping toward heaven or fluorescent hell, information burned on purpose. Say what still survives. Forbid detailed high-key whites."
+   }
+  ]
+ },
+ {
+  "slug": "palette",
+  "title": "Palette",
+  "zh_title": "限定色板",
+  "narrative": [
+   "Design as law. A yellow desert chapter, a red-cloth lie, a mint hotel: the audience learns the rule and then feels the break.",
+   "Traffic can tint strands so you know which plot you are in. A hotel can live in pinks and purples until a new room breaks the set.",
+   "It is the wrong tool when the location must keep its un-designed color science ( Natural Grade ). It is the wrong tool if the only restriction is no chroma ( Monochrome ).",
+   "A Split Toning paints the curve; a palette paints the world, including walls and clothes. Palette changes should distinguish meaningful states, not create arbitrary variety."
+  ],
+  "how": [
+   "Define a palette rule for each strand across set design, costume, lighting, and grading. Keep the rule stable enough to be learned before breaking it deliberately.",
+   "Remove extra hues from frame (a stray neon, a blue plastic bag). Prompt: Restricted palette on [Subject], a few chosen hues doing all the work, design as law."
+  ],
+  "when": [
+   "Use it when too many colors would be noise, or when strands of a story must be recognizable by hue. Do not use it as random look-variety, and do not confuse it with a grade-only split on a messy set."
+  ],
+  "vs": [
+   "Monochrome is one scale, no hue. Split Toning is highlight versus shadow in the grade.",
+   "Color Shift is a change you watch. Hyper-Saturation can live inside a palette ( Hero ) but saturation is not the restriction.",
+   "Palette is the designed set of allowed hues."
+  ],
+  "examples_film": [
+   "Hero organizes successive versions of events around changing dominant colors. The Grand Budapest Hotel runs hotel spaces as a learned set of pastels and purples.",
+   "Traffic uses distinct visual color treatments for different story strands. Grammar of rules, not a still of a desert army."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Split Toning on an uncontrolled set, or a Natural Grade with a LUT. The tell is extra hues leaking from wardrobe and extras, or a grade fighting the furniture.",
+   "Fix: control walls, clothes, and lights first, then grade inside that law."
+  ],
+  "faq": [
+   {
+    "q": "What is a palette in film?",
+    "a": "It is a restricted set of hues used as a rule for a place, a timeline, or a story strand. Set, costume, light, and grade all obey the same few colors."
+   },
+   {
+    "q": "Palette vs Split Toning",
+    "a": "Split toning colors highlights and shadows in the grade. A palette is designed into the world: walls, clothes, props, and lights. You can split-tone a messy full-spectrum set. A palette would not allow that mess."
+   },
+   {
+    "q": "When should I use a palette?",
+    "a": "Use it when a few hues should do all the work, or when strands must be recognized by color. Skip it when the real location must remain undesigned."
+   },
+   {
+    "q": "How do I prompt a palette for AI image or video?",
+    "a": "Write: Restricted palette on [Subject], a few chosen hues doing all the work, design as law. List the hues. Forbid extra colors in wardrobe and set."
+   }
+  ]
+ },
+ {
+  "slug": "sepia",
+  "title": "Sepia",
+  "zh_title": "棕褐色调",
+  "narrative": [
+   "A story that already happened often arrives in this brown. Photographs, memory inserts, and period chapters use it because the audience has been trained by albumen and toned prints.",
+   "Faded whites, tobacco mids, no true cyan sky. It is the wrong tool when the present should still have a full palette that happens to be warm.",
+   "That is Warm Amber or a Filmic Faded print with hues intact. It is also the wrong tool for true Monochrome silver.",
+   "If the whole movie is a dusty yellow-brown but still has distinct reds and greens, you are in a restricted Palette or a period DI, not sepia toning."
+  ],
+  "how": [
+   "Start from a monochrome or low-chroma image and tone highlights toward paper-gold, mids toward brown, shadows toward umber. Keep cyan and clean white out.",
+   "Grain can sit in the mids as in a print. Do not overlay a brown sticker on a saturated modern grade and call it sepia.",
+   "Prompt: Sepia tonality on [Subject], brown-gold memory, faded whites, the past as a color, not a filter sticker."
+  ],
+  "when": [
+   "Use it for a chapter that already happened: a memory, a found photograph, a prologue. Do not use it as a synonym for any warm movie, and do not leave full modern chroma under the brown."
+  ],
+  "vs": [
+   "Monochrome is neutral silver. Warm Amber keeps full color in a honey world.",
+   "Filmic Faded lifts blacks and rolls highlights while usually retaining hues. Vintage is a broader period chemistry look that may include sepia but also dye fade and Halation ."
+  ],
+  "examples_film": [
+   "The Godfather Part II uses warmer, aged memory color for earlier time. O Brother, Where Art Thou?",
+   "is a digital period finish in dusty yellow-brown, a cousin often cited when people say sepia. Treat those as grammar for past-as-tone, not as frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Warm Amber (full hue, honey mids) or a Instagram brown on a color image. The tell is green trees and blue jeans still speaking as themselves under a wash.",
+   "Fix: brown-gold scale, faded whites, almost no leftover modern hue."
+  ],
+  "faq": [
+   {
+    "q": "What is sepia in film?",
+    "a": "It is a toning of the grey scale into brown-gold, like a chemical print. The past reads as a color. It is not simply a warm grade on a modern palette."
+   },
+   {
+    "q": "Sepia vs Warm Amber",
+    "a": "Warm amber keeps reds, skin, and lamps as full color in a honey world. Sepia replaces the grey scale with brown-gold and drops modern chroma. One is a grade of a color image. The other is a toned print."
+   },
+   {
+    "q": "When should I use sepia?",
+    "a": "Use it when a story already happened and should look like a toned photograph or memory chapter. Skip it for present-tense warm interiors."
+   },
+   {
+    "q": "How do I prompt sepia for AI image or video?",
+    "a": "Write: Sepia tonality on [Subject], brown-gold memory, faded whites, the past as a color, not a filter sticker. Forbid cyan, saturated primaries, and a full-color amber grade."
+   }
+  ]
+ },
+ {
+  "slug": "split-tone",
+  "title": "Split Toning",
+  "zh_title": "分离色调",
+  "narrative": [
+   "Shadows and lights belong to different gods. Gold over teal, magenta over green, steel over amber: the split is a law for the whole image, not a pair of gels in the room.",
+   "Drive 's night can feel like candy highlights over cool dark. A future city can put warm sun on one side of the curve and cyan smog on the other.",
+   "It is the wrong tool when the split should come from real lamps (a 3200K room and a cold window). That is Tungsten Balance or mixed Practical Lighting , including Neon Practicals .",
+   "It is the wrong tool if you only wanted overall steel or overall honey. And it is not bleach-bypass, which is density, not a two-hue curve."
+  ],
+  "how": [
+   "In the grade, map the toe to hue A and the shoulder to hue B, with a crossover in the mids you actually like on skin. Keep the pair limited; more hues are not a stronger split.",
+   "Test faces at the crossover. Prompt: Split-toned grade on [Subject], highlights one hue, shadows another, for example gold over teal, a two-color world."
+  ],
+  "when": [
+   "Use it when highlights and shadows should belong to different hues as a law: a night drive, a future city. Do not use it as a substitute for mixed practicals, and do not assume the pair must be teal and orange."
+  ],
+  "vs": [
+   "Teal and Orange is a specific complementary split that also isolates skin. Split-tone is the general method and can be gold/teal, magenta/green, or something else.",
+   "Neon Practicals is colored light in the room. Cross Process skews primaries chemically rather than splitting the curve cleanly.",
+   "Palette restricts production design hues; split-tone paints the tone curve."
+  ],
+  "examples_film": [
+   "Drive often lets night highlights and shadows sit in different hue families. Blade Runner 2049 grades future light so sun, smog, and interior color occupy different parts of the curve.",
+   "Grammar of two-hue curves, not a still of a car."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Teal and Orange used as the only imaginable split, or mixed lamps called split tone. The tell is peach skin plus cyan streets with no other pair allowed, or colored neon in the set with a neutral grade.",
+   "Fix: declare highlight hue and shadow hue, apply them on the curve, keep the law consistent."
+  ],
+  "faq": [
+   {
+    "q": "What is split toning in film?",
+    "a": "It is a grade that gives highlights one hue and shadows another. The tone curve becomes a two-color world. The pair can be any two hues, not only teal and orange."
+   },
+   {
+    "q": "Split Toning vs Teal and Orange",
+    "a": "Teal-orange is one complementary split, usually with protected skin. Split toning is the general tool. Gold over teal, magenta over green, or steel over amber are also split tones."
+   },
+   {
+    "q": "When should I use split toning?",
+    "a": "Use it when shadows and highlights should obey different hues as a law. Skip it when mixed practicals already tell the color story, or when you wanted a single overall wash."
+   },
+   {
+    "q": "How do I prompt split toning for AI image or video?",
+    "a": "Write: Split-toned grade on [Subject], highlights one hue, shadows another, a two-color world. Name both hues. Forbid assuming teal-orange, and forbid calling set neon a split-tone grade."
+   }
+  ]
+ },
+ {
+  "slug": "teal-orange",
+  "title": "Teal and Orange",
+  "zh_title": "青橙色调",
+  "narrative": [
+   "Skin stays peach or tan. Asphalt, night air, and foliage slide toward teal.",
+   "Explosions, practicals, and desert sand sit on the orange side. The split is why contemporary studio action reads as punchy: complementary colors vibrate, and the audience still finds a face.",
+   "It is the wrong tool when the world should be drained, metallic, and merciless. That is Bleach Bypass , which crushes chroma and raises contrast instead of parking hues on a complementary axis.",
+   "It is also the wrong tool if you wanted an overall honey interior ( Warm Amber ) or a steel institution ( Cool Blue ). Taste is the limiter; the split becomes a cliche when every exterior night is the same teal wall."
+  ],
+  "how": [
+   "Grade shadows and non-skin midtones toward cyan-teal. Isolate skin so it remains warm; push highlights and practicals toward amber or orange if the scene supports it.",
+   "Do not paint half a face teal and half orange unless two sources actually do that. Contrast can be healthy, but this is hue geometry, not silver.",
+   "Prompt: Teal-and-orange grade on [Subject], skin staying warm, shadows and skies pushed cyan, complementary split."
+  ],
+  "when": [
+   "Use it when you want contemporary studio punch: a night street with warm skin against cyan air. Do not use it on a war or crime world that should feel silver and exhausted, and do not teal every shadow by default."
+  ],
+  "vs": [
+   "Bleach Bypass desaturates and densifies; it does not park skin on orange against teal air. Split Toning is the general tool (any highlight hue versus any shadow hue).",
+   "Teal-orange is one popular complementary instance, usually with skin isolation. Warm Amber is an overall warm world.",
+   "Blockbuster Gloss is a broader finish that often includes this split."
+  ],
+  "examples_film": [
+   "Transformers-era Hollywood made the complementary split a default for studio action. Mad Max: Fury Road runs a harsher cousin: fire and chrome-orange against cyan-teal desert air.",
+   "Use the hue geometry, not a copied still of a truck."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Bleach Bypass (drained, contrasty, metallic) or a full Cool Blue wash that turns faces cyan. The tell is grey-green skin, or no orange left in highlights.",
+   "Fix: warm skin, cyan shadows and skies, complementary split, faces readable."
+  ],
+  "faq": [
+   {
+    "q": "What is teal and orange in film?",
+    "a": "It is a color grade that parks shadows and skies toward teal or cyan while keeping skin and warm sources orange. Faces stay human; the world splits on a complementary axis."
+   },
+   {
+    "q": "Teal and Orange vs Bleach Bypass",
+    "a": "Teal-orange is a hue split with protected warm skin. Bleach bypass retains silver, raises contrast, and drains color into a metallic, grainy image. One is complementary grading. The other is density and desaturation."
+   },
+   {
+    "q": "When should I use teal and orange?",
+    "a": "Use it for contemporary studio punch when warm skin should sit against cool air. Skip it for merciless silver worlds, overall amber homes, and any grade that would turn faces teal."
+   },
+   {
+    "q": "How do I prompt teal and orange for AI image or video?",
+    "a": "Write: Teal-and-orange grade on [Subject], skin staying warm, shadows and skies pushed cyan, complementary split. Forbid bleach-bypass grit and a full blue wash."
+   }
+  ]
+ },
+ {
+  "slug": "tungsten-balance",
+  "title": "Tungsten Balance",
+  "zh_title": "钨丝灯白平衡",
+  "narrative": [
+   "The room is warm; the world is not. A hotel corridor, a Christmas party, a snowed-in hotel: 3200K lamps own the interior, and the windows go cold.",
+   "Mixed sources tell inside versus out without a caption. Safety and exposure can split across a pane of glass.",
+   "It is the wrong tool when the whole image should be honey with no cold leftover. That is Warm Amber as a grade.",
+   "It is the wrong tool if you paint opposite halves of a face teal and orange without sources to justify it. Do not treat this as a LUT named mixed lighting; it is a white-balance relationship among real lamps."
+  ],
+  "how": [
+   "Set white balance near 3200K, or use tungsten stock. Let 5600K windows, moonlight, or cool LEDs go blue.",
+   "Keep 3200K practicals as the interior key ( Practical Lighting ). Gels exist to convert sources toward or away from that balance.",
+   "Colored light should hit nearby surfaces consistently. Prompt: Tungsten-balanced interior on [Subject], 3200K warmth, windows going cold blue, mixed sources telling inside versus out."
+  ],
+  "when": [
+   "Use it when the room is warm and the world is not: a night interior with cold windows, a party against snow. Do not use it to fake a complementary grade without sources, and do not neutralize every lamp to the same white."
+  ],
+  "vs": [
+   "Warm Amber is an overall honey grade, not necessarily mixed. Cool Blue chills the whole frame.",
+   "Practical Lighting supplies the lamps this balance photographs. Moonlight Gel is a cool key you hang, which will go even colder if the camera is tungsten-balanced.",
+   "Split Toning paints highlights and shadows in grade; this is source color at capture."
+  ],
+  "examples_film": [
+   "The Shining lets warm interior sources contrast with cold blue window light. Eyes Wide Shut keeps warm practicals and cool night illumination in the same rooms.",
+   "Heat and Her also live in mixed-temperature interiors. Grammar of 3200K versus daylight, not a copied wallpaper."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Warm Amber (no cold leftover) or Teal and Orange painted on a face. The tell is a uniformly honey room, or a split face with no window or lamp to cause it.",
+   "Fix: 3200K balance, visible warm practicals, daylight or night windows going blue, consistent spill."
+  ],
+  "faq": [
+   {
+    "q": "What is tungsten balance in film?",
+    "a": "It is white balance (or stock) set for about 3200K. Tungsten lamps look near-white or gently warm, and cooler sources such as daylight windows go blue. Mixed color is kept as information."
+   },
+   {
+    "q": "Tungsten Balance vs Warm Amber",
+    "a": "Warm amber is a grade that honeys the whole image. Tungsten balance is a capture setting that makes 3200K sources normal and colder sources blue. You can have mixed interiors that are not an overall amber look."
+   },
+   {
+    "q": "When should I use tungsten balance?",
+    "a": "Use it when inside should be warm and outside cold, or when practicals must stay true while windows go blue. Skip it if every source should match one white."
+   },
+   {
+    "q": "How do I prompt tungsten balance for AI image or video?",
+    "a": "Write: Tungsten-balanced interior on [Subject], 3200K warmth, windows going cold blue, mixed sources telling inside versus out. Demand real lamps. Forbid an unmotivated two-tone face."
+   }
+  ]
+ },
+ {
+  "slug": "vintage",
+  "title": "Vintage",
+  "zh_title": "复古胶片风",
+  "narrative": [
+   "It already happened. Dyes have wandered.",
+   "Whites are not video-white. The past is chemistry, not a sticker of scratches.",
+   "A 1970s still, a memory sitcom, a period film that wants the stock to confess its age: the treatment says archive even when the camera is new. It is the wrong tool when the only thing you wanted was Cooke swirl on a contemporary story ( Vintage Cine Glass ).",
+   "It is the wrong tool when you only wanted toe and shoulder of a print ( Filmic Faded ) with modern dyes intact. Sepia is one brown-gold path through the past; vintage can stay in faded color.",
+   "Do not add random specks and call it time."
+  ],
+  "how": [
+   "Fade dyes (cyan often goes first in some stocks, or reds go brick), add gentle Halation on practicals, keep contrast modest, and optionally add period-accurate Film Grain . Separate dirt and weave: they are extra claims.",
+   "Prompt: Vintage treatment of [Subject], faded dyes, halation, the past as chemistry, not a sticker."
+  ],
+  "when": [
+   "Use it when the image should already have happened as an artifact of time. Do not use it as a substitute for vintage glass on a present-tense scene, and do not reduce it to a scratch overlay."
+  ],
+  "vs": [
+   "Vintage Cine Glass is the taking lens. Filmic Faded is print curve.",
+   "Sepia is brown-gold tone. Halation is bloom on highlights, one ingredient.",
+   "Vintage is the combined period chemistry claim."
+  ],
+  "examples_film": [
+   "The Master can sit in period-adjacent chemistry as well as character glass; the vintage claim is the whole file looking of an age. Memory-television language (The Wonder Years and similar) treats the past as a softer, drifted color world.",
+   "Grammar of faded dyes, not a still to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Vintage Cine Glass (glass only) or a dirty overlay on a modern grade. The tell is sharp modern contrast with specks, or swirl bokeh with contemporary dyes.",
+   "Fix: drifted dyes, modest contrast, halation on lamps, time as chemistry."
+  ],
+  "faq": [
+   {
+    "q": "What is vintage in film?",
+    "a": "It is a period chemistry look: faded dyes, possible halation, and contrast that sits like an aged print or stock. The past is in the file, not only in the costumes."
+   },
+   {
+    "q": "Vintage vs Vintage Cine Glass",
+    "a": "Vintage cine is the lens: coatings and aberrations. Vintage as a grade or treatment is dye fade and period color chemistry. You can shoot old glass in a modern grade, or modern glass with a vintage treatment."
+   },
+   {
+    "q": "When should I use vintage?",
+    "a": "Use it when the image should read as already past, as chemistry. Skip it if you only needed old glass, a print curve, or a brown tone."
+   },
+   {
+    "q": "How do I prompt vintage for AI image or video?",
+    "a": "Write: Vintage treatment of [Subject], faded dyes, halation, the past as chemistry, not a sticker. Forbid scratch-only overlays and clinical modern contrast."
+   }
+  ]
+ },
+ {
+  "slug": "warm-amber",
+  "title": "Warm Amber",
+  "zh_title": "暖琥珀色调",
+  "narrative": [
+   "Interiors go honey. Skin picks up lamp color.",
+   "Windows, if they stay, can go relatively cooler, but the room itself is an invitation. Memory dinners, fairy-tale hotels, and domestic hearths live here because the grade says stay.",
+   "It is the wrong tool for a past that should look like a toned print. That is Sepia , brown-gold with chroma mostly gone.",
+   "It is the wrong tool for mixed-source truth where 3200K rooms meet 5600K windows as a relationship: that is Tungsten Balance , a white-balance fact, not only a honey LUT. Golden Hour is actual low sun, a capture window you can grade warm, not a synonym."
+  ],
+  "how": [
+   "Bias the grade toward 2800K to 4000K in the mids. Let practicals and candles carry the key when you can ( Candlelight , Practical Lighting ).",
+   "Keep whites from clipping to paper unless overexposure is the point. Skin should look blooded, not jaundiced; pull green if tungsten goes sick.",
+   "Prompt: Warm amber grade on [Subject], tungsten honey, candle and practical glow, safety or nostalgia in the mids."
+  ],
+  "when": [
+   "Use it for home, memory, or invitation: a kitchen at night, a hotel corridor that wants you. Do not use it as sepia, and do not honey a crime scene that should stay merciless."
+  ],
+  "vs": [
+   "Sepia is a brown-gold toned scale, not full color. Golden Hour is a time of day.",
+   "Tungsten Balance is the camera's white balance at about 3200K, which can make windows blue. Teal and Orange warms skin while cooling the world.",
+   "Candlelight is the source; warm-amber is the overall grade."
+  ],
+  "examples_film": [
+   "Amélie keeps interiors in inviting warm practical color so Paris is a hearth. The Grand Budapest Hotel paints hotel spaces with designed warm (and pastel) invitation.",
+   "Grammar of hospitality in the mids, not a copied lobby."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Sepia or Teal and Orange . The tell is no true hue left, or cyan streets with only the face warm.",
+   "Fix: overall amber bias, lamps as hearths, color still present in costumes and walls."
+  ],
+  "faq": [
+   {
+    "q": "What is warm amber in film?",
+    "a": "It is an overall warm grade: tungsten honey, candle, and practical glow in the midtones. The world reads as inviting, domestic, or remembered, with hues still present."
+   },
+   {
+    "q": "Warm Amber vs Sepia",
+    "a": "Warm amber is a color image biased toward honey. Sepia is a brown-gold tone replacing the grey scale, with modern chroma mostly gone. One is hospitality. The other is a print of the past."
+   },
+   {
+    "q": "When should I use warm amber?",
+    "a": "Use it for home, memory, or invitation. Skip it for merciless worlds, toned-print flashbacks, and complementary teal-orange nights."
+   },
+   {
+    "q": "How do I prompt warm amber for AI image or video?",
+    "a": "Write: Warm amber grade on [Subject], tungsten honey, candle and practical glow, safety or nostalgia in the mids. Forbid sepia toning and teal complementary walls."
+   }
+  ]
+ },
+ {
+  "slug": "architexture",
+  "title": "Architexture",
+  "zh_title": "建筑纹理",
+  "narrative": [
+   "When the set is the subject, human plot becomes a visitor. Concrete, glass, carpet, and window bands do the talking.",
+   "A figure gives scale, then disappears into the pattern. It is the wrong tool when a close-up of a lie is the scene.",
+   "Architecture cannot deliver an eye twitch. If you drown a dialogue in facade, you will photograph a building and call it a conversation.",
+   "This is not automatically one-point ceremony. A flat elevation, a brutalist soffit, a repeating office ceiling can be architexture without a vanishing tunnel."
+  ],
+  "how": [
+   "Expose for the material: raking light for relief, or flat light for graphic grids. Use a longer lens to compress floors into texture, or a wide lens close to a wall so the body is tiny against a single plane.",
+   "Stop down so brick and joint stay sharp if texture is the point. Prompt: Architecture as texture around [Subject], facades, grids, and materials filling the frame until the person is a detail of the building."
+  ],
+  "when": [
+   "Use it when place outweighs person: first arrival in a city, a worker in a machine, a critic of a monument. Do not use it as the only coverage of an intimate scene."
+  ],
+  "vs": [
+   "One-Point Perspective aims space as a tunnel. Architexture may be a flat, tactile wall.",
+   "Repetition and Pattern counts units. Architexture can be irregular material, poured and stained.",
+   "Extreme Long Shot shrinks a person in land. This shrinks them in built matter.",
+   "Windows makes apertures the subject. Architexture may have almost no people in those apertures."
+  ],
+  "examples_film": [
+   "Playtime ( PlayTime ) lets modern Paris eat its visitors: glass, grid, and waiting room as comedy of texture. The Brutalist language puts poured mass and material ahead of comfort.",
+   "The person remains, as scale. Grammar of buildings, not a tourist postcard."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a human portrait with a famous building behind. The tell is a large face and a postcard sliver of facade.",
+   "The fix is to step back or go longer until the body is a module among modules, or to admit you wanted a portrait and drop the claim."
+  ],
+  "faq": [
+   {
+    "q": "What is architexture in film?",
+    "a": "It is composition that treats architecture as the subject: facades, grids, and materials filling the frame. A person remains as a detail or a scale figure. The set owns space."
+   },
+   {
+    "q": "Architexture vs One-Point Perspective",
+    "a": "One-point perspective is a tunnel of receding parallels, often ceremonial. Architexture is material and module, which might be a flat wall, a ceiling grid, or a poured mass with no vanishing showpiece. They can combine in a designed hall. They need not."
+   },
+   {
+    "q": "When should I use architexture?",
+    "a": "Use it when the building is the story: arrival, labor, monument, a system of rooms. Do not use it as the only shot of a face that must be read."
+   },
+   {
+    "q": "How do I prompt architexture for AI image or video?",
+    "a": "Make the person small in material. Example: Architecture as texture around [Subject], facades, grids, and materials filling the frame until the person is a detail of the building. Name concrete, glass, or grid. Forbid portrait crop."
+   }
+  ]
+ },
+ {
+  "slug": "asymmetry",
+  "title": "Asymmetry",
+  "zh_title": "非对称构图",
+  "narrative": [
+   "Who owns space is unsettled. A woman in a corridor may occupy a sliver while red wallpaper and a lamp own the rest.",
+   "A driver may sit in a third of night while neon and road own the surplus. The counterweight is the point, not the empty accident of a bad mark.",
+   "It is the wrong tool when the scene is a ceremony of order. If both sides should salute, shoot the mirror.",
+   "If the character should be presented as an altar, do not hide them in a wing. Asymmetry is not automatically thirds.",
+   "Thirds is one recipe for offset. You can hang a figure in a far corner and balance them with a bright speck, which is visual weight, not a student grid."
+  ],
+  "how": [
+   "Place the main body off the centerline. Find a counterweight: a practical, a second figure, a block of color, a window.",
+   "Check the frame on a monitor without overlay first. If it tips over, add weight or crop.",
+   "A slightly wide lens (32mm to 40mm) lets the unused field stay a real place. Prompt: Asymmetrical balance with [Subject] offset, counterweights of color or mass, tension instead of mirror."
+  ],
+  "when": [
+   "Use it for desire, class, loneliness, and any conversation where the room is not fair. Do not use it as a default mess: unmotivated clutter is not balance."
+  ],
+  "vs": [
+   "Rule of Thirds is a specific offset grid. Asymmetry is the larger family.",
+   "Visual Weight is the currency that makes an unequal picture hold. Symmetry is the opposite claim.",
+   "Short Siding is a harsh asymmetric trap that denies look-space rather than composing a counterweight. Negative Space lets emptiness itself be the other mass."
+  ],
+  "examples_film": [
+   "In the Mood for Love parks bodies in corridors and door gaps so wallpaper, lamps, and rain own as much as faces. Drive lets night, steel, and neon outweigh a still driver.",
+   "The pictures hold because something answers the offset. Grammar, not mood boards."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a failed centered shot. The tell is a person who missed their mark and nothing answering them.",
+   "The fix is to add a real counterweight, move them to a thirds intersection, or recenter and own Symmetry ."
+  ],
+  "faq": [
+   {
+    "q": "What is asymmetry in film?",
+    "a": "It is a composition that does not mirror. The main mass sits off-axis and is answered by a different mass: light, color, a small figure, empty weather. The frame holds by tension, not by reflection."
+   },
+   {
+    "q": "Asymmetry vs Rule of Thirds",
+    "a": "Thirds is one offset recipe: lines at one-third. Asymmetry includes thirds and also stranger diagrams, a body in a corner balanced by a bright speck or a void. If you only know thirds, every offset will look like homework."
+   },
+   {
+    "q": "When should I use asymmetry?",
+    "a": "Use it when the room is not fair: desire, class, isolation, a look that cannot have a mirror. Do not use it as leftover clutter. If nothing answers the offset, the picture just tips."
+   },
+   {
+    "q": "How do I prompt asymmetry for AI image or video?",
+    "a": "State the offset and the counterweight. Example: Asymmetrical balance with [Subject] offset, counterweights of color or mass, tension instead of mirror. Name the side and the answering object. Avoid the word messy unless mess is the counterweight."
+   }
+  ]
+ },
+ {
+  "slug": "centered-composition",
+  "title": "Centered Composition",
+  "zh_title": "中心构图",
+  "narrative": [
+   "Control, ritual, comedy, and fate all like this diagram. The person does not borrow space from a third.",
+   "The room reports to them, or pretends to. Who owns space is settled in advance by the architecture.",
+   "It is the wrong tool for eavesdropping, pursuit, and most dialogue that needs a look-off. If the sides are busy with unequal life, you have an offset picture with a centered head, which is a different sentence.",
+   "Wes Anderson made the grammar famous, which is a reason to be precise. Formality is the instrument.",
+   "Pastel luggage is not."
+  ],
+  "how": [
+   "Square the camera to the back wall. Match left and right masses, or let a planned mismatch be the only joke.",
+   "Keep the lens on the centerline of the set, not a casual handheld approximation. A 27mm to 40mm will show the room's obedience.",
+   "Longer glass will crop the salute and leave you with mere central framing. Prompt: Dead-center composition of [Subject], bilateral symmetry or frontal tableau, Wes Anderson formality, the subject as altar."
+  ],
+  "when": [
+   "Use it for a ritual entrance, a desk of power, a dollhouse comedy, or a fate that feels designed. Do not use it on a chase or a whispered aside that should feel stolen."
+  ],
+  "vs": [
+   "Central Framing only demands the body on the crosshairs. Centered composition demands the field.",
+   "Symmetry is the stronger claim that left mirrors right. You can center a subject in a room that is not a mirror.",
+   "One-Point Perspective adds a vanishing point on the same axis, a tunnel instead of a flat altar. Tableau holds the arrangement in time."
+  ],
+  "examples_film": [
+   "The Grand Budapest Hotel builds hotel interiors as frontal altars. Moonrise Kingdom presents tents, churches, and children as arranged diagrams.",
+   "Both films let a small human deviation read loudly because the axis was so clean. Grammar, not a production-design costume."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a centered head in an uncomposed room. The tell is a bullseye face with a plant on one side and a door on the other.",
+   "The fix is to square the camera, match the masses, or switch to Central Framing and let the mess be honest."
+  ],
+  "faq": [
+   {
+    "q": "What is centered composition in film?",
+    "a": "The dominant subject sits on the central axis, and the rest of the picture is organized around that axis. The frame becomes a frontal tableau. The person is an altar. Leftover space does not belong to a look-off."
+   },
+   {
+    "q": "Centered Composition vs Symmetry",
+    "a": "Centered composition puts the subject on the axis. Symmetry mirrors masses across that axis. A centered desk in a lopsided office is centered without being symmetrical. A mirrored hall with nobody in the middle is symmetrical without a centered hero."
+   },
+   {
+    "q": "When should I use centered composition?",
+    "a": "Use it for control, ritual, comedy, or fate: someone presented by a room that obeys. Do not use it when the character should be hunting through space or hiding in someone else's diagram."
+   },
+   {
+    "q": "How do I prompt centered composition for AI image or video?",
+    "a": "Demand the axis and the room. Example: Dead-center composition of [Subject], bilateral symmetry or frontal tableau, Wes Anderson formality, the subject as altar. Say camera square to the back wall. If you only say centered face, you will get a portrait crop."
+   }
+  ]
+ },
+ {
+  "slug": "central-framing",
+  "title": "Central Framing",
+  "zh_title": "正中取景",
+  "narrative": [
+   "Put them on the crosshairs and the diagram changes. Off-center space no longer belongs to the look.",
+   "Both leftover fields become equal attendants. The subject owns the axis.",
+   "Everyone else owns the wings. It is the wrong tool when the character should be hunting, fleeing, or eavesdropping.",
+   "A center punch on a spy in a crowd makes them a poster. A center punch on a god, a child in costume, a dictator, or a comic stiff makes the formality legible.",
+   "You can center-punch a face in a messy room. That is still central framing.",
+   "The architecture does not have to salute. If the whole room salutes, you have walked into centered composition and maybe into symmetry."
+  ],
+  "how": [
+   "Align the lens axis with the sternum or the bridge of the nose. Keep verticals upright unless you want a joke or a threat.",
+   "A longer lens (65mm to 85mm) isolates the bullseye. A wider lens will show whether the room is also axial.",
+   "Check both ears have similar leftover, then decide if that equality is the point. Prompt: Central framing of [Subject], the figure on the optical axis, bilateral weight, a formal altar in the frame."
+  ],
+  "when": [
+   "Use it when a character must be presented, judged, or worshipped: an arrival through doors, a formal portrait, a comic stare into lens. Do not use it on a look-off that needs air in front of the eyes."
+  ],
+  "vs": [
+   "Centered Composition organizes the entire field around the axis, often as a frontal tableau. Central framing can be just the body on the crosshairs.",
+   "Symmetry mirrors masses. You can punch a face dead center in an asymmetric street.",
+   "Rule of Thirds is the default you are breaking. One-Point Perspective adds a vanishing point on that same axis."
+  ],
+  "examples_film": [
+   "The Grand Budapest Hotel center-punches concierges and guests as if they were stamps. Moonrise Kingdom does the same with children in uniform, frontal and unembarrassed.",
+   "The formality is the joke and the tenderness. Grammar, not a Wes Anderson costume kit."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is thirds with a slightly lazy offset. The tell is more air on the look side than behind the head.",
+   "The fix is to slide the figure until both leftover fields match, or to admit you wanted Lead Room and keep the offset."
+  ],
+  "faq": [
+   {
+    "q": "What is central framing in film?",
+    "a": "It is dead-center placement of the figure on the optical axis, a center punch. The body sits on the crosshairs. Leftover space on both sides is equal. The person is presented, not nested into a third."
+   },
+   {
+    "q": "Central Framing vs Centered Composition",
+    "a": "Central framing is where the body sits: on the axis. Centered composition is the whole diagram: furniture, walls, and other bodies often join the altar. You can center-punch a face in a messy room. That is central framing without a full centered tableau."
+   },
+   {
+    "q": "When should I use central framing?",
+    "a": "Use it to present, judge, or joke: a formal arrival, a portrait, a child in a uniform, a tyrant at a desk. Do not use it when the look needs air, or when the character should feel like a guest in someone else's frame."
+   },
+   {
+    "q": "How do I prompt central framing for AI image or video?",
+    "a": "Say dead center and optical axis. Example: Central framing of [Subject], the figure on the optical axis, bilateral weight, a formal altar in the frame. Add square to camera. If you only write portrait, you will get thirds."
+   }
+  ]
+ },
+ {
+  "slug": "clean-frame",
+  "title": "Clean Frame",
+  "zh_title": "干净画面",
+  "narrative": [
+   "Nothing extra. Who owns space is whoever you left in the rectangle.",
+   "A driver against night, a bottle on seamless, a dancer in a cleared hall: the edges do not argue. It is the wrong tool for eavesdropping and for documentary crowding.",
+   ", a clean frame may be a lie unless someone in the story has already tidied for an inspection. Clean is not the same as empty.",
+   "A fully dressed set can still be clean if no lamp, plant, or shoulder nicks the four sides. Negative space is extra emptiness.",
+   "Clean is extra discipline."
+  ],
+  "how": [
+   "Clear the near field. Watch all four edges on the monitor.",
+   "Use flags and art department, not only a long lens. A longer lens helps by excluding, but a wide clean frame is a stronger claim: you composed the whole room and still kept the borders empty.",
+   "Stop down if you need the empty walls sharp. Prompt: Clean frame of [Subject], edges empty, no accidental objects, studio-poster clarity, isolation by tidiness."
+  ],
+  "when": [
+   "Use it for product, ritual, poster portraits, and any character who lives in control. Do not clean a view that should feel stolen."
+  ],
+  "vs": [
+   "Dirty Frame occupies the edges. That is the opposite ethic.",
+   "Negative Space makes emptiness a mass, which a clean frame may also do, but a clean frame can be full of designed set as long as the borders are tidy. Centered Composition often wants clean edges so the altar is not nibbled.",
+   "Void deletes the world. Clean still allows a world, just a disciplined one."
+  ],
+  "examples_film": [
+   "Drive isolates night figures and cars with poster discipline: edges held, little accident. Product cinema clears tables until an object is a monument.",
+   "The grammar is control. A scuff on that control should be intended."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a dirty street pretending to be a poster, or a Void you got by turning off the lights. The tell is a stray shoulder, a plant in the corner, or a black field with no place.",
+   "The fix is to clear the edges or to admit you wanted occupied edges and shoot Dirty Frame ."
+  ],
+  "faq": [
+   {
+    "q": "What is a clean frame in film?",
+    "a": "The edges are empty of accidental objects. Every inch is chosen. Isolation comes from tidiness. The camera is granted a view, not a peephole."
+   },
+   {
+    "q": "Clean Frame vs Negative Space",
+    "a": "Negative space is a large empty mass that acts in the story. A clean frame is about edges without accident. You can have a crowded, designed interior that is still clean at the borders. You can also have dirty edges around a tiny figure in a huge sky."
+   },
+   {
+    "q": "When should I use a clean frame?",
+    "a": "Use it for control, product, ritual, and poster isolation. Do not tidy a stolen view or a documentary crush."
+   },
+   {
+    "q": "How do I prompt clean frame for AI image or video?",
+    "a": "Ban occluders. Example: Clean frame of [Subject], edges empty, no accidental objects, studio-poster clarity, isolation by tidiness. Add no foreground objects at the edges. Models love plants in corners. Forbid them."
+   }
+  ]
+ },
+ {
+  "slug": "contrast-composition",
+  "title": "Tonal Contrast",
+  "zh_title": "影调对比",
+  "narrative": [
+   "Make a poster out of a frame and the eye cannot miss the subject. A white face in a black room, a black coat on a white street, a lighthouse beam cutting tar: value owns space more loudly than furniture.",
+   "It is the wrong tool for a scene that lives in complexion, food, or mixed daylight conversation. If you crush the mids, you lose the sweat.",
+   "Not every picture should be a woodcut. Tonal contrast is composition, not automatically Low-Key Lighting lighting.",
+   "You can shoot high contrast at noon with hard sun and deep shade. Low-key is a lighting ratio.",
+   "Contrast composition is where the masses sit."
+  ],
+  "how": [
+   "Meter for the winner. Let the other mass fall off or blow, on purpose.",
+   "Hard light and a dark flag help. A backlight rim can keep a dark figure readable on dark.",
+   "Expose for highlights if the subject is the bright mass. Kill fill if the subject is the dark mass on a bright field.",
+   "Prompt: High tonal contrast composition with [Subject] as the lightest or darkest mass, graphic punch, no mid-gray mush."
+  ],
+  "when": [
+   "Use it for night hunts, moral binaries, graphic titles, and any beat that should read at a distance. Do not crush a scene whose information lives in the midtones."
+  ],
+  "vs": [
+   "Low-Key Lighting is a lighting style with dominant shadow. Tonal contrast can also be a bright graphic (white wall, black figure).",
+   "Silhouette gives up interior detail. Contrast composition may still keep an eye.",
+   "Figure-Ground is the broader first-read split, including color and focus. Chiaroscuro is the painterly modeling of form with light and dark, which may be less poster-flat.",
+   "Void deletes the field. Contrast still has two masses."
+  ],
+  "examples_film": [
+   "Sin City language turns faces and streets into ink and paper. The Lighthouse grinds value until salt, beam, and body are almost woodcut.",
+   "Both make composition out of value first. Grammar, not a comic-panel kit to steal."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is muddy mid-grey. The tell is a face, a wall, and a coat all sitting in the same value band.",
+   "The fix is to pick the lightest or darkest mass and send the rest away with flags, exposure, or costume."
+  ],
+  "faq": [
+   {
+    "q": "What is tonal contrast in film?",
+    "a": "It is a composition built from strong light and dark masses, with the subject as one of those poles. The picture reads as a graphic. Mid-grey detail is reduced so value, not clutter, owns the frame."
+   },
+   {
+    "q": "Tonal Contrast vs Low-Key Lighting",
+    "a": "Low-key is a lighting ratio: little fill, dominant shadow. Tonal contrast is where light and dark sit as shapes. A noon street with hard sun and deep shade can be high contrast without being a night interior. A low-key room can still be a soft, detailed face."
+   },
+   {
+    "q": "When should I use tonal contrast?",
+    "a": "Use it when the shot should read as a poster: night, moral split, graphic title, a figure as a cut-out. Do not crush scenes that need skin, food, or mixed conversation detail."
+   },
+   {
+    "q": "How do I prompt tonal contrast for AI image or video?",
+    "a": "Name the poles. Example: High tonal contrast composition with [Subject] as the lightest or darkest mass, graphic punch, no mid-gray mush. Say which one they are. Ban even illumination."
+   }
+  ]
+ },
+ {
+  "slug": "diagonal-composition",
+  "title": "Diagonal Composition",
+  "zh_title": "对角线构图",
+  "narrative": [
+   "Stillness would be a lie if the scene is a riot, a chase down stairs, or a city that will not sit square. Diagonals shove the eye and refuse a calm horizon of furniture.",
+   "It is the wrong tool for a formal treaty, a joke about order, or a face that needs to be an altar. If you roll the camera to fake a diagonal that the set does not have, you have made a dutch angle, which is a different sentence.",
+   "A single strong bias line can be enough: a banister, a shadow, a gun. Filling the frame with accidental slants is not composition.",
+   "It is a crooked set."
+  ],
+  "how": [
+   "Keep the head level unless you truly want a dutch. Find a bias vector in blocking or architecture and place the subject on it or against it.",
+   "A wider lens increases the thrust of a receding diagonal. Hard light can throw a diagonal shadow as a second line.",
+   "Prompt: Diagonal composition through [Subject], energy on the bias, unstable, rain or stairs as the line."
+  ],
+  "when": [
+   "Use it for stairs, street corners, rain, battles, and any beat where a level diagram would calm the scene down. Do not roll the camera to counterfeit a line the location does not offer."
+  ],
+  "vs": [
+   "Dutch Angle rolls the camera so the horizon itself tilts. Diagonal composition can keep a true horizon while stairs and bodies cut across.",
+   "Leading Lines may be diagonal, but they can also be straight corridors on axis. One-Point Perspective is usually a square, ceremonial tunnel.",
+   "Asymmetry offsets mass without requiring a bias line."
+  ],
+  "examples_film": [
+   "Battleship Potemkin drives rifles, stairs, and crowds on the bias so the massacre cannot sit still. The Third Man turns Vienna's streets, stairs, and wet shadows into diagonal traps while the camera is often simply in the right place.",
+   "Grammar of instability, not a tilt preset."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dutch Angle . The tell is a tilted horizon and no architectural diagonal.",
+   "The fix is to level the camera and find stairs, a corner, or a gesture that actually cuts the frame."
+  ],
+  "faq": [
+   {
+    "q": "What is diagonal composition in film?",
+    "a": "It is a picture organized on the bias: stairs, streets, rain, bodies, shadows as diagonal vectors. Energy and instability come from those lines. The camera may remain level. The set does the tilting."
+   },
+   {
+    "q": "Diagonal Composition vs Dutch Angle",
+    "a": "A dutch angle rolls the camera so the whole world lists. Diagonal composition uses lines already in the scene. You can have both, but a rolled horizon is not automatically a diagonal composition, and stairs on a level camera are not a dutch."
+   },
+   {
+    "q": "When should I use diagonal composition?",
+    "a": "Use it when a square, restful diagram would lie: pursuit, stairs, street violence, weather that cuts. Do not use it as a default slant on a calm interior."
+   },
+   {
+    "q": "How do I prompt diagonal composition for AI image or video?",
+    "a": "Name the bias and whether the camera is level. Example: Diagonal composition through [Subject], energy on the bias, unstable, rain or stairs as the line. Specify the line. Add horizon level to block an unwanted dutch."
+   }
+  ]
+ },
+ {
+  "slug": "dirty-frame",
+  "title": "Dirty Frame",
+  "zh_title": "脏画面",
+  "narrative": [
+   "Dirty versus clean edges is a moral diagram. Clean edges say the picture was granted.",
+   "Dirty edges say it was stolen, crowded, or survived. A shoulder in the foreground, a plant slicing a corner, rain on a window: someone else owns the near space.",
+   "It is the wrong tool for a product, a formal portrait, or a ritual altar. If the edges are dirty because the set was not cleared, you have clutter, not voyeur layers.",
+   "A dirty frame can still be composed. The chew should be intentional shapes, not a boom or a coffee cup."
+  ],
+  "how": [
+   "Put matter close to the four edges or to the ones that should feel occupied. Open the aperture so that matter melts, unless a sharp shoulder is the eavesdropper.",
+   "A longer lens compresses crowd into the edges. A wider lens needs objects truly near the glass.",
+   "Check that faces still clear a hole in the middle. Prompt: Dirty frame around [Subject], out-of-focus shoulders, glass, foliage, or crowd chewing the edges, voyeur layers."
+  ],
+  "when": [
+   "Use it for surveillance, parties, streets, and any view that should feel unauthorized or crowded. Do not dirty a ceremonial single or a product hold."
+  ],
+  "vs": [
+   "Foreground Interest is a salient near object that may sit in one region. Dirty frame is specifically about edges being occupied, often all around.",
+   "Frame within Frame cuts a hard inner rectangle. Dirty matter is usually soft and irregular.",
+   "Voyeur is the concealment position that often produces dirty edges. Clean Frame is the opposite ethic: empty edges, isolation by tidiness.",
+   "Layered Depth may keep those edge layers sharp if they carry action."
+  ],
+  "examples_film": [
+   "The Conversation watches through crowds, glass, and occupied space so privacy is already compromised. Children of Men keeps debris, bodies, and near matter in the aperture so the future never grants a poster.",
+   "Grammar of occupancy, not a blur sticker."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is accidental clutter, or a Clean Frame with a fake vignette. The tell is a boom, a logo, or a blurry oval that is not an object.",
+   "The fix is to choose the occluders, place them on the edges, and open the lens so they melt without covering the mouth."
+  ],
+  "faq": [
+   {
+    "q": "What is a dirty frame in film?",
+    "a": "Out-of-focus or near matter chews the edges: shoulders, glass, foliage, crowd. The view is occupied. The camera feels inside a space we were not invited to stand in, or inside a crowd that will not clear."
+   },
+   {
+    "q": "Dirty Frame vs Clean Frame",
+    "a": "A dirty frame occupies the edges. A clean frame keeps them empty of accident. One isolates by obstruction and complicity. The other isolates by tidiness. Choose the ethic. Do not mix them by forgetting to clear a table."
+   },
+   {
+    "q": "When should I use a dirty frame?",
+    "a": "Use it when the view should feel stolen, crowded, or physically situated: surveillance, parties, streets, affairs. Do not use it on a formal altar or a product."
+   },
+   {
+    "q": "How do I prompt dirty frame for AI image or video?",
+    "a": "Name the occluders and the edges. Example: Dirty frame around [Subject], out-of-focus shoulders, glass, foliage, or crowd chewing the edges, voyeur layers. Models default to clean margins. You must demand occupied edges."
+   }
+  ]
+ },
+ {
+  "slug": "figure-ground",
+  "title": "Figure-Ground",
+  "zh_title": "图底关系",
+  "narrative": [
+   "First read is survival. A face against a matching wall disappears.",
+   "A dark coat against a dark street disappears. The audience should not have to hunt the subject unless hunting is the beat (camouflage, a sniper, a ghost).",
+   "It is the wrong tool to solve with a fake halo on every shot. Sometimes the story is that they do not separate: a clerk eaten by an office, a dancer eaten by a crowd.",
+   "Then you are composing fusion on purpose. Clean edges help.",
+   "Dirty edges and busy wallpaper fight figure-ground unless the figure has a stronger currency: backlight rim, color, or a pool of focus."
+  ],
+  "how": [
+   "Park the subject against a simpler or opposite field. A rim or backlight traces the outline.",
+   "A shallow plane of focus melts the ground. A costume change (dark on light, light on dark, a single saturated piece) is cheaper than a new set.",
+   "Check a squint test: if the silhouette dies when you defocus your eyes, the split is weak. Prompt: Clear figure-ground separation of [Subject] from background, contrast of tone, color, or focus so the person reads instantly."
+  ],
+  "when": [
+   "Use it as default whenever a person must be found immediately: coverage, posters, any beat that is not hide-and-seek. Do not separate a character who is meant to be eaten by the room."
+  ],
+  "vs": [
+   "Silhouette is a hard version: figure as outline against a brighter field, interior detail sacrificed. Shallow Focus buys separation with optics.",
+   "Figure-ground can also be a sharp, deep picture with tonal contrast. Tonal Contrast is the graphic extreme of lightest versus darkest mass.",
+   "Cameo Lighting isolates with a pool against dark. Architexture may intentionally lose the person in the building."
+  ],
+  "examples_film": [
+   "Classical cinematography treats instant separation as manners: rim, backlight, and costume contrast so a face reads in a theater. Westerns park figures against sky.",
+   "Noir parks them against wet highlights. When a film withholds the split, it is usually a hide, not a mistake."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a matching suit on a matching wall. The tell is a hunt for the head.",
+   "The fix is a rim, a different backdrop value, a costume change, or Shallow Focus . If they should vanish, own it and stop claiming a portrait."
+  ],
+  "faq": [
+   {
+    "q": "What is figure-ground in film?",
+    "a": "It is the split between the subject and the field so the figure reads immediately. Tone, color, or focus can do the job. If the person and the wall share a value, the composition has not separated them."
+   },
+   {
+    "q": "Figure-Ground vs Silhouette",
+    "a": "A silhouette is figure-ground taken to outline: the field is brighter, the interior of the body goes dark. Figure-ground also includes a fully lit face against a darker or softer field. Silhouette sacrifices face for shape. Figure-ground may keep the face."
+   },
+   {
+    "q": "When should I use figure-ground?",
+    "a": "By default, whenever the audience must find the person in a glance. Withhold it when camouflage, crowd, or architecture should swallow them."
+   },
+   {
+    "q": "How do I prompt figure-ground for AI image or video?",
+    "a": "State how they separate. Example: Clear figure-ground separation of [Subject] from background, contrast of tone, color, or focus so the person reads instantly. Add dark coat against snow, or shallow focus, or rim light. Models often blend subject and wallpaper."
+   }
+  ]
+ },
+ {
+  "slug": "foreground-interest",
+  "title": "Foreground Interest",
+  "zh_title": "前景兴趣点",
+  "narrative": [
+   "The diagram now has a landlord in front of the camera. A bedpost, a shoulder, a glass of whisky can own the near third while the scene happens beyond.",
+   "We feel physically situated. Sometimes we feel we should not be there.",
+   "It is the wrong tool when the near object covers the decisive face or when it is random clutter. A plant in focus in front of an important mouth is not depth.",
+   "It is a mistake. Foreground interest can be sharp (a gun on a table, Kane's objects) or soft (flowers as a veil).",
+   "Sharp near matter stages power. Soft near matter stages eavesdropping."
+  ],
+  "how": [
+   "Place a real object close to the lens, on a plane that reads as obstacle. Coordinate its edge with eyes and hands so it conceals by design.",
+   "A wide or moderate wide (24mm to 40mm) exaggerates the near mass. Open the aperture if the layer should melt.",
+   "Stop down if the near object is information. Prompt: Strong foreground object between lens and [Subject], dirty aperture of flowers, fence, or glass, layered depth."
+  ],
+  "when": [
+   "Use it to put the camera in a room that already has stuff, to spy, or to show a power object in front of a distant person. Do not let the foreground eat the expression you came for."
+  ],
+  "vs": [
+   "Dirty Frame specifically chews the outer edges, often all around, as voyeur layers. Foreground interest can be a designed object in the lower frame without dirty corners.",
+   "Layered Depth asks midground and background to carry action too, not just a pretty veil. Frame within Frame uses a hard inner rectangle rather than an object.",
+   "Voyeur is the concealment ethic that often uses this layer."
+  ],
+  "examples_film": [
+   "Citizen Kane loads tables and objects in the near plane while deals happen beyond. The Graduate frames Benjamin through Mrs.",
+   "Robinson's bent leg, a joke of obstruction and power. In the Mood for Love watches through walls and gaps.",
+   "The Revenant uses brush, breath, and near nature as obstacles, not stickers."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is accidental clutter. The tell is a menu board or a head slicing a mouth with no relationship to the beat.",
+   "The fix is to choose the object, place its edge, and pick focus on purpose. Random foreground is not occluded observation."
+  ],
+  "faq": [
+   {
+    "q": "What is foreground interest in film?",
+    "a": "A near object sits between lens and subject and does a job: depth, scale, entry, or concealment. Flowers, fence, glass, a table, a body. The camera is in a place, not on a seamless studio axis."
+   },
+   {
+    "q": "Foreground Interest vs Dirty Frame",
+    "a": "Foreground interest is a salient near layer, which may sit in one region of the picture. A dirty frame occupies the edges, often around the whole aperture, with out-of-focus matter. A whisky glass on a table can be foreground interest in a otherwise clean frame."
+   },
+   {
+    "q": "When should I use foreground interest?",
+    "a": "Use it when we should feel situated, blocked, or complicit: eavesdropping, a power object in front of a deal, nature in front of a figure. Do not cover the decisive expression by accident."
+   },
+   {
+    "q": "How do I prompt foreground interest for AI image or video?",
+    "a": "Name the object and the focus. Example: Strong foreground object between lens and [Subject], dirty aperture of flowers, fence, or glass, layered depth. Replace the object with the actual thing. State whether that layer is sharp or soft."
+   }
+  ]
+ },
+ {
+  "slug": "frame-in-frame",
+  "title": "Frame within Frame",
+  "zh_title": "框中框",
+  "narrative": [
+   "Someone is watched, trapped, or pictured. The inner frame decides who is allowed in the picture of the picture.",
+   "A man in a doorway is either coming home or locked out, depending on which side of the jamb we stand. It is the wrong tool when the second rectangle is only a pretty arch behind a centered face.",
+   "If nobody could enter or leave that aperture, you added a sticker. Dirty edges chew.",
+   "A frame-in-frame cuts a clean inner border. You can have both: a dirty outer view through a clean door.",
+   "Decide which border owns the subject."
+  ],
+  "how": [
+   "Compose two rectangles. Place the camera so the inner opening has readable sides, top, and (often) threshold.",
+   "Control exposure between the two spaces: interior warm, exterior cold, or the reverse. A moderate wide (32mm to 40mm) shows both borders.",
+   "If the inner frame swallows the outer, you have simply recropped. Prompt: Frame-within-frame around [Subject], doorway, window, mirror, or arch as a second rectangle, nested attention."
+  ],
+  "when": [
+   "Use it for arrivals, farewells, affairs in corridors, and anyone pictured by a house. Do not drop a random arch behind a portrait and call it nested attention."
+  ],
+  "vs": [
+   "Dirty Frame occupies the outer edges with out-of-focus matter. Frame-in-frame is a graphic inner border, often sharp.",
+   "Windows stacks many apertures until the building is a grid of shots. Screen in Screen is a picture that is itself a display.",
+   "Negative Space can surround a small inner frame with emptiness. Voyeur is the ethical position of watching through that aperture from concealment."
+  ],
+  "examples_film": [
+   "The Searchers opens and closes on doorway compositions: desert and home as two countries split by a jamb. In the Mood for Love uses doorframes and corridor gaps to contain encounters that cannot be public.",
+   "Entering or leaving the inner rectangle is the cut you do not have to make."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a decorative arch. The tell is an ornamental curve that nobody could walk through, with the subject already filling the screen.",
+   "The fix is to show the inner border on at least three sides and to give the threshold a job."
+  ],
+  "faq": [
+   {
+    "q": "What is frame within frame in film?",
+    "a": "An architectural or graphic border inside the screen encloses the subject: door, window, arch, mirror, gap. There are two rectangles. The inner one decides belonging, exclusion, or being pictured."
+   },
+   {
+    "q": "Frame within Frame vs Dirty Frame",
+    "a": "A dirty frame chews the outer edges with shoulders, glass, foliage, or crowd, often soft. A frame within a frame is a second hard rectangle around the action. One is occupancy of the edge. The other is a nested border. They can combine."
+   },
+   {
+    "q": "When should I use frame within frame?",
+    "a": "Use it when someone is watched, trapped, welcomed, or pictured by a building. A crossing of the threshold should be able to matter. Do not use it as a pretty inner crop on a portrait."
+   },
+   {
+    "q": "How do I prompt frame within frame for AI image or video?",
+    "a": "Ask for a second rectangle and name it. Example: Frame-within-frame around [Subject], doorway, window, mirror, or arch as a second rectangle, nested attention. State which side of the threshold we occupy and the exposure split."
+   }
+  ]
+ },
+ {
+  "slug": "golden-ratio",
+  "title": "Golden Ratio",
+  "zh_title": "黄金比例",
+  "narrative": [
+   "Phi is a more secret order than thirds. The diagram still asks who owns space, but the large field is not a blunt two-thirds slab.",
+   "A spiral from a corner through a face, then through a doorway, then into empty weather, can feel inevitable without announcing a grid. It is the wrong tool when the audience needs the diagram in one glance.",
+   "Action geography, comedy blocking, and most coverage live on simpler axes. If you cannot point to a curve the eye actually rides, you are decorating with math.",
+   "Painters used these proportions because canvases hold still. In a moving shot the spiral has to survive a pan, a walk, and a focus change.",
+   "Design the still first, then see if the move keeps the curve."
+  ],
+  "how": [
+   "A phi grid places lines at about 38 percent and 62 percent, inward of a thirds overlay. A golden spiral is a path, not a stamp: start at a quiet corner and coil toward the face or the object of the look.",
+   "Keep the camera level. Moderate glass (40mm to 65mm) preserves the proportions.",
+   "Ultra-wide will fake a spiral by bending the room. Prompt: Golden-ratio spiral composition around [Subject], the eye traveling a harmonic curve rather than a grid."
+  ],
+  "when": [
+   "Use it on a painterly hold: a portrait in a designed room, a landscape where a path, a tree, and a figure actually coil. Do not overlay a spiral on a shot whose masses do not sit on that curve."
+  ],
+  "vs": [
+   "Rule of Thirds is the coarser default, lines at one-third, faster to set. Centered Composition plants the subject on the axis and ignores the spiral.",
+   "Leading Lines can trace the same curve if the architecture supplies it, but leading lines do not require phi. If the picture is a bullseye, you wanted Central Framing ."
+  ],
+  "examples_film": [
+   "Painterly cinema often organizes near these proportions without announcing them. Barry Lyndon holds figures and furniture in quiet harmonic rooms.",
+   "The Tree of Life lets landscape, light, and a small body share a coil rather than a grid. Portrait of a Lady on Fire stages faces and firelight as a slow curve of attention.",
+   "Grammar, not overlays to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is thirds with a spiral graphic imagined on top. The tell is a face on a 33 percent line and a prompt that only says golden.",
+   "The fix is to move the mass inward toward 62 percent, or to build an actual path of secondary objects the eye can ride."
+  ],
+  "faq": [
+   {
+    "q": "What is golden ratio in film?",
+    "a": "It is composition that uses proportions near 1.618, as a phi grid or as a spiral path through the masses. The subject is offset, but not as bluntly as on a thirds line. The eye is meant to travel, not to park on a cell."
+   },
+   {
+    "q": "Golden Ratio vs Rule of Thirds",
+    "a": "Thirds splits the frame at 33 percent. Phi splits nearer 38 and 62 percent. Thirds is a default grid on a monitor. Golden-ratio composition is a tighter proportional claim, sometimes a curve. Both beat accidental centering. Neither is a law."
+   },
+   {
+    "q": "When should I use golden ratio?",
+    "a": "Use it when a still or a slow hold has a real path of masses, and you want order that does not look like a student overlay. Skip it for fast geography, jokes, and any shot where the spiral would be a lie."
+   },
+   {
+    "q": "How do I prompt golden ratio for AI image or video?",
+    "a": "Ask for a spiral or phi placement and name the path. Example: Golden-ratio spiral composition around [Subject], the eye traveling a harmonic curve rather than a grid. State the start of the coil and the landing point. Avoid mystic math talk."
+   }
+  ]
+ },
+ {
+  "slug": "headroom",
+  "title": "Headroom",
+  "zh_title": "头部空间",
+  "narrative": [
+   "The vertical diagram is easy to ignore until it is wrong. Too much accidental headroom makes a person sink, a student error.",
+   "Too little clips thought. Deliberate surplus (a nun under a pale wall, a man under oil derricks) makes emptiness a partner.",
+   "It is the wrong tool to 'fix' by always parking the eyes on a thirds line. Some faces need to be crushed under a ceiling.",
+   "Some need to float. The rule of thirds is a default for the eyes, not a law for the top edge.",
+   "Headroom talks to costume and architecture. A tall hat, a halo lamp, a beam: the top edge is a character."
+  ],
+  "how": [
+   "Measure from hair to the frame line, not from eyes. For a standard close-up, leave a modest band, enough that a nod will not clip.",
+   "For pressure, shave it to a hair. For weather or faith, drop the face in the lower third and let ceiling or sky own the rest.",
+   "Tilt and pedestal change headroom without changing lens. Prompt: Deliberate headroom on [Subject], either tight to the hair (pressure) or generously open (air, God, sky)."
+  ],
+  "when": [
+   "Use tight headroom when the room is a trap or the thought has no ceiling. Use open headroom when land, church, or sky must outweigh the skull.",
+   "Do not leave extra sky because you failed to tilt down."
+  ],
+  "vs": [
+   "Lead Room is horizontal air in the direction of motion. Headroom is vertical.",
+   "Close-Up is a size that makes headroom mistakes loud. Negative Space often lives in surplus headroom.",
+   "Short Siding crushes the look horizontally. Void can eat everything above a face until there is no ceiling, only nothing."
+  ],
+  "examples_film": [
+   "Classical coverage keeps modest headroom so a nod survives. Ida uses large upper fields of wall and sky as designed surplus, faces low in the diagram.",
+   "There Will Be Blood lets derricks and air dwarf a skull. Grammar of the top edge, not a crop preset."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is accidental sink, a figure dropped because the operator did not tilt. The tell is leftover ceiling with no job and eyes nowhere near a decision.",
+   "The fix is to tilt down for a standard portrait, or to own the surplus as Negative Space and compose the face low on purpose."
+  ],
+  "faq": [
+   {
+    "q": "What is headroom in film?",
+    "a": "It is the gap between the top of the head and the top of the frame. Small gap: pressure. Large gap: air, architecture, or weather owns the upper field. Accidental large gap is a common error. Deliberate large gap is a composition."
+   },
+   {
+    "q": "Headroom vs Lead Room",
+    "a": "Headroom is vertical space above the skull. Lead room is horizontal space in the direction of a walk or a look. You can have generous lead room and tight headroom in the same single. They are different edges of the diagram."
+   },
+   {
+    "q": "When should I use headroom?",
+    "a": "Always, as a decision. Tighten it to press. Open it when sky or ceiling should act. Do not leave extra air because you missed the tilt."
+   },
+   {
+    "q": "How do I prompt headroom for AI image or video?",
+    "a": "Say tight or generous and name the upper field. Example: Deliberate headroom on [Subject], either tight to the hair (pressure) or generously open (air, God, sky). Models default to too much sky. Be explicit."
+   }
+  ]
+ },
+ {
+  "slug": "layered-depth",
+  "title": "Layered Depth",
+  "zh_title": "层次纵深",
+  "narrative": [
+   "Social geometry becomes visible at once. Adults sign a boy's future in a near room while the boy plays in a distant window.",
+   "A phone booth and a piano split a bar. Who owns space is a matter of which plane can still act.",
+   "It is the wrong tool when only one plane has story. Three pretty layers of wallpaper are not layered depth.",
+   "If you cannot imagine walking from the near object to the far door, the diagram is a collage. Do not assume every deep stage must be uniformly sharp.",
+   "You can hold two actions and still rack. The arrangement is the composition.",
+   "The iris is the optics."
+  ],
+  "how": [
+   "Place meaningful bodies or objects on separate planes with readable gaps. Keep sightlines and entrances clear.",
+   "Choose a wider lens and more distance if you want natural deep space. Stop down (and add light) if several planes must be sharp.",
+   "A split diopter is a different cheat. Prompt: Three-plane composition around [Subject], foreground, mid, and deep background all carrying information, deep staging."
+  ],
+  "when": [
+   "Use it when two relationships must be true in one hold: a deal and a child, a dance and a call, a guard and a prisoner. Do not stack bric-a-brac in three zones and call it staging."
+  ],
+  "vs": [
+   "Deep Focus is the optical result of small aperture and sufficient light, or a digital imitation. Layered depth can exist with selective focus.",
+   "Foreground Interest only guarantees a near layer. Layered depth requires the far planes to work.",
+   "Tableau may be deep or flat, but it privileges a fixed arrangement over cutting. One-Point Perspective can organize the walkable space as a tunnel."
+  ],
+  "examples_film": [
+   "Citizen Kane stages Kane's future indoors while the boy plays outside the window, planes in one sentence. The Best Years of Our Lives splits a bar between piano and telephone booth so attention has to choose.",
+   "The Conformist uses fascist architecture as deep, walkable politics. Grammar of staging, not a focus preset."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Deep Focus wallpaper. The tell is everything sharp and only one action.",
+   "The fix is to put a second story on another plane, or to admit you wanted a single-plane portrait and simplify."
+  ],
+  "faq": [
+   {
+    "q": "What is layered depth in film?",
+    "a": "Important actions occupy different distances in one composition. Foreground, midground, and background can all carry information. The shot is walkable. That arrangement is depth staging, whether or not every plane is sharp."
+   },
+   {
+    "q": "Layered Depth vs Deep Focus",
+    "a": "Layered depth is spatial organization: who stands where. Deep focus is optics: how much is sharp. You can stage three planes and rack between them. You can also stop down so the whole stage holds. Do not conflate the two."
+   },
+   {
+    "q": "When should I use layered depth?",
+    "a": "Use it when two or more relationships should be visible at once without a cut. Skip it when only one plane has a job. Pretty receding walls are not enough."
+   },
+   {
+    "q": "How do I prompt layered depth for AI image or video?",
+    "a": "Name three planes and their actions. Example: Three-plane composition around [Subject], foreground, mid, and deep background all carrying information, deep staging. State focus treatment. If you only say depth, you may get blur and no staging."
+   }
+  ]
+ },
+ {
+  "slug": "lead-room",
+  "title": "Lead Room",
+  "zh_title": "前导空间",
+  "narrative": [
+   "The horizontal diagram assigns the future. Air in front of the nose is the path, the other person, the door.",
+   "Air behind the skull is the past or a trap. Classical coverage buys this air by default.",
+   "It is the wrong tool when the character has nowhere to go. A prisoner, a liar pinned by a question, a car about to hit a wall: giving them lead room is politeness the scene does not want.",
+   "Lead room is not automatically thirds. You can give a walker a huge field (almost a landscape) or a modest band in a close-up.",
+   "The direction of the surplus is the definition."
+  ],
+  "how": [
+   "Put the look or the motion toward the empty side. If they walk screen-left, leave more frame on the left.",
+   "Pan with a walker to keep that surplus, or let them eat it if arrival is the point. A profile needs more lead than a three-quarter.",
+   "Prompt: Lead room in front of [Subject]'s look or walk, more space in the direction of attention than behind, forward narrative."
+  ],
+  "when": [
+   "Use it for walks, looks that will be answered, and any coverage that should feel like forward grammar. Do not give lead room to a character you mean to trap.",
+   "That is Short Siding 's job."
+  ],
+  "vs": [
+   "Short Siding crushes the look against the edge they face and parks dead air behind them. Rule of Thirds often creates lead room as a side effect of an offset face.",
+   "Look Space is the field a gaze owns, especially when the object is off-screen. Lead room includes motion.",
+   "A still look can be either, but a sprint is lead room first. Headroom is the vertical cousin."
+  ],
+  "examples_film": [
+   "Classical coverage puts looking room in front of singles as default grammar, from studio talkies onward. Westerns and road films extend that air into landscape so a rider has a country to enter.",
+   "When a film withholds it, you feel the withheld future immediately."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Short Siding by accident. The tell is a profile kissing the edge they look toward, with a warehouse of wallpaper behind the hair.",
+   "The fix is to pan toward the look until the surplus sits ahead, unless the trap was intended."
+  ],
+  "faq": [
+   {
+    "q": "What is lead room in film?",
+    "a": "It is extra space in the direction of a look or a move. More frame ahead of the nose than behind the head. The surplus is the path. Classical coverage treats it as default manners."
+   },
+   {
+    "q": "Lead Room vs Short Siding",
+    "a": "Lead room gives the character air to look or walk into. Short siding puts the face against the edge it faces and leaves the empty field behind. One is forward grammar. The other is a trap or a jolt."
+   },
+   {
+    "q": "When should I use lead room?",
+    "a": "Use it when they are going somewhere, even standing: a look that will cut to an object, a walk, a car in motion. Do not use it when you mean to deny the future."
+   },
+   {
+    "q": "How do I prompt lead room for AI image or video?",
+    "a": "State the look direction and the surplus. Example: Lead room in front of [Subject]'s look or walk, more space in the direction of attention than behind, forward narrative. Say looking screen-left, empty frame ahead of the eyes."
+   }
+  ]
+ },
+ {
+  "slug": "leading-lines",
+  "title": "Leading Lines",
+  "zh_title": "引导线",
+  "narrative": [
+   "If a corridor, a rail, or a carpet chevron aims at a person, that person owns the destination and the building owns the path. If the lines aim past them, the person is a gate and infinity owns the rest.",
+   "It is the wrong tool when the location has no honest vector. Drawing implied arrows in a bland room is a graphic lie.",
+   "A close-up that needs only a face does not need a railroad. Lines can be one-point, two-point, or even a curve.",
+   "The job is the same: decide where the eye is forced to land, and whether that landing is a face, a door, or a vanishing field."
+  ],
+  "how": [
+   "Find real edges in the set: baseboards, rails, a road, a shadow from a hard source. Place the camera so those edges converge on the intended mass.",
+   "A wider lens (24mm to 35mm) strengthens convergence. A long lens flattens lines into stacks, which is compression, not pointing.",
+   "Keep the horizon level unless the line itself is a dutch. Prompt: Leading lines driving the eye to [Subject], rails, corridors, roads, or shadows converging on the figure."
+  ],
+  "when": [
+   "Use it when a location can aim: station, hotel hall, highway, trench, church nave. Do not invent converging furniture in a set that is actually a box of leftovers."
+  ],
+  "vs": [
+   "Vanishing Point is where parallel lines appear to meet. Leading lines may never meet in frame.",
+   "One-Point Perspective is a full axial construction with one dominant vanishing point. Leading lines can be a single railing cutting a messy room.",
+   "Diagonal Composition uses bias energy even when nothing converges. Architexture fills the frame with material until pointing is secondary."
+  ],
+  "examples_film": [
+   "The Shining aims carpets, halls, and a tricycle path at whatever waits. The Deer Hunter uses steel, roads, and industrial edges to shove attention through working space.",
+   "The lines are geography, not stickers. Grammar, not a maze to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a centered portrait with random architecture. The tell is a face in the middle and walls that do not aim.",
+   "The fix is to move the camera until an edge actually hits the subject, or to drop the claim and shoot a clean portrait."
+  ],
+  "faq": [
+   {
+    "q": "What is leading lines in film?",
+    "a": "They are real edges in the picture (rails, roads, corridors, shadows, gestures) that steer the eye toward a mass or through the frame. The architecture points. The landing is a choice: face, door, or empty distance."
+   },
+   {
+    "q": "Leading Lines vs One-Point Perspective",
+    "a": "One-point perspective is a camera squared to a plane with a single vanishing point, often on axis. Leading lines are any vectors that aim. A diagonal railing in a messy street can lead without being a Kubrick hall."
+   },
+   {
+    "q": "When should I use leading lines?",
+    "a": "Use them when the set can honestly point: a hall, a track, a road, a nave. Skip them in a close-up that only needs a face, and skip them in a room with no true edge toward the subject."
+   },
+   {
+    "q": "How do I prompt leading lines for AI image or video?",
+    "a": "Name the lines and the target. Example: Leading lines driving the eye to [Subject], rails, corridors, roads, or shadows converging on the figure. Specify material. If the lines should continue past the person, say so."
+   }
+  ]
+ },
+ {
+  "slug": "look-space",
+  "title": "Look Space",
+  "zh_title": "视线空间",
+  "narrative": [
+   "A face and a rectangle of unused air can be a whole scene. We wait for the object: a person entering, a painting, a courtyard window.",
+   "The subject does not own the surplus. The unseen does.",
+   "It is the wrong tool when there is no look. Empty space beside a face that stares into lens is not look-space.",
+   "It is leftover. If you need the object on-screen, put it there and stop pretending the air is a mystery.",
+   "Look-space is the composition. The POV cut is the completion.",
+   "You can hold the look and never pay off, which is a different cruelty."
+  ],
+  "how": [
+   "Place more frame in the gaze direction than behind the head, unless you are short-siding. Match the height and direction of the look if the next shot is the object.",
+   "A profile or three-quarter makes the owned field obvious. Do not fill that field with competing faces unless the competition is the point.",
+   "Prompt: Generous look space for [Subject], the off-screen gaze owning a field of air, tension in what we cannot see."
+  ],
+  "when": [
+   "Use it when the object of attention is off-screen or about to enter: a watcher, a painter, a sniper, a lover at a door. Do not leave dead air beside a to-camera interview and call it a look."
+  ],
+  "vs": [
+   "Lead Room includes motion and classical manners for a walk. Look-space is specifically the gaze, especially toward an off-screen object.",
+   "Point of View is the shot of what they see. Look-space is the shot of them seeing.",
+   "Short Siding withholds this field. Reaction Shot may be a look with almost no space if the face is the whole event.",
+   "Frame within Frame can put the object in a window inside the look-space."
+  ],
+  "examples_film": [
+   "Rear Window builds Jeff's looks and then pays them with courtyard activity. Portrait of a Lady on Fire makes looking the subject, space between painter and model as the true field.",
+   "The Stendhal Syndrome matches Anna's looks to museum paintings. Grammar of eyeline, not a tourist view to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is leftover wallpaper, or a false eyeline cut. The tell is empty space on the wrong side of the face, or a next shot the look could not geometrically reach.",
+   "The fix is to put the surplus in the gaze direction and to match height and angle if you complete the look."
+  ],
+  "faq": [
+   {
+    "q": "What is look space in film?",
+    "a": "It is the area of frame a gaze owns, usually ahead of the eyes. Often the important object is off-screen, so the air is tension. In editing, the look may be joined to a shot of what is seen."
+   },
+   {
+    "q": "Look Space vs Lead Room",
+    "a": "Lead room is space in the direction of movement, and by extension a standing look. Look space is the gaze as a relationship to an object, present or withheld. A runner needs lead room. A watcher of a courtyard needs look-space. They overlap in a still profile. They are not the same job."
+   },
+   {
+    "q": "When should I use look space?",
+    "a": "Use it when what matters is off-screen or about to arrive, and the face watching is the present tense. Do not confuse leftover margin on an interview with a look."
+   },
+   {
+    "q": "How do I prompt look space for AI image or video?",
+    "a": "Point the eyes and empty the field they face. Example: Generous look space for [Subject], the off-screen gaze owning a field of air, tension in what we cannot see. Say the object is not in frame. For video, you can add a second shot as POV."
+   }
+  ]
+ },
+ {
+  "slug": "negative-space",
+  "title": "Negative Space",
+  "zh_title": "负空间",
+  "narrative": [
+   "Loneliness needs room. So does dread, and so does waiting.",
+   "A face low under a slab of architecture, a man tiny in a desert, a woman with a blank wall as her partner: the empty area is the other character. It is the wrong tool when the scene is crowded with story.",
+   "If the blank wall is just an unlit set, you underexposed a failure. Empty is not automatically meaningful.",
+   "Unbalanced framing and short-sided composition are cousins, not synonyms. Negative space can sit above a head (headroom as weather), beside a look (air as future), or all around a speck (the world as indifference)."
+  ],
+  "how": [
+   "Decide what the unoccupied area means before you widen. Control eyeline, headroom, and background detail.",
+   "A longer lens can isolate a small figure against a simple field. A wide lens can make the field truly large.",
+   "Do not automatically rebalance. Stop down if the empty weather must stay a texture, or open up if it should melt to tone.",
+   "Prompt: Vast negative space around [Subject], the figure small, absence as weight, Antonioni emptiness."
+  ],
+  "when": [
+   "Use it when isolation, waiting, or land must outweigh a person: a figure under sky, a face under ceiling, a body at the edge of a pale wall. Do not confuse a blank backdrop with a designed void, and do not auto-balance if the imbalance is the beat."
+  ],
+  "vs": [
+   "Extreme Long Shot is a size that often produces this space. Negative space can also crush a close face under ceiling.",
+   "Short Siding specifically denies look-space. Negative space may sit in any direction.",
+   "Void erases the set into nothing. Negative space still belongs to a world.",
+   "Clean Frame tidies edges without requiring a small subject. Headroom is the vertical slice of this idea."
+  ],
+  "examples_film": [
+   "Ida parks faces low under large fields of architecture and sky. L'Avventura lets islands and empty coasts outweigh the searchers.",
+   "Her uses pale interiors and city air as partners for a small body. Mr.",
+   "Turner subordinates figures to weather. No Country for Old Men lets landscape refuse comfort.",
+   "Grammar of absence, not a desert kit."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is an Extreme Long Shot with a busy horizon. The tell is a small figure against cluttered detail that competes.",
+   "The fix is to simplify the field, or to own the clutter as Architexture instead of claiming emptiness."
+  ],
+  "faq": [
+   {
+    "q": "What is negative space in film?",
+    "a": "It is a large unoccupied area around or beside the subject that still reads as world: sky, wall, snow, sea. The empty field has weight. The person does not automatically own the frame."
+   },
+   {
+    "q": "Negative Space vs Void",
+    "a": "Negative space is emptiness inside a place. Void erases the place: a figure against black, white, or nothing. Ida's sky is negative space. A body in an unlit nowhere is a void. Both isolate. Only one still has geography."
+   },
+   {
+    "q": "When should I use negative space?",
+    "a": "Use it when absence should act: isolation, waiting, land that does not care. Do not use it as an unlit wall you forgot to dress. Tie the imbalance to pressure in the scene."
+   },
+   {
+    "q": "How do I prompt negative space for AI image or video?",
+    "a": "Place the figure and name the empty field. Example: Vast negative space around [Subject], the figure small, absence as weight, Antonioni emptiness. Say low in frame or far to one side. Forbid extra props in the empty area."
+   }
+  ]
+ },
+ {
+  "slug": "one-point-perspective",
+  "title": "One-Point Perspective",
+  "zh_title": "单点透视",
+  "narrative": [
+   "Destiny has a vanishing point when the architecture agrees. Walk toward it and the world funnels.",
+   "Stand in the middle and the world presents. A small step off axis becomes a scandal because the construction was so true.",
+   "It is the wrong tool in a room with no parallel receding edges, or when the scene should feel found rather than designed. Forcing a tunnel onto a forest is a lie unless the trees were planted as a nave.",
+   "Centering a face is not enough. If the walls do not recede to one point, you have central framing in a box."
+  ],
+  "how": [
+   "Align the lens with the centerline of the architecture. Keep verticals vertical (shift, a level, or a longer lens farther back).",
+   "Place the vanishing point on a face, on a door, or on empty infinity. A moderate wide (24mm to 35mm) shows the funnel.",
+   "Too wide bows the walls. Prompt: One-point perspective corridor toward [Subject] or through them, vanishing point on axis, Kubrick infinity."
+  ],
+  "when": [
+   "Use it for hotels, spaceships, naves, bunkers, and any fate that should feel designed. Do not square up a messy street and call it one-point because a face is in the middle."
+  ],
+  "vs": [
+   "Leading Lines may converge without a full axial construction. Centered Composition plants the subject on the axis but may be a flat altar with no tunnel.",
+   "Vanishing Point is the meeting place itself and can sit off-axis in two-point perspective. Symmetry often arrives with one-point, but a tunnel can hide an unmatched object as the break.",
+   "Architexture may flatten facade as texture instead of aiming it."
+  ],
+  "examples_film": [
+   "The Shining aims Overlook corridors at a point that feels like destiny. 2001: A Space Odyssey uses axial interiors as designed future.",
+   "Leon and The Grand Budapest Hotel also square halls and lobbies so order is the air you breathe. Grammar of construction, not a carpet to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a centered portrait in a hall shot from a corner. The tell is two vanishing points, a wall receding on one side only.",
+   "The fix is to move onto the axis until left and right converge together, or to own Vanishing Point as a two-point street."
+  ],
+  "faq": [
+   {
+    "q": "What is one-point perspective in film?",
+    "a": "The camera is square to a plane. Parallel receding lines meet at one vanishing point, often on the central axis. Halls, naves, and designed interiors become tunnels or ceremonies."
+   },
+   {
+    "q": "One-Point Perspective vs Centered Composition",
+    "a": "Centered composition puts the subject on the axis. One-point perspective constructs space toward a single vanishing point. You can center a face against a flat wall with no tunnel. You can also shoot a one-point hall with the actor off to the side as a break."
+   },
+   {
+    "q": "When should I use one-point perspective?",
+    "a": "Use it when architecture can funnel: hotels, ships, churches, bunkers, a fate that feels designed. Do not fake it in irregular space, and do not confuse a centered head with a vanishing construction."
+   },
+   {
+    "q": "How do I prompt one-point perspective for AI image or video?",
+    "a": "Ask for one vanishing point on axis and a square camera. Example: One-point perspective corridor toward [Subject] or through them, vanishing point on axis, Kubrick infinity. Name the corridor. Add verticals true."
+   }
+  ]
+ },
+ {
+  "slug": "reflections",
+  "title": "Reflections",
+  "zh_title": "反射",
+  "narrative": [
+   "Show looking and the looked-at together and you skip a cut. A man and a woman speak through a booth.",
+   "A face and a street stack in a shop window. Identity splits without a dissolve.",
+   "It is the wrong tool when the reflection is an unreadable smear, or when it cheats physics (a mirror that does not answer a head turn). If you cannot map the sightline, the audience will feel the fake even if they cannot name it.",
+   "Reflections can dirty a frame or frame-in-frame a second world. Decide which space is brighter.",
+   "The brighter side writes itself onto the darker glass."
+  ],
+  "how": [
+   "Map optics before you light. Control which side is hotter: the reflection needs a brighter source to read on glass.",
+   "Hide the camera, or let it appear if that is the joke. Keep gaze and reflection geometrically honest.",
+   "Polarizers kill or manage bounce. Water needs an angle and a still or living surface.",
+   "Prompt: Reflections of [Subject] in glass, water, or chrome, observer and observed in one plane."
+  ],
+  "when": [
+   "Use it for split identity, conversations that cannot be face to face, cities on windows, a child seeing a parent in a cabinet. Do not add a random mirror because the set has one."
+  ],
+  "vs": [
+   "Frame within Frame uses a hard inner rectangle. A reflection may be a smear, a stack, or a perfect copy.",
+   "Silhouette can appear in glass as outline. Screen in Screen is an electronic or projected picture, not a bounce.",
+   "Dirty Frame often uses glass as an edge chew. Here the glass is the sentence.",
+   "Windows may include reflections, but windows as a technique are stacked apertures of lives."
+  ],
+  "examples_film": [
+   "The Lady from Shanghai multiplies positions in a mirror maze until aiming becomes impossible. Paris, Texas stages Travis and Jane across a one-way-glass booth so seeing is not symmetrical.",
+   "In the Mood for Love catches bodies in glass and rain. Contact uses a cabinet mirror in a child's race down a hall: reflection as geography."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a pasted-on double, or a mirror that ignores head movement. The tell is a reflection that does not match angle, brightness, or motion.",
+   "The fix is to build a real optic: brighter observed side, correct eyeline, and a surface that could actually see both."
+  ],
+  "faq": [
+   {
+    "q": "What is reflections in film?",
+    "a": "Glass, water, chrome, or a mirror puts two spaces into one picture. Observer and observed can share a plane. The bounce must obey optics: angle, brightness, and motion."
+   },
+   {
+    "q": "Reflections vs Frame within Frame",
+    "a": "A frame within a frame is a second rectangle, often a door or window opening. A reflection is an optical copy or overlay on a surface. A window can do both: it can be an aperture and a mirror at once if you light both sides."
+   },
+   {
+    "q": "When should I use reflections?",
+    "a": "Use them to show looking and the looked-at together, to split a self, or to have a conversation that cannot be face to face. Do not insert a mirror as furniture with no optical job."
+   },
+   {
+    "q": "How do I prompt reflections for AI image or video?",
+    "a": "Name the surface and both parties. Example: Reflections of [Subject] in glass, water, or chrome, observer and observed in one plane. Specify one-way glass, shop window, or water. For video, demand the reflection match head movement."
+   }
+  ]
+ },
+ {
+  "slug": "repetition-pattern",
+  "title": "Repetition and Pattern",
+  "zh_title": "重复与图案",
+  "narrative": [
+   "Systems, armies, hotels, and factories love this diagram. Who owns space is the grid.",
+   "A person is a unit until they fail to match. That failure (an empty desk, a red coat, a late soldier) becomes the subject without a closer lens.",
+   "It is the wrong tool when the location is unique and irregular. Forcing a pattern onto a messy apartment is a graphic lie unless the character is trying to impose one.",
+   "Pattern can also return in time: the same blocking on a different day. That is structural echo.",
+   "Compositionally it still needs a recognizable spatial rhyme so the audience can measure change."
+  ],
+  "how": [
+   "Find a repeating unit and put the camera where the unit tiles: elevation of a facade, a long lens compressing a row, an overhead of desks. Align so the repeat is countable.",
+   "Place the break on a power position (a missing unit, a different color, a still figure in a marching line). Prompt: Repeating pattern around [Subject], columns, windows, soldiers, a break in the pattern as the story."
+  ],
+  "when": [
+   "Use it for institutions and copies: hotels, offices, armies, data centers, choruses. Do not use it as wallpaper if nothing can break."
+  ],
+  "vs": [
+   "Symmetry is a mirror, which is one kind of repeat. Pattern can run in a line or a field without mirroring.",
+   "Bird's-Eye View often reveals pattern by removing horizon. Architexture treats material and facade as texture until the person is a detail.",
+   "Pattern is the countable grid inside that texture. One-Point Perspective can aim the repeat into a tunnel."
+  ],
+  "examples_film": [
+   "The Grand Budapest Hotel tiles uniforms, doors, and pastry boxes so a scuff reads. The Matrix uses copies as a philosophical pattern.",
+   "Shaun of the Dead rhymes a trip to the shop across a changed world. Jaws and The Empire Strikes Back also teach recurrence in sound, a cousin of visual echo: a figure that returns until it is a system."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is busy production design. The tell is lots of stuff and no countable unit.",
+   "The fix is to pick one motif, align the camera to tile it, and isolate the one mismatch."
+  ],
+  "faq": [
+   {
+    "q": "What is repetition and pattern in film?",
+    "a": "Shapes, colors, lines, positions, or actions repeat until the frame reads as a system. The pattern sets expectation. A break in the pattern is often the subject. Formal rhyme can also return on another day."
+   },
+   {
+    "q": "Repetition and Pattern vs Symmetry",
+    "a": "Symmetry mirrors across an axis. Pattern repeats a unit in a row, a grid, or in time. A line of hotel doors can be a pattern without left matching right. A mirrored lobby can be symmetrical with only two wings."
+   },
+   {
+    "q": "When should I use repetition and pattern?",
+    "a": "Use it for systems: armies, hotels, factories, offices, choruses. Use a break when someone fails to be a unit. Skip it in irregular private space unless the character is imposing order."
+   },
+   {
+    "q": "How do I prompt repetition and pattern for AI image or video?",
+    "a": "Name the repeating unit and the exception. Example: Repeating pattern around [Subject], columns, windows, soldiers, a break in the pattern as the story. Count the units if you can. Specify the break."
+   }
+  ]
+ },
+ {
+  "slug": "rule-of-thirds",
+  "title": "Rule of Thirds",
+  "zh_title": "三分法",
+  "narrative": [
+   "Treat the frame as a diagram of who owns space. Thirds is a default, not a law.",
+   "A face on a power intersection hands the bigger rectangle to the look, the weather, or the threat. The strip behind the head is leftover, not decoration.",
+   "It is the wrong tool when the beat needs a formal altar, a trap, or a joke about order. Dead-center ritual, short-sided panic, and poster symmetry all break the grid on purpose.",
+   "If you apply thirds to every close-up, the diagram stops meaning anything. A model that hears only balanced composition will center the face and split the sky in half.",
+   "Name which intersection holds the eyes and which third holds the horizon."
+  ],
+  "how": [
+   "Turn on the 3x3 overlay on the monitor. Place eyes, a head, or a landmark on an intersection, not in the dead middle of a cell.",
+   "Keep the camera level unless a roll is the point. A 35mm to 50mm keeps the grid honest.",
+   "Ultra-wide glass stretches the outer thirds into cartoon corners. Telephoto compresses them into stacked bands.",
+   "Prompt: Rule-of-thirds placement of [Subject] on a power intersection, horizon on a third, breathing room in the look direction."
+  ],
+  "when": [
+   "Use it on a landscape walk, a single looking off, or an establishing wide that must feel occupied without becoming an altar. Do not treat it as a religion on every close-up, title card, or ritual tableau."
+  ],
+  "vs": [
+   "618 instead of one-third. Lead Room is the horizontal air that thirds usually create for a look or a walk.",
+   "Centered Composition refuses the offset and puts the subject on the axis. Short Siding is the opposite diagram: the look is crushed against the edge it faces."
+  ],
+  "examples_film": [
+   "Classical coverage treats thirds as the default diagram for singles and landscapes. Lawrence of Arabia parks horizons on a third so desert owns the rest of the frame.",
+   "Days of Heaven does the same with prairie and sky. There Will Be Blood often offsets a figure so land outweighs the person.",
+   "These are grammar, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is dead-center portrait posing as thirds. The tell is a face on the optical axis with equal sky and equal leftover on both ears.",
+   "The fix is to slide the eyes to an intersection and give the look the larger field, or admit you wanted Central Framing and shoot that instead."
+  ],
+  "faq": [
+   {
+    "q": "What is rule of thirds in film?",
+    "a": "It is a 3x3 grid overlaid on the frame. Important masses sit on the lines or at the four intersections so the picture is offset by default. The larger remaining field usually belongs to the look, the land, or the threat."
+   },
+   {
+    "q": "Rule of Thirds vs Golden Ratio",
+    "a": "Thirds splits at 33 percent. A golden-ratio or phi grid splits nearer 38 and 62 percent, a slightly tighter offset, sometimes described as a spiral. Both refuse dead center. Thirds is the faster default on a set. Phi is a quieter proportional claim."
+   },
+   {
+    "q": "When should I use rule of thirds?",
+    "a": "Use it when a figure or horizon should share the frame with a larger field they do not occupy. A walk, a look off, a landscape single. Skip it when the scene is a ritual, a trap, or a poster that needs the axis."
+   },
+   {
+    "q": "How do I prompt rule of thirds for AI image or video?",
+    "a": "Name the intersection and the horizon line. Example: Rule-of-thirds placement of [Subject] on a power intersection, horizon on a third, breathing room in the look direction. Say left or right. If you only write balanced, the model will center the face."
+   }
+  ]
+ }
+]

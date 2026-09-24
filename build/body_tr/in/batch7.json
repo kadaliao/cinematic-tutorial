@@ -1,0 +1,2583 @@
+[
+ {
+  "slug": "available-light",
+  "title": "Available Light",
+  "zh_title": "现场光",
+  "narrative": [
+   "The day is the gaffer. , a kitchen with one overhead, a station with sodium: you expose for what is there and block actors into it.",
+   "Documentary and certain features treat that limitation as the look. It is the wrong tool when you need night-for-night control, a cheek triangle that the sun will not hold, or matching a scene across three hours.",
+   "If you add a bounce board you have already left pure available and entered a small bounce or naturalistic cheat."
+  ],
+  "how": [
+   "Do not add lights. Choose sun angle, weather, and existing fixtures.",
+   "Hardness is the sun's (hard when clear, soft when overcast). Color is the real Kelvin of that hour: high sun near 5600K, late sun warmer, interiors whatever the building installed.",
+   "Expose for faces or for sky, not both if the ratio is huge. Prompt: Available light only on [Subject], sun, sky, or existing interior fixtures, documentary humility, no added units."
+  ],
+  "when": [
+   "Use it when you will commit to the hour you have, a ridge, a real kitchen, a street at the time the story needs. Do not use it if you plan to sneak in an HMI and still call it available."
+  ],
+  "vs": [
+   "Motivated lighting adds hidden units that imitate the world. Naturalistic ambient is crafted to look unstyled and may include lights.",
+   "Golden hour and blue hour are specific available conditions. Practical lighting can be available if the fixtures already exist and you do not enhance them."
+  ],
+  "examples_film": [
+   "Days of Heaven waited on natural edges of the day. The Revenant committed to location sun, overcast, and fire already in the space.",
+   "The grammar is patience and geography, not a gel called natural."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is motivated lighting sold as available. The tell is a perfect fill on the shadow cheek at noon in open sun.",
+   "Fix it by removing extra units, or by renaming the setup motivated."
+  ],
+  "faq": [
+   {
+    "q": "What is available light in film?",
+    "a": "Existing illumination at a location before the crew adds or changes anything: sun, sky, or fixtures already there."
+   },
+   {
+    "q": "Available light vs naturalistic ambient",
+    "a": "Available light means no added units. Naturalistic ambient is a crafted wrap that looks like room or sky, and it may use hidden lights."
+   },
+   {
+    "q": "When should I use available light?",
+    "a": "Use it when the real hour and place are the point, and you can schedule for them. Skip it when continuity or a specific portrait pattern must be locked."
+   },
+   {
+    "q": "How do I prompt available light for AI image or video?",
+    "a": "State sun, sky, or existing fixtures only, no added units. Name the time of day and the real source direction."
+   }
+  ]
+ },
+ {
+  "slug": "backlight",
+  "title": "Backlight",
+  "zh_title": "逆光",
+  "narrative": [
+   "A dark coat in a dark room disappears without an edge. Backlight draws that edge on hair, shoulders, and hat brim so the cutout reads.",
+   "In rain, dust, or smoke the same rear source can turn into volume, implying a world outside the frame: a searchlight, a high window, the sun. It is the wrong tool when you need the face, not the outline.",
+   "If you expose for the backlight, you get a silhouette . If you wrap it around to the cheek, you have started a kicker , not a true back."
+  ],
+  "how": [
+   "Place the source behind and usually above, aimed toward camera, flagged so it does not flare unless you want veil. Hardness can be hard (sun, PAR, searchlight) for a sharp rim or softer for a glow in hair.",
+   "Color is often warmer than the key so the edge reads as sun or tungsten. Suspended particles make the beam itself photograph; without them you only see the rim on the body.",
+   "Prompt: Backlight on [Subject] from behind, rim of light tracing edges, slight veil, separation from background."
+  ],
+  "when": [
+   "Use it to separate a dark figure from a dark world, as in a smoky interior with one high window behind. Do not use it as the only light on a scene that still needs a face."
+  ],
+  "vs": [
+   "Rim light is the thin highlight backlight can produce when tightly flagged. Kicker sits behind and to the side, kissing jaw or shoulder rather than wrapping the whole outline.",
+   "Silhouette exposes for the bright ground and lets the figure go black. Volumetric light needs haze so the beam, not just the rim, is visible.",
+   "Hair light is backlight aimed only at the hair."
+  ],
+  "examples_film": [
+   "Blade Runner cuts searchlights through smoky interiors so backlight becomes architecture. The Exorcist uses a powerful house light behind Merrin as he arrives.",
+   "Days of Heaven and Blade Runner 2049 keep the sun or a hard rear source as the edge that holds a figure in a bright or dusty ground."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a silhouette or a neon stroke. The tell is zero facial exposure, or a cartoon ring disconnected from any lamp.",
+   "Fix it by exposing a little of the key side and attaching the rim to a real rear source."
+  ],
+  "faq": [
+   {
+    "q": "What is backlight in film?",
+    "a": "Light from behind the subject toward the camera. It separates the figure with an edge, and in particles it can show a beam."
+   },
+   {
+    "q": "Backlight vs rim light",
+    "a": "Backlight is the direction. Rim light is the narrow highlight that direction can paint on the outline when the source is flagged tight."
+   },
+   {
+    "q": "When should I use backlight?",
+    "a": "Use it when a dark subject would otherwise merge with a dark background, or when a rear sun or window should halo the figure."
+   },
+   {
+    "q": "How do I prompt backlight for AI image or video?",
+    "a": "Say the lamp or sun is behind the subject, name the edges that catch, and say whether the face stays dark. Add haze only if you want a visible shaft."
+   }
+  ]
+ },
+ {
+  "slug": "blue-hour",
+  "title": "Blue Hour",
+  "zh_title": "蓝调时刻",
+  "narrative": [
+   "Day is gone but the sky still works as a wrap. Cities mix cobalt air with sodium, tungsten, and neon.",
+   "Crime and melancholy exteriors use this mix because faces can be cool while windows go warm. It is the wrong tool if you still want a sun disk raking the ground.",
+   "That is golden hour or late sun. A blue grade on night black is not blue hour.",
+   "You need residual sky luminance."
+  ],
+  "how": [
+   "Expose for the glowing sky as a large, soft, overhead-to-side source, Kelvin high and cool. Add warm practicals (streetlights, windows, signs) as small hard or semi-hard accents.",
+   "Hardness of the wrap is soft; hardness of the lamps is whatever they are. Color contrast is the point: cool ambient versus warm fixtures.",
+   "Prompt: Blue hour wrap on [Subject], deep cobalt sky still glowing, warm practicals kicking in."
+  ],
+  "when": [
+   "Use it when the sun is down but the sky still holds, a city street, a platform, a rooftop. Do not use it for a hard sunset backlight."
+  ],
+  "vs": [
+   "Golden hour still has directional warm sun. Neon practicals often appear inside blue hour as the warm or magenta notes.",
+   "Available light at this time is exactly this mix if you add nothing. Cool blue is a grade; blue hour is a real sky condition.",
+   "Motivated lighting can fake it with large cool overheads plus warm lamps."
+  ],
+  "examples_film": [
+   "Heat and Collateral are built on Los Angeles twilight, digital-friendly cobalt air with sodium and tungsten. Drive uses the same urban mix of residual sky and signs.",
+   "The sky has to still be there."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is golden hour or night-for-night black. The tell is long warm sun shadows, or a sky with no glow.",
+   "Fix it by killing the sun, cooling the wrap, and turning practicals on against a still-bright sky."
+  ],
+  "faq": [
+   {
+    "q": "What is blue hour in film?",
+    "a": "Cool twilight before sunrise or after sunset, with the sun down and the sky still glowing. Warm practicals often contrast with that cool wrap."
+   },
+   {
+    "q": "Blue hour vs golden hour",
+    "a": "Blue hour has no hard sun and a cool sky. Golden hour has the sun just above the horizon as a warm directional source with long shadows."
+   },
+   {
+    "q": "When should I use blue hour?",
+    "a": "Use it for urban or exterior twilight when the sky still works and lamps are coming on. Skip it if you need raking sun."
+   },
+   {
+    "q": "How do I prompt blue hour for AI image or video?",
+    "a": "Specify a deep cobalt sky still glowing, no sun disk, warm practicals kicking in. Soft cool wrap plus small warm fixtures."
+   }
+  ]
+ },
+ {
+  "slug": "bounce-light",
+  "title": "Bounce Light",
+  "zh_title": "反射光",
+  "narrative": [
+   "You keep a window side or a lamp side without the brutality of the bare source. Faces wrap, rooms feel inhabited, and the key still has a direction because the bounce surface occupies a place in the world.",
+   "Period interiors and daylight rooms use it so skin does not speckle. It is the wrong tool when you need razor shadows, a gobo pattern, or a hard split.",
+   "Bounce is a method, not a facial pattern: it is not Rembrandt , not split , not butterfly . Those patterns die if you bounce too much."
+  ],
+  "how": [
+   "Aim a lamp or the sun at a white or neutral surface, then let that surface light the subject. Larger and closer bounce means softer light.",
+   "Color picks up the bounce surface: white stays honest, a cream wall warms, a green wall will tint. The key side is the side of the bounce, not the lamp behind it.",
+   "Prompt: Bounce light on [Subject], key ricocheted off a white wall or poly, wrapping, gentle, large-source softness."
+  ],
+  "when": [
+   "Use it to soften without losing direction, a face by a white wall, a ceiling bounce in a low room. Do not bounce when you need a crisp nose shadow or projected blinds."
+  ],
+  "vs": [
+   "Soft light can also come from a large silk in line with the lamp; bounce specifically reflects first. Window light is often bounced by walls after entering.",
+   "Fill light is a job bounce often performs. Motivated lighting may use bounce to imitate a wall the story has.",
+   "Hard light is the quality bounce destroys."
+  ],
+  "examples_film": [
+   "Cries and Whispers uses wrap from walls and rooms so faces glow without a hard edge. The Tree of Life often lets sun hit interiors and bounce into skin.",
+   "The method is the ricochet, not a filter named soft."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a bare hard key or a frontal silk that is not a bounce. The tell is razor nose shadows, or a source that still looks small.",
+   "Fix it by making the last surface before the face a large wall or board, and by naming that surface."
+  ],
+  "faq": [
+   {
+    "q": "What is bounce light in film?",
+    "a": "Light that hits a surface and then the subject. The surface becomes a large, softer source while keeping some direction."
+   },
+   {
+    "q": "Bounce light vs soft light",
+    "a": "Soft light is the quality (large apparent source). Bounce is one method of getting that quality, by reflecting off a wall, ceiling, or board."
+   },
+   {
+    "q": "When should I use bounce light?",
+    "a": "Use it when you want wrap and gentle shadows without losing which side is keyed. Skip it for hard graphic shadow."
+   },
+   {
+    "q": "How do I prompt bounce light for AI image or video?",
+    "a": "Say the key ricochets off a white wall or poly before hitting the subject. Name the bounce side and the wrap. No small bare source on the face."
+   }
+  ]
+ },
+ {
+  "slug": "broad-lighting",
+  "title": "Broad Lighting",
+  "zh_title": "宽面光",
+  "narrative": [
+   "Someone is presenting themselves: a speech, a studio comic, a star who must be fully available to the lens. The camera-facing plane carries the exposure, so pores and expression on that cheek are easy to read.",
+   "It is the wrong tool for menace, secrecy, or a slimming portrait on a wide face. Broad is not high-key; you can still have a dark room.",
+   "The definition is only which cheek is near and lit."
+  ],
+  "how": [
+   "Turn the face or swing the key so the camera-facing cheek takes the key, often 30 to 45 degrees off a near-frontal axis. Fill can be generous.",
+   "Hardness is often softer than noir short lighting. Color is whatever the public space is: daylight, studio tungsten, a bright practical.",
+   "Prompt: Broad lighting on [Subject], the camera-facing side keyed, open and public, less shadow on the near cheek."
+  ],
+  "when": [
+   "Use it for an open, readable portrait, a public figure, a comic close-up. Do not use it when the near cheek should be the secret."
+  ],
+  "vs": [
+   "Short lighting is the reverse: far cheek keyed, near cheek dark. High-key lighting is overall contrast, which often pairs with broad but is not the same job.",
+   "Butterfly lighting is on-axis, so neither cheek is favored. Loop lighting can be executed broad or short depending on head turn."
+  ],
+  "examples_film": [
+   "Classical portraiture and studio comedy close-ups, including open faces in Roman Holiday and Singin' in the Rain, key the near cheek so the public can have the person. The shadow, if any, lives on the far side."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is short lighting . The tell is a dark near cheek and a bright far sliver.",
+   "Fix it by turning the key onto the camera-facing side or turning the face toward the key."
+  ],
+  "faq": [
+   {
+    "q": "What is broad lighting in film?",
+    "a": "Lighting the side of the face turned toward camera. The near cheek is bright; the shadow sits farther away."
+   },
+   {
+    "q": "Broad lighting vs short lighting",
+    "a": "Broad keys the near cheek and feels open. Short keys the far cheek and puts mystery on the camera side."
+   },
+   {
+    "q": "When should I use broad lighting?",
+    "a": "Use it when a face should feel public and easy to read. Skip it when you want sculpture and withheld information."
+   },
+   {
+    "q": "How do I prompt broad lighting for AI image or video?",
+    "a": "Specify the camera-facing side keyed, open near cheek, less shadow on the plane closest to camera."
+   }
+  ]
+ },
+ {
+  "slug": "butterfly-lighting",
+  "title": "Butterfly Lighting",
+  "zh_title": "蝴蝶光",
+  "narrative": [
+   "This is beauty lighting with a structure: cheekbones lift, the nose has a tidy shadow, and the face stays symmetrical for the lens. Classical glamour portraits used it because a star looking into camera still has modeling, not a flat flash.",
+   "It is the wrong tool for a liar in half-light, a bruised antihero, or anyone whose story is asymmetry. If you swing the key off axis, the butterfly becomes a loop .",
+   "If you raise it to the ceiling and kill the frontal component, you get top light sockets."
+  ],
+  "how": [
+   "Center a large or medium source above the lens, aimed down at the face, high enough for the under-nose shadow but not so high the eye sockets collapse. A reflector under the chin is optional fill.",
+   "Hardness is usually soft to medium so skin wraps. Color is often tungsten or daylight beauty-neutral, not a green overhead.",
+   "Prompt: Key light high and centered on [Subject]'s face, a small shadow under the nose on the philtrum, both eyes open, glamour portrait."
+  ],
+  "when": [
+   "Use it for a glamour close-up, a singer facing camera, a studio beauty still. Do not use it on a crime profile that should be short-lit."
+  ],
+  "vs": [
+   "Loop lighting moves the key slightly off axis so the nose shadow slides toward the mouth corner. Rembrandt lighting is further off and higher, with a cheek triangle.",
+   "Glam is the broader beauty package (diffusion, catchlights) that often uses butterfly but does not have to. High-key lighting is frame contrast, not this nose-shadow pattern.",
+   "Top light is overhead enough to bury the eyes."
+  ],
+  "examples_film": [
+   "Classic Hollywood glamour, including Paramount-style portraits and films such as Gilda and Shanghai Express, parks the key high and frontal so the butterfly sits under the nose. The face stays a product the camera can sell."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is loop or top light . The tell is a nose shadow that leans to one side, or hollow eyes.",
+   "Fix it by centering the key and lowering it until sockets open and the butterfly sits on the philtrum."
+  ],
+  "faq": [
+   {
+    "q": "What is butterfly lighting in film?",
+    "a": "A high, on-axis key that throws a small butterfly-shaped shadow under the nose. Both cheeks and both eyes stay lit. It is also called Paramount lighting."
+   },
+   {
+    "q": "Butterfly lighting vs loop lighting",
+    "a": "Butterfly keeps the key centered; the nose shadow sits under the septum. Loop offsets the key so the shadow becomes a small loop toward the mouth, still not touching the cheek shadow."
+   },
+   {
+    "q": "When should I use butterfly lighting?",
+    "a": "Use it for glamour and frontal beauty with a little structure. Skip it when the face should be secretive or half in shadow."
+   },
+   {
+    "q": "How do I prompt butterfly lighting for AI image or video?",
+    "a": "Put the key high and centered. Ask for a small shadow under the nose on the philtrum, both eyes open, both cheeks lit."
+   }
+  ]
+ },
+ {
+  "slug": "cameo-lighting",
+  "title": "Cameo Lighting",
+  "zh_title": "浮雕光",
+  "narrative": [
+   "Erase the world, keep the person. Theatre-to-screen work, interrogation, and some comic-book night use a pool that does not describe architecture.",
+   "The audience gets a bust or a full figure as if cut from a void. It is the wrong tool when geography is the plot, or when you still want rain, furniture, and city in the frame.",
+   "If the figure is also unmodeled and the ground is bright, you have a silhouette , the inverse. If a hard circle with a visible edge is the point, prefer spotlight ."
+  ],
+  "how": [
+   "Key the subject (any portrait pattern) and kill all ambient and bounce with black wrap, distance, and flags. The background goes underexposed to black, not to a dimly readable room ( low-key can still imply walls).",
+   "Hardness and color are free; isolation is the job. Prompt: Cameo lighting on [Subject], figure isolated in a pool against a black void, theatrical isolation, no environment."
+  ],
+  "when": [
+   "Use it when the world should vanish and the person remain, a confession, a stage aside. Do not use it for a chase that needs corridors."
+  ],
+  "vs": [
+   "Spotlight is a hard-edged theatrical pool from a focused instrument. Cameo is the isolation result, which can use a softer key.",
+   "Low-key lighting still allows a dark room to exist. High-key lighting is the opposite field.",
+   "Epiphany is a change of light timed to thought, not a static void. Silhouette puts a dark figure on a bright field."
+  ],
+  "examples_film": [
+   "The Batman isolates figures in pools against withheld environments. Stage-to-screen work, including dark-stage passages in Birdman , treats the actor as a cutout in black.",
+   "The Elephant Man also parks bodies in isolated pools. The set is missing on purpose."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is low-key with a still-visible room, or silhouette . The tell is furniture in the dark, or an unlit figure on a bright ground.",
+   "Fix it by exposing the person and letting the background go truly black."
+  ],
+  "faq": [
+   {
+    "q": "What is cameo lighting in film?",
+    "a": "A lit, modeled subject isolated against a predominantly dark or black environment. The world is withheld; the figure remains."
+   },
+   {
+    "q": "Cameo lighting vs spotlight",
+    "a": "Cameo is the isolation: figure on void. A spotlight is a focused hard pool with a visible circle, one way of making a cameo, not the only way."
+   },
+   {
+    "q": "When should I use cameo lighting?",
+    "a": "Use it when the person is the only geography that matters. Skip it when the room, street, or weather must remain."
+   },
+   {
+    "q": "How do I prompt cameo lighting for AI image or video?",
+    "a": "Isolate the figure in a pool against a black void, no environment, face still modeled. Not a silhouette and not a dim but readable room."
+   }
+  ]
+ },
+ {
+  "slug": "candlelight",
+  "title": "Candlelight",
+  "zh_title": "烛光",
+  "narrative": [
+   "Period night and ritual live on this physics: people lean in because the light does not travel. A card table, a vigil, a cabin: faces emerge from the room instead of being separately lit for the viewer.",
+   "Darkness stays as lived space. It is the wrong tool for a wide court that must stay evenly readable, or for a modern kitchen.",
+   "Not every period film used only candles; Barry Lyndon 's approach is specifically documented, often with fast lenses and sometimes hidden augmentation matched to the flame."
+  ],
+  "how": [
+   "Cluster real or LED candles close to faces. The apparent source is small, so shadows are fairly hard, but multiple flames wrap a little.",
+   "Falloff is steep (inverse square from a tiny source). Color is deep warm, well below tungsten.",
+   "If the cluster sits below the chin you will also get some underlighting ; if it sits at eye height it is a small frontal or three-quarter key. Prompt: Candlelight on [Subject], warm 1800K flicker, faces carved by flame, deep falloff."
+  ],
+  "when": [
+   "Use it for period night or ritual, a table of cards, a prayer. Do not claim a huge hall is only candles if you have even, modern fill."
+  ],
+  "vs": [
+   "Practical lighting is the broader class; candle is the small flame subset. Underlighting is direction, which a low candle can cause.",
+   "Motivated lighting may hide units that match 1800K along the same throw. Chiaroscuro is the contrast language this falloff often creates.",
+   "Glam will fight the falloff."
+  ],
+  "examples_film": [
+   "Barry Lyndon is the documented candlelit card-table and evening interior, with fast optics and credible falloff. The Witch keeps flame as the logic of night in a dark New England.",
+   "Faces fade with distance from the cluster."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a tungsten wash or underlighting from a big movie lamp. The tell is even exposure ten feet from the candle, or a single huge orange gel.",
+   "Fix it by making falloff rapid and keeping color at flame Kelvin."
+  ],
+  "faq": [
+   {
+    "q": "What is candlelight in film?",
+    "a": "A small warm flame source with rapid falloff and flicker. Faces near the flame are modeled; the rest of the room can go dark."
+   },
+   {
+    "q": "Candlelight vs underlighting",
+    "a": "Candlelight is the source type. Underlighting is a direction from below. A candle under the chin underlights; a candle at eye height keys from the front or side."
+   },
+   {
+    "q": "When should I use candlelight?",
+    "a": "Use it for period night, vigils, and tables where people must lean toward the flame. Skip it for even modern interiors."
+   },
+   {
+    "q": "How do I prompt candlelight for AI image or video?",
+    "a": "Specify warm 1800K flicker, faces carved by flame, deep falloff. Cluster candles close. No bright modern fill."
+   }
+  ]
+ },
+ {
+  "slug": "chiaroscuro",
+  "title": "Chiaroscuro",
+  "zh_title": "明暗对照法",
+  "narrative": [
+   "A single warm source, a face turning into light, the rest of the room falling away: the audience reads character as a matter of what remains visible. Tenebrism is the hard end of this, where everything beyond arm's reach is black.",
+   "Crime, period night, and religious doubt all use the same physics. It is the wrong tool for a wide that must describe architecture, or for comedy that needs a second face in the shadows.",
+   "Underexposing an even room is not chiaroscuro. You have to place a key and let falloff do the cutting."
+  ],
+  "how": [
+   "Place one motivated key (window, lamp, candle), reduce fill, and flag spill. The key is often warm, slightly high, and small enough to fall off fast.",
+   "Hardness can be moderately hard so planes of the face turn quickly. Keep enough separation that eyes and hands in the pool stay legible.",
+   "Prompt: Chiaroscuro lighting on [Subject], Caravaggio tenebrism, a single warm source, everything beyond arm's reach falling into black."
+  ],
+  "when": [
+   "Use it when light is moral and darkness hides or judges, for example a confession across a desk lamp. Do not use it as a global grade on a daylight street."
+  ],
+  "vs": [
+   "Low-key lighting is the broader contrast strategy; chiaroscuro insists on modeled volume, not just a dark frame. Rembrandt lighting is a specific cheek-triangle pattern that often lives inside chiaroscuro.",
+   "Cameo lighting isolates against void and may flatten the world to a stage cutout. Hard light helps the cut but is not required if falloff is steep."
+  ],
+  "examples_film": [
+   "The Godfather 's dark office against the wedding outside is textbook withholding. The Third Man uses Vienna night so figures appear and vanish in designed dark.",
+   "Barry Lyndon and The Night of the Hunter both let a single source model faces while the room dies."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is muddy underexposure. The tell is no key direction and featureless blacks.",
+   "Fix it by placing one warm source, flagging bounce, and exposing the lit planes."
+  ],
+  "faq": [
+   {
+    "q": "What is chiaroscuro in film?",
+    "a": "Strong light-dark contrast used to model volume and to create tension. Selected areas are lit; substantial parts of the image stay dark on purpose."
+   },
+   {
+    "q": "Chiaroscuro vs Rembrandt lighting",
+    "a": "Chiaroscuro is the overall contrast language. Rembrandt lighting is a portrait pattern: a triangle of light on the shadow-side cheek."
+   },
+   {
+    "q": "When should I use chiaroscuro?",
+    "a": "Use it when what is hidden matters as much as what is shown: confession, crime, night bargains. Skip it when the whole room must read."
+   },
+   {
+    "q": "How do I prompt chiaroscuro for AI image or video?",
+    "a": "Specify a single warm source, faces modeled, everything beyond arm's reach falling into black. No extra fill, no even room tone."
+   }
+  ]
+ },
+ {
+  "slug": "cross-lighting",
+  "title": "Cross Lighting",
+  "zh_title": "交叉光",
+  "narrative": [
+   "Two moral sources, or just two people who both need a face. Sweat on a drummer, a duet, a fight: edges appear on both sides because each lamp is someone else's key.",
+   "Theatrical energy comes from the dual rims, not from smoke alone. It is the wrong tool for a single-source room, a motivated night interior with one lamp, or a true split on one face.",
+   "If both keys are equally frontal you have flattened the pair. If only one side is keyed, you are back to side lighting ."
+  ],
+  "how": [
+   "Place two keys roughly opposite, each about 70 to 110 degrees off the camera-subject axis, often slightly back so they rim as well as key. Hardness is often hard for concerts, softer for dialogue.",
+   "Color may match, or each side can carry a different gel (warm versus cool) as two worlds. Flag them off the lens.",
+   "Prompt: Cross lighting on [Subject] from two opposing keys, dual rims, theatrical or concert edges on both sides."
+  ],
+  "when": [
+   "Use it for stage, sweat, or two people who each need a key from the other's side. Do not use it in a one-lamp apartment unless you want that apartment to feel like a concert."
+  ],
+  "vs": [
+   "Side lighting is one direction. Rim light is a thin rear edge, not a second key.",
+   "Kicker is a single far-side accent. Three-point lighting uses key, fill, and back, not two opposing keys.",
+   "Split is one face cut by one key."
+  ],
+  "examples_film": [
+   "Whiplash cross-lights the band so rims and sweat read from both sides. Concert films and stage sequences in A Star Is Born use opposing keys as the grammar of performance.",
+   "Two sources, two edges."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is one side key or a frontal pair of fills. The tell is one rim only, or two flat cheeks.",
+   "Fix it by parking hard or medium keys opposite each other, slightly back, and letting each throw a far edge."
+  ],
+  "faq": [
+   {
+    "q": "What is cross lighting in film?",
+    "a": "Lighting from opposite sides so a subject or a pair gets keys (and often rims) from both directions. Common in dialogue, stage, and concerts."
+   },
+   {
+    "q": "Cross lighting vs side lighting",
+    "a": "Side lighting is one 90-degree key. Cross lighting is two opposing keys, so both sides of the body or both people have an edge."
+   },
+   {
+    "q": "When should I use cross lighting?",
+    "a": "Use it for stage, concerts, or two-handed coverage that must key both faces. Skip it for a single motivated lamp."
+   },
+   {
+    "q": "How do I prompt cross lighting for AI image or video?",
+    "a": "Specify two opposing keys and dual rims. Name hardness and any color split. Not a single-side face cut."
+   }
+  ]
+ },
+ {
+  "slug": "dappled-light",
+  "title": "Dappled Light",
+  "zh_title": "斑驳光",
+  "narrative": [
+   "A tree writes on a coat. Jungle, orchard, and bedroom blinds turn a person into a field of spots.",
+   "Nature or architecture becomes the gobo without looking designed as a logo. It is the wrong tool for a clean beauty close-up or a graphic prison-bar statement.",
+   "If the pattern is a crisp logo or perfectly parallel slats, you have shifted toward gobo lighting . Dappled wants irregular leaf-shaped or caustic patches."
+  ],
+  "how": [
+   "You need a relatively hard sun or lamp, plus an obstructing layer (leaves, a tree, water surface, dirty glass) between source and subject. Distance from gobo to subject controls softness of the patches.",
+   "Color is usually daylight. Wind or water makes the patches crawl.",
+   "Prompt: Sun through leaves on [Subject], irregular patches of brightness and leaf-shaped shadows on coat and horse, a real tree overhead."
+  ],
+  "when": [
+   "Use it when nature or blinds should break the key, a forest walk, a siesta under a tree. Do not use a clean unobstructed key and then paint spots in post as stickers."
+  ],
+  "vs": [
+   "Gobo lighting is the designed version: a cucoloris, bars, or blinds placed to write a graphic. Dappled is irregular and usually natural.",
+   "Hard light is required for sharp patches. Window light through trees outside can be dappled.",
+   "Volumetric light shows beams in air; dappled shows patches on surfaces."
+  ],
+  "examples_film": [
+   "The Thin Red Line lets jungle canopy break sun on soldiers. Moonlight uses broken daylight and night sources so bodies carry irregular patches.",
+   "The obstruction is real, not a texture overlay."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a clean key or a designed gobo of bars. The tell is even skin, or perfectly parallel slats.",
+   "Fix it by putting a real tree, water, or irregular foliage in a hard beam."
+  ],
+  "faq": [
+   {
+    "q": "What is dappled light in film?",
+    "a": "Broken patches of light and shadow from foliage, water, or similar irregular obstruction in a hard beam. The pattern is organic."
+   },
+   {
+    "q": "Dappled light vs gobo lighting",
+    "a": "Dappled is irregular, usually from nature. Gobo lighting places a designed pattern (cucoloris, blinds, bars) in the beam to throw a graphic."
+   },
+   {
+    "q": "When should I use dappled light?",
+    "a": "Use it under trees, by water, or through messy glass when the world should break the key. Skip it for clean glamour or a prison-bar statement."
+   },
+   {
+    "q": "How do I prompt dappled light for AI image or video?",
+    "a": "Put a real tree or irregular obstruction in hard sun. Ask for leaf-shaped or caustic patches on cloth and skin, not a clean key and not parallel bars."
+   }
+  ]
+ },
+ {
+  "slug": "epiphany",
+  "title": "Epiphany",
+  "zh_title": "顿悟光",
+  "narrative": [
+   "Thought becomes visible. A dim interior, a forest, a chapel: something shifts (a cloud, a door, a hidden unit, a match) and the face takes the key as if the idea switched a lamp.",
+   "Spiritual and interior films use the change; the audience reads insight as exposure. It is the wrong tool for a whole scene that is merely pretty, or for a jump scare flash.",
+   "If the pool never changes, you have cameo or a static shaft. If the beam is only atmosphere, you have volumetric light without a thought."
+  ],
+  "how": [
+   "Start under, then raise a motivated source on the face: sun through cloud, a door opening, a practical turned up, a flagged unit revealed. Direction often comes from above or behind so it can feel given rather than a frontal beauty key.",
+   "Hardness can be soft wrap or a sudden shaft; color often goes warmer or clearer than the preceding gloom. In video, the change is the shot.",
+   "Prompt: Epiphany light on [Subject], a sudden intelligible brightness, as if the thought itself switched a lamp. Motion: Light finds [Subject] as a realization lands, the face becoming the brightest fact in the room."
+  ],
+  "when": [
+   "Use it when understanding should be visible, a decision, a grace, a confession that lands. Do not use a random brightness bump with no story cause."
+  ],
+  "vs": [
+   "Cameo lighting isolates a figure in a static pool. Volumetric light shows beams in air; epiphany may use that, but the job is the timed change on a face.",
+   "Spotlight is a theatrical instrument, not necessarily a thought. High-key is a whole-frame ratio, not a reveal."
+  ],
+  "examples_film": [
+   "The Tree of Life lets sun and interior light arrive as if attention itself brightened. Silence uses sudden or given light on faces at moments of spiritual crisis.",
+   "The grammar is the change, not a lens flare sticker."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a static cameo or a decorative volumetric shaft. The tell is no change, or brightness with no cause.",
+   "Fix it by starting darker and letting a motivated source find the face at the thought."
+  ],
+  "faq": [
+   {
+    "q": "What is epiphany in film?",
+    "a": "A lighting change that makes a person suddenly the brightest readable fact as a realization lands. The light is timed to understanding."
+   },
+   {
+    "q": "Epiphany vs cameo lighting",
+    "a": "Cameo is a static isolated pool on a dark ground. Epiphany is a change: light finds the face because a thought arrives, often from a motivated source."
+   },
+   {
+    "q": "When should I use epiphany lighting?",
+    "a": "Use it when a decision or insight should be visible in exposure. Skip it as decoration on a scene with no inner turn."
+   },
+   {
+    "q": "How do I prompt epiphany for AI image or video?",
+    "a": "Describe a sudden intelligible brightness on the face as a realization lands. In video, start dimmer and let light find the subject. Name the cause."
+   }
+  ]
+ },
+ {
+  "slug": "eye-light",
+  "title": "Eye Light",
+  "zh_title": "眼神光",
+  "narrative": [
+   "A dark portrait dies if the sockets are empty pits with no specular. A tiny reflection of a lamp in each iris tells you there is a person looking.",
+   "Crime close-ups and night interrogations use it so the audience can track thought while the room stays black. It is the wrong tool when you need to open a whole cheek (that is fill ) or when the character should feel blind, dead, or monstrous.",
+   "If the eyes glow, the model has turned the catchlight into an emitter."
+  ],
+  "how": [
+   "Place a small, weak source near camera, often just above the lens, dim enough that it does not flatten the key's shadow pattern. A white card, a dim LED, or a distant practical can be enough.",
+   "Color is usually white or matching the key; keep it out of the skin as much as possible. You want a pinpoint in the iris, not a beauty wash.",
+   "Prompt: A dark portrait of [Subject], face mostly in shadow, a tiny white reflection of a lamp sitting in each human iris. Eyes stay brown or grey, not glowing."
+  ],
+  "when": [
+   "Use it to keep a soul in a dark portrait, for example a close-up where the key leaves the eyes in wells. Do not turn the pupils into light sources."
+  ],
+  "vs": [
+   "Fill light opens the whole shadow cheek. Key light shapes the face.",
+   "Low-key lighting is the contrast environment that often needs an eye light. Top light without an eye light leaves sockets hollow on purpose."
+  ],
+  "examples_film": [
+   "The Godfather sometimes withholds even this glint, which is why a tiny eye light in other Gordon Willis-adjacent close-ups feels like a choice. No Country for Old Men keeps dark rooms with human catchlights, not shining irises.",
+   "Use the physics: a reflection, not an emission."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is fill or supernatural glowing eyes. The tell is an opened face, or irises emitting light.",
+   "Fix it by dimming the frontal source to a catchlight and stating eye color as a surface."
+  ],
+  "faq": [
+   {
+    "q": "What is an eye light in film?",
+    "a": "A small frontal source that creates catchlights in the irises or slightly lifts the eyes. It does not relight the face."
+   },
+   {
+    "q": "Eye light vs fill light",
+    "a": "Fill opens the shadow side of the whole face. An eye light is smaller and only puts a specular in the eyes, or a whisper of exposure there."
+   },
+   {
+    "q": "When should I use an eye light?",
+    "a": "Use it in a dark portrait when the audience must still meet the gaze. Skip it when empty sockets are the point."
+   },
+   {
+    "q": "How do I prompt an eye light for AI image or video?",
+    "a": "Describe a tiny white lamp reflection in each human iris, face remaining in shadow, eyes a natural brown or grey, not glowing."
+   }
+  ]
+ },
+ {
+  "slug": "fill-light",
+  "title": "Fill Light",
+  "zh_title": "辅光",
+  "narrative": [
+   "In a scene fill decides how much of the dark you can still read: the far eye, the wall, a hand in a lap. A high fill ratio (close to the key) feels open and public.",
+   "A low fill ratio keeps mystery without crushing the face to a cut-out. It is the wrong tool when you want graphic black, or when bounce from the room already does the job.",
+   "Adding a frontal fill because a monitor looks noisy just flattens the key you spent an hour placing."
+  ],
+  "how": [
+   "Put fill opposite the key, larger and softer than the key so it does not cast a competing nose shadow. Control it with distance, scrim, or dimmer; common portrait ratios run from about 2:1 (gentle) to 8:1 (lean).",
+   "Color is often a touch cooler or neutral versus a warm key so the shadow side does not go orange. Bounce off a wall can be the fill with no extra lamp.",
+   "Prompt: Soft fill light opening the shadow side of [Subject] without flattening, a low ratio that keeps eyes alive."
+  ],
+  "when": [
+   "Use it when a keyed close-up still needs the far iris and cheek pore, for example an interview after a hard window key. Do not pour fill in until both cheeks match."
+  ],
+  "vs": [
+   "The key light sets direction; fill only answers it. Bounce light is a method that often becomes fill.",
+   "High-key lighting uses a lot of fill across the whole frame, not a single cheek opener. Eye light is smaller still: a catchlight, not a shadow-side wash."
+  ],
+  "examples_film": [
+   "Classical portrait cinematography , including close-ups in Casablanca, keeps enough fill for both eyes without erasing the key. The Age of Innocence uses soft interior fill so period rooms stay readable while lamps still feel like the source.",
+   "Borrow the ratio, not the wallpaper."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a second key from camera right. The tell is a second nose shadow or a shadowless face.",
+   "Fix it by making fill larger, dimmer, and shadowless, or by bouncing it."
+  ],
+  "faq": [
+   {
+    "q": "What is fill light in film?",
+    "a": "Light that reduces contrast or adds detail where the key does not reach. It is dimmer and usually softer than the key."
+   },
+   {
+    "q": "Fill light vs bounce light",
+    "a": "Fill is the job (open the shadows). Bounce is a method (reflect the key off a surface) that often performs that job."
+   },
+   {
+    "q": "When should I use fill light?",
+    "a": "Use it when the keyed shadow side must stay readable. Skip it when the story wants deep, clean shadow."
+   },
+   {
+    "q": "How do I prompt fill light for AI image or video?",
+    "a": "Name the shadow side and a low ratio. Example: soft fill on camera right, two stops under the key, eyes still visible, cheeks not even."
+   }
+  ]
+ },
+ {
+  "slug": "glam",
+  "title": "Glam",
+  "zh_title": "魅力光",
+  "narrative": [
+   "Fashion, stardom, a singer at a mirror: pores calm down, eyes live, the face is a product the camera can love. The key is large, often slightly high, and fill is generous enough that neither cheek dies.",
+   "It is the wrong tool for grit, illness, or a liar in a dark bar. Glam is not butterfly by default (butterfly is the Paramount nose shadow; glam can be loop or almost frontal).",
+   "It is not high-key unless the whole set is also bright. It is not generic soft light ; a large side key can be soft and still un-glamorous."
+  ],
+  "how": [
+   "Use a large source near camera, slightly above the lens, with optional bounce below so sockets do not hole. Hardness is soft.",
+   "Color is beauty-neutral or slightly warm (tungsten or daylight, not sick green). Add a weak hair edge if the set is dark.",
+   "Diffusion on the lens or source keeps speculars kind. Catchlights should sit in the irises as lamps, not grids projected on the face.",
+   "Prompt: Soft beauty key on [Subject], large source, catchlights inside the eyes, a little diffusion on skin. No projected squares or grids on the face."
+  ],
+  "when": [
+   "Use it to sell the face, a star close-up, a beauty still, a romantic hero the story wants us to want. Do not use it on a corpse, a boxing cut, or a documentary interview that should look found."
+  ],
+  "vs": [
+   "Butterfly lighting is a specific high on-axis nose shadow often used inside glam. Soft light is only hardness.",
+   "High-key lighting is frame contrast. Eye light is the catchlight subset.",
+   "Three-point lighting can be glamorous if the key is large and frontal enough, but three-point includes a back that glam may skip. Naturalistic ambient hides this package on purpose."
+  ],
+  "examples_film": [
+   "A Star Is Born (both the concert close-ups and the makeover grammar) uses large beauty keys when stardom is the product. Fashion films and work in the neighborhood of Carol or Phantom Thread sell faces with size, catchlights, and controlled skin, then withdraw the package when the story turns ugly."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is butterfly with a small hard source, or a grid of catchlights printed on the skin. The tell is a razor nose shadow, hollow sockets, or square projections on the cheeks.",
+   "Fix it by enlarging the key, moving it near the lens, and keeping catchlights inside the irises only."
+  ],
+  "faq": [
+   {
+    "q": "What is glam in film?",
+    "a": "A large beauty key with catchlights and slight diffusion, designed to sell the face. It is a package of source size and placement, not a mood word."
+   },
+   {
+    "q": "Glam vs butterfly lighting",
+    "a": "Butterfly is a high, on-axis key that makes a small shadow under the nose. Glam often uses that pattern but can be a large near-frontal key without a strict butterfly. Glam also includes catchlights and skin diffusion."
+   },
+   {
+    "q": "When should I use glam lighting?",
+    "a": "Use it when the face is the product: fashion, stardom, romance the story wants to sell. Skip it for grit, horror, and found documentary."
+   },
+   {
+    "q": "How do I prompt glam for AI image or video?",
+    "a": "Specify a large soft beauty key, catchlights inside the eyes, a little diffusion on skin, no projected grids on the face. Keep the key near camera."
+   }
+  ]
+ },
+ {
+  "slug": "gobo-lighting",
+  "title": "Gobo Lighting",
+  "zh_title": "图案投影光",
+  "narrative": [
+   "Venetian blinds, bars, branches cut as a design, a fan, a grille: the character wears the architecture. Noir and political interiors use it so a man is already in a cage before anyone speaks.",
+   "It is the wrong tool for invisible naturalism, or for random leaf scatter you do not want to look designed. If the pattern is irregular canopy, prefer dappled light .",
+   "Gobos need a hard enough source to stay readable."
+  ],
+  "how": [
+   "Put a hard, small source through slats, a cut cucoloris, or a metal gobo in a fixture. Distance from pattern to subject sets how sharp the shadows are.",
+   "Key side is wherever that lamp sits, often high and off axis. Color is often white moonlight gel or hard tungsten.",
+   "Flag spill so the pattern is not washed out. Prompt: Gobo-patterned light on [Subject], venetian blinds, bars, or branches throwing graphic shadows across face and wall."
+  ],
+  "when": [
+   "Use it when the room should write on the person, blinds on a liar, bars on a prisoner. Do not use it as default texture on every close-up."
+  ],
+  "vs": [
+   "Dappled light is irregular and natural. Hard light is the quality a gobo needs.",
+   "Window light through blinds is a motivated gobo. Split lighting is a half-face cut without a pattern.",
+   "Film noir is a genre look that often employs this tool."
+  ],
+  "examples_film": [
+   "The Conformist (Storaro) throws architectural slats and graphic shadows across faces and walls. Classic film noir uses blinds and bars as cages.",
+   "The pattern is placed, not accidental leaf scatter."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is dappled leaf scatter or soft wrap that eats the slats. The tell is fuzzy blobs, or no pattern at all.",
+   "Fix it by hardening the source and putting a real slat or cucoloris in the beam."
+  ],
+  "faq": [
+   {
+    "q": "What is gobo lighting in film?",
+    "a": "A pattern or object placed in a light beam so graphic shadows fall on the subject and the set. Venetian blinds and bars are common."
+   },
+   {
+    "q": "Gobo lighting vs dappled light",
+    "a": "A gobo is a designed obstruction (cucoloris, blinds, bars). Dappled light is irregular, usually from foliage or water."
+   },
+   {
+    "q": "When should I use gobo lighting?",
+    "a": "Use it when architecture should brand the face: blinds, bars, grilles. Skip it for unstyled naturalism."
+   },
+   {
+    "q": "How do I prompt gobo lighting for AI image or video?",
+    "a": "Name blinds, bars, or a cucoloris in a hard beam, graphic shadows on face and wall. Keep the source hard enough for a sharp pattern."
+   }
+  ]
+ },
+ {
+  "slug": "golden-hour",
+  "title": "Golden Hour",
+  "zh_title": "黄金时刻",
+  "narrative": [
+   "You have a short window in which ordinary action looks transient because the sun is leaving or arriving. Faces rake, dust shows, and the sky still has brightness.",
+   "Farms, roads, and childhood exteriors wait on this hour because it will not hold. It is the wrong tool if you need three hours of matching coverage, or if you mean the cool time after the sun is down.",
+   "An orange grade on midday sun is not golden hour. Direct late sun is still a hard-ish source; post-sunset wrap is blue hour or dusk ambient."
+  ],
+  "how": [
+   "Point the scene at the low sun. Backlight is common (warm rim, long ground shadows toward camera); front or side rake also works.",
+   "Hardness is softer than noon because of atmosphere, but shadows remain defined. Color is warm amber, well below midday 5600K.",
+   "Rehearse before the window. Prompt: Golden hour backlight on [Subject], warm amber raking sun, long shadows, horizontal flare."
+  ],
+  "when": [
+   "Use it when the day is ending or beginning and the sun is still up, a last walk, a field, a ridge. Do not use an orange LUT on noon and call it this hour."
+  ],
+  "vs": [
+   "Blue hour is after sunset or before sunrise, cool ambient, no hard sun disk lighting the subject. Available light is the method; golden hour is a specific available condition.",
+   "Backlight is a common placement of this sun. Warm amber is a grade that can fake the hue without the long shadows."
+  ],
+  "examples_film": [
+   "Days of Heaven waited on farm and prairie edges of the day. The Tree of Life uses low-sun childhood passages.",
+   "The Revenant and Call Me by Your Name both treat late or early sun as a scheduled source, not a preset."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is blue hour or an orange midday grade. The tell is a high sun, or a cool sky with no long shadows.",
+   "Fix it by lowering the sun, warming the key, and throwing long shadows."
+  ],
+  "faq": [
+   {
+    "q": "What is golden hour in film?",
+    "a": "Low-angle warm sunlight shortly after sunrise or before sunset. Shadows are long, color is warm, and the window is short."
+   },
+   {
+    "q": "Golden hour vs blue hour",
+    "a": "Golden hour still has the sun above the horizon as a warm directional key. Blue hour is twilight with the sun down, a cool sky, and no hard sunlight."
+   },
+   {
+    "q": "When should I use golden hour?",
+    "a": "Use it for a brief late or early exterior that can accept long shadows and changing light. Skip it if you cannot schedule the window."
+   },
+   {
+    "q": "How do I prompt golden hour for AI image or video?",
+    "a": "Specify warm amber raking sun just above the horizon, long shadows, often as backlight. Not an orange grade on a high sun."
+   }
+  ]
+ },
+ {
+  "slug": "hair-light",
+  "title": "Hair Light",
+  "zh_title": "发丝光",
+  "narrative": [
+   "Black hair, black wardrobe, black set: without a hair light the head becomes a hole. The unit is a separation tool, not a beauty wash.",
+   "Studio portraits and classical close-ups use it so a bun, a wave, or a wet scalp has a specular edge. It is the wrong tool when the story is a hat brim or a bald scalp you do not want to grease, or when a full backlight should wrap shoulders as well.",
+   "If the lamp drops to cheek height it becomes a kicker ."
+  ],
+  "how": [
+   "Mount a small lamp high and behind, slightly opposite the key, snooted or barred so it hits hair and maybe the top of the shoulders only. Hardness is usually harder than the key so strands sparkle.",
+   "Color is often a bit warmer than the face, or matching the key. Keep it out of the eyes.",
+   "Prompt: A small lamp behind and above [Subject], lighting only the top of the hair as a rim. The face stays in cooler shadow."
+  ],
+  "when": [
+   "Use it when dark hair would vanish into a dark wall, for example a brunette in a black interior. Do not use it as a ceiling wash that skims the forehead and noses."
+  ],
+  "vs": [
+   "Backlight can include hair but also shoulders and veil. Rim light runs the whole outline.",
+   "Kicker kisses jaw, not the crown. Three-point lighting often uses a hair light as its back point.",
+   "Glam may include a hair edge, but glam is a frontal beauty package."
+  ],
+  "examples_film": [
+   "Studio portraiture and classical close-ups, including blonde and brunette work in Gentlemen Prefer Blondes and the constructed hair edges in Vertigo , keep a small rear-top unit on the hair. The face still belongs to the key."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a full backlight or a halo. The tell is a glowing oval around the head, or forehead shine from above.",
+   "Fix it by snooting the unit onto hair only and keeping the face on the key."
+  ],
+  "faq": [
+   {
+    "q": "What is a hair light in film?",
+    "a": "A small lamp behind and above the subject that lights hair texture as a rim. It separates dark hair from a dark background without relighting the face."
+   },
+   {
+    "q": "Hair light vs backlight",
+    "a": "A hair light is a restricted backlight aimed at the crown. Backlight may wrap the whole rear edge, including shoulders and atmosphere."
+   },
+   {
+    "q": "When should I use a hair light?",
+    "a": "Use it when black or dark hair would merge with the set. Skip it on hats, bald heads you want matte, or when a full rear rim is the point."
+   },
+   {
+    "q": "How do I prompt a hair light for AI image or video?",
+    "a": "Place a small lamp behind and above, lighting only the top of the hair. Keep the face in the key or in cooler shadow."
+   }
+  ]
+ },
+ {
+  "slug": "hard-light",
+  "title": "Hard Light",
+  "zh_title": "硬光",
+  "narrative": [
+   "Noon sun, a bare bulb, an interrogation lamp: pores, sweat, and brick become graphic. Noir and westerns use it so a hat brim cuts a clean triangle on the face and a body throws a readable double on the wall.",
+   "It is the wrong tool for kindness, memory, or a beauty close-up that should wrap. Hard is not the same as bright, and not the same as low-key .",
+   "You can have a dim hard source in a black room, or a blazing hard sun in a high-key desert."
+  ],
+  "how": [
+   "Use a small source relative to the subject: distant sun, bare tungsten, a focused Fresnel, a snooted LED. Distance makes it harder (smaller apparent size).",
+   "Color is often white daylight or tungsten; gels stay saturated because the source is specular. Pair with flags for gobo patterns.",
+   "Prompt: Hard light on [Subject] from a small distant source, razor shadow edges, texture amplified, noir graphic."
+  ],
+  "when": [
+   "Use it for grit, noon sun, or interrogation, a street at midday, a bulb over a table. Do not use it as default beauty on a romantic close-up."
+  ],
+  "vs": [
+   "Soft light is the opposite quality: large source, gradual edges. Gobo lighting needs hard light to throw a sharp pattern.",
+   "Low-key lighting often uses hard sources but is a ratio. Split lighting often wants a hard 90-degree key.",
+   "Bounce is how you destroy hardness."
+  ],
+  "examples_film": [
+   "The Big Combo and Se7en cut faces and rooms with small, hard sources. Once Upon a Time in the West lets hard sun define hats, dust, and wood.",
+   "The edge of the shadow is the grammar."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is soft light with high contrast. The tell is fuzzy shadow edges on the nose and table.",
+   "Fix it by shrinking the apparent source (remove diffusion, move it farther, or switch to sun and a clear sky)."
+  ],
+  "faq": [
+   {
+    "q": "What is hard light in film?",
+    "a": "Light from a small apparent source that makes crisp shadows and specular texture. Noon sun and a bare bulb are typical."
+   },
+   {
+    "q": "Hard light vs soft light",
+    "a": "Hard: small source, sharp shadow edge, more texture. Soft: large source, gradual shadow edge, more wrap."
+   },
+   {
+    "q": "When should I use hard light?",
+    "a": "Use it for grit, noon, interrogation, or graphic noir. Skip it when the face should be treated kindly."
+   },
+   {
+    "q": "How do I prompt hard light for AI image or video?",
+    "a": "Specify a small distant source, razor shadow edges, amplified texture. No silk, no wrap, no cloudy softness."
+   }
+  ]
+ },
+ {
+  "slug": "high-key",
+  "title": "High-Key Lighting",
+  "zh_title": "高调布光",
+  "narrative": [
+   "Comedy, heaven, hospital, and candy shops live here because the world looks safe, clean, or artificially perfect. Strong colors can still sit in a high-key frame; the shadows simply do not go to black.",
+   "A sour performance inside that brightness can also prove the promise is false. It is the wrong tool for crime, night, or any beat that needs a hiding place.",
+   "Bright is not the same as blown. If every surface is the same white, you lost material and face."
+  ],
+  "how": [
+   "Use large sources, plenty of fill, and often bounce from walls and ceiling so the ratio sits near 2:1 or lower. Key can still have a side; it is just not a cliff.",
+   "Protect highlight detail on skin, icing, walls. Color is often daylight-balanced or pastel-friendly, sometimes slightly cool for sterile spaces, sometimes candy-warm.",
+   "Prompt: High-key lighting on [Subject], bright even illumination, minimal shadows, airy overexposure by a third, optimism or sterile future."
+  ],
+  "when": [
+   "Use it for a comic interior, a showroom, a hospital, or a toy world that should feel open. Do not use it as a synonym for overexposure, and do not use it on a murder scene unless you want irony."
+  ],
+  "vs": [
+   "Low-key lighting is the opposite ratio: selective light and substantial shadow. Soft light is hardness; you can have soft low-key.",
+   "Glam sells a face with a large key but can still sit in a contrasty room. Cameo lighting isolates a figure in black, the reverse of an open high-key world."
+  ],
+  "examples_film": [
+   "The Umbrellas of Cherbourg keeps brightly colored interiors openly lit so romance is artificial and clear. Barbie builds Barbieland as a carefully controlled bright world with preserved highlight detail.",
+   "2001: A Space Odyssey uses high-key Discovery spaces that stay clean rather than crushed. Marie Antoinette often lives in luminous rooms."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is overexposure or soft light in a dark room. The tell is clipped walls, or a bright face in a black void ( cameo ).",
+   "Fix it by lowering contrast across the whole set and holding highlight detail."
+  ],
+  "faq": [
+   {
+    "q": "What is high-key lighting in film?",
+    "a": "A low-contrast, bright setup with limited deep shadow. The scene can still have color and some modeling; it is not automatically overexposed."
+   },
+   {
+    "q": "High-key lighting vs low-key lighting",
+    "a": "High-key keeps the frame open and the ratio low. Low-key uses high contrast and lets most of the frame fall into shadow."
+   },
+   {
+    "q": "When should I use high-key lighting?",
+    "a": "Use it for comedy, sterile spaces, showrooms, or candy-bright worlds. Do not use it when darkness must hide information."
+   },
+   {
+    "q": "How do I prompt high-key lighting for AI image or video?",
+    "a": "Specify bright even illumination, minimal shadows, large sources, and highlight texture preserved. Say overexposure by no more than a third."
+   }
+  ]
+ },
+ {
+  "slug": "key-light",
+  "title": "Key Light",
+  "zh_title": "主光",
+  "narrative": [
+   "Deciding the key is deciding where the world is lit from. A window, a bare bulb, the sun, or a hidden unit standing in for those things will tell the audience what time it is and who is exposed.",
+   "The rest of the plot of the lighting is contrast, color, and whether anyone else gets a face. It is the wrong tool to think of as a product.",
+   "You do not add a key on top of a finished picture. If two equally bright sources fight from opposite sides, you no longer have a key.",
+   "You have cross lighting or a flattened stand-off."
+  ],
+  "how": [
+   "Pick one source and one side. Typical portrait keys sit 30 to 45 degrees off camera and above eye line; a split key sits at 90 degrees; a butterfly key sits on axis and high.",
+   "Hardness follows apparent size: a small distant lamp or noon sun cuts a sharp nose shadow; a large silk or bounce wraps. Color follows the story source: daylight 5600K, tungsten around 3200K, flame nearer 1800K.",
+   "Prompt: Strong directional key light on [Subject] from a single defined source, the brightest light in the frame, shadows placed as composition."
+  ],
+  "when": [
+   "Use it the moment you must say which direction the scene is lit from, for example a don in an office keyed from a high practical. Do not add a second equally bright key on the other cheek."
+  ],
+  "vs": [
+   "Fill light only lifts what the key cannot reach. Hard light and soft light are qualities the key can have, not replacements for it.",
+   "Three-point lighting is a system that includes a key. Motivated lighting decides whether that key could exist in the room."
+  ],
+  "examples_film": [
+   "The Godfather often lets a high, underexposed key leave eyes in wells of shadow. Apocalypse Now uses a hard, small key on faces so the jungle night stays black.",
+   "Those films treat the key as the sentence, not as one of three equal lamps."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is fill bright enough to become a second key. The tell is two nose highlights and no clear shadow side.",
+   "Fix it by dimming or killing the fill until one direction owns exposure."
+  ],
+  "faq": [
+   {
+    "q": "What is key light in film?",
+    "a": "The principal light that defines the subject's dominant direction, shape, and exposure. Other lights are ratios against it."
+   },
+   {
+    "q": "Key light vs fill light",
+    "a": "The key creates the shadow pattern. Fill reduces that contrast without inventing a second dominant direction."
+   },
+   {
+    "q": "When should I use key light?",
+    "a": "Always, in the sense that every lit scene has a brightest story source. Name it first, then decide fill, back, and color."
+   },
+   {
+    "q": "How do I prompt key light for AI image or video?",
+    "a": "State one source, one side, hardness, and color. Example: hard tungsten key from camera left, 45 degrees off axis, no second key."
+   }
+  ]
+ },
+ {
+  "slug": "kicker",
+  "title": "Kicker",
+  "zh_title": "侧逆光",
+  "narrative": [
+   "The far plane of the face suddenly has a strip of glamour or menace. In noir it can be a streetlight kissing the jaw of someone who is otherwise in the key's shadow.",
+   "In a commercial portrait it is the same physics with a kinder color: a small lamp that says the cheek has a plane. It is the wrong tool if you need an even beauty wrap, or if the accent becomes a beam shooting out of the neck.",
+   "One kicker. If you add its twin on the other side you are in cross lighting ."
+  ],
+  "how": [
+   "Park a small hard source behind the subject, 30 to 60 degrees off the back axis, at about cheek height or a little above. Flag it off the camera and off the nose.",
+   "Hardness should be harder than the key so the accent is a clean line. Color is often a step warmer (tungsten, amber practical) against a cooler key, or white against tungsten.",
+   "Prompt: A small warm lamp behind and to the side of [Subject], a thin highlight on the far jaw and coat shoulder only. No beam shooting out of the body."
+  ],
+  "when": [
+   "Use it to add a slice of glamour or menace on the far side of a keyed face, for example a jawline in a night interior. Do not fire kickers from both sides unless you want a concert edge."
+  ],
+  "vs": [
+   "Rim light traces the whole outline and leaves the cheek darker. Backlight sits more directly behind.",
+   "Hair light aims up at the hair, not the jaw. Side lighting keys the face from 90 degrees; a kicker does not become the key."
+  ],
+  "examples_film": [
+   "Film noir portraits, including work in the neighborhood of Double Indemnity and The Big Combo , use a hard far-side kicker on jaw and shoulder. Commercial portraiture borrowed the same accent with softer keys.",
+   "Treat those as a placement, not a costume."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a rim or a light saber from the neck. The tell is a closed outline, or a shaft growing out of the shoulder.",
+   "Fix it by shrinking the source, flagging it, and stopping the highlight on jaw and cloth."
+  ],
+  "faq": [
+   {
+    "q": "What is a kicker in film?",
+    "a": "A relatively hard side-back accent on cheek, jaw, shoulder, or object edge. It sits behind and to the side, and it is not the key."
+   },
+   {
+    "q": "Kicker vs rim light",
+    "a": "A kicker is a localized slash of flesh and cloth. A rim is a thinner outline highlight that does not open the far cheek as much."
+   },
+   {
+    "q": "When should I use a kicker?",
+    "a": "Use it when the far jaw or shoulder needs a hard accent of glamour or threat while the key still owns the face."
+   },
+   {
+    "q": "How do I prompt a kicker for AI image or video?",
+    "a": "Place a small warm lamp behind and to one side. Limit the highlight to far jaw and shoulder. Forbid beams coming out of the body."
+   }
+  ]
+ },
+ {
+  "slug": "loop-lighting",
+  "title": "Loop Lighting",
+  "zh_title": "环形光",
+  "narrative": [
+   "The face is shaped but still friendly: interviews, earnest close-ups, people we are supposed to trust. You get a hint of cheek shadow and a definite nose, without the painterly triangle or the glamour butterfly.",
+   "It is the wrong tool when you need a mask of light and dark, or a fashion-symmetric face. If that loop grows until it joins the cheek, you have crossed into Rembrandt .",
+   "If you center the key, you are back at butterfly ."
+  ],
+  "how": [
+   "Offset the key about 30 to 45 degrees from the nose, slightly above eye line, softness medium so the loop is a clean comma, not a smear. Fill can sit opposite at a gentle ratio (2:1 to 4:1).",
+   "Color is usually the room: window daylight or soft tungsten. The shadow-side cheek still receives some light; that is the difference from Rembrandt.",
+   "Prompt: Loop lighting on [Subject], key slightly off-axis, a small loop shadow from the nose toward the corner of the mouth."
+  ],
+  "when": [
+   "Use it for a natural portrait that is still shaped, an interview, a two-shot that should not look lit. Do not use it when you want a cheek triangle or a half-face cut."
+  ],
+  "vs": [
+   "Rembrandt lighting connects nose shadow to cheek shadow and leaves a triangle. Butterfly lighting is on axis with a philtrum butterfly.",
+   "Split lighting goes to 90 degrees and drops the far cheek. Bounce will wrap the loop away if the source gets too large.",
+   "Motivated lighting may produce a loop from a slightly off window, but the pattern is the geometry, not the justification."
+  ],
+  "examples_film": [
+   "Interview cinematography and news-adjacent films such as Frost/Nixon live on loop because both eyes stay open and the face still has a side. The Social Network 's talking-head grammar often sits here: slightly off keys, not painterly triangles."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Rembrandt or butterfly . The tell is a connected cheek triangle, or a perfectly centered under-nose butterfly.",
+   "Fix it by offsetting the key a little and stopping before the shadows merge."
+  ],
+  "faq": [
+   {
+    "q": "What is loop lighting in film?",
+    "a": "A slightly off-axis key that throws a small loop-shaped nose shadow toward the mouth corner. That shadow does not join the cheek shadow."
+   },
+   {
+    "q": "Loop lighting vs Rembrandt lighting",
+    "a": "Loop leaves a gap between nose shadow and cheek shadow. Rembrandt joins them, creating a triangle of light on the far cheek."
+   },
+   {
+    "q": "When should I use loop lighting?",
+    "a": "Use it for a natural, still-shaped portrait or interview. Skip it when you want glamour symmetry or a dramatic cheek triangle."
+   },
+   {
+    "q": "How do I prompt loop lighting for AI image or video?",
+    "a": "Put the key slightly off axis. Specify a small loop shadow from the nose toward the mouth that does not connect to the cheek shadow."
+   }
+  ]
+ },
+ {
+  "slug": "low-key",
+  "title": "Low-Key Lighting",
+  "zh_title": "低调布光",
+  "narrative": [
+   "Mystery, crime, and moral night live here because the audience cannot see the whole room. A face, a gun, a doorway gets the pool; the rest is withheld.",
+   "The ratio is the story: who is visible, who is not. It is the wrong tool for comedy timing that needs both eyes, or for a location you must geography-read.",
+   "Diming a fully lit office until it is muddy is not low-key. That is just a dark even room."
+  ],
+  "how": [
+   "Place a motivated key, kill bounce with flags and black wrap, and keep fill several stops down (often 8:1 or more). Hardness is frequently hard so shadow edges stay graphic, but soft low-key exists if the source is large and still isolated.",
+   "Color is often tungsten in a black room, or a single cool slash. Prompt: Low-key lighting on [Subject], most of the frame in deep shadow, one pool of light, 8:1 contrast, darkness as a designed space."
+  ],
+  "when": [
+   "Use it for a crime close-up, a night office, a corridor with one practical. Do not underexpose an evenly lit room and call it low-key."
+  ],
+  "vs": [
+   "Chiaroscuro is low-key used to model volume with a painter's moral contrast; not every low-key frame is chiaroscuro. Hard light often serves low-key but is a quality, not the ratio.",
+   "High-key lighting is the opposite. Cameo lighting erases the environment entirely; low-key can still imply a room in the dark."
+  ],
+  "examples_film": [
+   "The Godfather keeps offices in selective pools against the bright wedding outside. The Big Combo and Se7en use high-contrast night as a working space, not a grade slapped on a bright master.",
+   "Borrow the pool and the flags, not a grain preset."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a dark high-key (everything dimmed equally) or crushed blacks with no face. The tell is no key direction.",
+   "Fix it by placing one source and flagging spill, then exposing for that pool."
+  ],
+  "faq": [
+   {
+    "q": "What is low-key lighting in film?",
+    "a": "A high-contrast setup with selective illumination and substantial shadow. Darkness is shaped, not merely underexposed."
+   },
+   {
+    "q": "Low-key lighting vs chiaroscuro",
+    "a": "Low-key is the contrast strategy. Chiaroscuro uses that contrast to model volume and often a moral split between light and dark."
+   },
+   {
+    "q": "When should I use low-key lighting?",
+    "a": "Use it for mystery, crime, or any night that should withhold space. Do not use it when the geography of the room is the joke or the plot."
+   },
+   {
+    "q": "How do I prompt low-key lighting for AI image or video?",
+    "a": "Put most of the frame in deep shadow, name one pool of light, and state a high ratio such as 8:1. Name the single source."
+   }
+  ]
+ },
+ {
+  "slug": "motivated-lighting",
+  "title": "Motivated Lighting",
+  "zh_title": "动机光",
+  "narrative": [
+   "The room feels like a world rather than a studio. A hotel sconce, a kitchen window, a sodium street, an overcast sky: the key could have come from there even if a silk outside the window is doing the real work.",
+   "Control stays; theatricality hides. It is the wrong tool when the point is frankly theatrical (a follow spot, a beauty butterfly that no lamp in the room could throw).",
+   "Motivated is not the same as using only what is already there. That is available light .",
+   "It is also not the same as showing the bulb. That is a practical ."
+  ],
+  "how": [
+   "Choose the story source first. Match camera-side direction to that window or fixture.",
+   "Match hardness: a distant sun stays hard; a sheer curtain becomes a large soft key; a bare bulb stays small. Match color: tungsten practicals around 2800 to 3200K, daylight windows nearer 5600K, sodium and neon as they are.",
+   "Hide extra units along the same axis, flagged to the same throw. Prompt: Motivated lighting on [Subject], every source justified by a window, lamp, or sign that could exist in the room."
+  ],
+  "when": [
+   "Use it for realism with control, a hotel corridor, a kitchen at 4 p.m., a car at night that should feel streetlit. Do not use it as an excuse to keep a frontal beauty key that no source in the space could explain."
+  ],
+  "vs": [
+   "Practical lighting is the visible fixture in frame; motivated lighting can boost or replace it from hiding. Available light uses what exists without adding units.",
+   "Naturalistic ambient is the overall wrap that hides craft. Bounce light is a method you may use to imitate a wall or ceiling the story already has.",
+   "Rembrandt and window light are patterns or sources that motivated work often chooses, not synonyms."
+  ],
+  "examples_film": [
+   "The Shining lets lamps and hotel fixtures justify interior direction. Children of Men keeps windows, fixtures, and available sky as the logic of the frame.",
+   "Blade Runner 2049 and In the Mood for Love build rooms whose keys could be the signs, blinds, and lamps we see, even when film lights help."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is unmotivated studio three-point or claiming available light while describing movie lamps. The tell is a key from a wall with no window or fixture.",
+   "Fix it by naming the story source and aligning hidden units to it."
+  ],
+  "faq": [
+   {
+    "q": "What is motivated lighting in film?",
+    "a": "Lighting designed to look as if it comes from a plausible story-world source. Extra units are allowed if they match that source's direction, hardness, and color."
+   },
+   {
+    "q": "Motivated lighting vs practical lighting",
+    "a": "A practical is a visible lamp in the set. Motivated lighting is the logic: hidden lights may imitate or reinforce that lamp or a window you may not even see."
+   },
+   {
+    "q": "When should I use motivated lighting?",
+    "a": "Use it when the scene should feel like a real room with control. Skip it for frankly theatrical spots and beauty setups the room cannot explain."
+   },
+   {
+    "q": "How do I prompt motivated lighting for AI image or video?",
+    "a": "Name the window, lamp, or sign that justifies every source. Match direction, hardness, and color to that object. No orphan movie lights."
+   }
+  ]
+ },
+ {
+  "slug": "naturalistic-ambient",
+  "title": "Naturalistic Ambient",
+  "zh_title": "自然环境光",
+  "narrative": [
+   "Invisible craft. A kitchen, a car, a holiday apartment: the light feels like the space, and the audience stops thinking about lighting.",
+   "Independent drama uses it so emotion is not underlined by a slash of hard key. It is the wrong tool when the story wants a theatrical cut, a butterfly, or a concert edge.",
+   "If the wrap is so complete that direction dies, you have flattened the room. Naturalistic still has a window side."
+  ],
+  "how": [
+   "Start from the real window or overhead, then add large soft sources or bounce along that same axis. Keep ratios gentle (often under 4:1).",
+   "Hardness is soft; color matches the space (daylight through glass, warm tungsten mix at dusk). Avoid hair lights that cannot be a ceiling and kickers that cannot be a lamp.",
+   "Prompt: Naturalistic ambient wrap on [Subject], soft room tone, believable shadow, window-motivated without theatricality."
+  ],
+  "when": [
+   "Use it for quiet contemporary drama, a memory that should not look lit. Do not use it for noir graphic or a glamour package."
+  ],
+  "vs": [
+   "Available light forbids adding units; this look may add them. Soft light is the hardness you will use.",
+   "Motivated lighting is the justification; naturalistic ambient is the overall unstyled wrap. Bounce light is a common method.",
+   "High-key is brighter and more even than most lived-in rooms."
+  ],
+  "examples_film": [
+   "Aftersun lets holiday rooms and sky feel found. Manchester by the Sea keeps New England interiors and winter daylight in a believable wrap.",
+   "Neither film advertises a key position even when units are surely there."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is three-point or frankly available noon sun. The tell is a rim that no ceiling could throw, or harsh unshaped sun while you asked for quiet.",
+   "Fix it by aligning every unit to the window and softening until direction remains only as a gentle side."
+  ],
+  "faq": [
+   {
+    "q": "What is naturalistic ambient in film?",
+    "a": "A crafted wrap that looks like ordinary room or sky light. Units may be added, but direction, hardness, and color stay plausible for the space."
+   },
+   {
+    "q": "Naturalistic ambient vs available light",
+    "a": "Available light uses only what exists. Naturalistic ambient imitates that existence and may hide lights to keep faces readable."
+   },
+   {
+    "q": "When should I use naturalistic ambient?",
+    "a": "Use it for quiet drama that should not look lit. Skip it when graphic shadow or glamour is the point."
+   },
+   {
+    "q": "How do I prompt naturalistic ambient for AI image or video?",
+    "a": "Ask for a soft room-tone wrap, believable shadow, window-motivated, no theatrical hair light or hard kicker. Name the window side."
+   }
+  ]
+ },
+ {
+  "slug": "neon-practical",
+  "title": "Neon Practicals",
+  "zh_title": "霓虹实景光",
+  "narrative": [
+   "Night streets, hotels, and rain: the sign is not decoration. Wet pavement bounces the same hue back up.",
+   "Mixed gels are honest because different signs disagree. Faces pick up the nearest tube as a key and the next one as a kicker.",
+   "It is the wrong tool for a daylight office, or for a teal-and-orange grade with no tubes in frame. If the neon is only in the background and a white key lights the face, you have set dressing, not neon practicals."
+  ],
+  "how": [
+   "Put working tubes in frame close enough to expose. Hardness is that of a long, thin source: relatively soft along the tube, harder across it, with specular lines in eyes and on wet cloth.",
+   "Color is the gas and the gel: magenta, cyan, red, green, often mixed. Wet-down helps bounce.",
+   "Prompt: Neon practicals coloring [Subject], magenta and cyan signs as real keys, wet bounce, mixed gels, night-city chromatics."
+  ],
+  "when": [
+   "Use it when the city is the lighting department, a wet street, a motel sign, a night market. Do not use a white key and a neon wallpaper."
+  ],
+  "vs": [
+   "Practical lighting is the parent class. Motivated lighting can hide units that match a sign's hue.",
+   "Blue hour often mixes with neon as warm and cool together. Cool blue and warm amber are grades; neon is a physical tube.",
+   "Cross lighting happens when two signs oppose."
+  ],
+  "examples_film": [
+   "Blade Runner uses signage and tubes as interior and street keys. Chungking Express lets Hong Kong neon hit faces at mixed hues.",
+   "Drive keeps magenta and cyan signs as real contributors on wet night streets."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a white key plus neon bokeh. The tell is neutral skin in front of colored circles.",
+   "Fix it by letting the nearest tube be the key and allowing mixed color on the face."
+  ],
+  "faq": [
+   {
+    "q": "What is neon practical lighting in film?",
+    "a": "Visible neon or similar signs used as real lights on the subject. The tube's color becomes the key or a strong accent, often with wet bounce."
+   },
+   {
+    "q": "Neon practicals vs practical lighting",
+    "a": "Practical lighting includes any visible fixture. Neon practicals are the subset where gas tubes or similar signs supply the hue and the exposure."
+   },
+   {
+    "q": "When should I use neon practicals?",
+    "a": "Use them for night-city faces that should be colored by signs. Skip them if the neon is only background decoration."
+   },
+   {
+    "q": "How do I prompt neon practicals for AI image or video?",
+    "a": "State magenta and cyan signs as real keys, wet bounce, mixed gels. The face takes the tube color. No hidden white movie key."
+   }
+  ]
+ },
+ {
+  "slug": "practical-lighting",
+  "title": "Practical Lighting",
+  "zh_title": "实景光源",
+  "narrative": [
+   "The set becomes the lighting department. A table lamp in the foreground, a TV, a diner sign: the audience believes the room because the source is in the shot.",
+   "Mixed color temperatures are a feature, not a mistake. It is the wrong tool when the fixture is only set dressing and a frontal key from nowhere does the work.",
+   "A dark lamp in frame with a face lit from camera is a lie. If the lamp is off-screen but implied, you have shifted toward motivated lighting ."
+  ],
+  "how": [
+   "Put working fixtures in frame, often brighter than a real living room so they expose on camera. Control them with bulbs, dimmers, and flags.",
+   "Hardness is whatever the shade allows: a bare bulb is hard; a cloth shade is softer. Color is mixed on purpose: tungsten 2700 to 3200K, neon magenta or cyan, screens cooler.",
+   "You may hide a small unit in the same shade. Prompt: Practical lighting on [Subject] from visible lamps, neon, candles, or screens in frame, mixed color temperatures, no hidden movie lights."
+  ],
+  "when": [
+   "Use it when the set should light the face, a night apartment, a bar, a car dash. Do not leave dead props in frame while a beauty key does the real job."
+  ],
+  "vs": [
+   "Motivated lighting can hide units that match a source; practicals are the sources you see. Candlelight is a specific small warm practical with fast falloff.",
+   "Neon practicals are a color-and-sign subset. Available light might include existing fixtures but forbids adding them.",
+   "Window light is often a practical architecture plus sky."
+  ],
+  "examples_film": [
+   "Barry Lyndon puts flame in frame as the logic of night. In the Mood for Love and Blade Runner 2049 let lamps, neon, and screens in the set do visible work on faces.",
+   "The fixture is part of the composition, not only the plot."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a dummy lamp plus an off-screen key . The tell is a dark shade and a face lit from the camera.",
+   "Fix it by turning the practical up (or matching a hidden unit inside it) and killing the orphan frontal."
+  ],
+  "faq": [
+   {
+    "q": "What is practical lighting in film?",
+    "a": "Using visible set fixtures as real lights: lamps, neon, candles, screens. The source is in the world of the shot and it contributes exposure."
+   },
+   {
+    "q": "Practical lighting vs motivated lighting",
+    "a": "Practicals are the fixtures you see. Motivated lighting is the matching logic, which can include hidden units that imitate a window or lamp."
+   },
+   {
+    "q": "When should I use practical lighting?",
+    "a": "Use it when the room should visibly light the people. Skip dummy lamps that do not expose."
+   },
+   {
+    "q": "How do I prompt practical lighting for AI image or video?",
+    "a": "Name visible lamps, neon, candles, or screens as the keys, mixed color temperatures, no hidden movie lights. Say which fixture hits the face."
+   }
+  ]
+ },
+ {
+  "slug": "rembrandt",
+  "title": "Rembrandt Lighting",
+  "zh_title": "伦勃朗光",
+  "narrative": [
+   "The face becomes a painting with one lit plane and a pocket of light that proves the far eye still exists. Drama likes it because the head has volume without the graphic half-and-half of a split.",
+   "Period interiors and serious close-ups use it when the key could be a high window or a lamp. It is the wrong tool for a beauty close-up that should open both cheeks evenly, or for a character you want fully public.",
+   "If the nose shadow does not connect to the cheek shadow, you have loop lighting , not Rembrandt."
+  ],
+  "how": [
+   "Put a moderately hard or softly hard key high and roughly 45 degrees to one side, high enough that the nose shadow falls down and across until it meets the cheek shadow. The triangle sits below the far eye and should not spill across the whole far cheek.",
+   "Fill is low or absent. Color follows the source: warm interior, cooler window.",
+   "Short lighting (key on the far cheek) is the usual pairing. Prompt: Key light high and 45 degrees on [Subject], the near cheek in light, a small triangle of light on the shadow-side cheek, the rest of that cheek dark."
+  ],
+  "when": [
+   "Use it for a classic dramatic portrait, a period close-up, a bargainer across a table. Do not use it when you need an even glamour wrap or a literal half-lit mask."
+  ],
+  "vs": [
+   "Loop lighting makes a small nose shadow that does not connect to the cheek shadow. Split lighting keys at 90 degrees and divides the face in half with no triangle.",
+   "Butterfly lighting puts the key on axis, high, with a shadow under the nose, both cheeks open. Chiaroscuro is the larger contrast language this pattern often sits in.",
+   "Bounce light would wrap the triangle away. Motivated lighting can create Rembrandt if the window sits in that high 45, but motivated is a justification, not this pattern."
+  ],
+  "examples_film": [
+   "Fanny and Alexander uses painterly window keys that often land in this triangle. Road to Perdition , with Conrad Hall's portrait work, leans on Rembrandt-like faces in dark interiors.",
+   "Use the cheek geometry, not a still to duplicate."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is loop or split . The tell is a floating nose comma that never meets the cheek, or a face divided down the center with no triangle.",
+   "Fix it by raising and swinging the key until the shadows join, leaving a small lit triangle under the far eye."
+  ],
+  "faq": [
+   {
+    "q": "What is Rembrandt lighting in film?",
+    "a": "A portrait setup with the key high and about 45 degrees off axis so a triangle of light appears on the shadow-side cheek under the eye."
+   },
+   {
+    "q": "Rembrandt lighting vs loop lighting",
+    "a": "In loop, the nose shadow is a small loop that does not touch the cheek shadow. In Rembrandt, that shadow connects, isolating a triangle of light on the far cheek."
+   },
+   {
+    "q": "When should I use Rembrandt lighting?",
+    "a": "Use it for a dramatic portrait that still shows both eyes, one in a pocket of light. Skip it for glamour evenness or a literal split face."
+   },
+   {
+    "q": "How do I prompt Rembrandt lighting for AI image or video?",
+    "a": "Place the key high and 45 degrees off axis. Specify a small triangle of light on the shadow-side cheek, the rest of that cheek dark, nose shadow connected."
+   }
+  ]
+ },
+ {
+  "slug": "rim-light",
+  "title": "Rim Light",
+  "zh_title": "轮廓光",
+  "narrative": [
+   "The shot becomes a graphic: a profile or three-quarter figure drawn with a thread of exposure. You keep just enough flesh to know it is a person, not a paper doll.",
+   "Crime, spy, and night-city work use it so a body reads against wet asphalt or a black wall. It is the wrong tool for a dialogue close-up that needs both eyes.",
+   "If the rim fattens into a cheek slash, you have a kicker . If the whole figure goes empty and the sky is the subject, you have a silhouette ."
+  ],
+  "how": [
+   "Use a small hard source behind the subject, slightly off to one side, with flags or a snoot so the beam only kisses the outline. Keep it out of the lens unless you want veil.",
+   "Color is often white or slightly cool against a warmer dim key, or warm against night blue. Do not wrap to the front plane of the face.",
+   "Prompt: Photographic backlight on [Subject] from behind, a thin natural highlight on hat brim, hair, and coat edge, faces staying dark. Not a neon outline."
+  ],
+  "when": [
+   "Use it for a graphic night figure, a spy on a roof, a coat against a black street. Do not use it when the audience must read a mouth for a line."
+  ],
+  "vs": [
+   "Backlight is the broader rear direction; rim is the thin result. Kicker hits cheek, jaw, or shoulder as a hard side-back accent with more flesh.",
+   "Hair light lights only the hair from above-behind. Silhouette removes the edge highlight and exposes for the ground instead."
+  ],
+  "examples_film": [
+   "Blade Runner rims figures in smoky interiors so coats and hair hold against black. Skyfall uses thin natural rims on night exteriors, faces kept dark, outlines readable.",
+   "Those are edges from sources, not stickers."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a neon outline or a full silhouette . The tell is a glowing closed stroke around the body, or no highlight at all.",
+   "Fix it by attaching a thin highlight to hair and cloth only, from a real rear source."
+  ],
+  "faq": [
+   {
+    "q": "What is rim light in film?",
+    "a": "A narrow edge of light that separates the subject from the background. The face stays dark; brim, hair, and cloth catch the highlight."
+   },
+   {
+    "q": "Rim light vs kicker",
+    "a": "A rim traces the outline. A kicker is a harder side-back slash on jaw, cheek, or shoulder, with more flesh in the accent."
+   },
+   {
+    "q": "When should I use rim light?",
+    "a": "Use it when shape matters more than expression, and a dark figure must still unstick from a dark ground."
+   },
+   {
+    "q": "How do I prompt rim light for AI image or video?",
+    "a": "Specify a thin natural highlight on hair and coat from behind, face remaining dark, no neon outline. Name the rear source."
+   }
+  ]
+ },
+ {
+  "slug": "short-lighting",
+  "title": "Short Lighting",
+  "zh_title": "窄面光",
+  "narrative": [
+   "Mystery sits on the camera side. We look at the dark plane and infer the person from the far, lit cheek.",
+   "Noir portraits and serious close-ups use it so a face is sculpted instead of presented like a passport photo. It is the wrong tool when a comic or public figure should feel open to us.",
+   "Short is not a shadow pattern by itself: you can light short as Rembrandt , loop , or even a soft wrap. The definition is which cheek faces the lens, not the nose shadow."
+  ],
+  "how": [
+   "Turn the face so the far cheek takes the key (often 45 to 90 degrees from camera). The near cheek, the one occupying more of the frame, goes toward shadow.",
+   "Hardness can be hard for noir or medium for drama. Color follows the key source.",
+   "Combine with a low fill so the near eye does not die unless you want it to. Prompt: Short lighting on [Subject], the side turned away from camera is keyed, the near side falls toward shadow, slimming and dramatic."
+  ],
+  "when": [
+   "Use it to sculpt a face and put mystery on the camera side, a close-up in an office or a night bar. Do not use it when the character is presenting themselves to the public in a broad, open way."
+  ],
+  "vs": [
+   "Broad lighting keys the camera-facing cheek, the reverse. Rembrandt lighting is a triangle pattern often shot short, but Rembrandt can be broad if the triangle is on the near cheek.",
+   "Split lighting is a 90-degree cut that is usually short if the dark half faces us. Side lighting describes direction, not which cheek is near camera."
+  ],
+  "examples_film": [
+   "Portrait noir and Godfather-adjacent close-ups often key the far cheek so the camera sits with the shadow. Road to Perdition does the same sculpting in dark interiors.",
+   "Read the near cheek: if it is the dark one, you are short."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is broad lighting or a frontal butterfly . The tell is a bright near cheek filling the frame.",
+   "Fix it by turning the face or swinging the key onto the far side."
+  ],
+  "faq": [
+   {
+    "q": "What is short lighting in film?",
+    "a": "Lighting the side of the face turned away from camera so the near, camera-facing cheek falls toward shadow. It slims and adds dimension."
+   },
+   {
+    "q": "Short lighting vs broad lighting",
+    "a": "Short keys the far cheek; the camera sees more shadow. Broad keys the near cheek; the camera sees more light."
+   },
+   {
+    "q": "When should I use short lighting?",
+    "a": "Use it to sculpt a face and keep mystery on the camera side. Skip it for open, public, comic portraits."
+   },
+   {
+    "q": "How do I prompt short lighting for AI image or video?",
+    "a": "State that the side turned away from camera is keyed and the near cheek falls toward shadow. Mention a slimming, dimensional face."
+   }
+  ]
+ },
+ {
+  "slug": "side-lighting",
+  "title": "Side Lighting",
+  "zh_title": "侧光",
+  "narrative": [
+   "A face or a landscape becomes sculpture. Sweat, wood grain, and cheekbones show because the light rakes.",
+   "Action and crime use it so bodies have planes; portraits use it when character should look carved. It is the wrong tool for a passport-readable hero or a beauty wrap.",
+   "Side lighting a room is not automatically split lighting . Split is the facial center-line cut with almost no wrap.",
+   "Side can still graze a shoulder, a horse, a wall."
+  ],
+  "how": [
+   "Place the key at about 90 degrees, at a height that fits the story (eye height for a face, raking low sun for ground texture). Hardness is often hard so texture reads; soft side light exists as a large window in a side wall.",
+   "Color follows that source. Control wrap with flags if you need a truer split.",
+   "Prompt: Pure side light at 90 degrees on [Subject], half the face brilliant, half gone, texture and duality."
+  ],
+  "when": [
+   "Use it to carve a face or a body like sculpture, a raking desert, a sweat-lit fight. Do not use it as default coverage on a two-shot that needs both people open."
+  ],
+  "vs": [
+   "Split lighting is the hard facial version of this direction. Cross lighting uses two opposing side keys.",
+   "Kicker is a side-back accent, not a key. Short lighting and broad lighting depend on head turn relative to camera, not on 90 degrees as such."
+  ],
+  "examples_film": [
+   "Apocalypse Now rakes faces with hard side sources in the dark. Sicario uses raking sun and side keys so landscape and faces have grain.",
+   "The job is the 90-degree rake, not a mood."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Rembrandt (too frontal) or cross lighting (a second key). The tell is a cheek triangle, or rims on both sides.",
+   "Fix it by parking one key at 90 and killing the opposite unit."
+  ],
+  "faq": [
+   {
+    "q": "What is side lighting in film?",
+    "a": "Light from about 90 degrees that emphasizes shape and texture. One side of the subject is bright; the other falls away."
+   },
+   {
+    "q": "Side lighting vs split lighting",
+    "a": "Side lighting is the direction, usable on faces, bodies, and rooms. Split lighting is a facial pattern with a hard vertical cut and almost no wrap."
+   },
+   {
+    "q": "When should I use side lighting?",
+    "a": "Use it to carve texture and duality. Skip it when both eyes must be openly keyed for a public conversation."
+   },
+   {
+    "q": "How do I prompt side lighting for AI image or video?",
+    "a": "Place a single key at 90 degrees. State half the form brilliant, half gone, and name hard or soft. No second key on the far side."
+   }
+  ]
+ },
+ {
+  "slug": "silhouette",
+  "title": "Silhouette",
+  "zh_title": "剪影",
+  "narrative": [
+   "Identity is less important than emblem: a rider on a ridge, a bicycle against a moon, a man in a doorway. The audience recognizes an action from outline alone.",
+   "If two shapes merge, the sentence is lost. It is the wrong tool when a line of dialogue needs a mouth, or when you still want pores and color in the coat.",
+   "A little rim is not a silhouette. If you can name the eye color, you overexposed the figure."
+  ],
+  "how": [
+   "Expose for the bright ground (sky, doorway, fire, sun disk). Keep the key off the subject, or far below the background.",
+   "Backlight may exist as a sky, not as a facial key. Separate limbs, hats, and props so the outline parses.",
+   "Hardness of the background source can be hard sun or a bright overcast; the subject is simply underexposed. Prompt: Silhouette of [Subject] as a dark shape against a bright ground, surface detail gone, mythic outline only."
+  ],
+  "when": [
+   "Use it when identity matters less than shape, a departure through a door, a figure against dusk. Do not use it if the action cannot be read from the outline."
+  ],
+  "vs": [
+   "Backlight can create a silhouette if you expose for it, or a rim if you hold the face a little. Rim light keeps a thread of flesh highlight; silhouette usually does not.",
+   "Cameo lighting is the inverse: a lit figure on a black ground. Low-key lighting still models something in the pool."
+  ],
+  "examples_film": [
+   "T. the Extra-Terrestrial puts bicycle and riders in silhouette across the moon.",
+   "The Searchers isolates a figure against a bright doorway and landscape. Lawrence of Arabia and Skyfall use desert and sun as the bright field that turns bodies into emblems."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a rim portrait or a muddy underexposure on a dark ground. The tell is visible eyes, or a black figure on a black field.",
+   "Fix it by brightening the background, killing keys on the body, and separating the limbs."
+  ],
+  "faq": [
+   {
+    "q": "What is a silhouette in film?",
+    "a": "A subject placed dark against a brighter background so contour and gesture read instead of facial detail."
+   },
+   {
+    "q": "Silhouette vs rim light",
+    "a": "A silhouette is an unmodeled dark shape on a bright field. Rim light keeps a thin highlight on the edge of a still-dark figure, often on a dark field."
+   },
+   {
+    "q": "When should I use a silhouette?",
+    "a": "Use it when the outline is the sentence: departure, arrival, emblem. Skip it when the face must speak."
+   },
+   {
+    "q": "How do I prompt a silhouette for AI image or video?",
+    "a": "Ask for a dark shape against a bright ground, no surface detail, limbs separated. Expose for the sky or doorway, not the face."
+   }
+  ]
+ },
+ {
+  "slug": "soft-light",
+  "title": "Soft Light",
+  "zh_title": "柔光",
+  "narrative": [
+   "Kindness, memory, overcast, a north window: the key still has a side, but the nose shadow is a gradient. Skin holds, rooms feel breathable.",
+   "You can still have contrast if the fill is low; softness is not high-key. It is the wrong tool for a gobo of blinds, a noon duel, or a split that needs a knife edge.",
+   "If the source becomes so large it surrounds the subject, direction dies and you have ambient soup."
+  ],
+  "how": [
+   "Make the last surface before the subject large: silk, book light, overcast sky, big window, bounce wall. Closer and larger is softer.",
+   "Color is often daylight 5600K through diffusion, or tungsten through a large shade. Keep a key side.",
+   "Prompt: Soft wrapping light on [Subject] from a large source, gentle shadow transitions, luminous skin, north-window daylight."
+  ],
+  "when": [
+   "Use it for beauty, memory, or kindness, a daylight interior, a close-up that should not cut pores into craters. Do not use it when you need projected pattern or interrogation."
+  ],
+  "vs": [
+   "Hard light is the opposite quality. Bounce light is a method of getting soft.",
+   "Window light is often large and soft by architecture. Glam uses soft keys plus diffusion and catchlights.",
+   "High-key lighting uses soft sources and a lot of fill; you can have soft low-key if the wrap is large but isolated."
+  ],
+  "examples_film": [
+   "The Tree of Life and Call Me by Your Name let large daylight sources wrap skin and rooms. The softness is the size of sky and window, not a beauty filter named glow."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is hard light or directionless ambient. The tell is razor edges, or no key side at all.",
+   "Fix it by enlarging the source and keeping it on one side of the face."
+  ],
+  "faq": [
+   {
+    "q": "What is soft light in film?",
+    "a": "Light from a large apparent source that wraps the subject and makes shadow edges gradual. Texture is reduced; direction can still exist."
+   },
+   {
+    "q": "Soft light vs bounce light",
+    "a": "Soft describes the quality. Bounce is one way to create it, by reflecting off a large surface. A silk in line with the lamp is another way."
+   },
+   {
+    "q": "When should I use soft light?",
+    "a": "Use it for kindness, memory, and most daylight interiors. Skip it when you need graphic shadow or a sharp gobo."
+   },
+   {
+    "q": "How do I prompt soft light for AI image or video?",
+    "a": "Specify a large source, wrapping light, gentle shadow transitions. Name a window or silk on one side so direction remains."
+   }
+  ]
+ },
+ {
+  "slug": "split-lighting",
+  "title": "Split Lighting",
+  "zh_title": "分割光",
+  "narrative": [
+   "Duality made as geometry: hero and liar, cop and crook, the same person cut in two. The audience gets one eye in light and one in almost nothing.",
+   "Music, crime, and moral argument use it because the cut is literal. It is the wrong tool for charm, romance, or any beat that needs both cheeks.",
+   "If you sneak fill across the center line, the split collapses into side lighting with wrap. If you raise the key and pull it forward, you may accidentally make Rembrandt ."
+  ],
+  "how": [
+   "Put a relatively hard key at 90 degrees to the face, at about eye height, so the shadow edge runs down forehead, nose, and chin. Fill is near zero.",
+   "Color can be a hard white or a theatrical gel; the point is the cut, not prettiness. A true split is more severe than generic side light because the wrap over the nose is killed with flags if needed.",
+   "Prompt: Split lighting on [Subject], one half of the face in light, the other in shadow, a vertical moral cut."
+  ],
+  "when": [
+   "Use it when a character is two things at once, a drummer under a side spot, a don in profile thought. Do not use it on a first-date close-up unless you want threat."
+  ],
+  "vs": [
+   "Side lighting is the broader 90-degree direction and can still wrap a body or a room. Split is the facial pattern with a hard center line.",
+   "Rembrandt lighting keeps a triangle on the dark cheek; split does not. Loop lighting is much more frontal.",
+   "Short lighting can include a split if the dark cheek faces camera, but short is about which cheek the camera sees, not the 90-degree cut. Butterfly is the opposite: both cheeks open."
+  ],
+  "examples_film": [
+   "The Godfather uses half-lit faces in the office so thought reads as a cut. Whiplash slashes players with hard side spots that often split the face on stage.",
+   "The pattern is the center line, not a mood word."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Rembrandt or wrapped side lighting . The tell is a pocket of light on the dark cheek, or a soft wrap over the nose.",
+   "Fix it by moving the key to 90 degrees and killing fill until the center line is clean."
+  ],
+  "faq": [
+   {
+    "q": "What is split lighting in film?",
+    "a": "A key at about 90 degrees that lights one half of the face and leaves the other in shadow. The cut runs vertically down the center of the face."
+   },
+   {
+    "q": "Split lighting vs Rembrandt lighting",
+    "a": "Split has no triangle on the dark cheek; that half is gone. Rembrandt keeps a small triangle of light under the shadow-side eye."
+   },
+   {
+    "q": "When should I use split lighting?",
+    "a": "Use it for duality, interrogation, or a theatrical side spot. Skip it when both eyes and both cheeks must sell a line."
+   },
+   {
+    "q": "How do I prompt split lighting for AI image or video?",
+    "a": "Place the key at 90 degrees. State one half of the face in light, the other in shadow, no fill, no Rembrandt triangle."
+   }
+  ]
+ },
+ {
+  "slug": "spotlight",
+  "title": "Spotlight",
+  "zh_title": "聚光灯",
+  "narrative": [
+   "The stage is a circle of light. A drummer, a speaker, a dancer: the instrument has a beam you can see the edge of, and stepping out of it is stepping out of the scene.",
+   "Theatre and concert coverage use it because the world really is that lamp. It is the wrong tool for a motivated apartment, or for a soft cameo with no circle.",
+   "If the pool has no edge, you have a general key in a dark room. If the figure is isolated but the source is a large silk, that is cameo , not a spot."
+  ],
+  "how": [
+   "Use a focused fixture (ellipsoidal, follow spot, PAR with a tight lens) with shutters or an iris so the pool has a hard edge. Place it high and frontal or high and slightly front-side, the theatrical default.",
+   "Hardness is hard; falloff at the circle is sudden. Color is often white or a theatrical gel.",
+   "The surround is unlit. Prompt: Spotlight on [Subject], a hard pool, theater darkness around, the person as an act."
+  ],
+  "when": [
+   "Use it when the stage is a circle of light, a solo, a speech, a club act. Do not use it as the key in a kitchen that has no such instrument."
+  ],
+  "vs": [
+   "Cameo lighting is isolation; a spotlight is one hard instrument that can create that isolation with a visible circle. Hard light is the quality.",
+   "Top light may come from above without a circular shuttered pool. Cross lighting is two concert keys, not necessarily irised spots.",
+   "Epiphany is a story-timed change, which a spotlight snap can serve."
+  ],
+  "examples_film": [
+   "Whiplash puts players in hard stage pools. Birdman 's theatre scenes treat follow spots and stage lamps as the world of the act.",
+   "The edge of the circle is the set line."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a soft cameo or a general hard key. The tell is no circle, or wrap that lights the floor evenly.",
+   "Fix it by irising a focused fixture and letting the edge of the pool be visible."
+  ],
+  "faq": [
+   {
+    "q": "What is a spotlight in film?",
+    "a": "A focused, hard-edged pool from a theatrical or similar instrument, with darkness around. The subject stands in a circle of light."
+   },
+   {
+    "q": "Spotlight vs cameo lighting",
+    "a": "A spotlight is the instrument and its hard pool. Cameo is the result of isolating a modeled figure on black, which can also be done with a softer key and no visible circle."
+   },
+   {
+    "q": "When should I use a spotlight?",
+    "a": "Use it for stage, concert, and any beat where stepping out of the circle leaves the scene. Skip it in ordinary rooms with no such lamp."
+   },
+   {
+    "q": "How do I prompt a spotlight for AI image or video?",
+    "a": "Specify a hard pool, theater darkness around, a visible circular or shuttered edge. The person is an act. No soft wrap on the floor."
+   }
+  ]
+ },
+ {
+  "slug": "three-point-lighting",
+  "title": "Three-Point Lighting",
+  "zh_title": "三点布光",
+  "narrative": [
+   "In a scene it is the default portrait grammar: the audience can read both eyes, the cheekbones have a light side and a shadow side, and the hair does not melt into the wall. Classical coverage uses it so reverse shots match, and so a close-up still feels like the same room as the master.",
+   "It is the wrong tool when the room already has a single honest source, or when the story wants a face half-erased. Teaching the setup is useful.",
+   "Leaving it on every night interior as three hidden movie lights is how a crime scene starts to look like a cosmetics ad."
+  ],
+  "how": [
+   "Place the key about 45 degrees off camera axis and 30 to 45 degrees above the eyes, large enough to be slightly soft unless the scene is harsh. 5 to 3 stops down so the shadow cheek still has pores.",
+   "Put backlight high and behind, often slightly opposite the key, warm or white, flagged so it rims hair and shoulders without flaring the lens. Prompt: Classic three-point lighting on [Subject]: key at 45 degrees, soft fill opening shadows, warm backlight rim, modeled volume."
+  ],
+  "when": [
+   "Use it for a teachable talking-head or a studio close-up that must stay readable across a whole scene. Do not use it as the only language of a night interior that is supposed to be one lamp."
+  ],
+  "vs": [
+   "Key light is the dominant source inside this setup, not the setup itself. Fill light only opens the key's shadows; it has no third direction.",
+   "Backlight is the rear unit that separates the figure. Rembrandt lighting and loop lighting are facial patterns you can make with the key while the other two points still exist."
+  ],
+  "examples_film": [
+   "Casablanca and Rebecca show the classical Hollywood version: key, fill, and a hair or back edge kept in ratio so stars stay modeled in every size. Use that grammar, not a poster to copy.",
+   "Later films keep the three jobs even when the units are hidden in practicals."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a single frontal soft light labeled as three-point. The tell is even cheeks, no hair edge, and a shadowless nose.",
+   "Fix it by offsetting the key, dropping fill, and adding a flagged rear rim."
+  ],
+  "faq": [
+   {
+    "q": "What is three-point lighting in film?",
+    "a": "A conventional arrangement of key, fill, and backlight. The key sets direction and exposure, fill opens the shadow side, and backlight separates the subject from the background."
+   },
+   {
+    "q": "Three-point lighting vs key light",
+    "a": "Key light is one source. Three-point lighting is a three-job system in which that key is joined by a dimmer fill and a rear separation light."
+   },
+   {
+    "q": "When should I use three-point lighting?",
+    "a": "Use it when a face must stay fully readable and consistent across coverage. Skip it when a single motivated source should own the room."
+   },
+   {
+    "q": "How do I prompt three-point lighting for AI image or video?",
+    "a": "State key at about 45 degrees, soft fill on the opposite cheek, and a warm or white backlight rim. Name which side is keyed so the model does not flatten the face."
+   }
+  ]
+ },
+ {
+  "slug": "top-light",
+  "title": "Top Light",
+  "zh_title": "顶光",
+  "narrative": [
+   "Power sitting in a chair, or guilt: the head is a skull with a lid of light. Crime bosses, interrogations, and some night exteriors use overhead so the eyes recede.",
+   "The person is still human; the pupils must not emit. It is the wrong tool for glamour.",
+   "If you bring the source forward of the head you get butterfly . If you need a catchlight, add a tiny eye light rather than lowering the overhead until it becomes a frontal key."
+  ],
+  "how": [
+   "Hang a lamp or use a ceiling practical directly above, flagged so it does not rake the nose as a frontal. Hardness can be hard (bare bulb) for a skull, or a bit softer (shaded pendant) for a diner.",
+   "Color is often tungsten, sometimes cool industrial. Keep exposure on the forehead, not in the sockets, unless you add a separate eye glint.",
+   "Prompt: A lamp directly above [Subject], light falling on forehead and shoulders, eye sockets in shadow, human eyes, no light emitting from the pupils."
+  ],
+  "when": [
+   "Use it for a figure of power in a chair, a diner pendant, a guilty face under a garage bulb. Do not use it as beauty lighting."
+  ],
+  "vs": [
+   "Underlighting is the opposite direction, from below. Butterfly lighting is high but still in front of the face.",
+   "Low-key lighting is the ratio that often houses top light. Hair light is behind and above, not a downward key on the forehead.",
+   "Cameo may use a top pool but is about isolating the figure in void."
+  ],
+  "examples_film": [
+   "The Godfather is the famous overhead office: forehead and hands, eyes in wells. The Batman (2022) uses overhead rain and practicals so faces sit under lids of light.",
+   "The sockets stay dark on purpose."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is butterfly or glowing eyes. The tell is an under-nose butterfly with open sockets, or pupils that shine like LEDs.",
+   "Fix it by moving the source truly overhead and keeping eyes as dark human surfaces with at most a tiny catch."
+  ],
+  "faq": [
+   {
+    "q": "What is top light in film?",
+    "a": "Light from directly above that hits forehead and shoulders and drops the eye sockets into shadow. It is a downward key, not a hair rim."
+   },
+   {
+    "q": "Top light vs butterfly lighting",
+    "a": "Butterfly is high and in front, opening both eyes with a small nose shadow. Top light is overhead enough that the sockets hollow."
+   },
+   {
+    "q": "When should I use top light?",
+    "a": "Use it for power, guilt, a pendant over a table, a boss in a chair. Skip it for glamour."
+   },
+   {
+    "q": "How do I prompt top light for AI image or video?",
+    "a": "Place a lamp directly above. Light on forehead and shoulders, eye sockets in shadow, human eyes, no light from the pupils."
+   }
+  ]
+ },
+ {
+  "slug": "under-light",
+  "title": "Underlighting",
+  "zh_title": "底光",
+  "narrative": [
+   "The source is fire, a screen on the floor, a flashlight under a chin, or a monster. Faces invert: the brow ridge goes dark, the nostrils and chin light up.",
+   "Horror and campfire talk use the same physics; only the object changes. It is the wrong tool for ordinary conversation under a ceiling.",
+   "A candle on a table can underlight if it sits below the chin, but candlelight is a source type that can also sit beside a face. Underlighting is the direction."
+  ],
+  "how": [
+   "Place a lamp, flame, or panel below the chin, pointing up. Keep it close so inverse-square falloff hits the face and dies on the ceiling.",
+   "Hardness is often hard or small-soft (a phone screen is a smallish source). Color is flame-warm, screen-cool, or theatrical green; the climb of the shadows is the tell.",
+   "Prompt: A lamp on the table below [Subject]'s chin, pointing up. Shadows climb the cheekbones and eye sockets.",
+   "The source is under the face, not beside it."
+  ],
+  "when": [
+   "Use it when the source is fire, a floor screen, or a threat under the chin. Do not use it as a default beauty fill from a white card unless you want unease."
+  ],
+  "vs": [
+   "Top light is the opposite. Candlelight may underlight if the flame is low, but a candelabra at face height is more of a small frontal or side key.",
+   "Practical lighting is the visible object; underlighting is where it sits. Glam sometimes uses a weak under fill (a reflector) that must stay far below key so it does not invert the face."
+  ],
+  "examples_film": [
+   "James Whale's Frankenstein (1931) underlights the creature so the brow and sockets invert. Hereditary uses low sources and ritual light to the same uncanny effect.",
+   "The shadows must climb, not slide sideways."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is side lighting or a candle off to the side. The tell is a left-right split instead of shadows that climb.",
+   "Fix it by lowering the source below the jaw and aiming up."
+  ],
+  "faq": [
+   {
+    "q": "What is underlighting in film?",
+    "a": "Lighting from below the face so shadows climb the cheeks and sockets. It inverts ordinary daylight modeling and often feels uncanny."
+   },
+   {
+    "q": "Underlighting vs top light",
+    "a": "Top light comes from above and hollows the eyes from overhead. Underlighting comes from below and lights the chin and nostrils while the brow goes dark."
+   },
+   {
+    "q": "When should I use underlighting?",
+    "a": "Use it for firelight below the face, a screen on the floor, or a horror invert. Skip it for ordinary daylight talk."
+   },
+   {
+    "q": "How do I prompt underlighting for AI image or video?",
+    "a": "Place the lamp or flame under the chin, pointing up. State that shadows climb the cheekbones and sockets, source under the face, not beside it."
+   }
+  ]
+ },
+ {
+  "slug": "volumetric-light",
+  "title": "Volumetric Light",
+  "zh_title": "体积光",
+  "narrative": [
+   "Air has to be photographed. A cathedral, a forest, a smoky archive: the beam is architecture.",
+   "The source implies a world outside the frame. Without particles you only see where the light lands, not the path it took.",
+   "It is the wrong tool in clean air if you still want shafts, or when haze is so thick that every depth plane flattens. Disconnected glowing stripes with no lamp are not volumetric light.",
+   "They are stickers."
+  ],
+  "how": [
+   "You need a directional source (often hard, slightly back or high) and a scattering medium: haze, dust, rain, smoke. The camera usually sees some of the beam angle, which is why backlight helps.",
+   "Color follows the source: warm sun, cool window, searchlight white. Limit haze so foreground and background still separate.",
+   "Prompt: Volumetric rays through haze around [Subject], visible beams, dust in the shaft, cathedral or forest light as architecture."
+  ],
+  "when": [
+   "Use it when the air is part of the picture, a smoky interior, a forest morning, a searchlight. Do not add floating stripes with no source and no medium."
+  ],
+  "vs": [
+   "Backlight is the direction that often reveals volume. Atmospheric haze is the medium.",
+   "Dappled light patterns surfaces; volume patterns the air. Epiphany may use a sudden shaft, but epiphany is a change timed to understanding.",
+   "Silhouette can sit inside a bright shaft if the figure stays dark."
+  ],
+  "examples_film": [
+   "Blade Runner 2049 builds interiors where dust and haze make shafts physical. The Tree of Life lets forest and interior sun become visible architecture.",
+   "Blade Runner (1982) searchlights through smoke are the same physics."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a backlight rim with no air, or painted god-ray stickers. The tell is stripes that ignore the lamp and the body.",
+   "Fix it by adding a scattering medium and a real rear or high source, then letting the body interrupt the beam."
+  ],
+  "faq": [
+   {
+    "q": "What is volumetric light in film?",
+    "a": "Beams made visible by haze, fog, dust, smoke, or particles. You photograph the path of the light, not only where it lands."
+   },
+   {
+    "q": "Volumetric light vs backlight",
+    "a": "Backlight is the direction from behind. Volumetric light is the beam made visible in a medium. Backlight often helps you see that beam."
+   },
+   {
+    "q": "When should I use volumetric light?",
+    "a": "Use it when air, dust, or smoke should be visible architecture. Skip it in clean air, or when haze would flatten every plane."
+   },
+   {
+    "q": "How do I prompt volumetric light for AI image or video?",
+    "a": "Specify a real source and a scattering medium, visible beams, dust in the shaft. The body can interrupt the beam. No orphan glowing stripes."
+   }
+  ]
+ },
+ {
+  "slug": "window-light",
+  "title": "Window Light",
+  "zh_title": "窗光",
+  "narrative": [
+   "Day interiors without looking lit. A figure sits in the falloff, one side toward glass, the far wall dying.",
+   "Painterly rooms, period houses, and quiet dramas use the window as the only key so the hour is readable. It is the wrong tool at night (unless moonlight through glass is the story), or when you need a hard bulb.",
+   "A window is not automatically bounce ; bounce happens after the light hits a wall. A window can be hard if the sun is direct and small in the frame of the glass."
+  ],
+  "how": [
+   "Use real sky or a large source outside the glass, plus sheers if you want wrap. Direction is the window's side.",
+   "Hardness: overcast or north light is soft; direct sun through dirty glass is harder and may throw a patch. Color is daylight, cooler if north sky, warmer late.",
+   "Let inverse-square and flags create falloff toward the room. Prompt: Window light as the only key on [Subject], large soft directional source, falloff into the room, painterly interior."
+  ],
+  "when": [
+   "Use it for a day interior that should not look studio-lit, a sitting room, a workshop. Do not use a frontal silk that ignores the window's actual wall."
+  ],
+  "vs": [
+   "Soft light is the usual quality of north windows. Motivated lighting is the logic that lets you hide a source outside that window.",
+   "Bounce is the wall ricochet after entry. Available light uses the real window without adding.",
+   "Golden hour through a window is a specific color and angle of this source."
+  ],
+  "examples_film": [
+   "Girl with a Pearl Earring (2003) builds interiors as if Vermeer's window were the key. The Danish Girl uses large directional day interiors with falloff.",
+   "The grammar is glass, falloff, and one side, not a painting to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a frontal soft key that does not match the window wall, or a hard gobo of blinds when you asked for wrap. The tell is a key from a blank wall.",
+   "Fix it by putting the bright side on the glass and letting the room fall off."
+  ],
+  "faq": [
+   {
+    "q": "What is window light in film?",
+    "a": "Light shaped as if it enters through a window: large, directional, with falloff into the room. The window is the source and the modifier."
+   },
+   {
+    "q": "Window light vs bounce light",
+    "a": "Window light is the entry from glass and sky. Bounce is a ricochet off a surface, which a window may cause once it hits a wall, but bounce is not the window itself."
+   },
+   {
+    "q": "When should I use window light?",
+    "a": "Use it for day interiors that should feel architectural rather than studio-lit. Skip it when the story is a night bulb."
+   },
+   {
+    "q": "How do I prompt window light for AI image or video?",
+    "a": "State window light as the only key, large directional source, falloff into the room. Name the window wall and the sky condition."
+   }
+  ]
+ },
+ {
+  "slug": "boomerang",
+  "title": "Boomerang",
+  "zh_title": "回旋镖",
+  "narrative": [
+   "Use it to weaponize a small motion: hair toss, splash, a jump's peak, a door that never finishes closing. Both directions must read.",
+   "If the forward pass is ugly, the reverse will not save it. Loops work when the end of the reverse meets the start of the forward without a bump.",
+   "It is the wrong tool for grief, inverted physics as story, or a seamless forward-only cycle (a pendulum designed to sew). Reverse motion one way is a spell.",
+   "An infinite loop may never reverse. Do not boomerang a line of dialogue whose words cannot run backward."
+  ],
+  "how": [
+   "Record a short, readable gesture with clean contacts, play it forward, then reverse the same frames. Trim so the join is at a still-ish peak or a matched pose.",
+   "Camera usually locked. Prompt: Boomerang of [Subject], action running forward then snapping backward on the same path, a loop of coming and going."
+  ],
+  "when": [
+   "Use it to turn a splash, a jump, or a hair toss into a toy loop. Do not use it for a one-way undo of a crash."
+  ],
+  "vs": [
+   "A boomerang is not one-way Reverse Motion . It is not an Infinite Loop that sews last frame to first while staying forward.",
+   "A Moonwalk is a body's lie in living time. A Cinemagraph freezes most of a still and loops one element."
+  ],
+  "examples_film": [
+   "Instagram and Vine made the round-trip native. Music videos use it as a hook on a single gesture.",
+   "Feature grammar rarely needs it except as a quoted phone-screen or a title-card gag."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Reverse Motion or a forward Infinite Loop . The tell is rain that only rises, or a loop that never rewinds.",
+   "Fix: specify forward then back on the same samples, and a join that matches."
+  ],
+  "faq": [
+   {
+    "q": "What is Boomerang in film?",
+    "a": "A boomerang plays a short action forward and then backward on the same path, often as a loop, so the gesture comes and goes."
+   },
+   {
+    "q": "Boomerang vs Reverse Motion",
+    "a": "Reverse motion rewinds once and stays in that direction. A boomerang is a round trip: forward, then back, usually repeating."
+   },
+   {
+    "q": "When should I use Boomerang?",
+    "a": "When a small physical gesture should become a toy: splash, jump, toss. Both directions must remain readable."
+   },
+   {
+    "q": "How do I prompt Boomerang for AI image or video?",
+    "a": "Write that [Subject] plays forward then reverses along the same motion as a seamless loop. Forbid a one-way reverse and a forward-only sew."
+   }
+  ]
+ },
+ {
+  "slug": "bullet-time",
+  "title": "Bullet Time",
+  "zh_title": "子弹时间",
+  "narrative": [
+   "Use it when a split-second decision should become architecture. The audience seems to occupy a viewpoint no observer inside the event could have.",
+   "Debris, rain, and coat tails hang so we can walk around them. The path is one move, usually an arc.",
+   "It is the wrong tool for a dinner scene, a lyric walk, or a simple impact study from a locked camera. If the camera is locked, you wanted frozen in motion or a freeze.",
+   "If the fighter keeps moving at stretched rate and the camera stays put, you wanted slow motion. Do not add a zoom on top of the orbit unless you are making a different shot."
+  ],
+  "how": [
+   "Use a synchronized or time-offset multi-camera array with interpolation, or a fully controlled 3D scene. Enforce frozen or near-frozen subject geometry while changing viewpoint.",
+   "Particles should be countable and rigid enough to survive the arc. Prompt: Bullet time around [Subject], the moment frozen while the camera orbits, a slice of time as a sculpture."
+  ],
+  "when": [
+   "Use it to inspect an impact, a leap, or a dodge that already happened, as on a rooftop lean under gunfire. Do not use it as slow motion with a shaky camera."
+  ],
+  "vs": [
+   "Bullet time is not Slow Motion , which stretches action without requiring a traveling viewpoint around a hold. It is not a normal 360-Degree Orbit , which circles living time.",
+   "It is not Freeze Frame , which stops the camera too. Frozen in Motion may let a chosen person move through a stopped world.",
+   "Bullet time stops or crushes the event while the camera walks around it."
+  ],
+  "examples_film": [
+   "The Matrix rooftop, Neo leaning under gunfire, is the textbook array move. Wanted curves bullets as inspectable paths through space.",
+   "Later action films borrow the split between body-time and camera-time. Prompt the physics, not a trademark."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is handheld Slow Motion . The tell is a moving fighter and a camera that does not orbit, or a freeze with no parallax.",
+   "Fix: subject frozen or nearly frozen, camera orbits a named arc, debris hanging, consistent shadows."
+  ],
+  "faq": [
+   {
+    "q": "What is Bullet Time in film?",
+    "a": "Bullet time is a viewpoint traveling around an event that is frozen or radically slowed, so camera speed and subject time are no longer the same clock."
+   },
+   {
+    "q": "Bullet Time vs Slow Motion",
+    "a": "Slow motion stretches the action. Bullet time nearly stops the action and moves the camera around it, often with an array or a 3D reconstruction."
+   },
+   {
+    "q": "When should I use Bullet Time?",
+    "a": "When a split-second must be inspected as space: a dodge, a leap, an impact the audience should walk around."
+   },
+   {
+    "q": "How do I prompt Bullet Time for AI image or video?",
+    "a": "Write that time freezes around [Subject] while the camera orbits. Demand hanging debris and frozen geometry. Ban ordinary slow motion and lock-off stills."
+   }
+  ]
+ },
+ {
+  "slug": "fast-motion",
+  "title": "Fast Motion",
+  "zh_title": "快动作",
+  "narrative": [
+   "Use it when real time cannot hold the life in front of the lens: a factory that never stops, a city that should feel over-efficient, a chase whose danger is relentlessness rather than one punch. Subtle acceleration can be funnier or more oppressive than a cartoon speed-up.",
+   "Keep sound on its own clock. Pitch-shifted footsteps often betray the trick.",
+   "It is the wrong tool for weather, construction, or a night becoming morning. Those need interval sampling, not sped-up continuous action.",
+   "If the camera itself steps through space while hours collapse, you wanted a hyperlapse. Do not accelerate a performance whose contacts and gravity must stay honest."
+  ],
+  "how": [
+   "Undercrank (shoot fewer frames per second than playback) or retime in the cut with a planned speed ratio. Longer exposure per frame, if the shutter stays open, increases motion blur.",
+   "Check hands, object contacts, and foot cadence after the speed change. Prompt: Undercranked fast motion of [Subject], crowds smearing, clouds racing, planned speed ratio, coherent contacts."
+  ],
+  "when": [
+   "Use it when a mailroom, assembly line, or crowd must feel over-efficient, as in a comic or cosmic crush of ordinary work. Do not use it to stand in for a day-to-night sky."
+  ],
+  "vs": [
+   "Fast motion speeds continuous action. Time-Lapse samples the world at long intervals so slow change (shadows, crowds as systems) plays quickly.",
+   "Hyperlapse is time-lapse plus a camera that advances through space. Slow Motion is the inverse stretch.",
+   "A Speed Ramp changes rate inside one shot rather than holding a constant acceleration."
+  ],
+  "examples_film": [
+   "Modern Times uses factory rhythm so mechanized work feels like a speeded machine wearing a man. A Clockwork Orange undercranks selected passages so appetite and violence become brisk, grotesque efficiency.",
+   "Mad Max: Fury Road alters cadence on chosen action beats rather than running the whole film as a cartoon. Koyaanisqatsi is often grouped here, but its urban crush is mostly interval time-lapse."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Time-Lapse . The tell is a racing crowd under a sun and shadows that never move, or people who teleport instead of stepping.",
+   "Fix: keep continuous action and a planned speed ratio, then check contacts. If hours must collapse, change to interval photography."
+  ],
+  "faq": [
+   {
+    "q": "What is Fast Motion in film?",
+    "a": "Fast motion is undercranked or retimed action that occupies less screen time than it took in the world, so movement looks accelerated."
+   },
+   {
+    "q": "Fast Motion vs Time-Lapse",
+    "a": "Fast motion speeds a continuous take. Time-lapse captures frames at long intervals so processes too slow for real time (light, weather, crowds as flow) play in seconds."
+   },
+   {
+    "q": "When should I use Fast Motion?",
+    "a": "When ordinary movement should feel over-efficient, comic, or relentless, and the action itself is still a continuous performance."
+   },
+   {
+    "q": "How do I prompt Fast Motion for AI image or video?",
+    "a": "Write undercranked or accelerated playback, crowds and weather racing, and coherent contacts. Do not ask for hours of sun travel unless you actually want time-lapse."
+   }
+  ]
+ },
+ {
+  "slug": "freeze-frame",
+  "title": "Freeze Frame",
+  "zh_title": "定格画面",
+  "narrative": [
+   "Use it when the fact is the picture itself: a boy at the edge of the sea, a narrator labeling a life, a triumph that should not continue into the next second. Grain, dust, and expression stay.",
+   "Sound may keep running (voiceover, a song, a crowd) so the freeze feels like a caption, not a crash. It is the wrong tool when you still need motion around a stopped body, or a camera that walks around an instant.",
+   "Those are frozen-in-motion and bullet time. A posed tableau with living extras is not a freeze.",
+   "Do not freeze a line of dialogue whose meaning is in the next word."
+  ],
+  "how": [
+   "Select one frame and reprint or hold it for the required duration. An optical zoom into that still (as at the end of The 400 Blows ) is a move on a photograph, not new live action.",
+   "The shutter is no longer sampling. Prompt: Freeze frame on [Subject], the world stopping on a decisive pose, grain holding, a still torn out of time."
+  ],
+  "when": [
+   "Use it to end, to joke, or to offer evidence, such as a final still of a runaway on a beach. Do not use it when particles should hang while the camera still travels."
+  ],
+  "vs": [
+   "A freeze is not Slow Motion , which continues to sample the action, only slower. It is not Frozen in Motion , where a chosen person or the camera may still move while the world holds.",
+   "It is not Bullet Time , an orbit around a sculpture of speed. A Tableau is staged stillness inside living time, extras breathing, not a held frame."
+  ],
+  "examples_film": [
+   "The 400 Blows ends on Antoine at the water, the image arrested so the boy cannot run farther. Goodfellas freezes Henry so voiceover can label a life mid-gesture.",
+   "Rocky is often cited for punctuation energy around a still of triumph. Trainspotting is listed beside freeze grammar more for its opening jolt than for a single copied hold."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Frozen in Motion or Bullet Time . The tell is rain or coat tails hanging while the viewpoint keeps traveling, or a mid-air sculpture with parallax.",
+   "Fix: stop the camera and the world on one frame. If you need a walk around the instant, change technique."
+  ],
+  "faq": [
+   {
+    "q": "What is Freeze Frame in film?",
+    "a": "A freeze frame is a held still taken from the moving picture, so story time stops on one image."
+   },
+   {
+    "q": "Freeze Frame vs Frozen in Motion",
+    "a": "A freeze holds the entire picture, camera included. Frozen in motion stops most of the world while a chosen body or the viewpoint may continue."
+   },
+   {
+    "q": "When should I use Freeze Frame?",
+    "a": "When the still is the point: an ending, a joke, or a face presented as evidence. Let sound carry if the hold needs a caption."
+   },
+   {
+    "q": "How do I prompt Freeze Frame for AI image or video?",
+    "a": "Write that action freezes into one still and holds, grain included, camera stopped. Ban orbits, hanging debris, and continued footsteps."
+   }
+  ]
+ },
+ {
+  "slug": "frozen-in-motion",
+  "title": "Frozen in Motion",
+  "zh_title": "动态冻结",
+  "narrative": [
+   "Use it to separate a mind from consequence: superhuman perception, a wish to step outside a square, a kitchen instant stretched into a walk. Julie can run through a stopped Oslo.",
+   "Quicksilver can work a room the rest of the world cannot occupy. Hair, weather, shadows, and loose objects must obey the same freeze or the illusion dies.",
+   "It is the wrong tool when the whole picture should hold (freeze-frame), when the camera should orbit a crushed event (bullet time), or when crowds should race around a statue (timelapse human). Do not freeze the hero and the street together unless you mean a still."
+  ],
+  "how": [
+   "Decide the rule: extras hold, fluids and debris are suspended, the subject and/or camera may travel. Use held extras and practical supports for simple beats, VFX or 3D for complex hangs.",
+   "Prompt: Frozen-in-motion of [Subject], the world stopped mid-gesture, particles hanging, [Subject] or the camera still allowed to move."
+  ],
+  "when": [
+   "Use it when one person should walk a stopped street, or work a stopped kitchen, while pigeons and extras hang. Do not use it as a freeze of the entire frame, and do not race the crowd."
+  ],
+  "vs": [
+   "Frozen in motion is not Freeze Frame (camera and world both stop). It is not Bullet Time (event crushed, camera orbits a sculpture).",
+   "It is not Timelapse Human (crowd races, hero holds). Slow Motion still advances everyone, only slower.",
+   "Keep the permission list explicit."
+  ],
+  "examples_film": [
+   "X-Men: Days of Future Past expands Quicksilver's Pentagon kitchen into a subjective instant the others cannot share. The Worst Person in the World lets Julie run through an Oslo whose other inhabitants are suspended.",
+   "The Matrix rooftop is the orbiting cousin, bullet time, not this split of who may walk."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Freeze Frame , Bullet Time , or Timelapse Human . The tell is a fully still picture, an orbit around a statue, or people as smoke.",
+   "Fix: write the freeze rule, hang the extras, and let only the chosen body or camera continue."
+  ],
+  "faq": [
+   {
+    "q": "What is Frozen in Motion in film?",
+    "a": "Frozen in motion stops most of the world while a chosen person and/or the camera keep moving, so one clock splits from the rest."
+   },
+   {
+    "q": "Frozen in Motion vs Bullet Time",
+    "a": "Bullet time walks the camera around a nearly frozen event. Frozen in motion lets a character inhabit a stopped world, not only inspect it from an orbit."
+   },
+   {
+    "q": "When should I use Frozen in Motion?",
+    "a": "When one person's experience should leave the world's clock: a run through a stopped city, a superhuman chore in a held kitchen."
+   },
+   {
+    "q": "How do I prompt Frozen in Motion for AI image or video?",
+    "a": "Write a stopped environment, hanging particles, and a clear permission: who may move. Ban a full freeze, a racing crowd, and an array orbit unless you want those cousins."
+   }
+  ]
+ },
+ {
+  "slug": "infinite-loop",
+  "title": "Infinite Loop",
+  "zh_title": "无限循环",
+  "narrative": [
+   "As a picture machine, design a motion whose end state matches its start: position, light, pose. The cut should vanish.",
+   "As a story machine, repeat an event sequence while knowledge or one decision changes. Those are cousins that share a name.",
+   "Do not prompt them as one blob. It is the wrong tool for a forward-back toy (boomerang) or a mostly still image with one living detail (cinemagraph).",
+   "A loop that changes everything at once has no baseline. A join that flashes is just a cut."
+  ],
+  "how": [
+   "For a visual loop, match the first and last frames and keep the action forward. For a narrative loop, establish a reset cue and a stable baseline, then vary a small number of actions per cycle.",
+   "Prompt: Infinite loop of [Subject], the last frame sewing to the first, a motion that never arrives."
+  ],
+  "when": [
+   "Use it when a motion or a day should fail to conclude, such as a walk cycle that sews or a morning that resets. Do not use it when you want a boomerang snap."
+  ],
+  "vs": [
+   "An infinite loop is not a Boomerang , which rewinds the same samples. A Cinemagraph holds a still and loops one island of motion.",
+   "Reverse Motion is direction, not a sew. Narrative loops ( Groundhog Day ) change behavior inside a repeated event.",
+   "Visual loops must match ends."
+  ],
+  "examples_film": [
+   "GIF culture and installation video are the visual grammar: a motion that can play forever. Groundhog Day returns the same morning while Phil's behavior changes.",
+   "Run Lola Run repeats attempts with varied actions and outcomes. Edge of Tomorrow turns repetition into training."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Boomerang . The tell is a visible rewind, or a reset with no matching frames.",
+   "Fix: match last frame to first, keep direction consistent, and change only the variables you mean to change."
+  ],
+  "faq": [
+   {
+    "q": "What is Infinite Loop in film?",
+    "a": "An infinite loop either sews last frame to first so a motion never ends, or repeats an event sequence while knowledge or choices change."
+   },
+   {
+    "q": "Infinite Loop vs Boomerang",
+    "a": "A boomerang runs forward then backward on the same path. A visual infinite loop usually stays forward and matches its ends so the join vanishes."
+   },
+   {
+    "q": "When should I use Infinite Loop?",
+    "a": "When duration should not progress: a seamless cycle, or a repeated day that makes one changed decision comparable."
+   },
+   {
+    "q": "How do I prompt Infinite Loop for AI image or video?",
+    "a": "Write a seamless loop, end matching start, no visible cut. If you mean a repeated-day story, say the reset cue and what changes each cycle."
+   }
+  ]
+ },
+ {
+  "slug": "long-take",
+  "title": "Long Take",
+  "zh_title": "长镜头",
+  "narrative": [
+   "Use it when incompatible facts must coexist in one geography: boredom beside danger, a joke beside a wound, a bomb in a trunk while people chat. The eye scans a functioning world instead of consuming an insert.",
+   "Duration is the tension. A dense crowd is not enough.",
+   "Each zone needs an intelligible action timed to the camera. It is the wrong tool when the scene is a virtuoso ride that may hide joins, or when coverage should isolate a face.",
+   "A oner is designed to play as one take and may be stitched. A long take's claim is continuous time.",
+   "Do not hold a static close-up for two minutes and call the endurance a panorama."
+  ],
+  "how": [
+   "Block foreground, midground, and background on a shared timeline. Give the camera a clear route (Steadicam, crane, handheld, or studio dolly) and vary its attention without losing the human anchor.",
+   "Rehearse contacts, eyelines, and extra business so the take can survive. Prompt: Long take covering [Subject] without a cut, duration as tension, blocking and camera choreographed as one sentence."
+  ],
+  "when": [
+   "Use it when the audience must stay in the room, such as a car that cannot cut away from incoming gunfire. Do not use it to show off a corridor walk with nothing happening in depth."
+  ],
+  "vs": [
+   "A long take emphasizes continuous duration. A Oner is designed to play without visible edits and may hide stitches.",
+   "Steadicam is a support, not a duration claim. An Invisible Cut is how some oners cheat.",
+   "A Master Shot covers the action so the scene can be cut. A long take often is the scene."
+  ],
+  "examples_film": [
+   "Children of Men keeps car and birth passages inside continuous danger. The Player opens by walking conversations across a studio lot in one moving sentence.",
+   "Touch of Evil follows a bomb car while nearby people remain unaware. Atonement 's Dunkirk beach moves among soldiers, wreckage, and stranded activity.",
+   "Russian Ark and Victoria extend the wager to feature length."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a stitched Oner sold as uncut truth, or a crowded wide with no timed business. The tell is a whip into darkness, a crossing truck, or extras who only occupy space.",
+   "Fix: one overt take, distinct actions in depth, a camera route, and a human anchor."
+  ],
+  "faq": [
+   {
+    "q": "What is Long Take in film?",
+    "a": "A long take is an unusually extended shot that keeps performance, space, and duration continuous without an overt cut."
+   },
+   {
+    "q": "Long Take vs Oner",
+    "a": "A long take claims continuous recorded time. A oner is designed to play as one take and may include invisible stitches as long as the joins do not read."
+   },
+   {
+    "q": "When should I use Long Take?",
+    "a": "When leaving the room would leak tension, and the world in depth must keep working around the people we follow."
+   },
+   {
+    "q": "How do I prompt Long Take for AI image or video?",
+    "a": "Write an unbroken take with no cut, a camera route, and separate actions in foreground, midground, and background. Name the human anchor."
+   }
+  ]
+ },
+ {
+  "slug": "low-shutter",
+  "title": "Low Shutter",
+  "zh_title": "低快门",
+  "narrative": [
+   "Use it when impact and sensory stress should feel exposed: rain as beads, limbs as chopped positions, a landing that does not silk over. You are not speeding the scene.",
+   "You are removing the blur that usually glues fragments together. Combat and panic live here.",
+   "It is the wrong tool for night-traffic ribbons, lyric smear, or silk slow motion. Photography says 'low shutter speed' for long exposure.",
+   "Film says low shutter angle for the opposite. If every lamp paints a ribbon, you shot motion blur.",
+   "Do not skip frames and call that short shutter."
+  ],
+  "how": [
+   "At 24 fps, a 180-degree shutter is about 1/48 s. A 45-degree shutter is about 1/192 s: less blur, more light required.",
+   "Compensate exposure. In generated footage, request low motion blur and crisp droplets, not missing frames.",
+   "Prompt: Low-shutter (short shutter angle) of [Subject], reduced motion blur, crisp rain and limb edges, staccato cadence."
+  ],
+  "when": [
+   "Use it on a landing, a rescue run, or a fight that should feel like discrete fragments, such as Omaha-style rain and bodies. Do not use it when lamps should drag as ribbons."
+  ],
+  "vs": [
+   "Low shutter here is the inverse of Motion Blur . A Whip Pan smears by rotating fast, usually with a normal or long shutter.",
+   "Slow Motion can look sharp because high fps shortens each exposure, but the clock is stretched. Stutter / Stop-Stutter drops frames.",
+   "Short shutter, low frame rate, skipped frames, and speed changes are separate controls."
+  ],
+  "examples_film": [
+   "Saving Private Ryan 's Omaha Beach landing is the grammar: sharp, harshly segmented movement. Gladiator uses aggressive, discontinuous-looking motion on selected battle images.",
+   "Cloverfield is listed nearby for chaos, but much of that chaos is handheld smear, the cousin."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Motion Blur (and the phrase 'low shutter speed'). The tell is ribbons of light and unreadable rain.",
+   "Fix: specify short shutter angle or 1/200 s class exposure, reduced motion blur, staccato edges. If you wanted paint, go to motion blur."
+  ],
+  "faq": [
+   {
+    "q": "What is Low Shutter in film?",
+    "a": "Low shutter here means a short shutter angle: each frame is exposed briefly, so motion stays crisp and staccato instead of smeared."
+   },
+   {
+    "q": "Low Shutter vs Motion Blur",
+    "a": "Motion blur streaks because the shutter stays open during movement. Low shutter angle cuts that blur so fragments of action stay sharp."
+   },
+   {
+    "q": "When should I use Low Shutter?",
+    "a": "When a hit, a run, or a landing should feel like exposed fragments at normal speed, not like silk and not like night-traffic ribbons."
+   },
+   {
+    "q": "How do I prompt Low Shutter for AI image or video?",
+    "a": "Write short shutter angle, reduced motion blur, and crisp rain or limbs at normal playback. Do not ask for long-exposure streaks."
+   }
+  ]
+ },
+ {
+  "slug": "moonwalk",
+  "title": "Moonwalk",
+  "zh_title": "太空步",
+  "narrative": [
+   "Use it when gait itself is the spectacle: dance, a villain who does not obey floors, a sidewalk that should feel like ice. Wet asphalt or a stage helps the read.",
+   "Coat tails should trail the slide, not bounce like steps. It is the wrong tool for a chase on gravel, a grief undo, or a toy loop.",
+   "Reverse motion would rewind the whole world. A boomerang would come and go.",
+   "A double dolly puts subject and camera on one platform so the world slides while the walk may be ordinary. Moonwalk is the body's lie.",
+   "Do not also spin or levitate."
+  ],
+  "how": [
+   "Write a backward slide, upright torso, one foot gliding, the other pushing. Camera can lock or track laterally.",
+   "Keep contact with the floor. Prompt: Moonwalk of [Subject], backward glide that reads as forward myth, slide as dance grammar."
+  ],
+  "when": [
+   "Use it when the walk is the trick, such as a backward glide on wet night asphalt. Do not use it as reversed footage of an ordinary walk."
+  ],
+  "vs": [
+   "A moonwalk is not Reverse Motion of a forward walk (that inverts the whole street). It is not a Boomerang loop.",
+   "A Double Dolly can fake a similar float by moving person and camera together, world sliding, feet possibly still walking. Moonwalk deletes the heel-lift.",
+   "Infinite Loop may sew a glide but is a join, not a gait."
+  ],
+  "examples_film": [
+   "Moonwalker and Jackson's music videos are the grammar: the still is the middle of the glide, not a pose at rest. Later videos quote the slide.",
+   "Spike Lee's double-dolly is the camera-platform cousin, a different physical cause for a similar dream of locomotion."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is walking backward normally, or Reverse Motion . The tell is a heel lift, swinging arms of a walk, or rain rising.",
+   "Fix: flat glide, upright torso, floor contact, world still running forward."
+  ],
+  "faq": [
+   {
+    "q": "What is Moonwalk in film?",
+    "a": "A moonwalk is a backward slide performed as dance grammar: the body glides, the heel does not walk, the world keeps its forward clock."
+   },
+   {
+    "q": "Moonwalk vs Double Dolly",
+    "a": "Double dolly moves performer and camera together so the world slides. Moonwalk is the feet lying: a glide that can be shot with a locked or laterally tracking camera."
+   },
+   {
+    "q": "When should I use Moonwalk?",
+    "a": "When gait is the spectacle and the floor should feel like ice. Skip it on terrain that cannot sell a slide."
+   },
+   {
+    "q": "How do I prompt Moonwalk for AI image or video?",
+    "a": "Write a backward glide, upright torso, one foot sliding, heel not lifting. Keep the world running forward. Ban reverse footage and levitation."
+   }
+  ]
+ },
+ {
+  "slug": "motion-blur",
+  "title": "Motion Blur",
+  "zh_title": "运动模糊",
+  "narrative": [
+   "Use it when speed or trauma should smear: headlights as ribbons, a body that cannot be counted, a whip that erases geography for a frame. Normal 180-degree film already has some blur.",
+   "This look commits further, so edges fail on purpose. It is the wrong tool for staccato combat that should feel like discrete fragments.",
+   "That is short shutter, often misfiled under the same war films. Slow motion with dense samples can look sharper, not smearier.",
+   "Do not add a blur overlay on a sharp take and call it shutter."
+  ],
+  "how": [
+   "Expose long enough, or move fast enough, that edges streak within the frame. A Whip Pan is a burst of this.",
+   "A locked camera with a racing subject is the other axis. Night lamps help because they write ribbons.",
+   "Prompt: Long-shutter motion blur on [Subject] or the world, streaks of light, bodies smearing."
+  ],
+  "when": [
+   "Use it when a night street or a panicked camera move should smear, such as lamps dragging during a run. Do not use it when you want Saving Private Ryan 's crisp, segmented droplets."
+  ],
+  "vs": [
+   "Motion blur is smear from exposure. Low Shutter in this library is short shutter: reduced blur, staccato edges.",
+   "A Whip Pan is camera rotation fast enough to erase the middle. Slow Motion often looks sharper because each high-fps frame is a shorter exposure.",
+   "Step Printing smears and steps. Do not confuse photography's 'low shutter speed' with film's low shutter angle."
+  ],
+  "examples_film": [
+   "Cloverfield lets handheld panic smear the monster and the street. Whip-heavy action (the Bourne films among them) uses bursts of blur as geography fails.",
+   "Saving Private Ryan is often listed here, but Omaha Beach is largely short-shutter staccato, the cousin, not the smear."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Low Shutter (short shutter angle). The tell is crispy rain and chopped limbs with no ribbons.",
+   "Fix: drag the shutter or increase motion until lights streak. If you wanted SPR cadence, change technique rather than adding a blur filter."
+  ],
+  "faq": [
+   {
+    "q": "What is Motion Blur in film?",
+    "a": "Motion blur is streaking or softness from subject or camera movement while the shutter is open. It is exposure plus velocity, not a separate object."
+   },
+   {
+    "q": "Motion Blur vs Low Shutter",
+    "a": "Motion blur is smear from a longer exposure relative to movement. Low shutter here means a short shutter angle: sharper, staccato frames with less blur."
+   },
+   {
+    "q": "When should I use Motion Blur?",
+    "a": "When speed or trauma should paint: night lamps as ribbons, a whip that erases the middle, a body that cannot be counted."
+   },
+   {
+    "q": "How do I prompt Motion Blur for AI image or video?",
+    "a": "Write long-shutter streaks, dragging lights, and smearing bodies. Demand that raindrops and limbs are not all crisp."
+   }
+  ]
+ },
+ {
+  "slug": "one-er",
+  "title": "Oner",
+  "zh_title": "一镜到底",
+  "narrative": [
+   "Use it when geography, breath, and choreography should feel like one continuous push: a backstage spiral, a trench, an extraction through apartments. Hidden cuts are allowed only if they are invisible.",
+   "The audience should not be able to point to the splice. The camera and the blocking are one machine.",
+   "It is the wrong tool when the ethical claim is uncut duration, or when the scene is a quiet two-person talk that only needs a master. A true long take refuses the stitch.",
+   "A oner may use it. Do not call three coverage angles a oner because the editor was smooth."
+  ],
+  "how": [
+   "Choreograph a path that can be performed, then decide where a join could hide if the take cannot be true. Steadicam, crane, and handheld all work if the breath stays consistent.",
+   "Match lighting and eyelines across stitches. Prompt: Apparent oner of [Subject], a whole scene as one take, hidden cuts allowed only if invisible."
+  ],
+  "when": [
+   "Use it when the scene is a ride through connected actions, such as a backstage spiral or a trench crossing. Do not use it for a static conversation that only needs coverage."
+  ],
+  "vs": [
+   "A Long Take emphasizes uncut duration as a fact. A oner emphasizes the ride and may be stitched.",
+   "Steadicam is often the support. An Invisible Cut is the join.",
+   "Tracking Shot and Follow Shot can exist inside a oner without making every track a oner."
+  ],
+  "examples_film": [
+   "Birdman plays backstage panic as one apparent breath, stitches hidden. 1917 connects trench and field into a continuous war path, also stitched.",
+   "Extraction runs apartment and vehicle action as a designed single-take sequence. Compare those with Russian Ark , a true feature-length take, if the claim is uncut fact rather than ride."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is ordinary coverage, or a Long Take you secretly cut. The tell is a change of breath, a jump in extra positions, or a whip that does not match.",
+   "Fix: one visible path, matched energy across any hidden join, and no insert that admits the splice."
+  ],
+  "faq": [
+   {
+    "q": "What is Oner in film?",
+    "a": "A oner is a shot designed to play without visible edits, whether it is a true single take or a stitched sequence whose joins do not read."
+   },
+   {
+    "q": "Oner vs Long Take",
+    "a": "A long take is continuous recorded duration. A oner is the ride: it can be true or stitched, as long as the audience cannot see the cut."
+   },
+   {
+    "q": "When should I use Oner?",
+    "a": "When the scene should feel like one breath through connected spaces and actions, and coverage would leak the charge."
+   },
+   {
+    "q": "How do I prompt Oner for AI image or video?",
+    "a": "Write a continuous oner following [Subject] through connected actions with no visible cut. Name the path. Allow hidden cuts only if they stay invisible."
+   }
+  ]
+ },
+ {
+  "slug": "reverse-motion",
+  "title": "Reverse Motion",
+  "zh_title": "倒放",
+  "narrative": [
+   "Use it for trick photography, grief that wants an undo, or a world whose physics run the other way. The audience reads inverted inertia: water, cloth, sparks, and footsteps all lie.",
+   "A single reversed gesture can feel like a spell. A whole reversed fight can feel like entropy running downhill in the wrong direction.",
+   "It is the wrong tool when you only need a toy loop, or when the plot itself is told from consequence to cause without reversing the footage. A boomerang goes forward then back on the same path.",
+   "Memento -style chronology reorders scenes at normal playback. Do not mix those machines in one prompt."
+  ],
+  "how": [
+   "Shoot the action forward with readable contacts, then reverse the clip. Gravity , fluids, and cloth are the proof.",
+   "A person putting on a coat forward will look like an impossible undressing in reverse only if the fabric was honest on the way in. Prompt: Reverse motion of [Subject], time running backward, rain rising, a broken thing assembling."
+  ],
+  "when": [
+   "Use it when a broken object should reassemble, or rain should rise, as a visible undo. Do not use it to mean reverse story order with ordinary-speed scenes."
+  ],
+  "vs": [
+   "Reverse playback is not reverse chronology. Boomerang runs the same action forward then back as a loop.",
+   "Slow Motion only changes rate, not direction. An Infinite Loop sews last frame to first and may stay forward.",
+   "Tenet mixes inverted world-lines with true reversed footage. Memento and Irréversible mostly reorder scenes."
+  ],
+  "examples_film": [
+   "Tenet lets objects and people move through events against the local clock, including true reversed photography. Cocteau's Orphée and related trick shots reverse ordinary gestures so they read as rites.",
+   "Memento opens with a Polaroid and a violent action running backward, then tells much of the rest by reverse scene order. Irréversible presents major sections from later to earlier without reversing every shot."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is reverse chronology or a Boomerang . The tell is a normal-speed scene shuffle, or a clip that goes forward then snaps back.",
+   "Fix: reverse one recorded action and show fluids, cloth, or debris traveling the wrong way along a single path."
+  ],
+  "faq": [
+   {
+    "q": "What is Reverse Motion in film?",
+    "a": "Reverse motion is recorded action played backward, so inertia, fluids, and contacts run from effect toward cause inside the shot."
+   },
+   {
+    "q": "Reverse Motion vs Reverse Chronology",
+    "a": "Reverse motion rewinds the footage. Reverse chronology ( Memento , Irréversible ) reorders ordinary-speed scenes from consequence to cause."
+   },
+   {
+    "q": "When should I use Reverse Motion?",
+    "a": "When the picture itself must undo physics: rising rain, assembling wreckage, a gesture that should feel like a reversed rite."
+   },
+   {
+    "q": "How do I prompt Reverse Motion for AI image or video?",
+    "a": "Write time running backward with rain rising and smoke inhaling. Say the clip is reversed. Do not ask for shuffled scene order unless that is the job."
+   }
+  ]
+ }
+]

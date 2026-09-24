@@ -1,6 +1,6 @@
 # 电影语言入门｜从看懂到拍出来
 
-面向零基础的电影语言学习站：12 章 48 课手机练习 + Melies「Cinematic techniques」全部 424 条手法图鉴（真实片例、中英定义、可复制的提示词），附看片测验与提示词收藏夹。
+面向零基础的电影语言学习站：12 章 48 课手机练习 + Melies「Cinematic techniques」全部 424 条手法图鉴（真实片例、中英定义、可复制的提示词、原站正文中文译文），附看片测验与提示词收藏夹。
 
 线上：https://cinematic-tutorial.vercel.app
 

@@ -1,0 +1,2656 @@
+[
+ {
+  "slug": "dust-motes",
+  "title": "Dust Motes",
+  "zh_title": "浮尘",
+  "narrative": [
+   "A window cuts a wedge through a closed parlor. Specks drift, rise, fall.",
+   "Stillness that is still alive. The room has been shut; time is visible because the air has a population.",
+   "Use it when quiet should not be empty: a church, a bedroom, a barn in late sun. It is the wrong tool when the air is a ribbon from a cigarette ( Smoke ) or a soup that hides the far wall ( Fog ).",
+   "It is the wrong tool when the particles are on fire ( Sparks and Embers ). If the whole room is milky, you filled it.",
+   "Motes need a dark surround and a hard beam."
+  ],
+  "how": [
+   "Create a shaft (window, slats, a cut HMI) and keep off-beam air darker. Introduce fine particles (real dust, atmosphere in small amounts).",
+   "Backlight or sidelight the beam; motes are seen by scatter toward camera. Slow movement: convection, not wind.",
+   "Prompt: dust motes hanging in a shaft of light around [Subject], slow particles, a room that has been closed, time made visible."
+  ],
+  "when": [
+   "Use it for a pause, a prayer, a house that remembers. Do not use it in a gale or a nightclub wash.",
+   "If the camera is racing, motes become streaks or noise. Pair with Slow Motion only if you want to inventory the specks."
+  ],
+  "vs": [
+   "Volumetric Light is the shaft; dust motes are the countable inhabitants of that shaft. Smoke is a continuous volume.",
+   "Sparks and Embers are incandescent and short-lived. Atmospheric Haze pales the far plane.",
+   "Motes are slow, discrete, and local to the beam."
+  ],
+  "examples_film": [
+   "The Assassination of Jesse James by the Coward Robert Ford lets window light populate air so interiors feel timed. The Tree of Life hangs specks in domestic and cosmic shafts.",
+   "Use beam plus specks, not a dusty grade on a flatly lit room."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Smoke fill or Volumetric Light with no specks. The tell: milky room, no shaft, or sparks.",
+   "The fix: a hard beam, dark off-beam, countable slow particles, backlight."
+  ],
+  "faq": [
+   {
+    "q": "What is Dust Motes in film?",
+    "a": "Dust motes are individual particles visible in a shaft of light. They make still air readable as matter and time, without turning the whole room into fog."
+   },
+   {
+    "q": "Dust Motes vs Volumetric Light",
+    "a": "Volumetric light is the visible beam. Dust motes are the specks inside it. You can have a shaft with smooth haze, or a shaft with countable motes; the mote look insists on the specks."
+   },
+   {
+    "q": "When should I use Dust Motes?",
+    "a": "Use them when stillness should still be alive: closed rooms, late sun, churches. Do not fill the entire volume, and do not substitute fire sparks."
+   },
+   {
+    "q": "How do I prompt Dust Motes for AI image or video?",
+    "a": "Put specks in a shaft, not soup in a room. Example: dust motes hanging in a shaft of light around [Subject], slow particles, a room that has been closed. Dark surround, backlight, no fog fill."
+   }
+  ]
+ },
+ {
+  "slug": "dust-storm",
+  "title": "Dust and Sand",
+  "zh_title": "风沙",
+  "narrative": [
+   "A rider is a cutout. The sun is a disk you can look at.",
+   "Grit crawls across metal and teeth. This is not a poetic far ridge.",
+   "This is the ground in the lungs. Use it when the environment is an antagonist: border desert, convoy, siege.",
+   "It is the wrong tool when you only need paler mountains behind a sharp hero ( Atmospheric Haze ). It is the wrong tool when the particles hang in a quiet indoor shaft ( Dust Motes ).",
+   "Hard Light through a storm becomes a brown disk; do not keep a crisp white sun and a clean face unless the storm is still on the way."
+  ],
+  "how": [
+   "Fill near and mid air with wind-driven particulates (fuller's earth, practical sand, or digital grit) so contrast collapses at working distance. Keep a strong directional wind.",
+   "Backlight or sun-through-dust to silhouette. Let highlights on skin and vehicles pick up specks.",
+   "Prompt: dust or sandstorm wrapping [Subject], sun as a dull coin, silhouettes, grit in the highlights."
+  ],
+  "when": [
+   "Use it for an ambush, a crossing, a road that should be unsurvivable. Do not use it as a warm grade on a calm dune.",
+   "If flags hang limp and pores are clean, there is no storm."
+  ],
+  "vs": [
+   "Atmospheric Haze is calm aerial perspective over kilometers, subject still sharp. Fog is water, grey-white, little wind required.",
+   "Smoke has a fire source. Hard Light is the sun's character; in a storm that sun is filtered.",
+   "Dust-storm is mineral, windy, and near."
+  ],
+  "examples_film": [
+   "Sicario lets desert particulate erase edges and turn daylight hostile. Mad Max: Fury Road drives through walls of grit and sun as a coin.",
+   "Lawrence of Arabia also uses blowing sand as an attack, not only distant haze. Use wind and near opacity, not a tan LUT."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Atmospheric Haze (sharp rider, paler citadel) or a brown grade. The tell: clean pores, limp flags, a white sun, crisp horizon.",
+   "The fix: wind, near-air grit, silhouettes, a dull solar disk, specks on highlights."
+  ],
+  "faq": [
+   {
+    "q": "What is Dust and Sand in film?",
+    "a": "Dust and sand as a storm is wind-driven mineral in the air, dense enough to silhouette figures and turn the sun into a dull coin. The land occupies the near optical path."
+   },
+   {
+    "q": "Dust and Sand vs Atmospheric Haze",
+    "a": "Haze pales far planes and leaves the subject sharp. A dust storm attacks the near ground, reduces visibility, and needs wind. One is distance; the other is an assault."
+   },
+   {
+    "q": "When should I use Dust and Sand?",
+    "a": "Use it when the land should attack: crossings, convoys, sieges. Do not use it as a warm filter on a still desert portrait."
+   },
+   {
+    "q": "How do I prompt Dust and Sand for AI image or video?",
+    "a": "Ask for wind-driven grit and a dull sun. Example: dust or sandstorm wrapping [Subject], sun as a dull coin, silhouettes, grit in the highlights. Demand dirty air at working distance."
+   }
+  ]
+ },
+ {
+  "slug": "fog",
+  "title": "Fog",
+  "zh_title": "雾",
+  "narrative": [
+   "A sodium lamp becomes a ball. A platform ends in nothing.",
+   "A coat arrives late, as if the world were only as large as a flashlight. Hide geography.",
+   "Delay the reveal. Use it for horror, docks, London streets, any beat that should withhold the next plane.",
+   "It is the wrong tool when you still want kilometers of readable landscape: that is Atmospheric Haze . It is the wrong tool when the veil is thin and lyrical: that is Mist .",
+   "Combustion with a source is Smoke . If faces at three meters are crisp and only the grade is grey, you do not have fog.",
+   "You have a LUT."
+  ],
+  "how": [
+   "Fill a volume with dense droplets (machines or weather) so contrast falls with distance on a short scale. Backlight or sidelight the fog to make globes around practicals; front light flattens it to milk.",
+   "Keep practicals inside the soup, not only a filter on the lens. Prompt: dense fog around [Subject], depth collapsing, lamps becoming globes, figures appearing late, horror or London grammar."
+  ],
+  "when": [
+   "Use it when a figure should appear late, a road should end in white, a house should have no yard. Do not use it on a vista you still need to read.",
+   "If the far ridge must stay a ridge, use haze or mist."
+  ],
+  "vs": [
+   "Mist is thinner: layered, see-through, lyric. Atmospheric Haze stacks paler planes over kilometers, not a wall at ten meters.",
+   "Smoke has a source and a direction and is not weather. Steam rises from heat and thins as it cools.",
+   "Fog is a local, dense water veil."
+  ],
+  "examples_film": [
+   "The Exorcist and The Others use fog to withhold houses, lamps, and bodies. Sicario lets dust and fog-like veils erase desert edges (a cousin in opacity).",
+   "Use delayed reveal and globes around lamps, not a copied graveyard."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Atmospheric Haze (distance) or a desaturated grade. The tell: sharp buildings a block away, lamps with no globes, faces fully lit at thirty meters.",
+   "The fix: short visibility, backlit bloom on lights, late arrivals."
+  ],
+  "faq": [
+   {
+    "q": "What is Fog in film?",
+    "a": "Fog is a dense local cloud of water droplets that hides depth. Lamps bloom into globes and figures appear only when they enter the near ground."
+   },
+   {
+    "q": "Fog vs Mist",
+    "a": "Fog is opaque enough to collapse geography at short range. Mist is thinner, layered, and still lets you read the next plane. Fog withholds; mist veils."
+   },
+   {
+    "q": "When should I use Fog?",
+    "a": "Use it to hide geography and delay a reveal. Do not use it when you need a long, readable landscape, and do not fake it with a grey LUT."
+   },
+   {
+    "q": "How do I prompt Fog for AI image or video?",
+    "a": "Name the soup and the bloom. Example: dense fog around [Subject], lamps becoming globes, figures appearing late. Give a short visibility distance and forbid crisp far detail."
+   }
+  ]
+ },
+ {
+  "slug": "haze",
+  "title": "Atmospheric Haze",
+  "zh_title": "空气感薄雾",
+  "narrative": [
+   "A citadel sits in a paler key than the rider. The next cliff is paler still.",
+   "Show kilometers, not just meters. Depth is weather, not a second fog machine at the actor's feet.",
+   "Use it for desert, city, sea, any wide that must recede. It is the wrong tool when the next person should vanish at five meters ( Fog ) or when you want a shaft you can cut with a hand ( Volumetric Light in a smoky room).",
+   "Haze is aerial perspective, not a local veil. If the foreground is milky, you hazed the lens, not the distance."
+  ],
+  "how": [
+   "Keep the near ground relatively clean. Let successive planes lift in value, lose contrast, and often shift toward the sky color.",
+   "Dust, humidity, or pollution can be real; a graded aerial perspective can stand in if the physics hold. Hard sun through haze becomes a disk.",
+   "Prompt: atmospheric haze stacking distance around [Subject], aerial perspective, far planes paler, depth as weather."
+  ],
+  "when": [
+   "Use it on a ridge, a skyline, a valley, a megacity grid. Do not use it to hide a monster in a corridor.",
+   "If the scare is in the room, use fog, smoke, or darkness."
+  ],
+  "vs": [
+   "Mist is local layered moisture at human distances. Fog is dense and near.",
+   "Volumetric Light is a beam made visible by particles, often indoors. Dust and Sand is wind-driven grit that attacks the near ground too.",
+   "Haze leaves the subject sharp and sends the world backward."
+  ],
+  "examples_film": [
+   "Lawrence of Arabia lets desert distance go paler until armies are weather. Blade Runner 2049 stacks orange and pale planes so the city has kilometers.",
+   "Use successive paler ridges, not a fogged close-up."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Fog on the actor, or a low-contrast grade on every plane. The tell: the face is milky, or the far citadel is as sharp as the horse.",
+   "The fix: sharp near, paler far, several stacked distances, particles too small to resolve."
+  ],
+  "faq": [
+   {
+    "q": "What is Atmospheric Haze in film?",
+    "a": "Atmospheric haze is air scattering over long distance. Far planes go paler and lower in contrast while the near subject stays readable, so kilometers become visible."
+   },
+   {
+    "q": "Atmospheric Haze vs Mist",
+    "a": "Mist is a local, often wet veil at walking distances. Haze is aerial perspective over kilometers. Mist can wet your coat; haze pales a mountain range."
+   },
+   {
+    "q": "When should I use Atmospheric Haze?",
+    "a": "Use it when a wide must recede: desert, city, sea, valley. Do not use it to hide a figure in a room."
+   },
+   {
+    "q": "How do I prompt Atmospheric Haze for AI image or video?",
+    "a": "Keep the subject sharp and pale the distance. Example: atmospheric haze stacking distance around [Subject], far planes paler. Name successive ridges or blocks of city, not a fog bank at the lens."
+   }
+  ]
+ },
+ {
+  "slug": "mist",
+  "title": "Mist",
+  "zh_title": "薄雾",
+  "narrative": [
+   "Ridges stack as paler copies of themselves. A horse is readable, then a second ridge, then a paler third.",
+   "Softer mystery than fog. Lyric, not monster.",
+   "Use it for dawn, river valleys, high cold air, a courtyard that should glow rather than vanish. It is the wrong tool when a killer should appear at two meters with no yard behind them: that is Fog .",
+   "It is the wrong tool when the paleness is only far, far away over desert: that is Atmospheric Haze . If you cannot see the subject at all, you overshot into fog.",
+   "If every plane is equally sharp, you have no mist."
+  ],
+  "how": [
+   "Use a light density of droplets or a real inversion layer. Backlight the layers so each plane separates (aerial perspective at short-to-medium range).",
+   "Keep contrast on the near subject; let receding planes lift in value and lose saturation. Prompt: light mist around [Subject], softer than fog, morning or mountain breath, layers of pale air."
+  ],
+  "when": [
+   "Use it for a hunt at dawn, a mountain pass, a wet garden. Do not use it as horror soup, and do not fill an interior with it unless the windows are open on a cold morning.",
+   "Interiors with volume are often Smoke or haze juice, not mist."
+  ],
+  "vs": [
+   "Fog hides. Atmospheric Haze is scattering over long distance, often without local wetness on skin.",
+   "Smoke has a source. Rain falls.",
+   "Mist hangs, layers, and remains see-through at working distance."
+  ],
+  "examples_film": [
+   "The Revenant uses morning and mountain moisture as stacked pale planes around bodies. Raise the Red Lantern lets courtyard air go milky without erasing architecture.",
+   "Use layered breath, not a white-out."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Fog (too dense) or Atmospheric Haze (only the horizon pales). The tell: the hero vanishes, or only the skyline is pale while mid-ground is hard.",
+   "The fix: keep the subject readable, stack two or three paler planes, backlight the moisture."
+  ],
+  "faq": [
+   {
+    "q": "What is Mist in film?",
+    "a": "Mist is a light suspension of water droplets that layers the air without erasing the subject. It is thicker than clear air and thinner than fog."
+   },
+   {
+    "q": "Mist vs Fog",
+    "a": "Fog collapses depth at short range and delays figures. Mist leaves the near ground readable and stacks pale planes. One is a wall; the other is breath."
+   },
+   {
+    "q": "When should I use Mist?",
+    "a": "Use it for morning, mountains, and lyric distance at human scale. Do not use it when geography must disappear for a scare."
+   },
+   {
+    "q": "How do I prompt Mist for AI image or video?",
+    "a": "Ask for layered pale air and a readable subject. Example: light mist around [Subject], softer than fog, morning or mountain breath. Specify backlight and forbid a white-out."
+   }
+  ]
+ },
+ {
+  "slug": "ocean",
+  "title": "Ocean",
+  "zh_title": "海洋",
+  "narrative": [
+   "A mole, a boat, a body: small. The horizon is a line that can kill you.",
+   "Swell has a period. Salt in backlight is weather.",
+   "The sea is the other actor. Use it for exile, work, awe, war at the rail.",
+   "It is the wrong tool when you have left the surface ( Underwater ). It is the wrong tool when the water is a still lake used as silk behind a posed figure.",
+   "If there is no swell and no scale, it is not ocean. A bathtub, a pool, a harbor with no fetch: different jobs.",
+   "Name the swell."
+  ],
+  "how": [
+   "Shoot wide enough for scale. Put real swell in the frame (period, whitecaps or long rollers).",
+   "Backlight spray. Let far water go paler with Atmospheric Haze .",
+   "Keep the human or boat small unless the story is a face against a rail. Practical water on lens is allowed; fake silk water is not.",
+   "Prompt: ocean world of [Subject], swell, horizon, salt light, a person against water that does not care."
+  ],
+  "when": [
+   "Use it when the sea must act: a crossing, a lighthouse rock, a mole under fire, a diver's surface world. Do not use it as a backdrop for fashion on calm glass.",
+   "If the camera goes under, switch techniques."
+  ],
+  "vs": [
+   "Underwater submerges the lens. Atmospheric Haze is the aerial perspective over the water, a modifier, not the whole job.",
+   "Rain can lash a surface but is not swell. Ocean is surface gravity, horizon, and scale.",
+   "A wet street is not an ocean."
+  ],
+  "examples_film": [
+   "The Big Blue treats the surface as a workplace and a temptation. The Lighthouse puts two men against water and rock with no kindness in the horizon.",
+   "Dunkirk uses mole, hull, and swell as hostile architecture. Show weight and weather, not a stock seascape."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a calm stock seascape or Underwater caustics on a dry beach. The tell: no swell, a posed model large in frame, glass-smooth water, no spray.",
+   "The fix: scale the human down, give the sea a period, backlight salt, keep the horizon honest."
+  ],
+  "faq": [
+   {
+    "q": "What is Ocean in film?",
+    "a": "Ocean work puts a person or boat against real swell and a horizon, with salt light and spray in the air. The sea is an actor, not a backdrop."
+   },
+   {
+    "q": "Ocean vs Underwater",
+    "a": "Ocean is the surface world: sky, swell, horizon. Underwater submerges the camera and loses that horizon. One is weather and scale; the other is a different medium."
+   },
+   {
+    "q": "When should I use Ocean?",
+    "a": "Use it when the sea must act on a body, a boat, or a rock. Do not use a still lake or a pool, and do not stay in ocean grammar once the lens has left the air."
+   },
+   {
+    "q": "How do I prompt Ocean for AI image or video?",
+    "a": "Name swell, horizon, and scale. Example: ocean world of [Subject], swell, horizon, salt light, a person against water that does not care. Demand period in the waves and backlight on spray."
+   }
+  ]
+ },
+ {
+  "slug": "rain",
+  "title": "Rain",
+  "zh_title": "雨",
+  "narrative": [
+   "Silver needles between a lamp and the lens. Shoulders darken.",
+   "Puddles double the neon. Weather is percussion you can see.",
+   "Make the air visible and the ground reflective. Use it when the scene must be wet in depth, not only on a window pane.",
+   "It is the wrong tool when you only need specular streets at night with no falling drops: that is a Wet-Down . It is also the wrong tool when you want a still veil that hides geography: that is Fog .",
+   "Rain against a bright overcast sky reads as nothing. Put a light behind the drops, toward camera, or lose the storm."
+  ],
+  "how": [
+   "Put water in the air (rain bars, towers, or a real front) and light it from behind or the side so droplets scatter toward the lens. Keep a darkish background so streaks separate.",
+   "Wet the ground even if the rain is light. Shutter angle controls streak length versus beads.",
+   "Prompt: heavy rain around [Subject], backlit drops, wet-down pavement, umbrellas, silver streaks, weather as percussion."
+  ],
+  "when": [
+   "Use it for a night street, a rooftop, a prison yard, any beat that needs falling water as a layer. Do not use it as a grade or as window tracks only.",
+   "If the air is empty and the asphalt is merely shiny, you shot a wet-down."
+  ],
+  "vs": [
+   "A Wet-Down soaks surfaces so lights double; it need not rain. Atmospheric Haze is a distant scatter, not falling drops.",
+   "Snow is ice that settles and accumulates. Fog is a local veil that hides figures.",
+   "Rain falls, streaks when backlit, and leaves the ground wet."
+  ],
+  "examples_film": [
+   "Blade Runner builds night as backlit rain and reflective streets. Seven uses rain as a constant layer over investigation.",
+   "The Shawshank Redemption lets a yard storm become a body-length release. Use drop, backlight, and wet ground, not a copied coat."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Wet-Down (shiny street, empty air) or a blue LUT called rain. The tell: no streaks against lamps, dry shoulders, no puddles.",
+   "The fix: put drops in the air, backlight them, wet the ground."
+  ],
+  "faq": [
+   {
+    "q": "What is Rain in film?",
+    "a": "Rain is falling water used as visible matter: backlit streaks in the air and reflective ground. Both the optical path and the pavement have to be wet."
+   },
+   {
+    "q": "Rain vs Wet-Down",
+    "a": "A wet-down sprays surfaces so night lights specularize, often with no weather in the air. Rain adds falling drops. You usually wet-down under rain; you can wet-down without rain."
+   },
+   {
+    "q": "When should I use Rain?",
+    "a": "Use it when air must streak and ground must mirror. Do not use it if you only need a shiny street, and do not expect rain to read against a bright empty sky without backlight."
+   },
+   {
+    "q": "How do I prompt Rain for AI image or video?",
+    "a": "Name backlit drops and wet ground. Example: heavy rain around [Subject], backlit drops, wet-down pavement, silver streaks. Specify the lamp behind the rain and forbid dry asphalt."
+   }
+  ]
+ },
+ {
+  "slug": "smoke",
+  "title": "Smoke",
+  "zh_title": "烟",
+  "narrative": [
+   "A practical lamp becomes a wedge through grey air. A drag on a cigarette writes a ribbon.",
+   "Photograph the air of a room. The walls were always there; now the air is too.",
+   "Use it when volume should be visible indoors or when a battle, a chimney, or a club must have a source. It is the wrong tool when the veil is weather with no fire ( Fog , Mist ).",
+   "It is the wrong tool when the white stuff rises off a manhole because water met cold air: that is Steam . Without a key or backlight, smoke is only a smell.",
+   "Front-filling a room with unlit smoke turns faces to mud."
+  ],
+  "how": [
+   "Pick a source and a particle (cigarette, incense, oil, battlefield pot). Control air currents so ribbons have direction.",
+   "Light from the side or behind so the volume renders; use a hard beam if you want shafts ( Volumetric Light ). Keep some clean path to the face.",
+   "Prompt: smoke around [Subject], cigarette, chimney, or battle, shafts of light catching it, volume in the room."
+  ],
+  "when": [
+   "Use it for apartments, temples, engine rooms, aftermath. Do not use it as a default 'atmosphere' pass on a sunny kitchen.",
+   "If the beat is stillness in a closed parlor, Dust Motes in a shaft may be enough."
+  ],
+  "vs": [
+   "Atmospheric Haze in the distance is aerial perspective. A hazer used to fill a stage is a cousin of smoke but without a story source; still light it as volume.",
+   "Fog is wet weather. Steam is water vapor from heat, white, rising, condensing.",
+   "Dust Motes are discrete specks in a beam, not a ribbon."
+  ],
+  "examples_film": [
+   "In the Mood for Love lets cigarette ribbons occupy cramped rooms. Blade Runner fills interiors so shafts and practicals have air to hit.",
+   "Apocalypse Now makes battle and jungle air into volume. Give smoke a source and a light, not a generic grey."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Fog (no source) or unlit fill that dirties skin. The tell: no chimney or cigarette, lamps without shafts, a muddy key.",
+   "The fix: a visible source, side or back light, a clean path to the eyes."
+  ],
+  "faq": [
+   {
+    "q": "What is Smoke in film?",
+    "a": "Smoke is airborne combustion particles from a source, dense enough that light can carve the room's air into volume. It has direction, swirls, and a reason to exist."
+   },
+   {
+    "q": "Smoke vs Atmospheric Haze",
+    "a": "Haze pales distant planes over kilometers. Smoke occupies a room or a battlefield and needs a source and a sculpting light. One is distance; the other is volume you could walk through."
+   },
+   {
+    "q": "When should I use Smoke?",
+    "a": "Use it to photograph a room's air, a chimney, a cigarette, a battle. Do not use it as weather, and do not fill a face with unlit particles."
+   },
+   {
+    "q": "How do I prompt Smoke for AI image or video?",
+    "a": "Name source and lighting. Example: smoke around [Subject], cigarette, chimney, or battle, shafts of light catching it. Demand a readable face and visible volume, not a grey grade."
+   }
+  ]
+ },
+ {
+  "slug": "snow",
+  "title": "Snow",
+  "zh_title": "雪",
+  "narrative": [
+   "Flakes cross a sodium lamp like slow sparks that do not burn. Shoulders collect white.",
+   "Footsteps write the path. Hush the world.",
+   "Silence becomes visible as reduced contrast and falling matter. Use it when winter must occupy both air and ground.",
+   "It is the wrong tool when you only need pale air without accumulation ( Mist ). It is the wrong tool when the falling matter is liquid ( Rain ).",
+   "Rain wets and mirrors; snow blankets and records tracks. Tiny fast specks against a day sky read as video noise.",
+   "Size the flakes and backlight them."
+  ],
+  "how": [
+   "Put flakes in the air (practical or digital) large enough to read, and light them from behind or the side. Let accumulation sit on wool, hair, rails, and ground.",
+   "Keep a dark background for flakes to separate, or accept a white-on-white hush. Wind decides drift versus fall.",
+   "Prompt: falling snow around [Subject], large flakes in backlight, muffled world, tracks, winter silence you can see."
+  ],
+  "when": [
+   "Use it for a platform wait, a hunt, a small-town crime, a night street that should go quiet. Do not use it as white rain that never settles.",
+   "If shoulders stay dry and the pavement is only wet, you shot rain."
+  ],
+  "vs": [
+   "Rain streaks and mirrors. Mist hangs and does not accumulate as a blanket.",
+   "Blue Hour is a sky condition that often pairs with snow but is not weather. Dust Motes are indoor specks in a shaft.",
+   "Snow falls, lands, and stays."
+  ],
+  "examples_film": [
+   "Fargo lets snow be ground, air, and isolation. Let the Right One In uses falling flakes and muffled suburbs.",
+   "The Revenant puts bodies into falling and settled winter. Use accumulation and backlight, not a noise overlay."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Rain tinted white, or grain called snow. The tell: wet mirrors, no accumulation, specks too small to size.",
+   "The fix: large backlit flakes, settled white on surfaces, tracks, a hush in contrast."
+  ],
+  "faq": [
+   {
+    "q": "What is Snow in film?",
+    "a": "Snow is ice in the air and on the ground: backlit flakes, accumulation, tracks, a quieter contrast. It occupies volume and records passage."
+   },
+   {
+    "q": "Snow vs Rain",
+    "a": "Rain is liquid: streaks, splashes, mirrors. Snow is crystal: drift, settle, blanket. If the street specularizes and coats stay dark, you are still in rain."
+   },
+   {
+    "q": "When should I use Snow?",
+    "a": "Use it when winter should hush the world and leave tracks. Do not use it as white rain, and do not omit accumulation."
+   },
+   {
+    "q": "How do I prompt Snow for AI image or video?",
+    "a": "Specify large backlit flakes and settled white. Example: falling snow around [Subject], large flakes in backlight, muffled world, tracks. Demand accumulation on wool and ground."
+   }
+  ]
+ },
+ {
+  "slug": "sparks",
+  "title": "Sparks and Embers",
+  "zh_title": "火花余烬",
+  "narrative": [
+   "A welder writes a fountain. A collapsing floor throws embers that hang, then die.",
+   "Industry or apocalypse in the air. Unlike dust, these specks have temperature and a brief life.",
+   "Use it when the air should be dangerous or industrial: a foundry, a burning street, a cigarette in a dark booth (embers, not a fountain). It is the wrong tool when the specks are cold ( Dust Motes , Snow ).",
+   "It is the wrong tool when the glow is only a warm key on a face with no particles: that is Candlelight or firelight without weather. If the particles are large, slow, and white, you probably asked for snow.",
+   "If they never fall, you asked for hanging dust."
+  ],
+  "how": [
+   "Give them a source (welder, angle grinder, timber, cigarette). Let gravity and heat dictate: sparks drop and bounce; embers can loft and drift.",
+   "Expose for the particle without losing the face entirely, or accept silhouettes. A dark surround makes them read.",
+   "Prompt: sparks or embers around [Subject], welding, fire, cigarettes, orange particles as weather."
+  ],
+  "when": [
+   "Use it for a night burn, a factory, a ruined city, a match. Do not sprinkle orange specks on a pastoral wide with no fire.",
+   "Particles need a reason."
+  ],
+  "vs": [
+   "Candlelight is a warm, flickering key. Sparks are the particles.",
+   "Volumetric Light is a shaft; sparks can cross it but are not the shaft. Dust Motes are cold and slow in a beam.",
+   "Snow is cold and accumulates. Sparks die in the air."
+  ],
+  "examples_film": [
+   "Blade Runner 2049 throws orange particles as industrial weather. The Dark Knight Rises uses fire and debris as airborne specks in night action.",
+   "Use source plus trajectory, not a spark overlay on a clean street."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Dust Motes tinted orange, or Snow . The tell: specks hang forever, accumulate on the ground as white, or have no welder or fire.",
+   "The fix: a hot source, brief trajectories, self-luminous particles, dark air."
+  ],
+  "faq": [
+   {
+    "q": "What is Sparks and Embers in film?",
+    "a": "Sparks and embers are burning particles in the air, thrown by welding, fire, or a cigarette. They light themselves, follow short trajectories, and die."
+   },
+   {
+    "q": "Sparks and Embers vs Dust Motes",
+    "a": "Dust motes are cold specks in a shaft of light. Sparks are incandescent and come from a hot source. One is time in a closed room; the other is industry or fire."
+   },
+   {
+    "q": "When should I use Sparks and Embers?",
+    "a": "Use them when the air should carry heat: welding, collapse, a cigarette coal. Do not sprinkle orange dots on a scene with no fire."
+   },
+   {
+    "q": "How do I prompt Sparks and Embers for AI image or video?",
+    "a": "Name the hot source and the trajectories. Example: sparks or embers around [Subject], welding, fire, cigarettes, orange particles as weather. Dark surround, gravity, no snow."
+   }
+  ]
+ },
+ {
+  "slug": "steam",
+  "title": "Steam",
+  "zh_title": "蒸汽",
+  "narrative": [
+   "A locomotive writes a column that the platform wind tears. A manhole breathes.",
+   "A shower erases a body in white. Heat meeting cold air.",
+   "Industrial or intimate, the physics are the same. Use it when the source is hot water or hot metal in cold space.",
+   "It is the wrong tool when the cloud is burning ( Smoke ) or hanging as weather ( Fog ). Smoke can sink and stain; steam wants to rise and vanish.",
+   "If the white cloud has no grate, kettle, train, or shower, you have fog in a trench coat."
+  ],
+  "how": [
+   "Show the source (stack, manhole, shower head, kettle). Let the vapor rise and shear in wind.",
+   "Backlight for a white, translucent volume; it should feel wetter and brighter than smoke. Condensation on glass and wool helps.",
+   "Prompt: steam billowing around [Subject], trains, manholes, showers, a white veil, industrial or intimate heat."
+  ],
+  "when": [
+   "Use it on a winter platform, a night street grate, a bathroom, a factory press. Do not use it as generic alley 'atmosphere' with no heat.",
+   "If the alley is burning, use smoke. If the alley is only wet and cold, use fog or rain."
+  ],
+  "vs": [
+   "Smoke is combustion, often grey or colored, with a fire source. Fog is ambient water droplets without a hot origin.",
+   "Atmospheric Haze is distant scatter. Steam is a thermal event: white, rising, local to a grate, stack, or shower."
+  ],
+  "examples_film": [
+   "Winter station grammar in thrillers leans on locomotive steam as moving architecture. The Untouchables uses train steam as a white, violent veil.",
+   "Drive lets night streets breathe from grates. Spirited Away treats bathhouse steam as a wet interior weather.",
+   "Show the heat, not a smoke bomb."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Smoke (wrong color, wrong source) or Fog (no rise from heat). The tell: a grey cloud sitting still with no grate or stack.",
+   "The fix: a thermal source, white translucent rise, backlight, wind shear."
+  ],
+  "faq": [
+   {
+    "q": "What is Steam in film?",
+    "a": "Steam is water vapor from heat meeting colder air. It billows from trains, manholes, showers, and kettles: a white, wet, rising veil with a thermal source."
+   },
+   {
+    "q": "Steam vs Smoke",
+    "a": "Smoke is combustion particles and can hang, stain, and go grey. Steam is wet vapor, brighter, rising, tied to heat and cold air. One burns; the other boils."
+   },
+   {
+    "q": "When should I use Steam?",
+    "a": "Use it when heat and cold air are in the scene: platforms, grates, baths, presses. Do not use it as a generic alley cloud with no source."
+   },
+   {
+    "q": "How do I prompt Steam for AI image or video?",
+    "a": "Name the hot source and the white rise. Example: steam billowing around [Subject], trains, manholes, showers, a white veil. Backlight it and keep it wetter than smoke."
+   }
+  ]
+ },
+ {
+  "slug": "underwater",
+  "title": "Underwater",
+  "zh_title": "水下拍摄",
+  "narrative": [
+   "Hair and cloth delay. Light arrives as moving lattice from a surface that is now a ceiling.",
+   "There is no standing horizon, only up toward silver and down toward dark. Leave air.",
+   "Use it when the scene is actually submerged: a pool, a sea, a tank, a flood. It is the wrong tool when you only want grace: dry Slow Motion with a blue grade is a lie, and it shows in hair that still falls at air speed.",
+   "It is the wrong tool when the story is on the swell with a sky: that is Ocean . Color dies with depth (reds first).",
+   "If the red dress is still loud at ten meters, you stayed in air."
+  ],
+  "how": [
+   "Put the lens in a housing in water (or a convincing tank). Expose for caustics from the real sun or a hard source through the surface.",
+   "Let bubbles and silt backlight. Wardrobe and hair must float.",
+   "Camera moves fight drag; they read slower. Prompt: underwater of [Subject], caustics, muffled space, hair and cloth in slow water, a world without horizon."
+  ],
+  "when": [
+   "Use it for a dive, a drowning, a creature, a flooded corridor. Do not use it as a look for a dry bedroom.",
+   "If you need the surface and the sky, shoot ocean, then go under for a beat if the story dives."
+  ],
+  "vs": [
+   "Ocean is the surface world: swell, horizon, salt light. Atmospheric Haze is air scatter.",
+   "Slow Motion is a frame-rate choice that often accompanies underwater but is not the medium. Underwater is a different optical path: refraction, caustics, buoyancy, no air horizon."
+  ],
+  "examples_film": [
+   "The Big Blue lives in the medium, not in a tint. The Shape of Water makes tanks and canals a second gravity.",
+   "Thunderball proved action can be staged as true submerged geography. Use caustics and float, not a teal LUT on a dry actor."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a blue grade in air, or Ocean from a boat. The tell: cloth hangs, hair falls, a skyline, no caustics.",
+   "The fix: submerge the camera, float the fabrics, add caustics and backlit silt, kill the air horizon."
+  ],
+  "faq": [
+   {
+    "q": "What is Underwater in film?",
+    "a": "Underwater work puts camera and subject in water, so caustics, buoyancy, particles, and a missing air horizon rewrite the frame. The medium is the atmosphere."
+   },
+   {
+    "q": "Underwater vs Ocean",
+    "a": "Ocean is the surface: swell, sky, a horizon that can kill you. Underwater leaves that sky and treats the surface as a ceiling. One is a seascape; the other is a different world."
+   },
+   {
+    "q": "When should I use Underwater?",
+    "a": "Use it when the scene is submerged. Do not use a blue grade or slow motion in air as a substitute, and do not call a boat horizon underwater."
+   },
+   {
+    "q": "How do I prompt Underwater for AI image or video?",
+    "a": "Demand caustics, floating cloth, and no air horizon. Example: underwater of [Subject], caustics, muffled space, hair and cloth in slow water. Specify silt or bubbles in backlight."
+   }
+  ]
+ },
+ {
+  "slug": "wet-down",
+  "title": "Wet-Down",
+  "zh_title": "地面打湿",
+  "narrative": [
+   "Sodium, neon, a traffic headlamp: each finds a second copy on blacktop. Night exteriors that must sparkle.",
+   "Studio crews invented this because dry asphalt eats light. The trick is the shine, not the storm.",
+   "Use it when a night street, alley, or overpass must specularize practicals. It is the wrong tool when you need falling streaks and umbrellas as percussion: add Rain .",
+   "It is the wrong tool when the color should come only from tubes on walls with a dry floor: that is Neon Practicals without a mirror. If the air is full of drops, you have rain (usually on top of a wet-down).",
+   "If the air is empty and the ground is a black mirror, you have the wet-down alone."
+  ],
+  "how": [
+   "Hose or rain-bar the travel path until it sheets. Place practicals (sodium, neon, shop windows) so their reflections fall in frame.",
+   "Keep the camera low enough to catch the mirror, or lose it. No need for backlight in the air unless rain is also falling.",
+   "Prompt: wet-down streets around [Subject], pavement sprayed for night, double the lights by reflection."
+  ],
+  "when": [
+   "Use it for night driving, a sidewalk wait, a neon block. Do not soak a dusty noon street unless the story has just rained.",
+   "A wet-down in hard sun can look like a spill, not night grammar."
+  ],
+  "vs": [
+   "Rain puts drops in the optical path. Neon Practicals is the source color; wet-down is how that color doubles on the ground.",
+   "Fog blooms lamps in air. Wet-down blooms them on the floor.",
+   "Atmospheric Haze does not spec the asphalt."
+  ],
+  "examples_film": [
+   "Drive and Collateral make Los Angeles nights out of wet asphalt and practicals. Who Framed Roger Rabbit's night streets use the same studio-wet logic so lamps have copies.",
+   "Use the mirror, not a copied car."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Rain (streaks in air) or a glossy grade on dry pavement. The tell: drops around lamps, or no reflections despite 'wet streets.' The fix: sheet the ground, place lights that can reflect, keep air empty if rain is not the job."
+  ],
+  "faq": [
+   {
+    "q": "What is Wet-Down in film?",
+    "a": "A wet-down is a sprayed street or surface that turns night practicals into reflections. It is a ground treatment. Rain is optional."
+   },
+   {
+    "q": "Wet-Down vs Rain",
+    "a": "Rain is weather in the air. Wet-down is water on the ground so lights double. Night work often uses both; they are not the same request."
+   },
+   {
+    "q": "When should I use Wet-Down?",
+    "a": "Use it when a night exterior must sparkle from the pavement. Do not use it as a substitute for falling rain, and do not soak a dry noon scene without a story reason."
+   },
+   {
+    "q": "How do I prompt Wet-Down for AI image or video?",
+    "a": "Ask for sprayed pavement and reflected practicals. Example: wet-down streets around [Subject], pavement sprayed for night, double the lights by reflection. Specify empty air if you do not want rain."
+   }
+  ]
+ },
+ {
+  "slug": "birds-eye",
+  "title": "Bird's-Eye View",
+  "zh_title": "鸟瞰",
+  "narrative": [
+   "From up there the body is a token. Circulation, grouping, and the shape of a courtyard or a table take over.",
+   "You use it to turn a fight, a dinner, or a street into a pattern the participants cannot see. The camera is high enough that the floor is the picture, but unlike a close Overhead Top-Down you still feel drop: altitude, not a light stand over a desk.",
+   "It is the wrong tool when you need a face, a line of dialogue, or a simple sense that someone is small in a room. That last job is often a High Angle from a balcony.",
+   "If the model flies and tours, you have left the still viewpoint for a drone move."
+  ],
+  "how": [
+   "Place the camera well above the action and pitch it steeply down, approaching 70 to 90 degrees. Great height is required: a ceiling corner of a lobby, a crane, a rooftop, a high grid.",
+   "Anatomy foreshortens; heads and shoulders become discs. Keep extra limbs out of a seated tableau or the map grows a mutant.",
+   "Light from above will flatten; a raking key throws shadows as drawing on the floor. Prompt: bird's-eye straight down from a great height, floor as a map, no extra limbs."
+  ],
+  "when": [
+   "Use it to turn life into a board game or a ritual. Concrete beat: one seated person and a table seen from the ceiling so plates and hands are the story.",
+   "Do not use it as a sightseeing flyover when the beat is still a person."
+  ],
+  "vs": [
+   "High Angle looks down obliquely; the face remains a face. Overhead Top-Down is a 90-degree top-down, often closer, a flat-lay or room plan whose tabletop must stay rectangular.",
+   "Crane Over is the path that can arrive at a bird's-eye. Aerial and FPV Drone add flight; bird's-eye can be a locked steep look."
+  ],
+  "examples_film": [
+   "The Grand Budapest Hotel uses steep downward views so hotels, desks, and ceremonies read as designed diagrams. Requiem for a Dream looks down until apartments and bodies are patterns of habit.",
+   "Use the altitude and the map, not a copied lobby."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a mild High Angle (too little height) or a close Overhead Top-Down (too little altitude, too much product photography). Tell: a readable standing portrait from a step-stool, or a desk filling the frame with no drop.",
+   "Fix: camera high above, looking steeply down, bodies foreshortened, floor as geography. Ban extra arms in seated groups."
+  ],
+  "faq": [
+   {
+    "q": "What is bird's-eye view in film?",
+    "a": "A bird's-eye view looks steeply or straight down from a great height. People and furniture become a map; altitude is the viewpoint."
+   },
+   {
+    "q": "Bird's-eye view vs overhead",
+    "a": "Bird's-eye implies great height and a map of a place. Overhead top-down is 90 degrees and often closer: a table, a crime scene, or a dance as a graphic plan."
+   },
+   {
+    "q": "When should I use bird's-eye view?",
+    "a": "Use it when grouping, ritual, or circulation should win over any one face. Do not use it for dialogue or for a product lying on a table."
+   },
+   {
+    "q": "How do I prompt bird's-eye view for AI image or video?",
+    "a": "Write: Bird's-eye view straight down on [Subject] from a great height, floor as a map, bodies foreshortened, no extra limbs. Say not a high-angle portrait and not a 90-degree desk flat-lay."
+   }
+  ]
+ },
+ {
+  "slug": "dutch-angle",
+  "title": "Dutch Angle",
+  "zh_title": "荷兰角",
+  "narrative": [
+   "Pitch looks up or down. Roll breaks the floor.",
+   "A Dutch (canted, oblique) shot is a choice about gravity, not about power height. Use it when the moral or mental line is already bent: a sick city, a fight that will not stay fair, a mind that cannot stand up.",
+   "Adjacent level shots make the cant mean something. If every setup is Dutch, nothing is.",
+   "It is not a Low Angle . Looking up with a level roll is a different axis.",
+   "It is not a Dutch Roll either: that is the move that rotates into a cant during the shot. A static Dutch is a frozen decision."
+  ],
+  "how": [
+   "Rotate the camera around the lens axis. A readable working cant is about 15 to 30 degrees; past 45 the frame often just looks like a mistake.",
+   "Compose diagonals on purpose: stair rails, streets, a leaning body that agrees or argues with the roll. Keep the set rigid.",
+   "The sensation should come from the viewpoint, not from warped walls. Decide whether the reverse stays level for contrast.",
+   "Prompt: Dutch angle, camera rolled 20 to 30 degrees, diagonal horizon."
+  ],
+  "when": [
+   "Use it when the world is off its axis. Concrete beat: a stairwell confrontation, banister as a diagonal, both feet still planted on real steps.",
+   "Do not use it as decoration on every villain or every night street."
+  ],
+  "vs": [
+   "Eye Level with a level horizon is the control condition. Incline is a gentler cant, a few degrees of slope rather than a full lean.",
+   "Dutch Roll and Camera Roll are motion on this axis. Low Angle pitches up; High Angle pitches down.",
+   "Neither is a Dutch until you also roll."
+  ],
+  "examples_film": [
+   "The Third Man cants Vienna's streets and encounters so the postwar city will not sit true. Do the Right Thing angles selected confrontations rather than the whole film.",
+   "Mission: Impossible uses canted Prague coverage; the later rotating vault is a different trick (the set moves). Borrow a motivated static roll, not a permanent lean."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Low Angle (pitch) or a moving Dutch Roll . Tell: ceiling in frame but horizon level, or the camera rotating during the shot when you wanted a still lean.",
+   "Fix: level pitch, roll 20 to 30 degrees, lock it. The other failure is 60-degree decoration on every setup.",
+   "If the next shot is also canted, the cant has no contrast."
+  ],
+  "faq": [
+   {
+    "q": "What is a Dutch angle in film?",
+    "a": "A Dutch angle rolls the camera so the horizon and verticals tilt. The frame's relationship to gravity is broken on purpose, usually as a static cant."
+   },
+   {
+    "q": "Dutch angle vs low angle",
+    "a": "A low angle pitches the camera up from below the eyes. A Dutch angle rolls the camera; the floor slants. You can combine them, but they are different axes."
+   },
+   {
+    "q": "When should I use a Dutch angle?",
+    "a": "Use it when disequilibrium, aggression, or a stylized sick world should be in the geometry. Do not use it as a default mood for night or villains."
+   },
+   {
+    "q": "How do I prompt a Dutch angle for AI image or video?",
+    "a": "Write: Dutch angle of [Subject], camera rolled 20 to 30 degrees, diagonal horizon, static cant, walls not warped. Say it is not a low angle and not a rolling camera."
+   }
+  ]
+ },
+ {
+  "slug": "eye-level",
+  "title": "Eye Level",
+  "zh_title": "平视",
+  "narrative": [
+   "Rank in a frame comes from where the lens sits and how it is pitched. Eye-level refuses that assignment.",
+   "Two people at matching eye height read as peers; the room does not look down on them, and they do not loom. Sit when they sit.",
+   "Stand when they stand. The judgment, if any, has to come from performance, costume, or light, not from geometry.",
+   "It is the wrong tool when the beat is surveillance, monument, or a map. A few degrees of pitch and you have already cut to a High Angle or a Low Angle .",
+   "A few inches down and you are in Shoulder Level , which is a companion, not a peer."
+  ],
+  "how": [
+   "Match the nodal point to the subject's eyes. Keep roll at zero so verticals stay vertical.",
+   "A 35mm to 50mm keeps perspective close to human vision; a wide from the same height will still stretch the room without changing rank. Height and tilt are independent: a camera at eye height that looks down is no longer an eye-level shot, it is a high angle from eye height.",
+   "Prompt it as camera at their eye height, horizon level, no tilt up or down."
+  ],
+  "when": [
+   "Use it for a conversation that should not take sides, or for a face you want believed without the camera lobbying. Concrete beat: two adults at a kitchen table, seated eyes matched, no ceiling grab.",
+   "Do not look down or up unless you mean it."
+  ],
+  "vs": [
+   "High Angle pitches down and shrinks the figure. Low Angle pitches up and grows it.",
+   "Shoulder Level sits a few inches below the eyes, like a walking companion. Point of View is what the character sees, not a camera beside them at the same height.",
+   "Over-the-Shoulder Coverage keeps a near body in the foreground; eye-level can be a clean Single ."
+  ],
+  "examples_film": [
+   "Tokyo Story holds domestic talk at human height so posture, not a power tilt, does the judging. Rosetta stays with her at her own eye line as she moves, refusing a look down.",
+   "Use those as grammar: match height to the person in the scene, keep the horizon honest."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a mild Low Angle , because generators treat a portrait as a poster. Tell: ceiling in frame, chin from below, verticals converging.",
+   "Fix: camera at eye height, horizon level, no tilt. If the subject is seated, sit the camera; standing eye-level on a seated person is already looking down."
+  ],
+  "faq": [
+   {
+    "q": "What is eye level in film?",
+    "a": "An eye-level shot places the camera at the subject's eye height with a level horizon. The sightline is horizontal, so the frame does not assign power by looking up or down."
+   },
+   {
+    "q": "Eye level vs high angle",
+    "a": "Eye level matches the subject's eyes and stays level. A high-angle shot raises the camera and pitches it down, so more floor enters and the figure occupies less of the rectangle."
+   },
+   {
+    "q": "When should I use eye level?",
+    "a": "Use it when the relationship should read as equal: talk, witness, default coverage. Skip it when the beat needs vulnerability from above or monument from below."
+   },
+   {
+    "q": "How do I prompt eye level for AI image or video?",
+    "a": "Write: Eye-level shot of [Subject], camera at their eye height, horizon level, no tilt up or down. Name sit versus stand so the model does not look down on a seated body."
+   }
+  ]
+ },
+ {
+  "slug": "first-person",
+  "title": "First-Person",
+  "zh_title": "第一人称视角",
+  "narrative": [
+   "The audience is the character for a stretch of time. Lady in the Lake tries to tell a detective story this way.",
+   "Hardcore Henry runs it as an action body. Enter the Void keeps the camera inside a consciousness that still has a path through rooms.",
+   "Hands, a steering wheel, a gun, a door handled at the edge: those are the tells that a person, not an invisible observer, is looking. A Point of View shot can be one cut of what they see, clean of the owner.",
+   "First-person keeps the owner as a felt body. Object POV parents the camera to a prop instead.",
+   "SnorriCam looks at their face from their chest, which is the opposite ownership."
+  ],
+  "how": [
+   "Parent the camera to the character's head or upper chest with a human field of view (roughly 24mm to 35mm spherical, not a tiny action-cam unless that is diegetic). Allow hands, shoulders at the extreme edge, or a tool to enter.",
+   "Add breath and footfall as camera motion only as much as a body would. Do not show the owner's face except in glass.",
+   "Prompt: first-person camera as [Subject] would see, hands entering frame, breath, a body that owns the lens."
+  ],
+  "when": [
+   "Use it when the audience must be the character, not merely glance as them. Concrete beat: running a wet overpass, gloved hands hitting the rail, breath in the cold, no face of the runner.",
+   "Do not use it for a two-shot argument; you will lose the listener."
+  ],
+  "vs": [
+   "Point of View is the optical slice of the seen world, often an insert after a look, owner body forbidden. Object POV is a ball, a bullet, a phone, a vehicle.",
+   "Over-the-Shoulder Coverage keeps us behind someone we can still see. Fourth Wall has them look at us.",
+   "SnorriCam bolts the camera to the torso and stares at their face while the world slides."
+  ],
+  "examples_film": [
+   "Hardcore Henry keeps the body in the lens: hands, weapons, impacts. Enter the Void rides a consciousness through space after the body is gone, still as a moving first-person path.",
+   "Lady in the Lake (1947) attempts extended first-person detective storytelling, other characters addressing the lens as Marlowe. Use those as embodiment grammar."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a clean Point of View plate (no hands) or a Follow Shot behind the actor. Tell: a back of a head, or a perfectly disembodied lock-off of a room.",
+   "Fix: hands or a tool in frame, motion as a walk or a turn of the head, owner invisible as a face. If the camera is bolted to a car hood with chrome in frame, you wanted Object POV ."
+  ],
+  "faq": [
+   {
+    "q": "What is first-person camera in film?",
+    "a": "First-person makes the camera a character's body: we see as they see, with hands, breath, or tools entering the frame. It is continuous embodiment, not only a glance."
+   },
+   {
+    "q": "First-person vs POV",
+    "a": "A POV shot is what they see, often a single insert with no owner body. First-person keeps a body owning the lens over time: hands, locomotion, breath."
+   },
+   {
+    "q": "When should I use first-person?",
+    "a": "Use it when the audience should inhabit a body for a passage of action or perception. Do not use it for ordinary reverse-shot dialogue."
+   },
+   {
+    "q": "How do I prompt first-person for AI image or video?",
+    "a": "Write: First-person camera as [Subject] would see, hands entering frame, breath, a body that owns the lens. For video, move as they move, tools at the edges, no owner's face."
+   }
+  ]
+ },
+ {
+  "slug": "fourth-wall",
+  "title": "Fourth Wall",
+  "zh_title": "打破第四面墙",
+  "narrative": [
+   "Theatre named the fourth wall; film breaks it when a Ferris explains the day to us, when a killer in Funny Games checks whether we are still complicit, when Alvy steps out of Annie Hall to argue. The eyeline is the mechanism.",
+   "Everything else in the shot can stay naturalistic. The turn is the look into glass.",
+   "It is not Point of View (we see what they see). It is not a diary voiceover laid over a face that never finds the lens ( Taxi Driver 's narration can run without a break).",
+   "It is close to Interview , except interview eyeline is usually just off-lens, to a listener, while fourth-wall treats us as the partner."
+  ],
+  "how": [
+   "Place the camera at the subject's eye height and put their eyeline in the center of the taking lens (or a marked pupil on the matte box). Keep the rest of the blocking honest so the look is the only rupture.",
+   "A slight Eye Level three-quarter that then turns into the glass can stage the break as a decision. Prompt: fourth-wall look, eyes into the lens, the scene admitting an audience."
+  ],
+  "when": [
+   "Use it when they know we are here: a plan explained to us, a dare, a confession that includes the spectator. Concrete beat: a character pauses in a room, finds the lens, and continues the line to us.",
+   "Do not sprinkle random winks; the break has to change the contract of the scene."
+  ],
+  "vs": [
+   "Point of View inhabits their look into the world. First-Person is their body seeing; other people may look at camera as if at that body, which is diegetic address, not a break.",
+   "Interview aims just off-lens to an offscreen questioner. Profile looks away.",
+   "Reverse Angle answers another character, not us."
+  ],
+  "examples_film": [
+   "Ferris Bueller 's Day Off lets Ferris comment on his own behavior directly to viewers. Funny Games uses looks (and more) to implicate the spectator.",
+   "Annie Hall lets Alvy address the audience and step outside ordinary scene realism. The Office glances at the lens as documentary embarrassment, a softer cousin of the same eyeline."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Interview (eyeline off-lens) or a Point of View of another character (someone looking at the first-person body). Tell: they look past the camera, or we see what they see instead of their eyes.",
+   "Fix: pupils on the lens, address to the audience. Voiceover without a look is narration, not this shot."
+  ],
+  "faq": [
+   {
+    "q": "What is fourth wall in film?",
+    "a": "Breaking the fourth wall means a character looks into the taking lens and admits the audience. The eyeline into the camera is the break."
+   },
+   {
+    "q": "Fourth wall vs POV",
+    "a": "Fourth wall looks at us. A POV shot is what the character sees in their world. One admits a spectator; the other inhabits a looker."
+   },
+   {
+    "q": "When should I use fourth wall?",
+    "a": "Use it when the contract of the scene should include the audience: explanation, dare, complicity. Do not use it as a random wink with no change in address."
+   },
+   {
+    "q": "How do I prompt fourth wall for AI image or video?",
+    "a": "Write: Fourth-wall look from [Subject], eyes into the lens, eye-level, the scene admitting an audience. Not an interview off-lens look, not a POV of the scenery."
+   }
+  ]
+ },
+ {
+  "slug": "ground-level",
+  "title": "Ground Level",
+  "zh_title": "贴地机位",
+  "narrative": [
+   "From the dirt, a walk is a sequence of soles. A coat trailing, a wheel, a dropped gun, a snake's view of a street: the floor is the foreground and architecture goes large above it.",
+   "Westerns and car films live here because the ground is where decisions land. Worm's-Eye View is the cousin that looks straight up until there is no street, only a zenith.",
+   "Low Angle can be shot from the waist and never touch the floor. Hip Level still belongs to hands and holsters.",
+   "Ground-level is the pedestal on the boards."
+  ],
+  "how": [
+   "Set the camera on a low plate, a sandbag, or a hole so the sensor is centimeters from the ground. A wide lens exaggerates the near boots and the far horizon.",
+   "You may look along the floor (track, tire, hem) or tilt up (a coat filling the sky). Keep grit, wet, or dust in the near field; that is how the height reads.",
+   "Prompt: ground-level camera, lens nearly on the floor, boots and trailing coat, horizon very low."
+  ],
+  "when": [
+   "Use it when the story starts from the dirt: an arrival on foot, a car, a body on the road. Concrete beat: boots stepping onto a dusty street, coat hem in the near field, town rising beyond.",
+   "Do not use it as the default for a walking conversation; that is Shoulder Level or Eye Level ."
+  ],
+  "vs": [
+   "Worm's-Eye View looks sharply up from this height until verticals collapse and the horizon dies. Low Angle is a pitch from below the eyes, not a requirement that the lens kiss the floor.",
+   "Hip Level sits at belt height so hands stay in the plane of focus. Overhead Top-Down is the opposite pole: the floor as a plan, not as a foreground."
+  ],
+  "examples_film": [
+   "Once Upon a Time in the West lets the station boards, tracks, and boots own the opening; the ground is duration. Drive keeps cars, asphalt, and shoes in the near field so the street is the world.",
+   "Borrow the low pedestal and the near-ground texture."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Low Angle from kneeling height with a clean floor and a full face. Tell: no near-ground texture, no boots, camera clearly at knee-plus.",
+   "Fix: lens nearly on the floor, grit or pavement sharp in the foreground. If the shot is only nostrils and sky, you drifted into Worm's-Eye View ."
+  ],
+  "faq": [
+   {
+    "q": "What is ground level in film?",
+    "a": "A ground-level shot places the lens almost on the floor. Boots, hems, wheels, and pavement become the near subject; the world rises from the dirt."
+   },
+   {
+    "q": "Ground level vs worm's-eye view",
+    "a": "Ground level is a height: camera on the floor, often looking along boots or steeply up a coat. Worm's-eye view is an extreme upward pitch from that height, verticals collapsing, almost no street horizon."
+   },
+   {
+    "q": "When should I use ground level?",
+    "a": "Use it when the ground is part of the beat: a walk, a car, a dropped object, a Western arrival. Do not use it for ordinary seated talk."
+   },
+   {
+    "q": "How do I prompt ground level for AI image or video?",
+    "a": "Write: Ground-level camera, lens nearly on the floor, boots and trailing coat in the near field, horizon low. Say whether it looks along the dirt or steeply up."
+   }
+  ]
+ },
+ {
+  "slug": "high-angle",
+  "title": "High Angle",
+  "zh_title": "高角度",
+  "narrative": [
+   "Height plus downward tilt is what assigns the smaller rank. A high angle can be pity, surveillance, or a clinical map of who can reach the door.",
+   "The face should still be a face: you see the crown and the shoulders, not only a scalp. Paths and distances that Eye Level would hide become readable because the floor is a diagram with walls still receding.",
+   "It is the wrong tool when you need a true plan view. If the tabletop must be a rectangle and bodies become pieces, you wanted Overhead Top-Down or a steep Bird's-Eye View .",
+   "It is also the wrong tool for a power confrontation; looking down on the boss fights the line."
+  ],
+  "how": [
+   "Raise the camera above the subject's eyes and pitch it down. Typical working range is a step-stool to a short ladder, 20 to 45 degrees of tilt, subject still recognizable through costume and contrast.",
+   "Top-light and ceiling practicals become the key more often, because you are now closer to the lights that hang. Keep roll level; a canted high angle is two techniques at once.",
+   "Prompt: high-angle shot looking down, figure diminished, more floor than sky, not top-down."
+  ],
+  "when": [
+   "Use it for vulnerability, surveillance, or a map of a room that eye-level cannot draw. Concrete beat: a lone figure on a station platform, camera above the lamps, suitcase readable on the boards.",
+   "Do not use a high oblique when the shot must be strictly top-down."
+  ],
+  "vs": [
+   "Eye Level stays on the sightline and assigns no rank. Bird's-Eye View looks steeply or straight down from a great height until people are a map.",
+   "Overhead Top-Down is 90 degrees, a flat-lay or room plan. Low Angle is the opposing pitch.",
+   "Crane Over is the move that can arrive at a high or overhead view."
+  ],
+  "examples_film": [
+   "Psycho uses a steep high view on the stairway so Arbogast is placed inside the house's geometry before the attack. The Shawshank Redemption uses high views of the prison so human scale sits inside the walls.",
+   "Citizen Kane and Prisoners both look down when a person should feel watched or reduced. Borrow the downward pitch and the readable floor, not a poster."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Bird's-Eye View or Overhead Top-Down : the model snaps to a drone plan. Tell: tops of heads only, table as a perfect rectangle, no face.",
+   "Fix: looking down 30 degrees, eyes and mouth still readable, walls receding. The other failure is a raised camera that stays level, which is a high vantage, not a high angle."
+  ],
+  "faq": [
+   {
+    "q": "What is a high angle in film?",
+    "a": "A high-angle shot looks down at the subject from above eye level. The pitch is oblique, so you still read a person, only smaller in their space."
+   },
+   {
+    "q": "High angle vs bird's-eye view",
+    "a": "A high angle is a downward look that keeps the face and the room in perspective. A bird's-eye view is much higher and steeper, often nearly straight down, until life reads as a map."
+   },
+   {
+    "q": "When should I use a high angle?",
+    "a": "Use it when someone is vulnerable, watched, or when the floor plan of a room matters more than a power face. Do not use it as a default dramatic portrait."
+   },
+   {
+    "q": "How do I prompt a high angle for AI image or video?",
+    "a": "Write: High-angle shot looking down on [Subject], figure diminished, more floor than ceiling, face still readable, not top-down. Name an approximate tilt if the model keeps flattening the room."
+   }
+  ]
+ },
+ {
+  "slug": "hip-level",
+  "title": "Hip Level",
+  "zh_title": "腰部机位",
+  "narrative": [
+   "Westerns minted it because a draw happens at the belt. The face is still in the upper frame, but the story is in the fingers, the buckle, the coat hem at the wrist.",
+   "Tension reads before anyone looks up. Crime films stole the height for a gun that might come out during a talk.",
+   "It is not a Cowboy Shot , which is a frame size from mid-thigh up and can be taken from eye height. It is not a Low Angle unless you also pitch up.",
+   "Hip-level can stay level and still make the holster the equator of the picture."
+  ],
+  "how": [
+   "Pedestal to belt height on a standing adult (roughly 90 to 110 cm). Keep roll level.",
+   "A slight look-up is optional; a true hip-level often aims through the hands toward the far figure. Depth of field should hold the holster and the facing body.",
+   "A wider lens at this height will stretch legs; a longer lens compresses the standoff. Prompt: hip-level camera, gunbelt height, hands and holster in the plane of focus."
+  ],
+  "when": [
+   "Use it when the hands will decide: a standoff, a pocketed weapon, a key passed at waist height. Concrete beat: two standing figures, belts in a line, fingers idle near leather.",
+   "Do not use it when the face is the only event; rise to Shoulder Level or Eye Level ."
+  ],
+  "vs": [
+   "Cowboy Shot crops mid-thigh as a size; hip-level is where the lens sits. Ground Level is on the dirt and privileges boots.",
+   "Low Angle pitches up for monument. Shoulder Level is a walking companion, closer to the face.",
+   "Eye Level ignores the belt."
+  ],
+  "examples_film": [
+   "The Good, the Bad and the Ugly keeps holsters and hands alive in the line of the lens during standoffs. No Country for Old Men works at belt and pocket height so a captured bolt pistol is as present as a face.",
+   "Borrow the height of the hands, not a copied desert."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Low Angle power tilt or a Cowboy Shot from standing eye height. Tell: nostrils and ceiling, or a mid-thigh crop taken from above the chest.",
+   "Fix: camera at belt, looking through the hands, horizon level. If only boots are sharp, you dropped to Ground Level ."
+  ],
+  "faq": [
+   {
+    "q": "What is hip level in film?",
+    "a": "A hip-level shot places the camera at belt or holster height. Hands, gait, and weapons sit in the plane of focus; the face remains in the upper frame."
+   },
+   {
+    "q": "Hip level vs cowboy shot",
+    "a": "Hip level is camera height at the belt. A cowboy shot is a frame size from mid-thigh up. You can combine them, but a cowboy can also be taken from eye height."
+   },
+   {
+    "q": "When should I use hip level?",
+    "a": "Use it when hands and a possible draw are the beat. Do not use it for a seated talk or a face that needs to fill the frame."
+   },
+   {
+    "q": "How do I prompt hip level for AI image or video?",
+    "a": "Write: Hip-level camera on [Subject], gunbelt height, hands and holster in the plane of focus, horizon through the hands, not a low-angle tilt."
+   }
+  ]
+ },
+ {
+  "slug": "incline",
+  "title": "Incline",
+  "zh_title": "轻微倾斜",
+  "narrative": [
+   "A full Dutch Angle at 20 to 30 degrees is a statement: the axis is broken. Incline is the whisper.",
+   "Hallways that should feel 6 to 12 degrees wrong, a street that might be hill or might be mind, a conversation that is not yet a crisis. If the viewer can measure a lean at a glance, you probably overshot into Dutch.",
+   "It is still roll, not pitch. A camera looking up a real hill with a level bubble is not an incline; the floor is actually sloped and the frame is true.",
+   "Incline cheats gravity in the head, not in the set."
+  ],
+  "how": [
+   "Roll the camera a small amount, typically about 5 to 12 degrees, and lock it. Keep architecture readable and bodies upright in the world; only the frame is off.",
+   "Do not combine with a wide fisheye or the small cant disappears into distortion. Contrast with a level reverse if you want the incline to be felt.",
+   "Prompt: inclined camera, a gentle cant, not a full Dutch, the floor suggesting slope or unease."
+  ],
+  "when": [
+   "Use it when a full Dutch is too much and the floor should only suggest slope or unease. Concrete beat: a hotel corridor, 8 degrees of roll, wallpaper still a grid, a person walking toward camera.",
+   "Do not use it as a substitute for building a real ramp, and do not park at 25 degrees and call it gentle."
+  ],
+  "vs": [
+   "Dutch Angle is the full cant, often 20 to 30 degrees, moral or mental tilt as a graphic. Dutch Roll and Camera Roll move on this axis over time.",
+   "Eye Level with a level bubble is the control. Low Angle and High Angle are pitch, not roll.",
+   "A real inclined set photographed level is production design, not this technique."
+  ],
+  "examples_film": [
+   "The Third Man contains a range of cants; the shallower ones are closer to incline, the harder leans are Dutch. Do the Right Thing similarly varies the amount of roll on confrontations rather than using one angle for every street.",
+   "Use degree of roll as a dimmer, not as a single switch."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a full Dutch Angle . Tell: diagonal horizon you could hang a picture on, 25-plus degrees, poster unease.",
+   "Fix: 5 to 12 degrees, almost level, a hint of slope. The other failure is pitching up or down and calling it incline.",
+   "Check the roll axis: left-right tilt of the horizon, not looking at the ceiling."
+  ],
+  "faq": [
+   {
+    "q": "What is incline in film?",
+    "a": "An incline is a slight Dutch: a small camera roll so the floor and horizon are a few degrees off true. It suggests slope or unease without a full canted frame."
+   },
+   {
+    "q": "Incline vs Dutch angle",
+    "a": "A Dutch angle is a clear cant, often 20 to 30 degrees. Incline is gentler, about 5 to 12 degrees, the floor slightly wrong rather than the world off its axis."
+   },
+   {
+    "q": "When should I use incline?",
+    "a": "Use it when a full Dutch would overstate the beat: a corridor, a talk, a street that should only hint. Do not use it if you need the graphic lean of a true Dutch."
+   },
+   {
+    "q": "How do I prompt incline for AI image or video?",
+    "a": "Write: Inclined camera on [Subject], gentle cant about 8 degrees, not a full Dutch, horizon slightly off, walls rigid. Lock the roll; do not roll during the shot unless you want a Dutch roll."
+   }
+  ]
+ },
+ {
+  "slug": "low-angle",
+  "title": "Low Angle",
+  "zh_title": "低角度",
+  "narrative": [
+   "Looking up makes a body into architecture. Door frames, ceiling beams, and the underside of a chin enter the picture.",
+   "A boss in a doorway, a statue, a threat: the subject occupies the top of the frame and we occupy the floor. Citizen Kane built ceilings (and sometimes dug a pit) so the look-up had a real lid.",
+   "Do not confuse this with a low camera that stays level. A tatami or seated-height camera with a horizontal sightline is a height choice, close to seated Eye Level , not a low angle.",
+   "Ozu's rooms sit low without turning the family into towers. If you pitch up on that setup, you have changed the sentence.",
+   "It is the wrong tool for a peer conversation and for a true worm's view of a skyscraper. Moderate look-up is a portrait with rank.",
+   "Extreme look-up is Worm's-Eye View ."
+  ],
+  "how": [
+   "Drop the camera below the subject's eyes (chest, waist, or a hole in the floor) and tilt up until verticals converge toward the top of the frame. A wider lens exaggerates the convergence; a longer lens from the same height still looks up but with less stretch.",
+   "Practicals on the ceiling become motivated keys. Keep roll level unless you are also doing a Dutch Angle .",
+   "Prompt: low-angle looking up, converging verticals, ceiling or sky in frame, not camera on the dirt looking straight up."
+  ],
+  "when": [
+   "Use it for power, monument, or intimidation: someone who should fill the doorway. Concrete beat: a standing figure shot from a seated listener, ceiling beams closing over the head.",
+   "Do not pitch up on every protagonist as a default poster."
+  ],
+  "vs": [
+   "Eye Level keeps the sightline horizontal. Worm's-Eye View looks sharply up from ground or below until the subject is a tower and verticals collapse inward.",
+   "Ground Level is a floor-height camera; it may look along the dirt instead of up. High Angle is the opposing pitch.",
+   "Trunk Shot looks up from inside a container, which is a location, not only a tilt."
+  ],
+  "examples_film": [
+   "Citizen Kane puts ceilings and looming bodies into confrontations by looking up from a lowered camera. Touch of Evil uses the same grammar on Quinlan so bulk becomes the image.",
+   "The Dark Knight often pitches up on costume and architecture so the figure reads as a structure. Tokyo Story and Late Spring are the usual mix-up: low seated cameras, mostly level, not this tilt."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Worm's-Eye View or a generic Ground Level boot shot. Tell: only nostrils and a vanishing point in the sky, or only shoes.",
+   "Fix: below eye height, tilted up, eyes and mouth still readable, ceiling in. The other mix-up is Ozu: low height, level camera.",
+   "If doorways and floor lines stay orthogonal, you never pitched up."
+  ],
+  "faq": [
+   {
+    "q": "What is a low angle in film?",
+    "a": "A low-angle shot looks up at the subject from below eye level. Verticals converge, ceilings or sky gain area, and the figure reads larger than an eye-level portrait."
+   },
+   {
+    "q": "Low angle vs worm's-eye view",
+    "a": "A low angle is a moderate look-up that still functions as a face. A worm's-eye view is extreme: lens at or below ground, looking sharply up, verticals collapsing inward, the subject as a tower."
+   },
+   {
+    "q": "When should I use a low angle?",
+    "a": "Use it when power, monument, or intimidation should be in the geometry: a standing threat over a seated listener, a figure in a doorway. Do not use it as default flattery."
+   },
+   {
+    "q": "How do I prompt a low angle for AI image or video?",
+    "a": "Write: Low-angle shot looking up at [Subject], camera below their eyes, converging verticals, ceiling in frame. Say it is not a worm's-eye or floor-only boot shot."
+   }
+  ]
+ },
+ {
+  "slug": "object-pov",
+  "title": "Object POV",
+  "zh_title": "物体视角",
+  "narrative": [
+   "Agency leaves the invisible observer and goes to a machine or a thing. A fork of a bicycle stays in the corner while cobbles rush.",
+   "A car body is fixed and the desert tears past. A phone slides across a table toward a face.",
+   "Sports broadcasts have lived here for decades (puck, stump, helmet). The motion is tactile because the mount cannot independently decide to drift.",
+   "It is not First-Person , which is a human body with hands and breath. It is not a free drone that happens to start near a prop.",
+   "If the anchor object wanders inside the frame, the parent is broken."
+  ],
+  "how": [
+   "Use a professionally secured mount or a rigid virtual parent transform on the named object. Include a visible part of the anchor (barrel, rubber, chrome, glass edge).",
+   "Preserve vibration that belongs to the object; do not add a second operator path. Lens choice is often wide because the mount is close.",
+   "Prompt: object POV as if [Subject] were seen from a tool, a ball, a bullet, a phone: the thing looking."
+  ],
+  "when": [
+   "Use it when the prop has eyes: a weapon, a vehicle, a thrown thing, a camera that is diegetic. Concrete beat: viewpoint from a phone sliding toward a face, the phone's bezel fixed at the frame edge.",
+   "Do not use it as a pretty fly-around that ignores the object."
+  ],
+  "vs": [
+   "First-Person is a human body owning the lens. Point of View is a character's optical insert, usually without a gadget rim.",
+   "Locked-On glues a subject in frame while the world streams; object-POV is looking from the object, often with the object as foreground. Trunk Shot is a pit people open, not a tool in flight.",
+   "FPV Drone is a flying body of its own."
+  ],
+  "examples_film": [
+   "Mad Max: Fury Road keeps parts of pursuing machines fixed while the desert tears past. Leviathan (2012) mounts cameras on fishing equipment and bodies at sea so the work, not an observer, sees.",
+   "Sports broadcasts use puck and vehicle mounts as the same grammar. Hardcore Henry inserts gadget viewpoints inside an otherwise human first-person film."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is First-Person (human hands) or a free-flying camera. Tell: breath and fingers, or the phone drifting around inside the shot.",
+   "Fix: parent the camera to the named prop, show the prop's edge, keep that edge locked. If people open a lid and look in, you wanted Trunk Shot ."
+  ],
+  "faq": [
+   {
+    "q": "What is object POV in film?",
+    "a": "Object POV is the viewpoint of a prop or vehicle. The camera is attached to that thing, so the thing stays put in the frame while the world moves."
+   },
+   {
+    "q": "Object POV vs first-person",
+    "a": "First-person is a human body: hands, breath, eye height of a person. Object POV is a tool, ball, bullet, phone, or machine looking, with the object as the mount."
+   },
+   {
+    "q": "When should I use object POV?",
+    "a": "Use it when a prop should see: a vehicle chase from the machine, a thrown camera, a diegetic gadget. Do not use it for a person's glance; that is POV or first-person."
+   },
+   {
+    "q": "How do I prompt object POV for AI image or video?",
+    "a": "Write: Object POV from [named prop], a piece of the object locked in the foreground, [Subject] seen from that mount, world moving around a rigid camera. For video, the object travels; the camera does not detach."
+   }
+  ]
+ },
+ {
+  "slug": "overhead",
+  "title": "Overhead Top-Down",
+  "zh_title": "正顶俯拍",
+  "narrative": [
+   "This is the crime scene, the place setting, the dance formation, the town drawn as a floor plan. People become pieces in a system.",
+   "Shadows draw on the surface because the camera is the ceiling. It can make an ordinary ritual strange by removing the social face.",
+   "A steep High Angle still has walls in perspective. A Bird's-Eye View still has altitude and drop.",
+   "Overhead wants the tabletop's geometry to match a plan: rectangles stay rectangles. If you still need the eyes, you are in the wrong viewpoint."
+  ],
+  "how": [
+   "Mount the camera on an overhead rig, a high grid, or a virtual parent looking down the world Z-axis. Pitch at 90 degrees, roll chosen so the set's long axis sits square.",
+   "Arrange performers for silhouette: heads, hands, plates, chalk outlines. Because faces are less available, costume color and contrast have to carry identity.",
+   "Prompt: overhead top-down at 90 degrees, flat-lay or room plan, shadows as drawing."
+  ],
+  "when": [
+   "Use it for a table, a crime scene, or a dance formation that should read as a diagram. Concrete beat: four pairs of hands setting a long table, plates passing, the rectangle of the wood filling the frame.",
+   "Do not use it when the line is on a face."
+  ],
+  "vs": [
+   "Bird's-Eye View is a steep look from a great height; overhead is the 90-degree plan, often closer. High Angle is oblique and keeps a readable face.",
+   "Crane Over is the move that can finish as this viewpoint. A product flat-lay is the still-life cousin; film overhead usually still includes a body as a piece in the plan."
+  ],
+  "examples_film": [
+   "Dogville exposes the town as a floor-plan layout from above. The Grand Budapest Hotel uses top-down desks, pastries, and objects as graphic systems.",
+   "Oldboy 's corridor coverage from above turns bodies into a moving diagram. Borrow the plan view, not the wallpaper."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a steep High Angle that still shows a wall and a face. Tell: trapezoid table, eyeline into camera, room in perspective.",
+   "Fix: 90 degrees, plan geometry, silhouette clarity. The other failure is a bird's-eye city when you asked for a kitchen table: wrong scale.",
+   "Name the surface (table, bed, street as plan) and the distance."
+  ],
+  "faq": [
+   {
+    "q": "What is overhead top-down in film?",
+    "a": "An overhead shot looks nearly straight down at 90 degrees. Bodies and rooms flatten into a graphic plan; faces give way to silhouette and arrangement."
+   },
+   {
+    "q": "Overhead vs bird's-eye view",
+    "a": "Overhead is a straight-down plan, often over a table, a body, or a marked floor. Bird's-eye view is from a great height, a map of a place with a sense of drop."
+   },
+   {
+    "q": "When should I use overhead top-down?",
+    "a": "Use it when systems, evidence, or choreography should be legible as a diagram. Do not use it for a talking face."
+   },
+   {
+    "q": "How do I prompt overhead for AI image or video?",
+    "a": "Write: Overhead top-down shot of [Subject] at 90 degrees, flat-lay or room plan, table or floor as a rectangle, shadows as drawing. Forbid an oblique high angle."
+   }
+  ]
+ },
+ {
+  "slug": "pov",
+  "title": "Point of View",
+  "zh_title": "主观镜头",
+  "narrative": [
+   "Classical coverage builds a POV as a sentence: a person looks, we cut to the seen, we often cut back to a reaction. Rear Window lives on that grammar.",
+   "The camera sits at their eyes, aims where they aim, and refuses the back of their head. Identification is forced because the audience is briefly the character.",
+   "It is not Over-the-Shoulder Coverage , which keeps the looker's shoulder as a claim of with, not as. It is not First-Person , which lets a body own the lens for a long ride: hands, breath, locomotion.",
+   "A POV can be a single still insert. First-person is a body that keeps seeing.",
+   "Subjective sound (a ringing ear, a mute beach) can ride with a POV or sit on an objective picture. Do not confuse a hearing filter with this optical setup."
+  ],
+  "how": [
+   "Put the camera at the named character's eye height and point it along their eyeline. Match lens choice to their attention: a longer glass for binocular looking, a wider field for a panicked scan.",
+   "No owner body in frame unless a diegetic visor or mask is the optical device ( Halloween ). If you include a shoulder, you have left POV for OTS.",
+   "Prompt: what [Subject] sees, world at their eye height, no back of a head, no shoulder of the looker."
+  ],
+  "when": [
+   "Use it to force identification: the audience is the character for the length of the look. Concrete beat: a look offscreen, then empty tracks, steam, and lamps at their eye height.",
+   "Do not use it when you still need the looker's face in the same shot; shoot the look, then the POV, or use OTS."
+  ],
+  "vs": [
+   "Over-the-Shoulder Coverage shows the near shoulder and the far face; we stand with the looker. First-Person adds hands, breath, and a body that owns the lens over time.",
+   "Object POV is a tool or vehicle seeing, not a person. Fourth Wall is the opposite look: eyes into our lens.",
+   "SnorriCam straps the camera to the body and looks at their face."
+  ],
+  "examples_film": [
+   "Rear Window cuts from Jeff to binocular-aligned views of the courtyard. Halloween 's opening adopts the observer's optical viewpoint through the mask.",
+   "Gravity moves into helmet-level seeing. Saving Private Ryan pairs optical shock with Miller's muted hearing; the sound is a cousin, not the definition of the shot."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Over-the-Shoulder Coverage or a face looking toward camera. Tell: a blurry shoulder, the back of a head, or the looker staring at us.",
+   "Fix: empty of the owner, eyeline into the scene, height matched to the character you just showed looking. If hands and a gun enter and stay, you drifted into First-Person ."
+  ],
+  "faq": [
+   {
+    "q": "What is a POV shot in film?",
+    "a": "A POV shot shows what a character sees from their eye height. The camera stands in for their eyes; the looker's head and shoulder are not in frame."
+   },
+   {
+    "q": "POV vs over-the-shoulder",
+    "a": "POV is as the character: no owner body, only the seen world. Over-the-shoulder keeps a near shoulder in the foreground and the far face sharp; we are with them, not inside the look."
+   },
+   {
+    "q": "When should I use a POV shot?",
+    "a": "Use it after a look, when identification with what they see is the beat: a courtyard, a threat, a visor. Do not use it as the only coverage of a conversation."
+   },
+   {
+    "q": "How do I prompt a POV shot for AI image or video?",
+    "a": "Write: What [Subject] sees at their eye height, no back of head, no looker shoulder, [object of the look] filling the frame. Name whose viewpoint."
+   }
+  ]
+ },
+ {
+  "slug": "profile",
+  "title": "Profile",
+  "zh_title": "侧面镜头",
+  "narrative": [
+   "Turn the skull until the far eye disappears. What remains is silhouette, secrecy, and a sightline that refuses us.",
+   "A statue, a cameo, a don who will not grant the lens his other eye: profile withholds. The nose becomes a line against the background; the mouth can hide.",
+   "It is the wrong tool for most talk. Both eyes are how we read a lie.",
+   "If the beat needs charm, pain, or a clear listen, use Three-Quarter Angle . If they look into the lens, you wanted Fourth Wall , not a side."
+  ],
+  "how": [
+   "Orbit until the camera sits on a line perpendicular to the subject's median plane. Keep height at Eye Level unless you are adding rank on purpose.",
+   "Light can graze the profile so the nose and brow separate from the field, or it can swallow the face into silhouette. Leave look-space in the direction of the nose.",
+   "Prompt: true profile, camera at 90 degrees to the head, one ear, nose as architecture, looking offscreen."
+  ],
+  "when": [
+   "Use it for statue, secrecy, or a nose as architecture. Concrete beat: a seated power figure in side view, looking toward an offscreen petitioner, one ear and a cigar.",
+   "Do not use it as default coverage of a two-person argument; you will lose the eyes."
+  ],
+  "vs": [
+   "Three-Quarter Angle turns the face about 45 degrees so both eyes stay visible and the cheek recedes. Eye Level is a height, not a facing; a profile is often eye-level and 90 degrees yaw.",
+   "Point of View is the view they see, not the side of their head. Fourth Wall aims the eyes at us, the opposite of an offscreen profile look."
+  ],
+  "examples_film": [
+   "Barry Lyndon uses painterly side views so court faces sit like plates without becoming cartoons. The Godfather often parks Vito in profile at the desk, looking toward petitioners rather than toward us.",
+   "Borrow the 90-degree head, the offscreen look, and a human face, not a cut-out."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Three-Quarter Angle : both eyes sneak back in. Tell: far iris visible, cheek still facing us.",
+   "Fix: rotate until the far eye is gone and the nose breaks the cheek line. The other failure is a paper cut-out with no skull volume.",
+   "Ask for a living head, skin, and one ear."
+  ],
+  "faq": [
+   {
+    "q": "What is a profile shot in film?",
+    "a": "A profile places the camera at 90 degrees to the head. You get one ear, the nose in side view, and a look offscreen; the far eye is hidden."
+   },
+   {
+    "q": "Profile vs three-quarter angle",
+    "a": "Profile is a true side: one ear, far eye gone. Three-quarter turns the face about 45 degrees so both eyes remain and the far cheek recedes."
+   },
+   {
+    "q": "When should I use a profile shot?",
+    "a": "Use it for concealment, formality, or a sightline that belongs offscreen. Do not use it when you need both eyes to carry a line."
+   },
+   {
+    "q": "How do I prompt a profile for AI image or video?",
+    "a": "Write: True profile of [Subject], camera at 90 degrees to the head, one ear, nose as architecture, looking offscreen, far eye hidden. Say a human face, not a stamped portrait."
+   }
+  ]
+ },
+ {
+  "slug": "reverse-angle",
+  "title": "Reverse Angle",
+  "zh_title": "反打镜头",
+  "narrative": [
+   "Someone looks. The reverse is who or what occupies the other pole.",
+   "In a diner, it is the other booth. In a gunfight, it is the other holster.",
+   "Matching size and height keeps the cut from feeling like a new scene. The reverse can be a clean Single or an Over-the-Shoulder Coverage ; the name is the axis, not the foreground shoulder.",
+   "Withholding the reverse is a different editorial choice: a look, a reaction, and no answering view. The Blair Witch Project and Rosemary's Baby live on that denial.",
+   "The reverse-angle shot itself is the answering camera, not the refusal of it."
+  ],
+  "how": [
+   "Hold the 180-line. Move the camera to the opposite side of the axis, still on the same side of the line, and match lens height to the new subject (sit versus stand, adult versus child).",
+   "Match shot size to the outgoing picture unless the cut is meant to punch. Eyelines must cross the same empty air.",
+   "Prompt: reverse angle, opposing view of the dialogue or standoff, 180-line respected, geography flipping."
+  ],
+  "when": [
+   "Use it to complete the axis: show who they were looking at. Concrete beat: after a look across a table, the matching-size single of the other person, eyeline opposing.",
+   "Do not fire the reverse when the scene's power is the withheld object of the look."
+  ],
+  "vs": [
+   "Over-the-Shoulder Coverage is a composition often used as the reverse, with a near shoulder; a reverse can also be a clean Single . Point of View shows what they see, which may not be a face.",
+   "Eye Level may match on both sides, but the reverse is the opposing camera, not a height. Profile two-shots can reverse into opposing profiles."
+  ],
+  "examples_film": [
+   "Heat 's diner keeps clear opposing screen directions on two three-quarter singles. The Good, the Bad and the Ugly builds the cemetery standoff from answering views along one axis.",
+   "The Shining 's red-bathroom talk uses startling opposing spatial views. Neighbors (1920) is an early lesson in preserving orientation across reverses."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a new setup that crosses the line or changes size for no reason. Tell: both faces look camera-right, or a wide answering a choker.",
+   "Fix: opposing eyelines, matched height and size, 180-line held. The other mix-up is Point of View : an empty doorway they were watching is a POV, not a reverse on the other person."
+  ],
+  "faq": [
+   {
+    "q": "What is a reverse angle in film?",
+    "a": "A reverse angle shows the same spatial relationship from the opposing side. It completes a look or a dialogue axis while keeping the 180-degree line."
+   },
+   {
+    "q": "Reverse angle vs over-the-shoulder",
+    "a": "A reverse is the opposing camera on the axis. Over-the-shoulder is a framing that often serves as that reverse, with a near shoulder in the foreground. The reverse can also be a clean single."
+   },
+   {
+    "q": "When should I use a reverse angle?",
+    "a": "Use it when the audience must see the other pole of a look, a talk, or a standoff. Do not use it when withholding the object of the look is the point."
+   },
+   {
+    "q": "How do I prompt a reverse angle for AI image or video?",
+    "a": "Write: Reverse angle on [Subject], opposing view of the dialogue or standoff, 180-line respected, matching size, eyeline opposite the first shot. Name the geography that should flip."
+   }
+  ]
+ },
+ {
+  "slug": "shoulder-level",
+  "title": "Shoulder Level",
+  "zh_title": "肩高机位",
+  "narrative": [
+   "You stay with a mover without dropping into chaotic Handheld grammar. The lens is where another body would be: beside them on a street, a few inches low, able to take a bump.",
+   "Hurt Locker bomb walks and Goodfellas nightclub approaches often live in this band because the camera can travel as a person would. It is not Over-the-Shoulder Coverage .",
+   "OTS is a foreground shoulder of a different body. Shoulder-level can be a clean Single or a Follow Shot with no near shoulder at all.",
+   "The name is pedestal height."
+  ],
+  "how": [
+   "Set the camera at clavicle or deltoid height, typically 5 to 20 cm below the subject's eyes. Keep the horizon close to level; a tiny look-up is natural from this height and should not grow into a power tilt.",
+   "A 35mm is a common walking companion. Stabilization ( Steadicam , Gimbal Shot ) keeps the height without adding shake as style.",
+   "Prompt: shoulder-level camera, slightly below the eyes, walking companion's view."
+  ],
+  "when": [
+   "Use it to stay with a mover as a companion, especially through rooms and streets. Concrete beat: walking a few feet off a soldier or a host, lens at their shoulder, face readable, floor not dominating.",
+   "Do not use it as a substitute for messy handheld, and do not call an OTS this unless the only fact you mean is height."
+  ],
+  "vs": [
+   "Eye Level matches the pupils and reads as equal portrait. Hip Level drops to the belt.",
+   "Low Angle pitches up on purpose. Over-the-Shoulder Coverage includes a near person's shoulder; shoulder-level need not.",
+   "Point of View removes the companion and becomes the mover's eyes. Follow Shot is the path; shoulder-level is the height of that path."
+  ],
+  "examples_film": [
+   "The Hurt Locker often stays at soldier height through streets and rooms so the walk is shared, not observed from a balcony. Goodfellas ' Copacabana approach rides at companion height through the kitchen: we arrive with Henry, not as his eyes and not as a crane.",
+   "Borrow the pedestal, not the whole tracking route."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is true Eye Level (too high and formal) or a Low Angle (too much pitch). Tell: matched pupils, or a ceiling grab.",
+   "Fix: camera at the shoulder, slight look-up at most, companion distance. If a blurry shoulder of another actor eats the frame, you wrote OTS.",
+   "If hands of the subject enter as if we were them, you wrote First-Person ."
+  ],
+  "faq": [
+   {
+    "q": "What is shoulder level in film?",
+    "a": "Shoulder-level places the camera slightly below the subject's eyes, at walking-companion height. It is a pedestal choice, usually with a nearly level horizon."
+   },
+   {
+    "q": "Shoulder level vs eye level",
+    "a": "Eye level matches the pupils and reads as equal, formal coverage. Shoulder level sits a few inches lower, like a person walking beside them, less of a portrait lock."
+   },
+   {
+    "q": "When should I use shoulder level?",
+    "a": "Use it to stay with a mover without a power tilt or a formal eye lock. Do not use it when you need peer-to-peer stillness or a holster-plane standoff."
+   },
+   {
+    "q": "How do I prompt shoulder level for AI image or video?",
+    "a": "Write: Shoulder-level camera on [Subject], slightly below the eyes, walking companion's view, horizon nearly level. Say not eye-level and not a low-angle. For motion, follow at that height."
+   }
+  ]
+ },
+ {
+  "slug": "three-quarter",
+  "title": "Three-Quarter Angle",
+  "zh_title": "四分之三侧面",
+  "narrative": [
+   "Most coverage of a talking face lives here. You see both eyes, the bridge of the nose, and a cheek going away, which is enough skull to light and enough access to read a listen.",
+   "It is useful because it models the head and still connects to an offscreen partner along a natural eyeline. It is the wrong tool when you want a coin (use Profile ) or a confession into the taking lens (use Fourth Wall ).",
+   "It is also not a height: you can shoot three-quarter from Eye Level , Low Angle , or High Angle . The name is yaw, not tilt."
+  ],
+  "how": [
+   "Place the camera about 30 to 50 degrees off the subject's nose. Keep both irises; hide only a sliver of the far ear if any.",
+   "A 50mm to 85mm holds the head without stretching the near eye. Key from the far or near side depending on short or broad lighting; the angle is what gives the planes.",
+   "Prompt: three-quarter angle, face turned about 45 degrees, both eyes, classic portrait dimensionality."
+  ],
+  "when": [
+   "Use it as the default narrative portrait when a face must have volume and still belong to a scene. Concrete beat: a diner single, body open 45 degrees, eyeline to the partner off left, both eyes sharp.",
+   "Do not use it when concealment is the point; rotate to Profile ."
+  ],
+  "vs": [
+   "Profile is 90 degrees, one ear, far eye gone. Eye Level is how high the camera sits; three-quarter is how the head is turned.",
+   "Over-the-Shoulder Coverage often holds a three-quarter far face with a near shoulder chewing the frame. A full-front look into lens is Fourth Wall or an Interview eyeline, not three-quarter."
+  ],
+  "examples_film": [
+   "Heat 's diner encounter parks two faces in three-quarter so each man remains a full head while screen direction stays clean. Classical portrait coverage from studio-era close-ups through drawing-room films uses the same 45-degree turn to model a cheek.",
+   "Borrow the yaw and the two eyes, not a copied booth."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Profile (too much turn) or a passport front (too little). Tell: far eye gone, or both ears equally seen.",
+   "Fix: about 45 degrees, both irises, one ear dominant. The other failure is calling a Low Angle a three-quarter.",
+   "Pitch is not yaw; say both."
+  ],
+  "faq": [
+   {
+    "q": "What is a three-quarter angle in film?",
+    "a": "A three-quarter angle turns the face about 45 degrees to camera. Both eyes stay visible and the far cheek recedes, which is the default narrative portrait."
+   },
+   {
+    "q": "Three-quarter angle vs profile",
+    "a": "Three-quarter keeps both eyes and a receding cheek. Profile is a 90-degree side view: one ear, nose as a line, far eye hidden."
+   },
+   {
+    "q": "When should I use a three-quarter angle?",
+    "a": "Use it for most talking portraits that still need a connection to an offscreen partner. Use profile to withhold, or a look into lens to admit the audience."
+   },
+   {
+    "q": "How do I prompt a three-quarter angle for AI image or video?",
+    "a": "Write: Three-quarter angle on [Subject], face turned about 45 degrees, both eyes visible, far cheek receding. Name camera height separately. Not profile, not into the lens."
+   }
+  ]
+ },
+ {
+  "slug": "trunk-shot",
+  "title": "Trunk Shot",
+  "zh_title": "后备箱视角",
+  "narrative": [
+   "The audience is the object or the concealed body. Two faces appear over a bright lid; they look down at us; the dark rim eats the edges.",
+   "Power and curiosity swap: the standing people have the height, the camera has the secret. Tarantino's crime grammar made the car trunk a signature, but any container (a crate, an instrument case) can host the same physics.",
+   "A Low Angle on a street has no lid. A Worm's-Eye View on a tower has no one looking into the lens.",
+   "If you cannot see the opening, you do not have the shot."
+  ],
+  "how": [
+   "Put a low camera in a trunk, a box, or an open-bottom set piece. Keep the container edge in frame on several sides.",
+   "Stage the lid's movement and aim the actors' eyelines at the same interior point. Daylight or a parking-lamp key from above is motivated by the open lid; the interior stays in shadow.",
+   "Prompt: trunk shot looking up from inside a car trunk or confined pit, rim framing the faces."
+  ],
+  "when": [
+   "Use it when someone is in the trunk, or when the reveal should come from inside a container. Concrete beat: two people pop a lid and lean in, looking down at the lens, dark rim against a bright sky.",
+   "Do not use it as a decorative low-angle on standing gangsters with no car."
+  ],
+  "vs": [
+   "Low Angle looks up without a container. Worm's-Eye View looks up at architecture from the dirt.",
+   "Object POV can live inside a thing, but usually as the thing moving through the world, not as people opening it. Point of View of a bound captive can coincide with a trunk shot when the occupant is a character we have already met."
+  ],
+  "examples_film": [
+   "Pulp Fiction views Jules and Vincent from inside the car trunk as they look down. Reservoir Dogs stages the same downward look into an open trunk.",
+   "Kill Bill and From Dusk Till Dawn reuse the pit-and-lid grammar. Borrow the rim, the lid, and the eyelines into the box."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a generic Low Angle in a driveway. Tell: full standing bodies, no lid, no rim, horizon of a parking lot.",
+   "Fix: inside the trunk, rim in frame, faces leaning over an opening, downward eyelines. If the camera floats up and reveals the observer, you left the container."
+  ],
+  "faq": [
+   {
+    "q": "What is a trunk shot in film?",
+    "a": "A trunk shot looks up from inside a car trunk or similar pit. The lid and rim frame people looking down, so the camera sits where an object or captive would sit."
+   },
+   {
+    "q": "Trunk shot vs low angle",
+    "a": "A low angle looks up from below eye level anywhere. A trunk shot is specifically inside a container; without the opening and the rim, it is just a low angle."
+   },
+   {
+    "q": "When should I use a trunk shot?",
+    "a": "Use it when the viewpoint belongs in a trunk, a crate, or a case, and the standing people are looking in. Do not use it as a style sticker on any crime scene."
+   },
+   {
+    "q": "How do I prompt a trunk shot for AI image or video?",
+    "a": "Write: Trunk shot looking up at [Subject] from inside a car trunk, dark rim framing the faces, lid open, actors looking down into the lens. Say the camera stays in the pit."
+   }
+  ]
+ },
+ {
+  "slug": "worms-eye",
+  "title": "Worm's-Eye View",
+  "zh_title": "虫眼视角",
+  "narrative": [
+   "This is not a slightly taller portrait. The lens is on or under the floor plane and the look is nearly straight up: nostrils, cornices, the belly of a ship, a ceiling that has become the whole sky.",
+   "Wonder and terror share the same geometry because scale has nowhere to go but over you. Use a Low Angle when you still need a face that can speak.",
+   "Use Ground Level when the dirt, the boots, and the trailing hem are the actors and the look may travel along the ground rather than up the body. Worm's-eye is the vanishing point in the zenith."
+  ],
+  "how": [
+   "Put the lens on the floor, in a pit, or at ground grade. Tilt up hard, often past 60 degrees, until architecture converges to a point above the frame.",
+   "Ultra-wide glass increases the collapse; keep anatomy plausible (one head, two feet). Foreground may include earth, a curb, or a grating.",
+   "Prompt: worm's-eye from ground level looking straight up, extreme low, verticals collapsing inward."
+  ],
+  "when": [
+   "Use it when the subject should erase you: a spacecraft hull, a courthouse, a giant. Concrete beat: looking straight up the wall of a ship or a tower so the person is architecture.",
+   "Do not use it for a simple power two-shot; that is a Low Angle ."
+  ],
+  "vs": [
+   "Low Angle looks up from below the eyes and still delivers a portrait. Ground Level names the height of the lens on the floor; it can look along boots instead of straight up.",
+   "Trunk Shot looks up from inside a container with a rim. High Angle and Bird's-Eye View are the opposing downward family."
+  ],
+  "examples_film": [
+   "Citizen Kane pushes some interiors past a working low angle into a pit look, ceilings crushing the figure. Arrival stages the shell so humans look up from grass and become small against a hull.",
+   "Borrow the extreme upward pitch and the collapse of verticals."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Low Angle . Tell: a readable standing portrait from belt height, a little ceiling, no collapse.",
+   "Fix: camera on the ground, looking straight up, verticals rushing inward. The other cousin is Ground Level along the street: you see a row of boots and a horizon.",
+   "Worm's-eye has almost no horizon; it has a zenith."
+  ],
+  "faq": [
+   {
+    "q": "What is worm's-eye view in film?",
+    "a": "A worm's-eye view looks sharply up from ground level or below the subject. Verticals collapse inward and the figure or building reads as a tower over the lens."
+   },
+   {
+    "q": "Worm's-eye view vs low angle",
+    "a": "A low angle is a moderate look-up from below the eyes. Worm's-eye is extreme: floor or pit, looking straight up, almost no standing horizon, scale as threat or wonder."
+   },
+   {
+    "q": "When should I use worm's-eye view?",
+    "a": "Use it when the subject should be a tower and the audience should be dust. Do not use it for ordinary dialogue power; use a low angle there."
+   },
+   {
+    "q": "How do I prompt worm's-eye view for AI image or video?",
+    "a": "Write: Worm's-eye view from ground level looking straight up at [Subject], extreme low, verticals collapsing inward. Specify lens on the floor or in a pit, not waist height."
+   }
+  ]
+ },
+ {
+  "slug": "3d-rotation",
+  "title": "3D Rotation",
+  "zh_title": "3D旋转",
+  "narrative": [
+   "Show every side. Inspection, toys, a character as merchandise: even lighting or studio, the person as a model.",
+   "Combine with a computed look if they should feel rendered. A chase does not want a turntable.",
+   "A 360 walk around a street is an orbit: walls and extras shear in a real room. This is product-space.",
+   "A slight arc is not enough; we should sense the back will arrive."
+  ],
+  "how": [
+   "Virtual camera on a circular or spherical spline, subject locked, often studio or void. One axis unless you mean a tumble.",
+   "Prompt: 3D rotation around [Subject], a turntable of space, the figure as a sculptural object in orbit."
+  ],
+  "when": [
+   "Use it to inspect a figure as an object. Do not use it in a chase or a blocked room that must stay a room."
+  ],
+  "vs": [
+   "360-Degree Orbit walks a real environment. Lazy Susan often rotates the subject on a physical disc with the camera locked.",
+   "3D rotation is the virtual turntable of space, sculpture grammar, sometimes a freeze-turn."
+  ],
+  "examples_film": [
+   "Product films are the native grammar. The Matrix freeze -turn is the narrative cousin: a body as a sculpture in computed space.",
+   "Use the grammar, not the frame."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a slight arc in a street. The tell: a living room shears a little and we never see the back.",
+   "The fix: full turntable energy, subject as sculpture, studio or void, the back will arrive."
+  ],
+  "faq": [
+   {
+    "q": "What is 3D Rotation in film?",
+    "a": "3D rotation treats the figure as a sculptural object on a virtual turntable of space, often in a studio or void, so every side can be shown."
+   },
+   {
+    "q": "3D Rotation vs Lazy Susan",
+    "a": "A lazy susan often turns a physical object while the camera stays put. 3D rotation is a virtual camera orbiting a figure as a model in computed or studio space."
+   },
+   {
+    "q": "When should I use 3D Rotation?",
+    "a": "Use it to inspect a person or prop as an object. Do not use it for a chase or a real-room conversation."
+   },
+   {
+    "q": "How do I prompt 3D Rotation for AI image or video?",
+    "a": "Write a virtual turntable and the figure as sculpture. Example: 3D rotation around [Subject], a turntable of space, the figure as a sculptural object in orbit."
+   }
+  ]
+ },
+ {
+  "slug": "aerial",
+  "title": "Aerial",
+  "zh_title": "航拍",
+  "narrative": [
+   "Open a world. The high moving viewpoint relates a small traveler or vehicle to a broad environment.",
+   "It can follow, overtake, or abandon the subject so landscape becomes a force, not a painted backdrop. It is the wrong tool for a face.",
+   "If the beat is an eye-line or a whisper, come down. An aerial that never finds an anchor is weather footage."
+  ],
+  "how": [
+   "Plan a safe helicopter, drone, or virtual path. Hold horizon stability and let foreground (trees, ridges, towers) pass to prove height.",
+   "Keep a visible subject anchor and avoid implausible jumps in altitude. Do not describe older helicopter footage as drone photography.",
+   "Prompt: Aerial of [Subject] from a high flying camera, geography readable as a map, scale first, the figure small in land or city."
+  ],
+  "when": [
+   "Use it to make the place bigger than the person: a car on a mountain road, a rider on a ridge, a city grid. Do not use it as a default establishing shot if a street-level wide already tells the map."
+  ],
+  "vs": [
+   "Aerial Pullback specifically retreats until geography wins. Aerial Push In descends or drives in from the air toward a target.",
+   "FPV Drone flies through gaps as a subjective missile; aerial is a map, not a tunnel."
+  ],
+  "examples_film": [
+   "The Shining opens with an aerial pursuit of a car through mountain roads. Skyfall uses large-scale landscape and travel.",
+   "Lawrence of Arabia and Sicario treat desert and border as active ground, not scenery."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is an FPV thread through a window. The tell: the camera is inside architecture, horizon tumbling.",
+   "The fix: stay high, keep the subject readable as a speck or vehicle, and let the land remain a map."
+  ],
+  "faq": [
+   {
+    "q": "What is Aerial in film?",
+    "a": "An aerial shot is a high flying view of a large area, with geography readable as a map and the person or vehicle small inside it."
+   },
+   {
+    "q": "Aerial vs FPV Drone",
+    "a": "Aerial is a high map of land or city. FPV is a piloted flight through space, often low and threaded, with the lens behaving like a missile rather than a survey."
+   },
+   {
+    "q": "When should I use Aerial?",
+    "a": "Use it to open a world or to measure a person against land. Skip it when the scene is a face or a room."
+   },
+   {
+    "q": "How do I prompt Aerial for AI image or video?",
+    "a": "Write a high flying camera, a stable horizon, and a small subject in a readable landscape. Example: Aerial of [Subject] from a high flying camera, geography readable as a map, scale first."
+   }
+  ]
+ },
+ {
+  "slug": "aerial-pullback",
+  "title": "Aerial Pullback",
+  "zh_title": "航拍拉远",
+  "narrative": [
+   "Close a chapter. Geography wins.",
+   "The figure remains trackable long enough to prove continuity, then land, city, or army takes the frame. Timing decides whether the feeling is release or erasure.",
+   "It is the wrong tool at the start of a scene that still needs a face, and the wrong tool if a Technocrane's tens of feet would suffice. If you never leave human-scale air, you craned."
+  ],
+  "how": [
+   "Helicopter, high drone, or virtual camera on a rising, receding path. Keep a readable anchor as scale changes.",
+   "Horizon can stay level. Prompt an aerial pullback, camera rising and receding until the figure is a speck in geography, helicopter or high drone grammar."
+  ],
+  "when": [
+   "Use it to close a chapter when geography must win. Concrete beat: a rider on a ridge becoming a mark in a desert.",
+   "Do not pull back if the last frame is still a medium-full of the same person."
+  ],
+  "vs": [
+   "A Crane Up starts at human height on an arm and may only reveal a square. An Extreme Long Shot can be a still of that end frame.",
+   "An Aerial Push In is the reverse path, map to person. Aerial pullback is altitude plus retreat until land owns the picture."
+  ],
+  "examples_film": [
+   "Lawrence of Arabia lets desert scale erase and define a figure. The Lord of the Rings uses high pullbacks so companies become marks in ranges and plains.",
+   "Grammar of handing a scene to land, not a mountain to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Crane Up or a cut to an Extreme Long Shot . The tell is a jib-sized lift, or a jump in scale.",
+   "The fix: continuous rise and recede from altitude, figure remaining trackable, land dominating the end."
+  ],
+  "faq": [
+   {
+    "q": "What is Aerial Pullback in film?",
+    "a": "It is a high camera receding and rising until a person or building becomes small in a landscape, handing the scene to geography."
+   },
+   {
+    "q": "Aerial Pullback vs Crane Up",
+    "a": "Crane up is an arm on the ground, often ending on a city block or a square. Aerial pullback works from helicopter or high-drone height until the map wins."
+   },
+   {
+    "q": "When should I use Aerial Pullback?",
+    "a": "When a chapter should end on land, army, or city rather than on a face. Do not use it as a decorative drone hover."
+   },
+   {
+    "q": "How do I prompt Aerial Pullback for AI image or video?",
+    "a": "Write camera rises and pulls back from [Subject] until landscape dominates, helicopter or high drone, figure remains trackable, then becomes a speck."
+   }
+  ]
+ },
+ {
+  "slug": "aerial-push",
+  "title": "Aerial Push In",
+  "zh_title": "航拍推近",
+  "narrative": [
+   "A system is shown first, then a person is found inside it. The audience is not asked to care before they see the grid, the convoy, or the desert that contains the body.",
+   "It is the wrong tool when you are already at eye height, and the wrong tool if a crane-down from a rooftop would reach the face. Altitude is the point of origin."
+  ],
+  "how": [
+   "Begin in a true aerial, then descend and/or push while keeping orientation readable. Do not snap-zoom from a still map; translate.",
+   "Prompt an aerial push in from high altitude, descending and tightening from map to person."
+  ],
+  "when": [
+   "Use it to pick one human out of a system. Concrete beat: a border desert, then one unmarked police SUV, then a face in a window.",
+   "Do not start the move already on a close-up."
+  ],
+  "vs": [
+   "Aerial Pullback is the reverse, person to map. Crane Down starts on an arm, usually from building height, not from thousands of feet.",
+   "An Establishing Shot may be the still first frame. Aerial push is the ride from map to someone."
+  ],
+  "examples_film": [
+   "Sicario finds figures inside desert and border infrastructure from the air. Children of Men uses high-to-ground pressure so a person is located inside a collapsing public space.",
+   "Use the find, not the politics as wallpaper."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Crane Down or a Slow Zoom In on a wide still. The tell is jib height, or optical enlargement with no descent.",
+   "The fix: start at altitude, translate down and in, land on a readable person."
+  ],
+  "faq": [
+   {
+    "q": "What is Aerial Push In in film?",
+    "a": "It is a high camera that descends and/or advances until one person or vehicle becomes readable inside a landscape or city."
+   },
+   {
+    "q": "Aerial Push In vs Crane Down",
+    "a": "Crane down is an arm descent from local height. Aerial push in begins as true aerial, from helicopter or high drone, then finds a human."
+   },
+   {
+    "q": "When should I use Aerial Push In?",
+    "a": "When a system should be visible before a person is chosen. Do not use it if you are already in a street-level master."
+   },
+   {
+    "q": "How do I prompt Aerial Push In for AI image or video?",
+    "a": "Write high aerial start, camera descends and pushes in toward [Subject], from map to person, continuous, no snap zoom."
+   }
+  ]
+ },
+ {
+  "slug": "arc",
+  "title": "Arc",
+  "zh_title": "弧形运镜",
+  "narrative": [
+   "Use it to reorient. A booth, a kiss, a standoff can turn from front to profile to reverse without a cut, so the relationship is rewritten by parallax.",
+   "The subject can stay put; the world is what orbits. A full 360 is a different promise.",
+   "If you only need a new eyeline, a quarter circle is cleaner. If nobody's position in the room matters, an arc is empty decoration."
+  ],
+  "how": [
+   "Lay track or a circular dolly, or walk a steadicam on a curve of constant radius, camera facing inward. Height usually holds (eye or chest).",
+   "Foreground posts, chairs, or extras should shear faster than the far wall. Prompt: Arc around [Subject], camera traveling a curve while facing them, background sliding, a quarter or half orbit."
+  ],
+  "when": [
+   "Change the axis without cutting: a table that becomes a two-shot, a reveal of who stands behind. Do not arc 180 degrees on every line; save the curve for a real change of power."
+  ],
+  "vs": [
+   "Arc Left and Arc Right name the direction of travel. 360-Degree Orbit completes the circle and usually inspects a body in space.",
+   "A Pan only yaws from a fixed point, so the background does not parallax the same way."
+  ],
+  "examples_film": [
+   "Goodfellas often arcs around a booth or a table as alliances shift. Atonement uses curved travel inside longer takes to reorient a scene without a cut.",
+   "Use them as grammar for changing axis, not as frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a pan. The tell: the camera body never moves, only the head yaws, and near objects do not shear.",
+   "The fix: travel a curve, keep the lens on the subject, and let the background slide."
+  ],
+  "faq": [
+   {
+    "q": "What is Arc in film?",
+    "a": "An arc shot travels the camera along part of a circle while facing the subject, so the background slides and the axis of the scene changes without a cut."
+   },
+   {
+    "q": "Arc vs 360-Degree Orbit",
+    "a": "An arc is a quarter or half circle used to change axis. An orbit-360 completes the loop and treats the figure as something to walk around."
+   },
+   {
+    "q": "When should I use Arc?",
+    "a": "Use it to reorient a scene without cutting: a table, a standoff, a reveal behind the subject. Do not use a full spin when a quarter will do."
+   },
+   {
+    "q": "How do I prompt Arc for AI image or video?",
+    "a": "Write a curved travel that always faces the subject, and name a quarter or half orbit. Example: Arc around [Subject], camera traveling a curve while facing them, background sliding."
+   }
+  ]
+ },
+ {
+  "slug": "arc-left",
+  "title": "Arc Left",
+  "zh_title": "左弧形运镜",
+  "narrative": [
+   "You change who owns the background. A three-quarter face can become a profile, a window can replace a wall, the other half of a room can arrive.",
+   "The subject stays the center; the world slides. It is the wrong tool when you needed a full spin, a straight truck, or a pan from sticks.",
+   "If radius collapses, you accidentally pushed in."
+  ],
+  "how": [
+   "Lay a curved track or walk a measured radius, always facing the figure. Keep distance roughly constant.",
+   "Ninety degrees is enough for most coverage. Prompt a 90-degree arc left around the subject, curved dolly, always facing the figure, background sliding."
+  ],
+  "when": [
+   "Use it to change the axis of a conversation or reveal the other half of a room. Concrete beat: from a frontal two-shot into a profile that discloses a listener in the doorway.",
+   "Do not complete 360 unless spectacle is the job."
+  ],
+  "vs": [
+   "360-Degree Orbit finishes the circle. Arc Right is the other direction: pick the side that produces the new wall.",
+   "A Dolly Left is linear, not curved, so distance to the subject will change unless they also move. Arc left is a partial azimuth on a radius."
+  ],
+  "examples_film": [
+   "Goodfellas uses curved approaches as social weather, distinct from its straight Copa track. Atonement 's long beach and house passages include arcing camera to re-axis crowds and rooms.",
+   "Take the quarter-turn, not the whole set-piece."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dolly Left or a full 360-Degree Orbit . The tell is a straight track that loses the subject, or a spin that never stops.",
+   "The fix: curved path, constant radius, about 90 degrees, lens on the person."
+  ],
+  "faq": [
+   {
+    "q": "What is Arc Left in film?",
+    "a": "It is a partial leftward orbit: the camera travels a curve around a subject while remaining aimed at them, changing background and face angle."
+   },
+   {
+    "q": "Arc Left vs 360-Degree Orbit",
+    "a": "A 360 orbit completes the circle and often becomes the event. Arc left is a coverage curve, usually about 90 degrees, to change axis."
+   },
+   {
+    "q": "When should I use Arc Left?",
+    "a": "When a conversation or a room needs a new axis without a cut. Do not use a full orbit for that job."
+   },
+   {
+    "q": "How do I prompt Arc Left for AI image or video?",
+    "a": "Write 90-degree arc left, curved dolly, always facing [Subject], constant distance, background sliding. Ban a full 360 unless you change technique."
+   }
+  ]
+ },
+ {
+  "slug": "arc-right",
+  "title": "Arc Right",
+  "zh_title": "右弧形运镜",
+  "narrative": [
+   "Same law as arc left, other side. The rightward curve can hide or reveal a gun, a window, a third person.",
+   "Choose the direction that produces the new fact, then stop. It is the wrong tool if a linear truck would keep a moving walker framed, or if you meant to inspect every side of a product."
+  ],
+  "how": [
+   "Curved travel, constant radius, always facing the figure. Do not let the path straighten into a dolly-right.",
+   "Prompt a 90-degree arc right around the subject, curved travel, continuous eyeline on the figure."
+  ],
+  "when": [
+   "Use it as arc left, other side. Concrete beat: arcing right off a speaker until the listener's face takes the key from a new window.",
+   "Do not keep circling."
+  ],
+  "vs": [
+   "Arc Left is the mirrored curve. 360-Degree Orbit is the full inspection.",
+   "Dolly Right is a straight X translate. Arc right is a short azimuth change that keeps the person as center."
+  ],
+  "examples_film": [
+   "Children of Men relocates around bodies and vehicles so danger can enter from a new compass point without a cut. Pair it with the left-arc grammar in Goodfellas and Atonement : pick a side, change the wall, stop.",
+   "Mechanism, not a car to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dolly Right or 360-Degree Orbit . The tell is a straight slide that changes distance, or a spin past the new fact.",
+   "The fix: curve, constant radius, stop at the new axis."
+  ],
+  "faq": [
+   {
+    "q": "What is Arc Right in film?",
+    "a": "It is a partial rightward orbit around a subject, camera still facing them, used to change background and face angle without a cut."
+   },
+   {
+    "q": "Arc Right vs Dolly Right",
+    "a": "Dolly right is a straight lateral truck. Arc right travels a curve so the camera's compass heading around the person changes while distance holds."
+   },
+   {
+    "q": "When should I use Arc Right?",
+    "a": "When the new wall, window, or listener is to the right around the subject. Do not complete a circle unless you wanted an orbit."
+   },
+   {
+    "q": "How do I prompt Arc Right for AI image or video?",
+    "a": "Write 90-degree arc right around [Subject], always facing them, constant radius. Name the new background that must appear."
+   }
+  ]
+ },
+ {
+  "slug": "bolt-cam",
+  "title": "Bolt Cam",
+  "zh_title": "高速机械臂",
+  "narrative": [
+   "The camera itself is the strike. Sports packages and music-video violence use it when contact has to be felt as a mass arriving, not as a tighter crop.",
+   "Near objects smear; the last frames can lock on the hit. Do not use it for a thought.",
+   "A realization wants a push or a crash zoom. A bolt cam that never hits anything is just a fast dolly with no grammar."
+  ],
+  "how": [
+   "The body rides a crash rail, wire, or robotic throw aimed at a pad, a body, or a ball. Shutter is high; speed is tens of meters per second, then a hard stop or a programmed settle.",
+   "Parallax is violent because the nodal point really moves. Prompt a bolt-cam strike toward [Subject], ultra-high-speed camera on a crash rig, the lens hurled at an impact then freezing."
+  ],
+  "when": [
+   "Use it when impact is the beat: a punch, a kick, a crash test, a chorus hit. Do not use it as decoration on a wide that never meets a surface."
+  ],
+  "vs": [
+   "A Crash Zoom In is optical: the camera stays put and focal length snaps. Bolt cam translates.",
+   "An FPV Drone flies and can miss; this is a aimed throw on a rig. A Robo Arm can repeat a path without the crash energy."
+  ],
+  "examples_film": [
+   "Sports impact packages and music-video crash units are the grammar. The shot is a stunt camera, not a dialogue tool."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a crash zoom. The tell: no parallax, the background simply enlarges.",
+   "The fix: demand body travel on a crash rig, smear in the near plane, then a settle at contact."
+  ],
+  "faq": [
+   {
+    "q": "What is Bolt Cam in film?",
+    "a": "A bolt cam is an ultra-high-speed camera thrown on a crash rig toward an impact, then stopped. The lens physically travels; the hit is the end of the move."
+   },
+   {
+    "q": "Bolt Cam vs Crash Zoom In",
+    "a": "A crash zoom changes focal length on a locked body. A bolt cam moves the camera through space at high speed, so near objects shear before the freeze."
+   },
+   {
+    "q": "When should I use Bolt Cam?",
+    "a": "Use it when the camera is the punch: contact, a stunt, a chorus impact. Do not use it for a quiet close-up."
+   },
+   {
+    "q": "How do I prompt Bolt Cam for AI image or video?",
+    "a": "Write a crash-rig strike and a freeze. Example: Bolt-cam strike toward [Subject], ultra-high-speed camera on a crash rig, the lens hurled at an impact then freezing."
+   }
+  ]
+ },
+ {
+  "slug": "buckle-up",
+  "title": "Buckle Up",
+  "zh_title": "绑身机位",
+  "narrative": [
+   "The car is the tripod. You are a passenger.",
+   "Talks that happen at speed, a date that is a getaway, a chase from inside: the cabin is the set, the road is weather. If we are not in the seats, you shot a product film.",
+   "If the background through the glass is sharp, you are parked. Car grip lives on the metal outside; this shot lives with the people."
+  ],
+  "how": [
+   "Mount inside: dash, passenger cage, or a hostess bar. Wide enough to hold faces and glass.",
+   "Interior sharp, exterior smeared by speed. Engine vibration optional.",
+   "No orbit. Prompt: Buckle-up camera with [Subject] in a vehicle, the lens strapped to the cabin, acceleration as the grammar, road rushing past."
+  ],
+  "when": [
+   "Use it for cabin life at speed: a chase from inside, a night drive, a talk at 80. Do not use it for a parked conversation unless the gag is stillness."
+  ],
+  "vs": [
+   "Car Grip bolts to hood or door, bodywork in the near plane. Road Rush is low asphalt, the road as subject.",
+   "Locked-On is the general idea of a camera glued to a moving thing; buckle-up is specifically the cabin."
+  ],
+  "examples_film": [
+   "Baby Driver stages cabin mounts as musical grammar. Drive keeps faces sharp while night glass streaks.",
+   "The still should show window smear or a speed-read dashboard without readable type."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a pretty car exterior. The tell: we never sit in the seats, or the glass is sharp at highway speed.",
+   "The fix: strap the lens inside, faces sharp, world streaking in the windows."
+  ],
+  "faq": [
+   {
+    "q": "What is Buckle Up in film?",
+    "a": "Buckle up straps the camera to the vehicle cabin with the people. The car is the tripod; the world streaks in the glass."
+   },
+   {
+    "q": "Buckle Up vs Car Grip",
+    "a": "Car grip is bolted to exterior bodywork. Buckle up lives inside with the occupants, interior sharp and road smeared on the glass."
+   },
+   {
+    "q": "When should I use Buckle Up?",
+    "a": "Use it for cabin scenes at speed. Do not use it as a parked product shot of a car."
+   },
+   {
+    "q": "How do I prompt Buckle Up for AI image or video?",
+    "a": "Write a cabin lock and streaking glass. Example: Buckle-up camera with [Subject] in a vehicle, the lens strapped to the cabin, acceleration as the grammar, road rushing past."
+   }
+  ]
+ },
+ {
+  "slug": "camera-roll",
+  "title": "Camera Roll",
+  "zh_title": "摄影机横滚",
+  "narrative": [
+   "A familiar corridor can become an unstable physical system. The effect is strongest when bodies retain weight and surfaces remain solid: people walk on walls because the set or the camera has rewritten up.",
+   "It is the wrong tool for a 15-degree unease, and the wrong tool if you only tilted the image in post with no sense of mass. A tilted still is not a room physically rotating."
+  ],
+  "how": [
+   "Either roll the camera continuously around the optical axis, or build a rotating set and keep the camera's relationship designed. Practical work needs engineered sets, restrained objects, and stunt coordination.",
+   "Prompt a full camera roll, the frame rotating as if the world has lost its up, or a rotating corridor with weighted bodies."
+  ],
+  "when": [
+   "Use it when gravity is optional. Concrete beat: a fight in a hotel corridor whose floor becomes a wall.",
+   "Do not roll a quiet dialogue that only needed a Dutch."
+  ],
+  "vs": [
+   "A Dutch Roll is a slow transition into a cant. A Dutch Angle is frozen.",
+   "An 360-Degree Orbit circles a subject in yaw, changing azimuth, not rolling the horizon around the lens. Camera roll is about up and down swapping, not about walking around someone."
+  ],
+  "examples_film": [
+   "Inception 's hotel corridor fight is a rotating set with weighted bodies. 2001: A Space Odyssey moves through circular spacecraft interiors so walking in a ring redefines down.",
+   "Distinguish the rotating room from a simple tilted grade."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dutch Angle or an 360-Degree Orbit . The tell is a still cant, or a camera circling while the horizon stays mostly level.",
+   "The fix: roll around the lens axis, or rotate the room, until up is no longer the top of the frame."
+  ],
+  "faq": [
+   {
+    "q": "What is Camera Roll in film?",
+    "a": "It is rotation around the lens axis (or a rotating set) so the horizon turns and up is no longer stable."
+   },
+   {
+    "q": "Camera Roll vs Dutch Roll",
+    "a": "Dutch roll eases a level frame into a cant. Camera roll continues the idea until gravity is in question, sometimes with a revolving room rather than a small tilt."
+   },
+   {
+    "q": "When should I use Camera Roll?",
+    "a": "When the story has unhooked gravity: spacecraft, dream architecture, a dance floor that forgets the floor. Do not use it as a default unease."
+   },
+   {
+    "q": "How do I prompt Camera Roll for AI image or video?",
+    "a": "Write camera rolls continuously around its lens axis, or a rotating room with weighted bodies. Name whether the set turns or only the camera."
+   }
+  ]
+ },
+ {
+  "slug": "car-chasing",
+  "title": "Car Chasing",
+  "zh_title": "追车镜头",
+  "narrative": [
+   "Two machines, one argument. The camera is in the chasing car, or in a picture car matching the pair.",
+   "Trees, lamps, and lane lines shear because both vehicles are moving. A parked conversation does not need it.",
+   "Two cars in a lot is not a chase. Do not cut to a drone unless you mean aerial; the grammar here is matching speed from another machine."
+  ],
+  "how": [
+   "Process trailer, chase vehicle, or a matched virtual path. Long lens compresses the gap; wide includes both machines and the road.",
+   "Keep a line of action. Prompt: Car-chase coverage of [Subject], pursuit from a second vehicle, matching speed, road as the set."
+  ],
+  "when": [
+   "Use it for pursuit. Do not use it for a single parked car."
+  ],
+  "vs": [
+   "Road Rush is ground-level asphalt as the subject. Buckle Up is inside one cabin.",
+   "Tracking Shot can follow a person on foot; here the path is a road and the subject is a vehicle being hunted."
+  ],
+  "examples_film": [
+   "Mad Max: Fury Road keeps pursuing machines in relationship while desert tears past. The French Connection argues with a train from a car.",
+   "Grammar: matching speed, two machines."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a beauty pass of one car. The tell: no second machine, no smear, no line of action.",
+   "The fix: pursuit from another vehicle, matching speed, something in the world streaking."
+  ],
+  "faq": [
+   {
+    "q": "What is Car Chasing in film?",
+    "a": "Car chasing is coverage of pursuit from a second vehicle at matching speed, with the road as the set and two machines in one argument."
+   },
+   {
+    "q": "Car Chasing vs Buckle Up",
+    "a": "Buckle up is locked inside one cabin. Car chasing is the hunter's lens from another vehicle, keeping a pursuit relationship."
+   },
+   {
+    "q": "When should I use Car Chasing?",
+    "a": "Use it when two machines are in pursuit. Do not use it for a parked talk or a single-car product pass."
+   },
+   {
+    "q": "How do I prompt Car Chasing for AI image or video?",
+    "a": "Write pursuit from a second vehicle and matching speed. Example: Car-chase coverage of [Subject], pursuit from a second vehicle, matching speed, road as the set."
+   }
+  ]
+ },
+ {
+  "slug": "car-grip",
+  "title": "Car Grip",
+  "zh_title": "车载机位",
+  "narrative": [
+   "Bolt the camera to the machine. Product, chase punctuation, a car as the hero: we are glued to this one body, dirt on the lens allowed.",
+   "A tracking shot from another car that never sees this car's body is not grip. Buckle-up is inside; grip is the metal."
+  ],
+  "how": [
+   "Suction, hostess, or a rigid cage on hood, door, bumper, or wheel arch. Wide.",
+   "Part of the body in frame, wheels or asphalt traveling. Prompt: Car-grip mount on [Subject]'s vehicle, hood or door as the rig, chrome and asphalt in one plane."
+  ],
+  "when": [
+   "Use it when the machine is the hero or when a chase needs a body-mounted beat. Do not use it for a cabin talk."
+  ],
+  "vs": [
+   "Buckle Up is the cabin. Locked-On is the general glued-to-subject idea.",
+   "Low Angle is a height that can be static on the street; grip is low because the bumper is low, and the road is sliding because the car is moving."
+  ],
+  "examples_film": [
+   "Ronin and Baby Driver use hood and door mounts so metal stays in the near plane while the road travels. Grammar: bodywork plus asphalt in one rigid pair."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a tracking shot from another vehicle with no bodywork in frame. The tell: a clean three-quarter of a car, camera floating.",
+   "The fix: bolt to this car, keep metal in the near plane, let the road slide."
+  ],
+  "faq": [
+   {
+    "q": "What is Car Grip in film?",
+    "a": "Car grip is a camera bolted to the vehicle's bodywork. Hood, door, or bumper stays in the near plane while the road slides underneath."
+   },
+   {
+    "q": "Car Grip vs Buckle Up",
+    "a": "Buckle up is inside the cabin with the people. Car grip is outside on the metal, chrome and asphalt in one plane."
+   },
+   {
+    "q": "When should I use Car Grip?",
+    "a": "Use it when the machine is the subject or a chase needs a body-mounted beat. Do not use it for a cabin dialogue."
+   },
+   {
+    "q": "How do I prompt Car Grip for AI image or video?",
+    "a": "Write a mount on hood or door with bodywork in frame. Example: Car-grip mount on [Subject]'s vehicle, hood or door as the rig, chrome and asphalt in one plane."
+   }
+  ]
+ },
+ {
+  "slug": "choreo",
+  "title": "Choreo",
+  "zh_title": "编排运镜",
+  "narrative": [
+   "The blocking is the music. Dance floors, musicals, and some fight halls need the camera to partner, not to report.",
+   "One phrase: a lift, a turn, a stop. Extra flourishes after the count read as a different shot.",
+   "It is the wrong tool for coverage. If you need an over-the-shoulder for a line, shoot the line.",
+   "Choreo that wanders off the dancers is a tour, not a duet."
+  ],
+  "how": [
+   "Rehearse actors and camera as one system: steadicam, dolly, or jib, marks on the floor, a shared tempo. Height usually stays human.",
+   "Parallax of partners and set pieces should land on the beat. Prompt: Choreographed camera with [Subject], bodies and lens timed together, one phrase of movement, dance-floor blocking."
+  ],
+  "when": [
+   "Use it when a dance, a fight, or a walk is written as a single musical sentence. Do not use it to pretty-up a scene with no shared rhythm."
+  ],
+  "vs": [
+   "Steadicam is the vest that can carry the phrase; it is a platform, not the idea. A Oner is about duration, a long take that may or may not be danced.",
+   "Choreo can be short if the count is short."
+  ],
+  "examples_film": [
+   "La La Land stages camera and dancers on one count. The Umbrellas of Cherbourg treats color, step, and lens as a shared phrase.",
+   "Use them as grammar for timed blocking."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a wandering steadicam. The tell: the camera keeps going after the bodies have finished the phrase.",
+   "The fix: one count, a shared stop, no extra travel."
+  ],
+  "faq": [
+   {
+    "q": "What is Choreo in film?",
+    "a": "Choreo is a camera that shares a count with the bodies: one phrase of movement, then a stop, as if the lens were a dance partner."
+   },
+   {
+    "q": "Choreo vs Steadicam",
+    "a": "Steadicam is a stabilizer. Choreo is the idea that blocking and lens are timed together; it can ride a vest, a dolly, or a jib."
+   },
+   {
+    "q": "When should I use Choreo?",
+    "a": "Use it for a dance, a fight, or a walk written as one musical sentence. Do not use it as default coverage."
+   },
+   {
+    "q": "How do I prompt Choreo for AI image or video?",
+    "a": "Write bodies and lens on one phrase, then stop. Example: Choreographed camera with [Subject], bodies and lens timed together, one phrase of movement, dance-floor blocking."
+   }
+  ]
+ },
+ {
+  "slug": "conveyor",
+  "title": "Conveyor",
+  "zh_title": "传送带运镜",
+  "narrative": [
+   "Industry, process, no escape from the line. The shot says labor is a machine: bodies, boxes, or faces arrive and leave at one speed.",
+   "Comedy and paranoia both live here. It is the wrong tool for a walker you are meant to accompany.",
+   "If the person is choosing a path, truck or track with them. A conveyor that speeds up and slows with emotion is no longer a belt."
+  ],
+  "how": [
+   "Lateral dolly, slider, or a treadmill-like set, constant velocity, often a wide or moderate-wide so units repeat. Foreground machinery should cross faster than the far wall.",
+   "Exposure can be industrial: hard practicals, green or sodium, no beauty key. Prompt: Conveyor move past [Subject], the world sliding on a belt, factory or infinite product line, relentless lateral travel."
+  ],
+  "when": [
+   "Use it for a factory, an assembly of faces, a process that will not stop. Do not use it beside a casual sidewalk chat."
+  ],
+  "vs": [
+   "Trucking stays beside a walker; speed is human. Tracking Shot follows a chosen path.",
+   "Conveyor is the line that does not care. A Dolly can go any direction; this one is lateral and metronomic."
+  ],
+  "examples_film": [
+   "Modern Times turns the factory into a belt the body cannot leave. The Parallax View uses industrial process and test-film geometry as a trap.",
+   "Grammar: constant lateral speed, repeating units."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a trucking shot with a walker. The tell: the subject is strolling and the camera is being polite.",
+   "The fix: constant lateral speed, repeating units, the person as another item on the line."
+  ],
+  "faq": [
+   {
+    "q": "What is Conveyor in film?",
+    "a": "A conveyor camera is relentless lateral travel at constant speed, as if the world were a factory belt. The subject can be still while units keep arriving."
+   },
+   {
+    "q": "Conveyor vs Trucking",
+    "a": "Trucking stays beside a person walking. Conveyor is industrial: one speed, repeating units, process without escape."
+   },
+   {
+    "q": "When should I use Conveyor?",
+    "a": "Use it for factories, process, and systems that swallow people. Do not use it for a casual walk-and-talk."
+   },
+   {
+    "q": "How do I prompt Conveyor for AI image or video?",
+    "a": "Write constant lateral speed and a belt or product line. Example: Conveyor move past [Subject], the world sliding on a belt, factory or infinite product line, relentless lateral travel."
+   }
+  ]
+ },
+ {
+  "slug": "crane-down",
+  "title": "Crane Down",
+  "zh_title": "摇臂下降",
+  "narrative": [
+   "Arrive from a god-view into a person without resetting attention. What begins as an overview can become an intimate encounter in one path.",
+   "Some famous descents even hand off from crane to ground support and keep walking. It is the wrong tool when you only need to look down from a locked roof, or when a cut from aerial to close-up would be cleaner.",
+   "Do not assume every continuous-looking descent was achieved without a join."
+  ],
+  "how": [
+   "Plan the high composition and the human landing. The arm descends, often moving forward as well, with a remote head keeping the subject framed.",
+   "If you add a support handoff, match direction, speed, height, and horizon at the transfer. Prompt a crane down from a high wide view into a closer frame, map collapsing to face."
+  ],
+  "when": [
+   "Use it to arrive from god-view into a person. Concrete beat: a valley of tents, then one volunteer with a bag.",
+   "Do not tour on the way down."
+  ],
+  "vs": [
+   "A Crane Up leaves the person for the map. A Tilt Down only pitches from one height.",
+   "A Pedestal Down drops on a column with tilt locked and little or no boom. An Aerial Push In starts higher still, from helicopter or drone altitude."
+  ],
+  "examples_film": [
+   "Bound for Glory descends from a crane in the migrant camp and continues at ground level. Contact 's VLA shot descends and continues with Ellie toward a building.",
+   "I Am Cuba traverses spaces with extraordinary continuous-looking movement. The Shining and Magnolia also use descending arms as arrival.",
+   "Check each shot's joins before claiming a single rig."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Tilt Down or a cut from aerial to close-up. The tell is a nodding camera that never loses altitude, or a scale jump.",
+   "The fix: continuous descent of the station point, matched horizon, a readable human landing."
+  ],
+  "faq": [
+   {
+    "q": "What is Crane Down in film?",
+    "a": "It is a physical descent of the camera on a crane or jib from a high view into a closer, human-scale composition."
+   },
+   {
+    "q": "Crane Down vs Tilt Down",
+    "a": "Tilt down looks down from a fixed height. Crane down moves the camera through height, so you actually arrive at the person."
+   },
+   {
+    "q": "When should I use Crane Down?",
+    "a": "When an overview should become an encounter without a cut. Do not use it if you only needed to glance at the floor."
+   },
+   {
+    "q": "How do I prompt Crane Down for AI image or video?",
+    "a": "Write crane down from a high wide view into a closer frame on [Subject], continuous descent, no cut to aerial. Name the landing size."
+   }
+  ]
+ },
+ {
+  "slug": "crane-over",
+  "title": "Crane Over",
+  "zh_title": "摇臂越过",
+  "narrative": [
+   "The shot turns a scene into a diagram without cutting. Bodies, tables, and streets become plan view because the arm has climbed and pitched over them.",
+   "It is not a still overhead: the audience rides the change of rank. It is the wrong tool when you already want a locked top-down, or when a simple crane-up should keep looking forward at a skyline.",
+   "If you never reach a downward angle, you only craned up."
+  ],
+  "how": [
+   "Boom up and arc forward, remote head tilting down as the arm passes over the subject. End nearly nadir or at a steep high angle.",
+   "Watch for the subject being covered by the arm's shadow and for changing key as you face new windows. Prompt a crane over, arm rising and arcing forward until the camera looks nearly straight down."
+  ],
+  "when": [
+   "Use it to turn a scene into a map without cutting. Concrete beat: a dinner argument, then the table as a chessboard.",
+   "Do not crane over if the last frame is still a forward wide."
+  ],
+  "vs": [
+   "A Crane Up typically keeps a forward look as it rises and eases back. An Overhead Top-Down can be a locked top-down with no ride.",
+   "A Jib Shot can do a small version of this arc over a table. Crane over is the continuous climb into downward view."
+  ],
+  "examples_film": [
+   "The Untouchables uses crane height over the Union Station staircase so the action becomes a diagram of steps and bodies. Birdman rides theater space until floor plans and faces share one path.",
+   "Use the arc-into-down, not the period costumes."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Crane Up that never looks down, or a cut to Overhead Top-Down . The tell is a forward skyline at the end, or a jump to top-down.",
+   "The fix: one arm path that finishes steeply downward, subject still readable as a map."
+  ],
+  "faq": [
+   {
+    "q": "What is Crane Over in film?",
+    "a": "It is a crane move that rises and arcs until the camera looks down, combining a height change with a change of angle in one path."
+   },
+   {
+    "q": "Crane Over vs Crane Up",
+    "a": "Crane up usually eases back while still looking across the world. Crane over continues until the view is downward and the floor becomes the picture."
+   },
+   {
+    "q": "When should I use Crane Over?",
+    "a": "When blocking should become a map without a cut. Do not use it if you wanted a skyline or a still overhead lock-off."
+   },
+   {
+    "q": "How do I prompt Crane Over for AI image or video?",
+    "a": "Write crane up and over [Subject], finishing nearly straight down. One continuous arm move. Ban a cut to top-down."
+   }
+  ]
+ },
+ {
+  "slug": "crane-over-the-head",
+  "title": "Crane Over The Head",
+  "zh_title": "摇臂越顶",
+  "narrative": [
+   "Finish by looking down. A body on a floor, a crime, a dance, a figure lost in pattern: the arm climbs and continues until the lens is almost nadir.",
+   "A crane-up that eases back into a skyline is a different end: the person becomes geography from an oblique height. Overhead and bird's-eye can be locked.",
+   "This shot is the travel that arrives there."
+  ],
+  "how": [
+   "Jib or Technocrane, start at human height or a three-quarter, boom up and over until tilt is nearly 90 degrees down. A little boom-out keeps the subject from sliding off.",
+   "Prompt: Crane over the head of [Subject], the arm rising until the camera looks nearly straight down, a person becoming a map."
+  ],
+  "when": [
+   "Use it to end on a downward map of a person. Do not stop at a high three-quarter and call it over the head."
+  ],
+  "vs": [
+   "Crane Over travels the arm over an obstacle or crowd without requiring nadir. Overhead Top-Down is the locked top-down frame.",
+   "Bird's-Eye View is the high downward view as a size. Crane-over-the-head is the boom that becomes those views."
+  ],
+  "examples_film": [
+   "The Untouchables uses high downward cranes (the station, the pram, the floor as a map). Birdman booms over theater space until people become pattern.",
+   "Grammar: rise until you look down."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a crane-up that stays oblique, or a locked overhead with no travel. The tell: we never look down, or we were already down.",
+   "The fix: boom up and over until the lens is nearly straight down."
+  ],
+  "faq": [
+   {
+    "q": "What is Crane Over The Head in film?",
+    "a": "A crane over the head booms up and over a person until the camera looks nearly straight down. The person becomes a map."
+   },
+   {
+    "q": "Crane Over The Head vs Overhead Top-Down",
+    "a": "Overhead is the locked top-down frame. Crane over the head is the travel that arrives there from a human starting height."
+   },
+   {
+    "q": "When should I use Crane Over The Head?",
+    "a": "Use it to finish by looking down on a person. Do not stop at a high three-quarter."
+   },
+   {
+    "q": "How do I prompt Crane Over The Head for AI image or video?",
+    "a": "Write a boom that ends almost straight down. Example: Crane over the head of [Subject], the arm rising until the camera looks nearly straight down, a person becoming a map."
+   }
+  ]
+ },
+ {
+  "slug": "crane-up",
+  "title": "Crane Up",
+  "zh_title": "摇臂上升",
+  "narrative": [
+   "A crane-up starts at human height and leaves it. The person stays in frame, then the rooftops, then the city.",
+   "By the end, the figure is one dark coat in a much larger night. Use it when the scene needs to end, or when a private moment has to admit the world that contains it.",
+   "A tilt up only changes the angle. A crane changes the map.",
+   "Do not use it as decoration on every wide. If nothing new appears as the camera climbs, the move is empty."
+  ],
+  "how": [
+   "The operator rides or remote-heads a crane. The arm can be a few feet (a jib) or tens of feet (a Technocrane).",
+   "Keep a foreground anchor visible during the rise so the newly revealed scale has a reference. Prompt crane up and slightly back, name the start (shoulder height, waist, close-up), and name the reveal (rooftops, canyon, overpass).",
+   "If you only write camera goes up, you often get a tilt or a cheap zoom."
+  ],
+  "when": [
+   "Use it to end a scene, reveal a city, or turn a person into landscape. Concrete beat: a woman on a wet roof, then the square below takes the frame.",
+   "Do not crane up if the last frame shows nothing the first frame did not already imply."
+  ],
+  "vs": [
+   "A Tilt Up rotates on a fixed tripod. A Jib Shot is the short-arm version of this family.",
+   "An Aerial Pullback continues until geography wins completely from helicopter or high-drone height. A Pull Out stays at eye height and only retreats.",
+   "Crane Down arrives at a face instead of leaving one."
+  ],
+  "examples_film": [
+   "The opening of Touch of Evil treats the crane as a long sentence through a border town. The wounded-field pullaway in Gone with the Wind turns a person into a statistic of war.",
+   "La La Land lets hillside and dock cranes sit romance in a real city. The Player opens on studio-lot crane choreography.",
+   "Grammar, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Tilt Up or a cut from close-up to aerial. The tell is no parallax, or a jump in scale with no continuous ascent.",
+   "The fix: physical rise plus a little boom-out, a visible foreground anchor, continuity of the figure all the way up."
+  ],
+  "faq": [
+   {
+    "q": "What is Crane Up in film?",
+    "a": "It is a physical lift of the camera on a jib or crane, often easing back, so a human-scale frame becomes a wider view of the place."
+   },
+   {
+    "q": "Crane Up vs Tilt Up",
+    "a": "A tilt rotates the camera on a fixed tripod. A crane physically moves the camera through space, so foreground, mid-ground, and background change in parallax."
+   },
+   {
+    "q": "When should I use Crane Up?",
+    "a": "When a scene should close, or a private beat must admit the city, crowd, or land that contains it. Do not use it if the climb reveals nothing new."
+   },
+   {
+    "q": "How do I prompt Crane Up for AI image or video?",
+    "a": "Name starting height, crane up and slightly back, and what is revealed. Example: camera cranes up and slightly back from shoulder height, revealing rooftops and the city beyond."
+   }
+  ]
+ },
+ {
+  "slug": "crash-zoom-in",
+  "title": "Crash Zoom In",
+  "zh_title": "急推变焦",
+  "narrative": [
+   "The shot punctuates a hit, a name, a weapon, or a comic sting. Artificiality is the point.",
+   "The audience is not invited to approach; they are struck by a lens. It is the wrong tool for a thought that should land over several seconds, and the wrong tool for geography.",
+   "After the snap, hold. If you keep zooming or add shake, the sting becomes noise."
+  ],
+  "how": [
+   "Keep the subject on the zoom center. Use a controlled fast zoom or, in post, a high-resolution crop that still behaves like optics, not a warp.",
+   "Expect radial motion blur during the snap, then a hard hold on the tight frame. Avoid autofocus hunting.",
+   "Prompt an aggressive optical punch-in under one second, zoom blur, then a locked tight hold, and ban a physical dolly."
+  ],
+  "when": [
+   "Use it to punctuate a hit, a realization, or a comic sting. Concrete beat: a name is spoken and the face slams into close-up.",
+   "Do not use it as a substitute for walking closer through a room."
+  ],
+  "vs": [
+   "A Slow Zoom In is the same optical family at patience speed. A Dolly In has parallax and feels like a person stepping in.",
+   "A Whip Pan blurs by rotating the head, not by changing focal length. Crash zoom in is a snap of the lens, then a hold."
+  ],
+  "examples_film": [
+   "Django Unchained uses abrupt zooms as Western punctuation. The Grand Budapest Hotel snaps to comic information.",
+   "Kill Bill and Hot Fuzz treat the crash zoom as genre grammar rather than invisibility. Use the speed and the hold, not the costumes."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a fast Dolly In or a Whip Pan . The tell is parallax or horizontal streaking instead of radial zoom blur.",
+   "The fix: camera body still, subject on center, snap, then freeze the tight frame. Do not add unrelated camera shake."
+  ],
+  "faq": [
+   {
+    "q": "What is Crash Zoom In in film?",
+    "a": "It is a very fast increase of focal length that slams from a wider shot into a detail, usually from a locked camera, then holds."
+   },
+   {
+    "q": "Crash Zoom In vs Dolly In",
+    "a": "Dolly in moves the camera through space. Crash zoom in changes only the lens, often with radial blur, and reads as a punctuation mark rather than an approach."
+   },
+   {
+    "q": "When should I use Crash Zoom In?",
+    "a": "When a fact must hit: a face, a gun, a title, a joke. Use it once per beat and hold. Do not use it to tour a location."
+   },
+   {
+    "q": "How do I prompt Crash Zoom In for AI image or video?",
+    "a": "Demand a snap optical zoom in under one second, radial zoom blur, a still camera body, and a hard hold. Ban dolly and extra shake."
+   }
+  ]
+ },
+ {
+  "slug": "crash-zoom-out",
+  "title": "Crash Zoom Out",
+  "zh_title": "急拉变焦",
+  "narrative": [
+   "Scale, danger, or a joke appears all at once. The close moment is undercut because the world was always that large; the lens simply confessed.",
+   "The snap is the comedy or the horror, not a polite reveal. It is the wrong tool when you need to walk backward through furniture, or when the newly revealed space must pass the camera in layers.",
+   "Optical dump is not a retreat."
+  ],
+  "how": [
+   "Lock the body. Center the zoom so the subject does not smear sideways.",
+   "Snap from the tight composition to a pre-composed wide in under a second, then hold the wide. Radial blur during the change, not handheld bounce.",
+   "Prompt a sudden crash zoom out, environment exploding into view, then a locked wide hold."
+  ],
+  "when": [
+   "Use it to shock-reveal scale or undercut a close moment. Concrete beat: an intimate two-shot snaps to a parking lot full of witnesses.",
+   "Do not use it when the camera must physically leave the subject."
+  ],
+  "vs": [
+   "A Crash Zoom In punches the other way, into a detail. A Pull Out translates the camera backward with parallax.",
+   "A Slow Zoom Out discloses the same optical widening without the sting. Crash zoom out is the dump, then the hold."
+  ],
+  "examples_film": [
+   "Shaun of the Dead snaps from faces into wider comic geography. Evil Dead uses violent optical widening as shock.",
+   "Hot Fuzz works the same family in both directions. Copy the snap-and-hold, not the gag content."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dolly Out or a Crash Zoom In fired in the wrong direction. The tell is sliding foreground or a punch that gets tighter instead of wider.",
+   "The fix: locked body, pre-composed wide end, snap out, hold."
+  ],
+  "faq": [
+   {
+    "q": "What is Crash Zoom Out in film?",
+    "a": "It is a very fast decrease of focal length that throws a tight image into a wide one, usually from a still camera, then holds the wide."
+   },
+   {
+    "q": "Crash Zoom Out vs Pull Out",
+    "a": "A pull out moves the camera away so space opens with parallax. A crash zoom out only widens the lens, so the station point never changes."
+   },
+   {
+    "q": "When should I use Crash Zoom Out?",
+    "a": "When you need an instant scale joke, a threat revealed around a close face, or a hard undercut. Do not use it as a slow exit."
+   },
+   {
+    "q": "How do I prompt Crash Zoom Out for AI image or video?",
+    "a": "Write snap zoom out in under a second, camera body still, environment appearing at once, then a locked wide hold. Ban physical retreat."
+   }
+  ]
+ },
+ {
+  "slug": "dolly",
+  "title": "Dolly",
+  "zh_title": "推轨镜头",
+  "narrative": [
+   "Walk the camera. Change geography.",
+   "In, out, or beside: the point is that the support rolls, so space is proven by relative motion. A face can grow because you approached, not because the glass got longer.",
+   "A zoom is the wrong cousin when you need the room to be real. If you only need a tighter crop from sticks, zoom.",
+   "If the floor cannot take track, say so and use a vest or a crane instead of faking wheels."
+  ],
+  "how": [
+   "Lay level track or dance the wheels on a floor. Height is set by the column (often eye or chest).",
+   "In and out ride the lens axis; a lateral truck is still a dolly. Keep the horizon honest.",
+   "Prompt: Dolly toward or beside [Subject], camera body traveling on a smooth path, true parallax, not a zoom."
+  ],
+  "when": [
+   "Use it when the camera must walk: approach a face, leave a room, slide a corridor. Do not call a zoom a dolly."
+  ],
+  "vs": [
+   "Dolly In and Dolly Out name the axis along the lens. Tracking Shot follows a moving subject.",
+   "A Zoom changes focal length with the body still, so there is no parallax. A Push In is often a vest or a looser approach; a dolly is wheels and a path."
+  ],
+  "examples_film": [
+   "The Shining rolls the camera through hotel geometry until space feels like a trap. Goodfellas uses wheeled and vest travel as continuous geography.",
+   "Grammar: the body moves, the room shears."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a zoom. The tell: near and far enlarge together, no shear of a lamp or a door frame.",
+   "The fix: write physical travel and true parallax, and name the path."
+  ],
+  "faq": [
+   {
+    "q": "What is Dolly in film?",
+    "a": "A dolly shot is a camera on a wheeled platform that translates through space, producing parallax. It is a physical path, not a zoom."
+   },
+   {
+    "q": "Dolly vs Zoom",
+    "a": "A zoom changes focal length from a locked body, so space flattens or opens without parallax. A dolly moves the camera, so near objects shear against far ones."
+   },
+   {
+    "q": "When should I use Dolly?",
+    "a": "Use it when geography must change by walking the camera. Do not use the word dolly for a zoom from sticks."
+   },
+   {
+    "q": "How do I prompt Dolly for AI image or video?",
+    "a": "Write a traveling camera body and true parallax. Example: Dolly toward or beside [Subject], camera body traveling on a smooth path, true parallax, not a zoom."
+   }
+  ]
+ }
+]

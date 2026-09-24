@@ -5,6 +5,7 @@ Inputs (this directory):
   tutorial.json   - the 12 teaching chapters, 48 lessons, 91 sample rows (中文教学文案)
   library.json    - all 424 Melies technique entries, EN + 中文对照 (scraped + translated)
   zh_titles.json  - slug -> 中文手法名（图鉴、搜索、测验用）
+  body_zh.json    - 原站正文中文译文（与 origin_raw.json 逐段对齐）
   catnames.json   - origin category slug -> display name
   page.html / app.css / app.js - page shell, styles, app logic (hand-written)
 
@@ -12,11 +13,13 @@ Outputs (repository root):
   index.html        - page shell with app.css / app.js inlined
   data-tutorial.js  - chapters + 424-entry light index + the 91 full entries the lessons need
   data-library.js   - all 424 full entries (loaded on demand: 图鉴搜索全文 / 打开非课程词条)
+  body/<slug>.json  - 原站正文 {zh, en}，详情弹层打开时才 fetch
 """
 
 import hashlib
 import json
 import pathlib
+import re
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
@@ -100,6 +103,29 @@ tut_js = "window.CT=" + json.dumps({"chapters": chapters, "index": INDEX, "lib":
                                     "cats": CATS, "catorder": CAT_ORDER},
                                    ensure_ascii=False, separators=(",", ":")) + ";\n"
 lib_js = "window.CT_LIB=" + json.dumps(library, ensure_ascii=False, separators=(",", ":")) + ";\n"
+# 原站正文（英文 + 中文译文）逐条写成 body/<slug>.json，详情弹层按需加载
+raw = {e["slug"]: e for e in json.loads((HERE / "origin_raw.json").read_text())}
+body_zh = json.loads((HERE / "body_zh.json").read_text())
+BODY_SECS = ["narrative", "how", "when", "vs", "examples_film", "mistakes", "faq"]
+missing_body = [s for s in library if s not in body_zh]
+if missing_body:
+    raise SystemExit("body_zh.json missing %d entries: %s" % (len(missing_body), missing_body[:10]))
+def tidy(v):
+    """原站正文里链接两侧留有空格，如 "( Smoke )"、"Low Angle ."，展示前收紧。"""
+    if isinstance(v, dict):
+        return {k: tidy(x) for k, x in v.items()}
+    return re.sub(r"\s+([).,;:!?])", r"\1", re.sub(r"\(\s+", "(", v))
+
+
+bodies = {}
+for slug in library:
+    zh = {k: body_zh[slug][k] for k in BODY_SECS}
+    en = {k: [tidy(x) for x in raw[slug][k]] for k in BODY_SECS}
+    for k in BODY_SECS:
+        if len(zh[k]) != len(en[k]):
+            raise SystemExit("body_zh %s.%s: %d paragraphs, source has %d" % (slug, k, len(zh[k]), len(en[k])))
+    bodies[slug] = json.dumps({"zh": zh, "en": en}, ensure_ascii=False, separators=(",", ":"))
+
 ver = lambda s: hashlib.sha1(s.encode()).hexdigest()[:10]  # 内容变了 URL 才变，避免浏览器/CDN 用旧数据
 
 page = (HERE / "page.html").read_text()
@@ -107,13 +133,22 @@ page = (page.replace("/*__CSS__*/", (HERE / "app.css").read_text().strip())
             .replace("/*__JS__*/", (HERE / "app.js").read_text().strip())
             .replace("__TOTAL__", str(len(library)))
             .replace("__TUTV__", ver(tut_js))
-            .replace("__LIBV__", ver(lib_js)))
+            .replace("__LIBV__", ver(lib_js))
+            .replace("__BODYV__", ver("".join(bodies[s] for s in sorted(bodies)))))
 
 (ROOT / "index.html").write_text(page)
 (ROOT / "data-tutorial.js").write_text(tut_js)
 (ROOT / "data-library.js").write_text(lib_js)
+body_dir = ROOT / "body"
+body_dir.mkdir(exist_ok=True)
+for old in body_dir.glob("*.json"):
+    if old.stem not in bodies:
+        old.unlink()
+for slug, text in bodies.items():
+    (body_dir / (slug + ".json")).write_text(text)
 print("index.html %d bytes" % len(page))
 print("data-tutorial.js %d bytes (%d chapters, %d lessons, %d entries)" % (
     (ROOT / "data-tutorial.js").stat().st_size, len(chapters),
     sum(len(c["lessons"]) for c in chapters), len(TUTORIAL_LIB)))
+print("body/*.json %d files, %d bytes" % (len(bodies), sum(len(t.encode()) for t in bodies.values())))
 print("data-library.js %d bytes (%d entries)" % ((ROOT / "data-library.js").stat().st_size, len(library)))

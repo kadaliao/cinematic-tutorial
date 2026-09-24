@@ -1,0 +1,2706 @@
+[
+ {
+  "slug": "screen-in-screen",
+  "title": "Screen in Screen",
+  "zh_title": "屏中屏",
+  "narrative": [
+   "A picture of a picture changes ownership. The person on the inner screen is already framed by someone else: a director, a hacker, a parent, a god.",
+   "We watch the watcher, or we become them if the interface takes over the outer frame. It is the wrong tool when the inner screen is an unreadable glow.",
+   "If text, faces, or timing cannot be parsed, you have set dressing. Desktop films live or die on exact writing and cursor behavior.",
+   "This is not split screen. Split screen is a graphic of two presents.",
+   "Screen-in-screen is a nested world with a power relation."
+  ],
+  "how": [
+   "Design a real timeline and a legible inner frame. Photograph or generate the inner picture as an asset, then place it in a monitor with correct perspective, refresh, and reflections.",
+   "Do not ask a generator to invent stable UI and accurate text in one pass if the words matter. Prompt: Screen-in-screen of [Subject], a monitor, phone, or cinema inside the cinema, nested looking."
+  ],
+  "when": [
+   "Use it when looking is already mediated: security, live TV, a search on a laptop, a projectionist, a god's control room. Do not add a TV that plays nothing relevant."
+  ],
+  "vs": [
+   "Frame within Frame is usually architecture. Screen-in-screen is a display with its own image.",
+   "Split Screen tiles simultaneous presents without one being a device in the other. Windows stacks architectural panes of lives.",
+   "Voyeur may watch a screen, but voyeur is the concealment ethic. Reflections can stack a face on a dark monitor, a hybrid."
+  ],
+  "examples_film": [
+   "The Truman Show makes the world a production watched on screens. Videodrome infects the watcher through the tube.",
+   "Searching and Unfriended run investigation and terror through interfaces whose text and timing are the coverage. Sherlock Jr.",
+   "lets a projectionist enter the inner picture. Grammar of nested looking, not a wallpaper of monitors."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a blurry TV set, or a fake Split Screen . The tell is unreadable text, melting UI, or two images tiled with no device.",
+   "The fix is to treat the inner picture as a designed insert with real words and a physically plausible monitor."
+  ],
+  "faq": [
+   {
+    "q": "What is screen in screen in film?",
+    "a": "A display inside the shot carries its own picture: monitor, phone, cinema screen. Someone is watching a picture of someone. The inner crop, delay, and artifacts are part of the grammar."
+   },
+   {
+    "q": "Screen in Screen vs Split Screen",
+    "a": "Split screen tiles two or more presents as a graphic. Screen-in-screen puts one picture inside a device in the other. Power and mediation differ. A control-room wall of monitors is nested looking. A graphic half-and-half of two callers is split screen unless those halves are phones in a room."
+   },
+   {
+    "q": "When should I use screen in screen?",
+    "a": "Use it when looking is already a broadcast, a search, a tape, or a show: surveillance, desktop investigation, a film within the film. Do not add a glowing panel with no content."
+   },
+   {
+    "q": "How do I prompt screen in screen for AI image or video?",
+    "a": "Name device and inner content. Example: Screen-in-screen of [Subject], a monitor, phone, or cinema inside the cinema, nested looking. For UI stories, render text deterministically. Do not generate the whole interface as unstable video if words must be exact."
+   }
+  ]
+ },
+ {
+  "slug": "short-siding",
+  "title": "Short Siding",
+  "zh_title": "短边构图",
+  "narrative": [
+   "Deny the character air and the scene tightens without a closer lens. An interrogator, a liar, a person who has just seen the worst thing: they look into almost nothing.",
+   "The leftover field behind them is wasted country they cannot use. It is the wrong tool for ordinary coverage.",
+   "Do it by accident and the shot feels like a student pan. Do it on every close-up and the trap stops meaning.",
+   "Short siding is not the same as a big empty wall. If they look into a vast field, you have negative space in the look.",
+   "Short siding specifically starves the look."
+  ],
+  "how": [
+   "Put the eyes close to the edge they face. Leave the larger field behind the skull.",
+   "A profile or strong three-quarter makes the crush obvious. You can still use a 50mm or 75mm.",
+   "The crop does the violence, not a wider lens. Do not correct it in the pan.",
+   "Prompt: Short-sided framing of [Subject], look space crushed, the face near the frame edge they look toward, trapped or urgent."
+  ],
+  "when": [
+   "Use it for interrogation, guilt, panic, and any beat where the next thing should feel unreachable. Do not use it as default portrait grammar."
+  ],
+  "vs": [
+   "Lead Room is the polite reverse: air ahead of the look. Negative Space may surround a small figure without starving the gaze.",
+   "Short siding can coexist with a large empty field behind the head, which is negative space used as a trap. Look Space is what you are withholding.",
+   "Close-Up size makes the crush louder but is not required."
+  ],
+  "examples_film": [
+   "The Silence of the Lambs uses short-sided faces so conversations feel like cages even in a medium. Prisoners presses heads toward the edge they look into, air wasted behind them.",
+   "The grammar is denial, not a filter. Use as pressure, not as a default crop."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is accidental bad coverage. The tell is a talking head kissing the look-edge in a scene that is not a trap, often from a rushed pan.",
+   "The fix is to give Lead Room unless the beat is confinement, in which case hold the crush and stop trying to rebalance."
+  ],
+  "faq": [
+   {
+    "q": "What is short siding in film?",
+    "a": "The face sits near the edge it looks toward. Look-space is crushed. Extra air sits behind the head, unused. The character is denied a future in the frame."
+   },
+   {
+    "q": "Short Siding vs Lead Room",
+    "a": "Lead room puts surplus ahead of the gaze or walk. Short siding puts surplus behind and starves the look. One is classical manners. The other is a deliberate bad manner for pressure."
+   },
+   {
+    "q": "When should I use short siding?",
+    "a": "Use it when a character should feel trapped, guilty, or out of road: interrogation, dread, a look that cannot be answered. Do not use it as everyday singles."
+   },
+   {
+    "q": "How do I prompt short siding for AI image or video?",
+    "a": "State the edge and the starved look. Example: Short-sided framing of [Subject], look space crushed, the face near the frame edge they look toward, trapped or urgent. Models love looking room. You must forbid it."
+   }
+  ]
+ },
+ {
+  "slug": "symmetry",
+  "title": "Symmetry",
+  "zh_title": "对称构图",
+  "narrative": [
+   "When left mirrors right, nobody owns a secret side of the frame. Space is ceremonial.",
+   "A small break (a crooked tie, a missing lamp, a person one step off axis) becomes the whole event. It is the wrong tool when life should feel unarranged.",
+   "A kitchen argument, a chase, a documentary street: forcing a mirror there is a lie unless the lie is the point (a showroom, a regime, a dream). Symmetry is not the same as centering a face.",
+   "A mirrored corridor can swallow a figure who is slightly late to their mark. The architecture still owns the diagram."
+  ],
+  "how": [
+   "Place the camera on the centerline of the set. Match practicals, furniture, and verticals.",
+   "Use a level. One-point architecture helps but is not required: a flat elevation of a facade can be a mirror without a vanishing tunnel.",
+   "Stop down if both wings must stay sharp. Prompt: Perfect symmetry around [Subject], mirrored architecture, a central axis, obsessive order."
+  ],
+  "when": [
+   "Use it when the location is a machine of order: hotel, chapel, spaceship, courtroom, dollhouse. Do not use it as wallpaper on a location that has no axis."
+  ],
+  "vs": [
+   "Centered Composition plants a subject on the axis. Symmetry mirrors the field, with or without that subject.",
+   "One-Point Perspective is a perspective construction that often produces symmetry, but two wings can match in a flat, shallow picture with no tunnel. Repetition and Pattern repeats units without requiring a mirror.",
+   "Asymmetry is the refusal."
+  ],
+  "examples_film": [
+   "The Grand Budapest Hotel treats hotels as mirrored diagrams of service. 2001: A Space Odyssey uses axial, bilateral order as a claim that the future is designed.",
+   "A fingerprint on that order reads as error or omen. Grammar, not a filter."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a centered actor in an unmatched room. The tell is a bullseye face and a window only on the left.",
+   "The fix is to move the camera onto the architectural axis, or to drop the claim and shoot Asymmetry with real counterweight."
+  ],
+  "faq": [
+   {
+    "q": "What is symmetry in film?",
+    "a": "It is a frame whose masses balance around an axis, usually the vertical center. Left answers right. The world looks designed. A person may sit on the axis, or the architecture may be the symmetrical subject."
+   },
+   {
+    "q": "Symmetry vs Centered Composition",
+    "a": "Centered composition is about the subject's seat on the axis. Symmetry is about mirrored masses. You can center a person in an asymmetric room, and you can shoot a mirrored hall with the actor late to center. They often travel together. They are not the same diagram."
+   },
+   {
+    "q": "When should I use symmetry?",
+    "a": "Use it when order is the meaning: ritual, comedy of control, science-fiction design, a regime's architecture. Do not glue it onto a street that has no axis."
+   },
+   {
+    "q": "How do I prompt symmetry for AI image or video?",
+    "a": "Ask for a mirror and an axis. Example: Perfect symmetry around [Subject], mirrored architecture, a central axis, obsessive order. Specify matching practicals and a camera on the centerline. Name one break if the story is the unmatched thing."
+   }
+  ]
+ },
+ {
+  "slug": "tableau",
+  "title": "Tableau",
+  "zh_title": "活人画",
+  "narrative": [
+   "Hold the arrangement and the audience reads at their own speed: who stands where, who fails to move, who sneaks a gesture. Stillness makes a tiny action loud.",
+   "Comedy, ceremony, and dread all use that delay. It is the wrong tool when the scene needs chase geography or a close-up of a lie.",
+   "If you cut the tableau to pieces immediately, you shot a master and threw it away. If the arrangement has no readable relationships, you shot decoration.",
+   "Tableau is not automatically centered, but it likes a designed field. Dirty edges can still apply if the living picture is glimpsed from a door."
+  ],
+  "how": [
+   "Block silhouettes, spacing, and sightlines before adding motion. Rehearse separate timings inside the shared frame.",
+   "Use enough depth of field that the intended points stay readable. A locked tripod is the default.",
+   "A slow creep is a different sentence. Prompt: Tableau of [Subject], arranged bodies, a living painting, duration instead of coverage."
+  ],
+  "when": [
+   "Use it for ritual, comic ensembles, processions, and any beat that should be discovered rather than prescribed by cutting. Do not hold a well-dressed but empty arrangement."
+  ],
+  "vs": [
+   "Static Locked-Off is the camera lock. Tableau is the staged picture that uses that lock.",
+   "Centered Composition is a common altar for it, not a requirement. Group Shot is a size.",
+   "Tableau is duration plus arrangement. Triangular Composition may be the geometry inside the hold.",
+   "Long Take may travel. A tableau usually stays and lets time do the move."
+  ],
+  "examples_film": [
+   "Barry Lyndon holds painterly courts until a glance is an event. Roy Andersson 's films park ensembles in still rooms so a small failure is comic and awful.",
+   "PlayTime distributes gags across broad, held compositions. The Color of Pomegranates arranges people and objects as ritual friezes.",
+   "Grammar of duration, not a freeze."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Master Shot you plan to chop, or a pretty still with no relationships. The tell is a posed group that exists to be pretty, then a cut to close-ups that do all the work.",
+   "The fix is to give each body a job and to let the hold be the coverage."
+  ],
+  "faq": [
+   {
+    "q": "What is tableau in film?",
+    "a": "It is a staged picture whose meaning develops inside a relatively fixed frame. Bodies and objects are arranged. Duration does the work that cutting would otherwise do. A living painting, not a freeze frame."
+   },
+   {
+    "q": "Tableau vs Static Locked-Off",
+    "a": "Static is a camera that does not move. Tableau is an arranged field that uses stillness, usually with a locked camera. You can lock off a messy documentary corner and have static without tableau. You can, rarely, drift across a tableau, but the default is a hold."
+   },
+   {
+    "q": "When should I use tableau?",
+    "a": "Use it for ritual, ensemble comedy, processions, and any scene the audience should read as a whole. Do not use it as a pretty pause in a chase, and do not cut it to bits immediately."
+   },
+   {
+    "q": "How do I prompt tableau for AI image or video?",
+    "a": "Describe the arrangement and the hold. Example: Tableau of [Subject], arranged bodies, a living painting, duration instead of coverage. List positions. For video, specify a locked camera and a long hold with one planned gesture."
+   }
+  ]
+ },
+ {
+  "slug": "triangular-composition",
+  "title": "Triangular Composition",
+  "zh_title": "三角形构图",
+  "narrative": [
+   "Two people and a desk, a family and a doorway, three men and a gun: the triangle tells you who sits at the top of the diagram. Renaissance blocking taught this before cinema.",
+   "The camera inherited the altar. It is the wrong tool for a true two-hander that should be a flat axis, or for a crowd that has no hierarchy.",
+   "Forcing a triangle onto two people plus a plant is a fake court. The apex can be low (a child, a corpse, a briefcase) and still run the picture.",
+   "Height is not automatically rank. Placement in the triangle is."
+  ],
+  "how": [
+   "Block three masses with clear vertices. Check the silhouette on a wide enough lens that all three read (often 27mm to 40mm, or a longer lens at a distance).",
+   "Keep depth of field sufficient for the intended points. A Three-Shot is a size.",
+   "The triangle is the geometry inside it. Prompt: Triangular arrangement with [Subject] at an apex, three masses locking the frame, Renaissance blocking."
+  ],
+  "when": [
+   "Use it when a group has a hierarchy: a don and two captains, a family portrait with a secret, a bargaining table. Do not invent a third mass to complete a shape nobody in the scene would form."
+  ],
+  "vs": [
+   "Three-Shot is coverage of three bodies, which may sit in a line. Triangular composition is the pyramid, even if one mass is a doorway or a lamp.",
+   "Visual Weight decides which vertex wins the eye. Centered Composition may plant the apex on the axis.",
+   "Tableau can freeze the triangle for duration. Symmetry may split a triangle into a formal court."
+  ],
+  "examples_film": [
+   "The Godfather uses office blocking as a pyramid of power: who sits, who stands, who waits at the door. Painters' Last Supper language (a central apex, flanking groups) is the ancestor of that court.",
+   "Cinema borrowed the altar long before it borrowed the name. Grammar of rank, not a painting to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a flat Three-Shot in a line. The tell is three heads at one height, no pyramid.",
+   "The fix is to sit one figure, stand another, and give the third a doorway or a chair so the triangle actually locks."
+  ],
+  "faq": [
+   {
+    "q": "What is triangular composition in film?",
+    "a": "Subjects or masses form a triangle in the frame. Three points lock the picture. The apex usually holds power, desire, or the thing being judged. The base supports or threatens."
+   },
+   {
+    "q": "Triangular Composition vs Three-Shot",
+    "a": "A three-shot is a framing size: three people in the picture. They might stand in a row. Triangular composition is geometry. One vertex can even be an object or a doorway. Size is not shape."
+   },
+   {
+    "q": "When should I use triangular composition?",
+    "a": "Use it when a group has rank or a secret third term: family, court, deal, interrogation. Do not fake a third point with furniture that has no job."
+   },
+   {
+    "q": "How do I prompt triangular composition for AI image or video?",
+    "a": "Name the apex and the other two masses. Example: Triangular arrangement with [Subject] at an apex, three masses locking the frame, Renaissance blocking. State standing versus sitting if height is the hierarchy."
+   }
+  ]
+ },
+ {
+  "slug": "vanishing-point",
+  "title": "Vanishing Point",
+  "zh_title": "消失点",
+  "narrative": [
+   "There is a long way still to go when the point sits beyond the figure. Space owns the future.",
+   "The body is a threshold, not the altar. If the point sits on the face, the architecture aims at them like a weapon or a blessing.",
+   "It is the wrong tool in a flat elevation with no receding parallels. A painted backdrop that does not converge cannot offer a vanishing point.",
+   "You would be naming a ghost. One-point, two-point, and three-point perspective all have vanishing points.",
+   "The compositional choice is where you put them, and whether the subject blocks, occupies, or is ignored by that meeting."
+  ],
+  "how": [
+   "Stand where real parallels recede: tracks, a highway, a colonnade. Choose height (eye-level keeps the point near the horizon; a low camera lifts it).",
+   "Place the subject on the point, in front of it, or off it. A wider lens makes the suck toward infinity more violent.",
+   "Prompt: Deep vanishing point beyond [Subject], rails or road sucking the eye to infinity, the person as a gate."
+  ],
+  "when": [
+   "Use it when distance is the meaning: a road, a station, a landing site, a life still unwalked. Do not claim a vanishing point in a flat, shallow room."
+  ],
+  "vs": [
+   "One-Point Perspective is the special case of a single, often axial, vanishing point with the camera squared. Vanishing-point composition can be a two-point street corner with the meeting off to the side.",
+   "Leading Lines steer the eye but may never meet in frame. Extreme Long Shot often includes a distant point.",
+   "The point is a location in the diagram, not a shot size."
+  ],
+  "examples_film": [
+   "Paris, Texas aims roads and rails at a horizon that keeps going after the man stops. Close Encounters builds landing-site perspective as a meeting with something that arrives from the point.",
+   "Stations, docks, and desert highways are the same grammar: infinity as a character."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a centered figure with no converging lines. The tell is a person in the middle of a flat field and a prompt that only says vanishing.",
+   "The fix is to include actual receding parallels, or to switch to Centered Composition and stop claiming perspective."
+  ],
+  "faq": [
+   {
+    "q": "What is a vanishing point in film?",
+    "a": "It is where parallel lines appear to meet in the picture. Roads, rails, and halls aim there. Compositionally it is a destination: beyond the figure, on the figure, or off to one side."
+   },
+   {
+    "q": "Vanishing Point vs One-Point Perspective",
+    "a": "One-point perspective uses a single vanishing point and a camera squared to a plane, often on axis. A vanishing point also exists in two-point views of a building corner. One-point is a construction. The vanishing point is the meeting itself."
+   },
+   {
+    "q": "When should I use vanishing point?",
+    "a": "Use it when distance should act: roads, tracks, naves, anything that still has a long way to go. Skip it in shallow, flat rooms with no receding edges."
+   },
+   {
+    "q": "How do I prompt vanishing point for AI image or video?",
+    "a": "Name the parallels and where they meet. Example: Deep vanishing point beyond [Subject], rails or road sucking the eye to infinity, the person as a gate. If the point should sit on the body, say vanishing point on the chest, architecture aiming at them."
+   }
+  ]
+ },
+ {
+  "slug": "visual-weight",
+  "title": "Visual Weight",
+  "zh_title": "视觉重量",
+  "narrative": [
+   "The diagram is a set of weights, not a ruler. A cigarette in a pool of light can outweigh a sofa.",
+   "A face, even tiny, will beat a mountain unless you starve the face of contrast. Who owns space is who wins the glance in the first half second, then the second glance you designed.",
+   "It is the wrong tool as a slogan. Saying visual weight without choosing a winner is a wish.",
+   "If two masses fight to a draw, the beat is confused unless the fight is the point. Motion and faces cheat.",
+   "A still landscape that was balanced becomes a different picture when a figure turns. Recheck weight when action starts."
+  ],
+  "how": [
+   "List the masses and their currencies: size, tone, chroma, sharpness, position (center and upper field weigh more), faces, movement. Dim or desaturate the losers, or throw them out of focus.",
+   "A hard key on a small object is a common way to mint weight. Prompt: Composition balancing visual weight around [Subject], a bright small thing equal to a large dark mass, scale of attention."
+  ],
+  "when": [
+   "Use it whenever more than one mass could steal the shot: a deal on a table, a child in a window, a red coat in a grey street. Do not light every surface equally and hope the script will point."
+  ],
+  "vs": [
+   "Asymmetry is often how unequal weights still hold as a picture. Tonal Contrast is specifically tonal punch, lightest versus darkest.",
+   "Visual weight includes color, faces, and motion. Figure-Ground is the first-read separation of person from field.",
+   "Triangular Composition assigns rank by geometry. Weight can override the apex if you light the wrong vertex."
+  ],
+  "examples_film": [
+   "Painterly cinema is a school of weight: a lit hand, a dark coat, a window. Barry Lyndon and other candlelit pictures let a small warm mass equal a room.",
+   "Westerns and desert films let a tiny rider equal a butte by placing them on a line and isolating tone. Grammar of attention, not a painting to duplicate."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is even, polite illumination. The tell is every object at the same brightness and sharpness, a catalogue page.",
+   "The fix is to pick a winner and tax the rest: darker, softer, smaller, or less chromatic."
+  ],
+  "faq": [
+   {
+    "q": "What is visual weight in film?",
+    "a": "It is how strongly an element pulls the eye: size, contrast, color, position, focus, faces, motion. A small bright face can outweigh a large dark wall. The first glance should match the story."
+   },
+   {
+    "q": "Visual Weight vs Tonal Contrast",
+    "a": "Tonal contrast is a graphic fight of light against dark. Visual weight is the broader ledger. Color, faces, and motion count. A mid-grey moving face can outweigh a static white wall."
+   },
+   {
+    "q": "When should I use visual weight?",
+    "a": "On every frame that contains more than one claim. Consciously, when a small object or distant person must beat a large set. Do not light the room like a showroom unless the showroom is the joke."
+   },
+   {
+    "q": "How do I prompt visual weight for AI image or video?",
+    "a": "Declare the winner. Example: Composition balancing visual weight around [Subject], a bright small thing equal to a large dark mass, scale of attention. Name both masses. Say the eye lands on the subject first."
+   }
+  ]
+ },
+ {
+  "slug": "void",
+  "title": "Void",
+  "zh_title": "虚空背景",
+  "narrative": [
+   "Erase the set and the social world goes with it. A woman in a black room, a man in white nowhere, a beam with no walls: there is no furniture to own space, only the figure and the absence.",
+   "It is the wrong tool when geography matters. A void cannot show a door, a class, or a weather.",
+   "If you still need the kitchen, you wanted negative space or cameo light in a real room. Cameo lighting can create a void by refusing to fill.",
+   "The void is the compositional result: no readable world, not merely a moody key."
+  ],
+  "how": [
+   "Kill the surround. Black velvet, an unlit stage, fogged white, a clipped sky.",
+   "Light only the figure, or let them fall to Silhouette on nothing. Watch for stray stand legs and floor bounce.",
+   "A longer lens helps exclude leftover set. Prompt: Void around [Subject], darkness or blank field eating the world, a figure against nothing."
+  ],
+  "when": [
+   "Use it for existential isolation, alien rooms, interrogation nowhere, a mind. Do not use it as a cheap way to hide a location you did not dress."
+  ],
+  "vs": [
+   "Negative Space keeps a world (sky, wall, sea) as the empty mass. Void removes the world.",
+   "Cameo Lighting is the lighting method that often produces a dark void: a pool on a figure, no environment. Clean Frame still allows a tidy place.",
+   "Silhouette is outline against a brighter field, which can be a void if that field is featureless. Low-Key Lighting may still show a room in the shadows."
+  ],
+  "examples_film": [
+   "Under the Skin uses black, featureless space as a place that is not a place, bodies without social furniture. The Lighthouse isolates men in weather and dark until the world feels eaten, more void than village.",
+   "Grammar of deletion, not a crushed exposure accident."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is an underexposed room, or Negative Space with a visible wall. The tell is a baseboard, a plant, or grainy wallpaper in the dark.",
+   "The fix is to actually kill the surround (velvet, distance, flags), or to own the wall as designed emptiness."
+  ],
+  "faq": [
+   {
+    "q": "What is void in film?",
+    "a": "It is a composition that erases the set. The figure stands against darkness, white, or a blank field. There is no readable place. Absence is not a sky or a wall. It is nothing."
+   },
+   {
+    "q": "Void vs Negative Space",
+    "a": "Negative space is empty area inside a world: desert, ceiling, sea. Void deletes the world. A nun under a pale church wall is negative space. A body in featureless black is a void. Both isolate. Only one still has geography."
+   },
+   {
+    "q": "When should I use void?",
+    "a": "Use it when place should vanish: alien interior, mind, interrogation nowhere, existential isolation. Do not use it to hide an undressed set that still needs to be a room."
+   },
+   {
+    "q": "How do I prompt void for AI image or video?",
+    "a": "Forbid the set. Example: Void around [Subject], darkness or blank field eating the world, a figure against nothing. Add no environment, no furniture. Specify black or white. Models love to invent rooms. Ban them."
+   }
+  ]
+ },
+ {
+  "slug": "voyeur",
+  "title": "Voyeur",
+  "zh_title": "窥视视角",
+  "narrative": [
+   "The audience is trespassing. That is the beat.",
+   "A couple through blinds, a conversation across a square, a tent at night: we occupy a hiding place. The subject does not present.",
+   "They are caught, or they would be if they turned. It is the wrong tool for granted intimacy.",
+   "A close-up the character knows about is not voyeur. An over-the-shoulder in a dialogue scene is coverage, even if a shoulder dirties the edge.",
+   "Offscreen sound often rides with this view (a whistle, a courtyard, a tent wall) because the hide limits what we can see. The technique itself is the concealed camera, not the soundtrack."
+  ],
+  "how": [
+   "Put a real occluder between lens and subject and stand where a watcher could stand. Keep enough aperture to melt the hide (leaves, fabric, a slit) while holding the distant face.",
+   "A longer lens is the usual cheat for distance. Do not center the peephole like a pretty wreath unless the hide is a designed iris.",
+   "Prompt: Voyeur frame of [Subject], watching from concealment, dirty edges, a view we should not have."
+  ],
+  "when": [
+   "Use it when watching is transgression: affairs, surveillance, a neighbor, a hunter. Do not slap dirty leaves on a scene the character is performing for us."
+  ],
+  "vs": [
+   "Dirty Frame is the edge grammar voyeur often uses. Voyeur is the ethical position: concealment.",
+   "You can dirty a party from inside the crowd without hiding. Over-the-Shoulder Coverage is dialogue coverage with a known listener in the foreground.",
+   "Frame within Frame may be a window we are invited to look through. Windows stacks many lives.",
+   "Voyeur picks one hide. Point of View claims we are the character.",
+   "Voyeur often claims we are not supposed to be anyone."
+  ],
+  "examples_film": [
+   "Rear Window makes looking across a courtyard the plot. The Conversation records and watches until privacy is a myth.",
+   "Cache (Hidden) holds distant, unauthorized views until the camera itself is an aggressor. M and The Blair Witch Project let presence arrive from beyond the visible, often as sound around a limited hide.",
+   "Grammar of trespass, not a leaf kit."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a pretty Dirty Frame the subject could see, or an Over-the-Shoulder Coverage from a scene partner. The tell is eye contact with lens, or a hide that is only a vignette.",
+   "The fix is a real occluder, a plausible hiding place, and a subject who does not present."
+  ],
+  "faq": [
+   {
+    "q": "What is voyeur in film?",
+    "a": "The camera watches from concealment. The audience is trespassing. Dirty edges, distance, and a peephole often result. The subject does not offer the view. We take it."
+   },
+   {
+    "q": "Voyeur vs Dirty Frame",
+    "a": "A dirty frame occupies the edges with matter. Voyeur is why we are standing there: we are hidden. A crowded street can be dirty without being voyeur. A clean, distant locked-off shot of an apartment can be voyeur without much edge chew, as in an unauthorized surveillance hold."
+   },
+   {
+    "q": "When should I use voyeur?",
+    "a": "Use it when looking is a transgression: neighbor, spy, hunter, affair. Do not use it as default decoration on a scene performed for the camera."
+   },
+   {
+    "q": "How do I prompt voyeur for AI image or video?",
+    "a": "Name the concealment and the unaware subject. Example: Voyeur frame of [Subject], watching from concealment, dirty edges, a view we should not have. Specify blinds, foliage, a grate, a long lens. Forbid eye contact with camera."
+   }
+  ]
+ },
+ {
+  "slug": "windows",
+  "title": "Windows",
+  "zh_title": "窗景构图",
+  "narrative": [
+   "A facade at night is a contact sheet of other people's rooms. A courtyard is a theater of windows.",
+   "Who owns space changes per rectangle: a cook, a sleeper, a fighter, an empty kitchen. The building is a montage that does not cut.",
+   "It is the wrong tool when you only need one inner frame around one encounter. That is a single frame-within-frame.",
+   "If the other panes do no work, you photographed a house. Windows can be looked through from inside (rain on glass, a face and a street) or looked at from outside ( Rear Window grammar).",
+   "Decide which side of the glass we occupy, and whether reflections will stack a second world."
+  ],
+  "how": [
+   "Find a true grid: a courtyard, a block of apartments, an office elevation. Use a longer lens to flatten panes into a sheet of rectangles, or a wider lens if we are inside one room looking at many across a court.",
+   "Expose so more than one interior reads, or so most go dark except the one that matters. Prompt: Windows as the true subject around [Subject], stacked apertures, lives in rectangles, a building of frames."
+  ],
+  "when": [
+   "Use it when many lives share a building, or when a single life is one pane among others. Do not use it as a pretty rain window on a portrait that never acknowledges other rooms."
+  ],
+  "vs": [
+   "Frame within Frame is usually one inner rectangle. Windows multiplies them.",
+   "Screen in Screen nests electronic pictures. These are architectural pictures.",
+   "Voyeur may watch one pane from concealment. Windows can also be a public elevation, a city showing itself.",
+   "Repetition and Pattern counts the grid. Here the content of each cell matters.",
+   "Reflections may write the street onto the same glass."
+  ],
+  "examples_film": [
+   "Rear Window turns a courtyard of windows into a set of simultaneous shorts. The Hours uses windows as thresholds between interior lives and the weather of a city.",
+   "A building becomes an editing machine you can hold. Grammar of panes, not a single pretty rain glass."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a single rain-streaked portrait, or a Frame within Frame doorway. The tell is one face and one glass with no other cells.",
+   "The fix is to show a grid of apertures and to give at least one other pane a life, even if it is only a lamp and an empty chair."
+  ],
+  "faq": [
+   {
+    "q": "What is windows in film?",
+    "a": "Panes become the subject: stacked apertures, lives in rectangles, a building of frames. The composition is a grid of possible shots. One person may occupy one cell. The other cells still work."
+   },
+   {
+    "q": "Windows vs Frame within Frame",
+    "a": "Frame within a frame is typically one inner border around the action, a door or arch. Windows multiplies apertures until the building is a sheet of pictures. A single window around a couple is doorway grammar. A courtyard of ten lit rooms is windows."
+   },
+   {
+    "q": "When should I use windows?",
+    "a": "Use it when many lives share glass: apartments, offices, a courtyard at night, a city block. Skip it when you only need one threshold around one encounter."
+   },
+   {
+    "q": "How do I prompt windows for AI image or video?",
+    "a": "Ask for stacked panes and multiple lives. Example: Windows as the true subject around [Subject], stacked apertures, lives in rectangles, a building of frames. Specify a facade or courtyard and more than one lit interior. Place the subject in one cell."
+   }
+  ]
+ },
+ {
+  "slug": "axial-cut",
+  "title": "Axial Cut",
+  "zh_title": "轴向剪辑",
+  "narrative": [
+   "A farmhouse kitchen, then the same kitchen larger, then an eye socket you were not ready to occupy. Recognition arrives as a series of shocks, not as a walk.",
+   "Change shot size without changing angle. Use it for stepwise emphasis: a date in a book, a wound, a face that must suddenly fill the world.",
+   "It is the wrong tool when you want a continuous approach. A Crash Zoom In is an optical move in time.",
+   "A dolly-in is a walk. An axial cut is an edit.",
+   "If the angle changes more than a few degrees, you have ordinary coverage, not an axial cut. If time is what you skipped inside one size, you have a Jump Cut ."
+  ],
+  "how": [
+   "Capture or generate matched wide, medium, and close compositions on the same axis. Preserve pose, eyeline, and background alignment enough that the jump is only scale.",
+   "Choose deliberate steps (for example 50mm at 3 meters, then 50mm at 1 meter, or a punch-in crop that matches a true closer camera). Do not animate a zoom between the frames if the point is the snap.",
+   "Prompt: axial cut jumping toward or away from [Subject] along the lens axis, punch-in without a zoom."
+  ],
+  "when": [
+   "Use it when a detail must land as a blow: the date stamp, the empty eye, the gun on the table. Do not use it as a substitute for a motivated push-in during a long take.",
+   "If the camera should walk, walk."
+  ],
+  "vs": [
+   "A Crash Zoom In is a continuous, fast focal-length change. An axial cut is a splice.",
+   "A Jump Cut skips time in a similar size; axial cut skips distance on one axis. Match on Action needs a bridging gesture; axial cut can hit a still figure.",
+   "A push-in has parallax; a punch-in crop of one take has none, and is a cheaper cousin of a true closer camera on the same axis."
+  ],
+  "examples_film": [
+   "The Birds sends Lydia through successive closer views of the dead farmer, the axis held, the scale jumping. The Shining uses hard axial emphasis on rooms and faces so space feels like a trap.",
+   "Goodfellas punches in for recognition rather than a polite zoom. Use the snap, not a copied kitchen."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Crash Zoom In or a digital crop sold as a camera move. The tell: the lens breathes, or the angle walks off axis, or the subject morphs larger.",
+   "The fix: two (or three) still-matched compositions, same axis, hard cuts, pose locked."
+  ],
+  "faq": [
+   {
+    "q": "What is Axial Cut in film?",
+    "a": "An axial cut jumps closer or farther along the same camera axis. Both sides of the join share an angle; only shot size changes, as a snap rather than a move."
+   },
+   {
+    "q": "Axial Cut vs Crash Zoom In",
+    "a": "A crash zoom is a continuous optical move. An axial cut is an edit between matched distances on one axis. One is a whoosh; the other is a punch."
+   },
+   {
+    "q": "When should I use Axial Cut?",
+    "a": "Use it to change shot size without changing angle, when recognition should shock. Do not use it when you want the camera to walk or the lens to zoom in time."
+   },
+   {
+    "q": "How do I prompt Axial Cut for AI image or video?",
+    "a": "Ask for matched wide and close frames on the same axis, then a hard cut. Example: Axial cut jumping toward [Subject] along the lens axis, punch-in without a zoom. No zoom animation."
+   }
+  ]
+ },
+ {
+  "slug": "crash-cut",
+  "title": "Crash Cut",
+  "zh_title": "撞击剪辑",
+  "narrative": [
+   "A trunk, a man, a knife already in play, then the story will explain how we got here. Or a cymbal, a face, a rehearsal that never had a polite establishing wide.",
+   "The next image must hurt, and it must hurt immediately. Use it as percussion, as in medias res, as a refusal of the soft open.",
+   "It is the wrong tool when you have just built a hush that should be betrayed: that betrayal is a Smash Cut . It is the wrong tool when you only skip time in one seat: that is a Jump Cut .",
+   "A few frames of interrupt are a Flash Cut , not a committed new scene. Do not open on a sensation the rest of the story cannot causally earn."
+  ],
+  "how": [
+   "Cut A to B with maximum difference in scale, brightness, or violence of content, and with no mix. Often B is already mid-action (a trunk, a gun, a kit).",
+   "Mark any later temporal reset clearly (a title, a younger haircut) so the crash is a structure, not an accident. Prompt: crash cut on [Subject], two images colliding with no polite blend, a hard join that should sting."
+  ],
+  "when": [
+   "Use it to open on the consequence, to hit a downbeat, to refuse an establishing courtesy. Do not use it between two similar wides.",
+   "If A was a long prayer, consider smash. If B lasts three frames, consider flash."
+  ],
+  "vs": [
+   "A Smash Cut breaks an earned state (quiet, closure, prayer). A crash cut is the collision as a blow, often before a state was offered.",
+   "A Jump Cut stays similar. A Flash Cut is too short to become the new scene.",
+   "Quick Cuts are a run of short shots; a crash is one brutal splice."
+  ],
+  "examples_film": [
+   "Goodfellas opens in the trunk, then later supplies the life that led there. Fight Club starts inside a crisis and then rewinds the path.",
+   "Whiplash and Requiem for a Dream use hard joins as rhythmic blows. Use the sting and the delayed explanation, not a copied trunk."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Smash Cut (after a hush) or Flash Cut (a few frames). The tell: a long quiet setup before the hit (that is smash), or B vanishing before it can be a scene (that is flash).",
+   "The fix: collide two committed images, start inside the event if that is the structure, cut hard."
+  ],
+  "faq": [
+   {
+    "q": "What is Crash Cut in film?",
+    "a": "A crash cut is a hard join where two images collide with no blend. Both sides are committed shots; the splice stings, often by starting inside an event or hitting like a drum."
+   },
+   {
+    "q": "Crash Cut vs Smash Cut",
+    "a": "A smash cut betrays an earned quiet or closure. A crash cut is the collision itself, frequently from the first frame of a scene or as in medias res. Smash breaks a state; crash refuses to offer one."
+   },
+   {
+    "q": "When should I use Crash Cut?",
+    "a": "Use it when the next image must hurt immediately, or when the story should start inside the consequence. Do not use it as a skip inside one similar frame."
+   },
+   {
+    "q": "How do I prompt Crash Cut for AI image or video?",
+    "a": "Name two colliding images and forbid a blend. Example: Crash cut on [Subject], two images colliding with no polite blend, a hard join that should sting. Let B be mid-action if the structure needs it."
+   }
+  ]
+ },
+ {
+  "slug": "cross-cut",
+  "title": "Cross-Cutting",
+  "zh_title": "交叉剪辑",
+  "narrative": [
+   "A baptism in one room. Killings in others.",
+   "The film does not wait for one to finish. It braids them so ritual and murder share a tense.",
+   "Or: a team at a door, a listener at another door, and the cut teaches you they are about to meet until a reverse proves they are not. Use it when simultaneity, comparison, or false geography is the engine.",
+   "It is the wrong tool when you need one compressed idea from unlike images: that is Montage . It is also the wrong tool when two rooms must be visible at once: that is Split Screen .",
+   "Fair misdirection relies on inference. Do not show matching house numbers and then pretend the doors were different."
+  ],
+  "how": [
+   "Shoot each line so it can be interrupted: clear geography, readable time of day or clock, compatible but not identical details if you plan a wrong-door surprise. Alternate with tightening duration if you want the clocks to race.",
+   "Sound can bleed across (a bell, a vow) to bind the lines. Prompt: cross-cutting between [Subject] and a simultaneous other line, suspense by alternation, two clocks racing."
+  ],
+  "when": [
+   "Use it for a raid versus a doorbell, a ritual versus a crime, dream levels that must tick together. Do not use it to dump unused coverage of one scene.",
+   "If there is no second clock, you are just cutting."
+  ],
+  "vs": [
+   "Montage collides images to make an argument or to compress months; cross-cutting keeps parallel actions alive. A Smash Cut is one contrast join, not a braid.",
+   "Split Screen shows both lines at once instead of alternating. An L-cut lets sound from one line sit on the picture of the other without changing the picture's location."
+  ],
+  "examples_film": [
+   "The Godfather baptizes Michael while the rival killings land in other rooms. The Silence of the Lambs intercuts an FBI raid with a doorbell, then reveals the geography was wrong.",
+   "Inception alternates dream levels so one clock pressures another. Use the braid, not the blocking."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Montage (idea by collision) or Split Screen (both at once). The tell: the second line has no clock, or both lines are clearly the same hallway.",
+   "The fix: two geographies, implied simultaneity, a reveal if you are lying about the door."
+  ],
+  "faq": [
+   {
+    "q": "What is Cross-Cutting in film?",
+    "a": "Cross-cutting alternates locations or action lines, usually to imply they are simultaneous. Each side of the join is its own strand; the cut says meanwhile."
+   },
+   {
+    "q": "Cross-Cutting vs Montage",
+    "a": "Montage juxtaposes shots to compress time or produce an idea. Cross-cutting keeps two (or more) ongoing actions in play and braids them. One argues; the other races clocks."
+   },
+   {
+    "q": "When should I use Cross-Cutting?",
+    "a": "Use it when two lines must tick together: raid and doorbell, vow and murder, two escapes. Do not use it as a pile of unused singles from one room."
+   },
+   {
+    "q": "How do I prompt Cross-Cutting for AI image or video?",
+    "a": "Name both spaces and the race. Example: Cross-cutting between [Subject] and a simultaneous other line, two clocks racing. Keep the geographies distinct and the assumption of contact clear."
+   }
+  ]
+ },
+ {
+  "slug": "dissolve",
+  "title": "Dissolve",
+  "zh_title": "叠化",
+  "narrative": [
+   "A face thins. A landscape thickens through it.",
+   "Time has passed, or memory has, and the cut did not want to be a door slam. Dissolves are for passage, recollection, or the gentle death of a scene.",
+   "It is the wrong tool when the next image should hurt, or when the correspondence should snap. Hurt is a Smash Cut .",
+   "Snap-rhyme is a Match Cut or Graphic Match . If you hold the overlap as a meaning in itself, you are in Double Exposure territory, not a transition.",
+   "A dissolve does not automatically mean years have passed. Duration, sound, and context do that work.",
+   "A two-frame dissolve is just a soft cut."
+  ],
+  "how": [
+   "Mix A and B over time: typically a dozen frames to a few seconds. Keep a shared compositional hook if you want the overlap to read (a fan through a rotor, a face through a ceiling).",
+   "Decide whether sound dissolves with picture or bridges first. This is an optical or digital mix, not a camera move.",
+   "Prompt: dissolve from [Subject] into another time or place, overlapping ghosts, longer than a cut admits."
+  ],
+  "when": [
+   "Use it for memory, montage-like passage, or a scene that should die instead of stop. Do not use it to hide a bad match on action.",
+   "If the two sides should collide, cut hard."
+  ],
+  "vs": [
+   "A Fade In / Fade Out goes to a uniform field (black or color) so there is a moment with no scene. A dissolve never empties the frame; B is already there.",
+   "Double Exposure holds two images as a stacked meaning, not as a handoff. Morph warps contours; dissolve only changes opacity.",
+   "Wipe uses a traveling boundary instead of a mix."
+  ],
+  "examples_film": [
+   "Citizen Kane uses dissolves as time's grammar through a life. The Godfather lets faces and rooms bleed across turns of power.",
+   "Apocalypse Now layers hotel fan, jungle, and helicopter so picture and sound dissolve together. The 39 Steps bridges a scream into a train whistle, a sonic cousin of the mix.",
+   "Grammar of overlap, not a look to steal."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Fade In / Fade Out (empty field in the middle) or a morph . The tell: the frame goes to black, or A warps into B.",
+   "The fix: keep both pictures intact, change only opacity, let the midpoint show two readable images."
+  ],
+  "faq": [
+   {
+    "q": "What is Dissolve in film?",
+    "a": "A dissolve overlaps the outgoing shot with the incoming shot so both are visible for a duration. One side fades in presence while the other takes over; there is no empty field in between."
+   },
+   {
+    "q": "Dissolve vs Fade In / Fade Out",
+    "a": "A fade goes to or from a uniform black or color field, a pause with no scene. A dissolve hands one picture to another through a mix. Fade punctuates; dissolve bleeds."
+   },
+   {
+    "q": "When should I use Dissolve?",
+    "a": "Use it for memory, elapsed time, or a scene that should die softly. Do not use it when the next image should smash or when a hard graphic rhyme is the point."
+   },
+   {
+    "q": "How do I prompt Dissolve for AI image or video?",
+    "a": "Name both shots and the overlap. Example: Dissolve from [Subject] into another time or place, overlapping ghosts. Specify a mix, not a morph, and how long the ghosts share the frame."
+   }
+  ]
+ },
+ {
+  "slug": "fade",
+  "title": "Fade In / Fade Out",
+  "zh_title": "淡入淡出",
+  "narrative": [
+   "The room goes. Red remains, or black does, long enough to feel like a closed book.",
+   "Then another room is born from the same field. A fade is punctuation, not a mix of two stories.",
+   "Use it when a scene is a chapter, when consciousness drops, or when you want a pause the audience can rest in. It is the wrong tool for a gentle bleed between two images that should both stay present: that is a Dissolve .",
+   "It is also the wrong tool if you only want to point at a face inside a shrinking circle: that is an Iris . A fade does not automatically mean a long period has passed.",
+   "Sound that continues over black can mean a second of unconsciousness. Sound that dies with the picture can mean an ending."
+  ],
+  "how": [
+   "Reduce the picture to a field (or raise a picture out of one). Choose black for neutral chaptering, or a color (deep red, white) when the field itself should feel like a mood.",
+   "Coordinate whether sound survives the empty picture. Do not fill the room with fog or smoke to fake a fade; the image must leave, not get weather.",
+   "Prompt: fade to or from black around [Subject], chapter punctuation, sleep, death, or the start of a world."
+  ],
+  "when": [
+   "Use it to open a film, close an act, or mark a blackout of awareness. Do not use it between every scene in a contemporary dialogue piece unless you want a period cadence.",
+   "If two pictures should overlap, dissolve."
+  ],
+  "vs": [
+   "A Dissolve overlaps two scenes; a fade empties the frame first. An Iris is a moving mask that points at a detail while the rest goes black, not a full-field fade.",
+   "A Wipe keeps both pictures alive, divided by a traveling edge. Vignette is optical falloff on a living image, not a transition."
+  ],
+  "examples_film": [
+   "Cries and Whispers uses red fields as emotional punctuation between rooms and crises. 1917 uses a blackout to separate lapse and return of consciousness.",
+   "Classical studio films chapter with fades to black as a default. Borrow the pause, not a tint as a trademark."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dissolve (two pictures mixed) or fog as a fake fade. ' The fix: go to a uniform field, hold it, then let the next scene emerge.",
+   "No overlap, no weather."
+  ],
+  "faq": [
+   {
+    "q": "What is Fade In / Fade Out in film?",
+    "a": "A fade takes the image to or from a uniform black or color field. One side of the join is a scene; the other is absence, not another picture mixed on top."
+   },
+   {
+    "q": "Fade In / Fade Out vs Dissolve",
+    "a": "A dissolve overlaps two shots so both are visible at once. A fade inserts a field of black or color between worlds. Dissolve bleeds; fade punctuates."
+   },
+   {
+    "q": "When should I use Fade In / Fade Out?",
+    "a": "Use it for chapter breaks, openings, endings, sleep, or a loss of consciousness. Do not use it as a blend between two images that should share the frame."
+   },
+   {
+    "q": "How do I prompt Fade In / Fade Out for AI image or video?",
+    "a": "Name the subject and the field. Example: Fade to or from black around [Subject], chapter punctuation. Say whether sound continues over the empty field, and do not fake it with smoke."
+   }
+  ]
+ },
+ {
+  "slug": "flash-cut",
+  "title": "Flash Cut",
+  "zh_title": "闪切",
+  "narrative": [
+   "A face in a room. Three frames of a well, a tape, a child.",
+   "The room again. You cannot inventory what you saw, but it has already happened to you.",
+   "A thought that lasts three frames. Use it for intrusion: prophecy wearing the clothes of memory, a trauma tic, a subliminal threat.",
+   "It is the wrong tool when the other image should become the scene. That committed landing is a Crash Cut or Smash Cut .",
+   "A white frame that is only exposure is a Light Flash , not another picture. Keep the insert temporally honest enough that a later anchor can fix it.",
+   "Mystery is not the same as no clue."
+  ],
+  "how": [
+   "Hold the present shot. Insert 1 to 8 frames of a different image (often high contrast, closer, or from another time).",
+   "Return to the present, or chain flashes. Do not dissolve; the brevity is the grammar.",
+   "Picture may be silent or carry a tick of sound. Prompt: flash cut through [Subject], a few frames of another image interrupting, lightning in the edit."
+  ],
+  "when": [
+   "Use it when a mind is leaking another time, or when a threat should be unreadable but present. Do not use it as decoration on a trailer.",
+   "If the audience must read the insert, give it a shot, not a flash."
+  ],
+  "vs": [
+   "A Crash Cut stays with the new image. A Light Flash is a burst of light, not a second diegesis.",
+   "A Jump Cut skips time in a similar frame without inserting a foreign picture. Smash Cut commits to contrast as the new present.",
+   "Flash cut is an interrupt."
+  ],
+  "examples_film": [
+   "The Ring uses stolen frames as contamination. Natural Born Killers sprays interruptive images as a nervous system.",
+   "Arrival presents images that first read as memory and are later re-placed in time. Use the brevity and the later anchor, not a copied well."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Light Flash (no second image) or Crash Cut (the insert stays). The tell: a white blink, or a new scene that never returns to the present.",
+   "The fix: a countable handful of frames of a different picture, then the original scene, hard cuts."
+  ],
+  "faq": [
+   {
+    "q": "What is Flash Cut in film?",
+    "a": "A flash cut inserts a few frames of another image into an ongoing shot. One side is the present; the other is a blink of a different picture, too short to become the scene."
+   },
+   {
+    "q": "Flash Cut vs Crash Cut",
+    "a": "A crash cut lands in a new committed image. A flash cut interrupts and (usually) returns. Duration is the difference: a scene versus a handful of frames."
+   },
+   {
+    "q": "When should I use Flash Cut?",
+    "a": "Use it for a thought, a leak of another time, or a threat too brief to inventory. Do not use it when the other image needs to be read as the new present."
+   },
+   {
+    "q": "How do I prompt Flash Cut for AI image or video?",
+    "a": "Name the present shot, the insert, and the frame count. Example: Flash cut through [Subject], a few frames of another image interrupting. Hard cuts, no dissolve, then return."
+   }
+  ]
+ },
+ {
+  "slug": "fragments",
+  "title": "Fragments",
+  "zh_title": "碎片化剪辑",
+  "narrative": [
+   "You never get the master. You get a sleeve, a missed catch, a face, ceramic already on the floor, and one offscreen crash.",
+   "Do not give the whole. The viewer assembles the blow.",
+   "Use it to make an impact intense while withholding explicit depiction, or to show a night that will not assemble. It is the wrong tool when the audience must see a legal, continuous action.",
+   "It is also not just speed: Quick Cuts can show complete blows rapidly. Fragments hide the complete blow.",
+   "Fast shards alone do not guarantee clarity. Direction, causal order, and sound have to let the viewer reconstruct the event."
+  ],
+  "how": [
+   "Break the event into distinct visual elements that can be shot safely: the approaching object, a body part, a reaction, the aftermath. Preserve screen direction and order.",
+   "Bind with timing and sound; do not require the dangerous contact on camera. Prompt: fragments of [Subject], shattered coverage, pieces of a moment, the scene as shards.",
+   "Name what is missing."
+  ],
+  "when": [
+   "Use it for a shower, a staircase massacre built from details, a panic, a memory. Do not use it for a demonstration that must be readable as one take.",
+   "If the pieces cannot be ordered into a cause, you have a Collage , not an event."
+  ],
+  "vs": [
+   "Quick Cuts are a rate pattern and may show complete actions. Montage collides complete images for an idea or a month.",
+   "Collage is a paper or composite of pieces as a surface. Jump Cut holes one setup.",
+   "Fragments are incomplete views of one action whose whole is inferred."
+  ],
+  "examples_film": [
+   "Psycho constructs the shower from brief fragments, reactions, and sound rather than one continuous explicit view. Battleship Potemkin builds the Odessa Steps from details and reactions.",
+   "Requiem for a Dream and Memento use shards as a nervous or backward structure. Use inference, not a copied stab."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Quick Cuts of the same complete wide, or a Collage texture. The tell: a master already shows the whole, or the pieces have no direction.",
+   "The fix: withhold the complete contact, keep a causal line, let sound and order finish the blow in the viewer's head."
+  ],
+  "faq": [
+   {
+    "q": "What is Fragments in film?",
+    "a": "Fragmented editing constructs an event from partial views. Each side of a join is a shard; the audience infers an action more complete than any single shot."
+   },
+   {
+    "q": "Fragments vs Quick Cuts",
+    "a": "Quick cuts are short complete views in a rhythm. Fragments are incomplete views of one event. Speed is not the definition; withholding the whole is."
+   },
+   {
+    "q": "When should I use Fragments?",
+    "a": "Use it when the blow should be inferred: violence, panic, a night that will not assemble. Do not use it when a continuous demonstration is required."
+   },
+   {
+    "q": "How do I prompt Fragments for AI image or video?",
+    "a": "List the shards and what is missing. Example: Fragments of [Subject], shattered coverage, pieces of a moment. Keep causal order and a binding sound; forbid a complete master of the contact."
+   }
+  ]
+ },
+ {
+  "slug": "graphic-match",
+  "title": "Graphic Match",
+  "zh_title": "图形匹配",
+  "narrative": [
+   "You leave a drain, circular, centered. You arrive on an eye, circular, centered.",
+   "Nothing has been explained, but the cut has already made a bridge. The viewer feels the leap before anyone names it.",
+   "Use it when form should carry you across time or place. It is the wrong tool when the two frames do not share a contour you can point at.",
+   "Matching wardrobe or actor identity is not a graphic match. A graphic match is not a morph.",
+   "Similarity across a hard cut is enough. If the image melts, you have left editing and entered morph ."
+  ],
+  "how": [
+   "Design the outgoing and incoming frames together. Match the important contour and screen position rather than every part of the image: circle size, horizon height, the diagonal of a body.",
+   "Use a hard cut when the instant connection is the point. A short Dissolve can soften the rhyme, but it also hides how precise the match was.",
+   "Prompt the silhouette or the echoed shape on both sides, same placement, no morph."
+  ],
+  "when": [
+   "Use it when a silhouette, a circle, or a line should survive a jump in time: a watch face to a dome, a scream-mouth to a tunnel. Do not use it as wallpaper between unrelated wides.",
+   "If the contour does not match, the cut is just a cut."
+  ],
+  "vs": [
+   "A Match Cut may include a graphic rhyme, but it also claims an idea. Graphic match can be purely formal.",
+   "Match on Action continues one gesture in one scene. Dissolve overlaps two images in time instead of snapping form to form.",
+   "Morph interpolates; graphic match does not."
+  ],
+  "examples_film": [
+   "2001: A Space Odyssey throws a bone and finds a craft of similar attitude and screen path. Psycho leaves the shower drain and arrives on Marion's eye, two circles in one place.",
+   "Women on the Verge of a Nervous Breakdown uses compositional rhymes to connect successive images. Borrow the geometry, not the posters."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is morph or a lazy Match Cut that only repeats the actor. The tell: the model blends A into B, or the second frame does not occupy the same contour.",
+   "The fix: lock one shape and one placement, keep two different objects, cut hard."
+  ],
+  "faq": [
+   {
+    "q": "What is Graphic Match in film?",
+    "a": "A graphic match is a cut that connects images with similar shape, line, color, placement, or movement pattern. The two sides of the join can be different places and times; the shared form is the bridge."
+   },
+   {
+    "q": "Graphic Match vs Match Cut",
+    "a": "Graphic match is a form rhyme. Match cut is a correspondence that can include form but also idea, space, or sound. Many famous joins are both; the graphic match name is about the contour, not the thesis."
+   },
+   {
+    "q": "When should I use Graphic Match?",
+    "a": "Use it when form should carry the viewer across a leap in time or place. Do not use it when the two frames share no readable contour."
+   },
+   {
+    "q": "How do I prompt Graphic Match for AI image or video?",
+    "a": "Name the silhouette or shape on both sides and put it in the same screen place. Example: Graphic match on the silhouette of [Subject], circle to circle. Demand a hard cut and two distinct objects."
+   }
+  ]
+ },
+ {
+  "slug": "invisible-cut",
+  "title": "Invisible Cut",
+  "zh_title": "隐形剪辑",
+  "narrative": [
+   "A coat fills the lens. When it leaves, the room is later, or the body is gone, or the street has changed.",
+   "You needed a cut the audience must not feel. Stop-trick cinema did this with a locked camera and a substitution.",
+   "Contemporary oners do it with whips, walls, and stitches. Use it to simulate a long take, to vanish a person, or to change time inside an apparently continuous walk.",
+   "It is the wrong tool when the cut should be a sentence: a Match Cut , a Smash Cut , a Wipe . If you want the join seen, do not hide it.",
+   "The trick depends on spatial continuity around the substitution. A wandering unmatched camera exposes an unintended jump."
+  ],
+  "how": [
+   "Plan a hiding place: a passing body, a dark wall, a whip-pan blur, a matched doorway, a digital stitch on a texture. Lock exposure and lighting across plates if you are substituting.",
+   "For a stop trick, lock the camera, hold actors, change the object, splice on the occlusion. For an oner illusion, match motion blur and grain at the whip.",
+   "Prompt: invisible cut hidden in [Subject]'s whip, a dark wall, or a passing body, the oner illusion."
+  ],
+  "when": [
+   "Use it to extend a take through a theatre, a trench, a street, or to make a woman vanish from a chair. Do not use it to avoid writing a scene change.",
+   "If the geography actually transforms as you watch, that may be a Set Transition instead of a hidden splice."
+  ],
+  "vs": [
+   "A Oner is the long take you are faking or actually shooting. A Whip Pan can be the bandage over the splice.",
+   "Match on Action hides a cut in a readable gesture but still changes the view on purpose. Set Transition lets the location rewrite itself.",
+   "Morph is a visible interpolation, the opposite of invisible."
+  ],
+  "examples_film": [
+   "The Vanishing Lady substitutes a seated woman between frames. A Trip to the Moon pops Selenites out of existence.",
+   "Rope hides joins in dark foregrounds. 1917 and Birdman stitch walks so trenches and theatres feel continuous.",
+   "Spectre 's opening presents multiple spaces as one shot. Grammar of concealment, not a take to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a visible Whip Pan that never hides a join, or a morph . The tell: a pop in grain, a jump in crowd, a morphing wall.",
+   "The fix: a true occluder or blur that fills the frame, matched lighting, a hard splice inside that fill, continuous motion on both sides."
+  ],
+  "faq": [
+   {
+    "q": "What is Invisible Cut in film?",
+    "a": "An invisible cut hides the edit in motion, darkness, occlusion, blur, matching geometry, or stitching. Both sides of the join are meant to play as one continuous shot."
+   },
+   {
+    "q": "Invisible Cut vs Oner",
+    "a": "A oner is a long take. An invisible cut is how you fake or extend one: the splice sits inside a whip, a wall, or a passing body. One is the apparent shot; the other is the seam."
+   },
+   {
+    "q": "When should I use Invisible Cut?",
+    "a": "Use it when the audience must not feel the edit: a vanishing act, a stitched walk, a time jump inside a continuous-looking path. Do not use it when the join should speak."
+   },
+   {
+    "q": "How do I prompt Invisible Cut for AI image or video?",
+    "a": "Name the hiding place and both plates. Example: Invisible cut hidden in [Subject]'s whip, a dark wall, or a passing body. Demand matched lighting and no morph."
+   }
+  ]
+ },
+ {
+  "slug": "iris",
+  "title": "Iris",
+  "zh_title": "圈入圈出",
+  "narrative": [
+   "The hall is there. The circle tightens on a satisfied face, then opens a little to include the yawning cat on the piano, then shuts.",
+   "Silent comedy pointed with the mask itself. The iris is a wink and a chapter ending at once.",
+   "Use it to isolate a comic detail, imitate a viewing device, or close in an openly theatrical way. It is the wrong tool if you only want the image to die evenly: that is a Fade In / Fade Out .",
+   "It is also not a zoom into a dark tunnel. The camera can sit still while the mask moves.",
+   "An iris is a mask over the image, not a Vignette . Vignette is optical falloff on a living frame.",
+   "Iris is a boundary that travels until the picture is gone or born."
+  ],
+  "how": [
+   "Build the mask in post (or in-camera with an iris gimmick). Control center, shape, and timing.",
+   "Decide whether the circle follows a subject or stays fixed while action continues underneath. Iris-in opens from black; iris-out closes to black (or to a tiny remaining image).",
+   "Prompt: iris in or out on [Subject], a circular mask closing on a face or detail, silent-era pointing, or a wink."
+  ],
+  "when": [
+   "Use it to point at a ring, a glance, a gag, or to end a scene as theatre. Do not use it as a substitute for a push-in.",
+   "If the camera must physically approach, move the camera. If the world should fade as a whole, fade."
+  ],
+  "vs": [
+   "A Fade In / Fade Out empties the whole field evenly. A Wipe uses a traveling straight or clock edge, not a hole from a center.",
+   "Vignette darkens corners without being a transition. A zoom changes focal length; the iris does not.",
+   "Match Cut joins two full frames; iris withholds the frame on purpose."
+  ],
+  "examples_film": [
+   "Neighbors uses a circular reveal to change the apparent scale and circumstances of a wedding. The Artist borrows silent-era punctuation, including iris-like framing, as a period grammar.",
+   "Silent comedy at large treated the iris as a pointing finger. Use the mask logic, not a pastiche overlay on every close-up."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a zoom, a Fade In / Fade Out , or a heavy Vignette . The tell: the camera pushes in, or the whole frame dims evenly, or corners are just dark.",
+   "The fix: keep the camera still, animate a circular mask with a chosen center, let the unmasked picture stay at full exposure."
+  ],
+  "faq": [
+   {
+    "q": "What is Iris in film?",
+    "a": "An iris is a moving circular or shaped mask that reveals or conceals part of the image. One side of the join is the open picture; the other is a pointing hole, often closing to black."
+   },
+   {
+    "q": "Iris vs Fade In / Fade Out",
+    "a": "A fade takes the entire image to a uniform field. An iris keeps a chosen center visible while the mask closes or opens. Fade is a chapter; iris is a finger."
+   },
+   {
+    "q": "When should I use Iris?",
+    "a": "Use it to point at a detail, end a gag, or quote silent-era punctuation. Do not use it when you mean a zoom or an even fade to black."
+   },
+   {
+    "q": "How do I prompt Iris for AI image or video?",
+    "a": "Name the subject and the mask. Example: Iris in or out on [Subject], a circular mask closing on a face or detail. Specify center and direction (in or out), and say it is a mask, not a zoom."
+   }
+  ]
+ },
+ {
+  "slug": "jump-cut",
+  "title": "Jump Cut",
+  "zh_title": "跳切",
+  "narrative": [
+   "The car is the same. The road is the same.",
+   "The speaker has jumped three sentences and a mile. You are not soothed.",
+   "The film has shown the skip. Use it for impatience, instability, comic abbreviation, or an openly constructed voice.",
+   "It is the wrong tool when you want invisible continuity. If the two frames are very different in size or angle, the skip hides and you have ordinary coverage, not a jump cut.",
+   "A jump cut is not simply any fast cut. The visible break within a similar setup is the whole point."
+  ],
+  "how": [
+   "Remove intervals from one setup, or join closely related views of the same subject. Keep enough of the composition (lens, angle, body size) that the jump is obvious.",
+   "Decide whether sound smooths the skip (a continuous line) or emphasizes it (hard in and out). Prompt: time skipped inside a similar framing, same seat, missing frames, no morph."
+  ],
+  "when": [
+   "Use it in a wait, a rambling talk, a comedown, a drive that should feel too long and too short at once. Do not use it as a substitute for coverage you did not shoot.",
+   "If the audience should not notice the edit, use Match on Action or an Invisible Cut ."
+  ],
+  "vs": [
+   "A Smash Cut slams into a violently different image. A jump cut stays inside a similar frame and skips time.",
+   "Montage juxtaposes many shots to compress or argue; jump cut is usually one setup with holes. An Axial Cut jumps distance on the same axis as emphasis, not as missing time.",
+   "Quick Cuts are short shots from changing setups, a rhythm, not a skip inside one frame."
+  ],
+  "examples_film": [
+   "Breathless lets car rides and talks skip forward inside similar framings, which is the modern template. Dancer in the Dark uses discontinuous cutting to disrupt smooth observation.",
+   "Requiem for a Dream turns repeated rituals into jumps that feel like appetite. Grammar, not a look to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Quick Cuts or random coverage labeled as a jump. The tell: every shot is a new angle, so nothing jumps.",
+   "Or the model morphs the sitter from pose to pose. The fix: keep the framing nearly constant, remove time, let the discontinuity show."
+  ],
+  "faq": [
+   {
+    "q": "What is Jump Cut in film?",
+    "a": "A jump cut removes time while leaving enough similarity of framing or subject that the break is obvious. Both sides of the join look like the same shot with a hole in it."
+   },
+   {
+    "q": "Jump Cut vs Smash Cut",
+    "a": "A jump cut skips time inside a similar setup. A smash cut leaves that setup for a violently different image, sound, or scale. One shows a hole; the other shows a collision."
+   },
+   {
+    "q": "When should I use Jump Cut?",
+    "a": "Use it when the skip itself is the meaning: wait, nerves, comic speed, a narrator who will not pretend the cut is invisible. Do not use it to hide missing coverage."
+   },
+   {
+    "q": "How do I prompt Jump Cut for AI image or video?",
+    "a": "Keep one framing and skip time inside it. Example: Jump cut on [Subject], time skipped inside a similar framing. Name what changes between jumps and forbid morphing."
+   }
+  ]
+ },
+ {
+  "slug": "l-cut-visual",
+  "title": "J-Cut / L-Cut (Visual Setup)",
+  "zh_title": "声画错位剪辑",
+  "narrative": [
+   "We hear the next room before we see it (J-cut): the picture stays on the walker, the voice has already arrived. Or we see the listener while the speaker's words continue (L-cut): the face is the bridge.",
+   "Sound will lead or lag. The face is the bridge.",
+   "Use it when picture and track should not cut on the same frame, so thought can cross a doorway. It is the wrong tool when you need both rooms visible at once ( Split Screen ) or when you only need a mute reaction insert with no overlapping track.",
+   "Randomly mismatched music is not automatically meaningful counterpoint. Define what the lag reveals: dread, irony, a voice that will not let the face go."
+  ],
+  "how": [
+   "On the timeline, a J-cut lets incoming audio start under the outgoing picture. An L-cut lets outgoing audio continue under the incoming picture.",
+   "The visual setup is a shot that can bear that overlap: a Reaction Shot , a walk toward a door, an empty office. Keep the sound's source clear enough that the overlap is information, not muddle.",
+   "Prompt: a frame of [Subject] designed as the picture half of an L-cut or J-cut, reaction holding while another space is already speaking."
+  ],
+  "when": [
+   "Use it to enter a conversation before the room, to stay on a listener after a confession, to let a song continue over a packing scene it does not belong to. Do not use it as default dialogue cutting if both faces should share the same on-camera words.",
+   "If you need meanwhile geography, Cross-Cutting ."
+  ],
+  "vs": [
+   "A Reaction Shot is the picture; J-cut and L-cut are how that picture meets sound. Cross-Cutting alternates whole lines.",
+   "A smash in sound on a picture cut is closer to Smash Cut . Counterpoint (cheerful music on a cruel image) can ride an L-cut, but the technique here is the staggered splice, not the playlist."
+  ],
+  "examples_film": [
+   "The Social Network and Heat keep speech living over listeners' faces so thought continues across the join. The Conversation makes incoming sound a threat before the picture explains it.",
+   "Yi Yi lets piano arrive before its source is located. A Clockwork Orange and Reservoir Dogs place cheerful tracks against behavior the picture will not bless.",
+   "Use the stagger, not the needle-drop."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a mute Reaction Shot with picture and sound cutting together, or a Cross-Cutting that never overlaps track. The tell: lips in the new room are already talking in sync at the picture cut, with no pre-lap.",
+   "The fix: hold the first picture while the second track starts, or hold the first track after the picture has moved."
+  ],
+  "faq": [
+   {
+    "q": "What is J-Cut / L-Cut (Visual Setup) in film?",
+    "a": "A J-cut starts the next shot's sound before its picture; an L-cut keeps the last shot's sound after the picture has changed. The visual setup is a frame that can hold while the other space speaks."
+   },
+   {
+    "q": "J-Cut / L-Cut vs Reaction Shot",
+    "a": "A reaction shot is a picture of listening. J-cut and L-cut are how that picture is joined to another space's sound. You can have a reaction with a straight cut; the J/L is the stagger."
+   },
+   {
+    "q": "When should I use J-Cut / L-Cut (Visual Setup)?",
+    "a": "Use it when sound should lead a scene in, or linger after we have left. Do not use it if picture and track must hit together as a smash."
+   },
+   {
+    "q": "How do I prompt J-Cut / L-Cut (Visual Setup) for AI image or video?",
+    "a": "Describe a face or room that can hold offscreen voice. Example: A frame of [Subject] as the picture half of an L-cut or J-cut, reaction holding while another space is already speaking. For video, say which track pre-laps."
+   }
+  ]
+ },
+ {
+  "slug": "match-action",
+  "title": "Match on Action",
+  "zh_title": "动作匹配剪辑",
+  "narrative": [
+   "A hand reaches for a handle in a wide. In the close shot the same hand, same speed, same sleeve, finishes the turn.",
+   "The viewer follows the reach instead of inspecting the splice. That is the job: hide the cut in a movement.",
+   "It is the wrong tool when the action is not continuous, or when you want the skip to be seen. Skipping time inside a similar frame is a Jump Cut .",
+   "Jumping closer on the same axis without a bridging gesture is an Axial Cut . If hands swap, travel reverses, or too much of the motion is repeated on both sides, the glue fails and the cut becomes visible for the wrong reason."
+  ],
+  "how": [
+   "Repeat the action with matching speed, hand, object position, and body orientation. Cut at a readable phase of motion, usually the acceleration or the midpoint, not after the gesture has already landed.",
+   "Check screen direction and sound continuity across the join. The two sides are the same event, different views.",
+   "Prompt: the motion started in one shot and finished in the next, same hand, same object, two framings."
+  ],
+  "when": [
+   "Use it to change shot size or angle on a door, a punch, a sit-down, a pour. Do not use it to leap to another day or another room.",
+   "If the world changes while the vector continues, that is Match Motion , not match on action."
+  ],
+  "vs": [
+   "A Match Cut rhymes two different images. Match on action is one action, two views.",
+   "An Axial Cut jumps distance on the same axis and does not need a bridging gesture. Match Motion can carry a body into another location or reality if direction and speed match.",
+   "Invisible Cut hides the splice in occlusion or blur, not in a readable gesture."
+  ],
+  "examples_film": [
+   "Buster Keaton's Neighbors connects courtyard movement across changing views so the body remains the through-line. The Matrix links action across changing shot sizes and viewpoints while the gesture continues.",
+   "Classical continuity comedy and action both depend on this glue. Use the principle, not a copied punch."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Jump Cut (time skipped, similar frame) or an Axial Cut (scale jump, no bridging move). The tell: the close shot uses the other hand, the walk flips screen direction, or the gesture completes twice.",
+   "The fix: match hand, speed, object, orientation; cut during the move, not after."
+  ],
+  "faq": [
+   {
+    "q": "What is Match on Action in film?",
+    "a": "Match on action is a cut made during one continuous gesture so movement bridges two camera positions. One side starts the action; the other side finishes it."
+   },
+   {
+    "q": "Match on Action vs Match Cut",
+    "a": "Match on action stays inside one event and hides a change of view. A match cut joins two different images that correspond in form, space, sound, or idea."
+   },
+   {
+    "q": "When should I use Match on Action?",
+    "a": "Use it when you need a new size or angle on the same ongoing move: a door, a hit, a sit. Do not use it to skip time or change location."
+   },
+   {
+    "q": "How do I prompt Match on Action for AI image or video?",
+    "a": "Describe a gesture started in one framing and finished in the next. Name the hand, the object, and the cut during motion. Example: Match on action through [Subject]'s gesture, continuity glue."
+   }
+  ]
+ },
+ {
+  "slug": "match-cut",
+  "title": "Match Cut",
+  "zh_title": "匹配剪辑",
+  "narrative": [
+   "One side of the join is complete. The other side is complete.",
+   "What they share is the point: a bone leaving a hand, then a craft in the same screen path; a match blown out, then a sun the same size in the frame. The splice is the sentence.",
+   "Use it when two images are the same idea and you want that idea to land in one frame of time. It is the wrong tool when you only need a new camera position on the same gesture: that job belongs to match on action , and forcing a rhyme will feel like decoration.",
+   "If the second image does not change what the first one meant, skip the trick. A contour rhyme with no conceptual load is a graphic match wearing a bigger name."
+  ],
+  "how": [
+   "Design both frames as a pair before either is shot. Match the dominant contour, screen position, motion vector, or sonic envelope, then cut hard.",
+   "There is no optical mix: A is 100 percent, then B is 100 percent, and the correspondence is what the viewer supplies in the gap. Keep the shared property honest.",
+   "A door that sticks in the first shot must stick for the same mechanical reason later. Prompt both sides: name the outgoing object, the incoming object, the shared geometry or motion, and a hard cut, not a morph."
+  ],
+  "when": [
+   "Use it at the leap: tool to tool, flame to sun, a planted object returning with a new meaning. Do not use it as a pretty way to leave a room.",
+   "If the next shot is only the next room, a straight cut or a Dissolve is cleaner."
+  ],
+  "vs": [
+   "A graphic match rhymes form (shape, line, color, placement) even when the idea is thin. A match cut can use that rhyme, but it needs a correspondence of meaning, space, or sound as well.",
+   "Match on action stays inside one continuous gesture and hides the camera change. Match Motion rides a vector into another place or time.",
+   "Morph interpolates pixels; a match cut does not."
+  ],
+  "examples_film": [
+   "In 2001: A Space Odyssey the thrown bone is followed by an orbiting craft on a related path, tool to tool across eras. In Lawrence of Arabia a blown match is followed by the desert sun at matching scale.",
+   "Apocalypse Now binds ceiling fan and helicopter so the two rotors share a thought. Use those joins as grammar, not as frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a morph or a graphic match with nothing to say. The tell is identical subject identity with no shared geometry, or a liquid melt from A into B.",
+   "The fix: lock the shared contour, placement, or motion; keep the two objects distinct; cut hard."
+  ],
+  "faq": [
+   {
+    "q": "What is Match Cut in film?",
+    "a": "A match cut is an edit that connects two complete shots through a visual, spatial, sonic, or conceptual correspondence. Both sides of the join are readable on their own; the splice is what claims they belong together."
+   },
+   {
+    "q": "Match Cut vs Graphic Match",
+    "a": "A graphic match is a form rhyme: silhouette, circle, line, or color in the same screen place. A match cut may use that rhyme, but it also carries an idea, a space, or a sound from one side of the join to the other."
+   },
+   {
+    "q": "When should I use Match Cut?",
+    "a": "Use it when two images are the same thought and the cut should make that thought visible. Do not use it to paper over a missing camera position on one action."
+   },
+   {
+    "q": "How do I prompt Match Cut for AI image or video?",
+    "a": "Describe shot A, shot B, the shared shape or motion, and a hard cut. Example: Match cut from [Subject] to a rhyming shape in another time, bone to station. Say no morph and no dissolve."
+   }
+  ]
+ },
+ {
+  "slug": "match-motion",
+  "title": "Match Motion",
+  "zh_title": "运动匹配剪辑",
+  "narrative": [
+   "A fall toward a mattress becomes a fall toward grass. A dive into a pool completes as a lunge onto a bed.",
+   "Hide the cut inside a vector. The body is the continuity; the room is allowed to lie.",
+   "Use it to carry someone through an impossible transition: dream to street, train to meadow, one chase into another. It is the wrong tool when you are still in the same room and only changing cameras on one gesture: that is Match on Action .",
+   "Matching only the actor's face, with no shared phase of motion, will not hide the leap. A whip can supply the blur that sells the vector ( Whip Pan ), but the match is the body's direction and speed, not the smear alone."
+  ],
+  "how": [
+   "Match pose, screen position, camera angle, motion direction, and speed at the cut. Plan the two shots as a pair (or a shared rig).",
+   "Cut at a readable phase: mid-fall, mid-turn, mid-stride. The outgoing world and the incoming world can disagree; the vector must not.",
+   "Prompt: match-motion cut on [Subject], direction and speed continuing across the join so the cut rides the movement."
+  ],
+  "when": [
+   "Use it to leave a dream, to stitch a chase across towns, to let a dance continue in another decade. Do not use it as ordinary coverage inside one hallway.",
+   "If the action is the same event, match on action. If only the contour matches and the body is still, use a Graphic Match or Match Cut ."
+  ],
+  "vs": [
+   "Match on Action is one continuous event, two views, same world. Match-motion can change the world if the vector holds.",
+   "A Whip Pan hides a cut in camera blur; match-motion hides it in subject motion (they can combine). A Match Cut may be still.",
+   "Invisible Cut conceals a splice in occlusion; the motion match is a visible, readable continuation."
+  ],
+  "examples_film": [
+   "The Graduate connects pool and bedroom through Benjamin's movement so the body finishes what the water started. Paprika carries gestures between incompatible dream spaces.",
+   "Baby Driver rides motion from music and cars across joins. Lawrence of Arabia 's match-to-sun is more a still match cut; use it only if you are matching a rising gesture, not just a circle.",
+   "Borrow the vector, not the wardrobe."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Match on Action (same room) or a Match Cut of two stills. The tell: the walk resets, speed changes, or the subject is static on both sides.",
+   "The fix: match phase, direction, and speed; let geography jump; cut during the move."
+  ],
+  "faq": [
+   {
+    "q": "What is Match Motion in film?",
+    "a": "A match-motion cut continues direction and speed across the edit so the splice rides a vector. One side starts the movement; the other keeps it, even if place or reality changes."
+   },
+   {
+    "q": "Match Motion vs Match on Action",
+    "a": "Match on action hides a camera change inside one continuous event in one world. Match motion can carry that event's vector into another location, time, or dream."
+   },
+   {
+    "q": "When should I use Match Motion?",
+    "a": "Use it when a body should tow the viewer through an impossible change of world. Do not use it for ordinary coverage of one gesture in one room."
+   },
+   {
+    "q": "How do I prompt Match Motion for AI image or video?",
+    "a": "Describe the same direction and speed on both sides, and name the world change. Example: Match-motion cut on [Subject], direction and speed continuing across the join. Hard cut, matched pose, no morph."
+   }
+  ]
+ },
+ {
+  "slug": "match-split",
+  "title": "Match Split",
+  "zh_title": "匹配分割",
+  "narrative": [
+   "A table edge runs from a 1960s kitchen into a present-day diner. A face is halved: left is the party you imagined, right is the party you got.",
+   "One line, two worlds. Use it when a split should feel like one organism rather than two televisions.",
+   "It is the wrong tool when the panes have no shared contour and are only simultaneous: that is ordinary Split Screen . It is also the wrong tool when you cut from one full frame to another rhyming full frame: that is a Match Cut or Graphic Match .",
+   "The divide is not a scratch. It is a designed seam that the eye can follow."
+  ],
+  "how": [
+   "Compose both halves so a line, eyeline, horizon, or motion vector continues across the boundary. Match scale of heads if two versions of one person share a couch.",
+   "Keep lighting motivated per world unless the gag is that light also matches. Prompt: match split of [Subject], a graphic divide that continues a line or motion into another space."
+  ],
+  "when": [
+   "Use it for twins, double lives, expectation versus reality, a road that is two times of day. Do not use it if the two spaces should not touch graphically.",
+   "If you need a phone call with frankly separate rooms, a clean split is enough."
+  ],
+  "vs": [
+   "Split Screen co-presents; match split is a split whose form rhymes or continues. A Match Cut replaces one full image with another.",
+   "Frame within Frame is a window in the set. Graphic Match happens across a hard cut in time, not across a simultaneous seam."
+  ],
+  "examples_film": [
+   "The Parent Trap seats two versions of one girl in a shared graphic so the split is a relationship. (500) Days of Summer divides a party into expectation and reality along a readable seam.",
+   "Use the continued line, not the plot."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a generic Split Screen with unmatched eyelines, or a Match Cut in sequence. The tell: two stacked clips with no shared line, or a cut instead of a co-present seam.",
+   "The fix: design the divide, continue one contour, hold both worlds at once."
+  ],
+  "faq": [
+   {
+    "q": "What is Match Split in film?",
+    "a": "A match split is a divided frame where a line, motion, or contour continues from one world into the other. Both sides of the join are visible together and graphically related."
+   },
+   {
+    "q": "Match Split vs Split Screen",
+    "a": "Split screen shows two fields at once. Match split is a split that rhymes or continues a line across the seam. All match splits are splits; not all splits match."
+   },
+   {
+    "q": "When should I use Match Split?",
+    "a": "Use it when one contour should belong to two worlds at the same time. Do not use it for a simple phone-call panel with no shared geometry."
+   },
+   {
+    "q": "How do I prompt Match Split for AI image or video?",
+    "a": "Name the continued line and both halves. Example: Match split of [Subject], a graphic divide that continues a line or motion into another space. Simultaneous panes, no morph."
+   }
+  ]
+ },
+ {
+  "slug": "montage",
+  "title": "Montage",
+  "zh_title": "蒙太奇",
+  "narrative": [
+   "Workers, then a slaughterhouse. The cut is an argument.",
+   "Or: sweat, rope, steps, a breath, the same stairs later, a body that can now climb. Time has collapsed, and the sequence did the climbing.",
+   "Use it when you need months in a minute, or an idea neither image holds alone. It is the wrong tool when two ongoing actions must remain simultaneously alive: that is Cross-Cutting .",
+   "It is the wrong tool when you only want to skip a few seconds in one setup: that is a Jump Cut . An evocative analogy is not factual proof.",
+   "Do not let the sequence imply unsupported real-world causation."
+  ],
+  "how": [
+   "State the intended inference or the time curve first. Choose images whose relation is legible: matching geometry for analogy, progressive sizes or sweat for training, repeated rituals for addiction.",
+   "Control duration as a metric (shortening toward a peak, or a held pause as payoff). Prompt: montage sequence built around [Subject], time collapsed by images, training, travel, or a life in twenty shots."
+  ],
+  "when": [
+   "Use it for training, a marriage dying over breakfasts, a city arriving, an essay of images. Do not use it to cover a scene you could have played in continuity.",
+   "If the audience must follow one fight blow by blow, shoot the fight."
+  ],
+  "vs": [
+   "Cross-Cutting braids parallel actions that continue. Montage often finishes each shot as a unit in an argument or a time-lapse of life.",
+   "Jump Cut holes out one setup. Fragments withhold a complete view of one event; montage may show complete views whose collision is the event.",
+   "Quick Cuts are a duration pattern; they become montage when the order makes a claim."
+  ],
+  "examples_film": [
+   "Rocky and The Karate Kid compress training into progressive labor. Strike and October collide images into political argument.",
+   "Citizen Kane breakfasts a marriage down to silence. Up condenses a life into selected moments.",
+   "Steal the function (compress, argue), not the needle-drops."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Quick Cuts with no claim, or a single moving camera. The tell: twenty angles of the same five seconds, or a morphing collage.",
+   "The fix: pick an inference or a time span, choose distinct images, cut on order, let the join do the work."
+  ],
+  "faq": [
+   {
+    "q": "What is Montage in film?",
+    "a": "Montage is meaning or compression made by the order of shots. Each side of a join is a picture; the idea appears in the juxtaposition, not in either image alone."
+   },
+   {
+    "q": "Montage vs Cross-Cutting",
+    "a": "Cross-cutting keeps two action lines running in implied simultaneity. Montage compresses duration or collides images to make a claim. One races clocks; the other builds an argument or a month."
+   },
+   {
+    "q": "When should I use Montage?",
+    "a": "Use it when you need months in a minute, or an idea that only exists between images. Do not use it as a pile of unused coverage from one scene."
+   },
+   {
+    "q": "How do I prompt Montage for AI image or video?",
+    "a": "List the shots and the claim. Example: Montage sequence built around [Subject], time collapsed by images, training, travel, or a life in twenty shots. Specify order, not a single moving take."
+   }
+  ]
+ },
+ {
+  "slug": "quick-cuts",
+  "title": "Quick Cuts",
+  "zh_title": "快切",
+  "narrative": [
+   "Eyes, hands, a kit, a face, the room, the stick, faster. You feel a release coming before the last hit lands.",
+   "Pace is the meaning. A sudden hold in that pattern can be the climax.",
+   "Use it when acceleration or a metric pulse should do narrative work: a showdown tightening from bodies to eyes, a raid, a practice that becomes punishment. It is the wrong tool when the similar frame is losing time: that is a Jump Cut .",
+   "It is the wrong tool when you are withholding the complete event in shards: that is Fragments . Faster is not always more tense.",
+   "Contrast between acceleration and a held pause often carries the payoff."
+  ],
+  "how": [
+   "Design a duration curve and a progression of shot sizes. Alternate angles enough that each cut is a new view, not a hole in one view.",
+   "Use musical or physical accents selectively; not every splice must land on a beat. Prompt: quick cuts around [Subject], shots shorter than a breath, rhythm as violence or music."
+  ],
+  "when": [
+   "Use it to tighten a duel, a performance, a chase through hands and gauges. Do not use it on a conversation that needs air.",
+   "If the pattern never rests, the last hit has nowhere to land."
+  ],
+  "vs": [
+   "A Jump Cut is a skip inside a similar setup. A Crash Cut is one brutal join.",
+   "Montage may use short shots, but montage's job is collision of meaning or collapsed months; quick cuts' job is rate. Fragments hide the whole action; quick cuts often show the action in many complete, brief views."
+  ],
+  "examples_film": [
+   "The Good, the Bad and the Ugly tightens the three-way showdown from bodies and positions toward faces and eyes. Whiplash binds image duration to pressure and rhythm.",
+   "Mad Max: Fury Road and Requiem for a Dream use short shots as pulse. Steal the curve, not the coverage plan."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Jump Cut (same frame, missing time) or chaos with no curve. The tell: every shot is the same length and size, or the camera never changes axis.",
+   "The fix: new views, shortening (or a designed break), a last image that can resolve the pulse."
+  ],
+  "faq": [
+   {
+    "q": "What is Quick Cuts in film?",
+    "a": "Quick cuts are a run of very short shots from changing setups, so duration becomes rhythm. Each side of a join is a new view; the rate is the meaning."
+   },
+   {
+    "q": "Quick Cuts vs Jump Cut",
+    "a": "A jump cut skips time inside a similar framing. Quick cuts change angle, size, or subject every breath. One is a hole in a setup; the other is a metric pattern."
+   },
+   {
+    "q": "When should I use Quick Cuts?",
+    "a": "Use it when pace should tighten a duel, a performance, or a chase. Do not use it as default coverage, and do not confuse it with a jump inside one frame."
+   },
+   {
+    "q": "How do I prompt Quick Cuts for AI image or video?",
+    "a": "Ask for many short, distinct shots and a duration curve. Example: Quick cuts around [Subject], shots shorter than a breath, rhythm as violence or music. Name the progression of sizes."
+   }
+  ]
+ },
+ {
+  "slug": "set-transition",
+  "title": "Set Transition",
+  "zh_title": "场景转换",
+  "narrative": [
+   "A dressing room wall slides and you are in a nightclub. A theatre door is a street.",
+   "Geography itself edits. The subject may not have cut; the world did.",
+   "Use it when the story's spaces are porous: backstage as mind, city as stage, a lobby that rewrites under fire. It is the wrong tool when you only need to hide a splice in a whip: that is an Invisible Cut .",
+   "It is the wrong tool when A melts into B as a picture: that is Morphing . If the camera passes through a wall into another place as a portal gag, you are next to Pass Through .",
+   "Set transition is the room changing around the body."
+  ],
+  "how": [
+   "Build two (or more) complete spaces that can physically or digitally replace each other on a continuous move: sliding flats, revolving walls, a stitch on a doorway, a digital set extension that rewrites. Keep lighting motivated as the space changes, or let the lights change as part of the trick.",
+   "Prompt: set transition around [Subject], the location transforming in camera, walls walking, one space becoming another. Motion brief: the set around [Subject] transforms into a new location without a hard cut."
+  ],
+  "when": [
+   "Use it to walk from rehearsal into performance, from memory into a street, from one building into another without admitting an edit. Do not use it if a hard cut or a wipe would tell the truth faster.",
+   "Virtuosity with nothing new in the second space is empty."
+  ],
+  "vs": [
+   "An Invisible Cut conceals a splice; the set may stay the same. A Pass Through drives the camera through a surface into another space.",
+   "Morphing interpolates the image. A set transition rewrites architecture along a continuous path, theatrical or digital.",
+   "Match Motion can change worlds on a body vector without the walls walking."
+  ],
+  "examples_film": [
+   "Birdman lets theatre and city feel like one porous set. 1917 hides joins so trenches, ruins, and fields play as continuous geography.",
+   "The Matrix lobby rewrites a space through action and spatial continuity. Use the porous building, not a copied tracking path."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Morphing the actor, or a visible cut in a doorway. The tell: the person melts, or there is a pop at the threshold.",
+   "The fix: keep the body continuous, let walls or set extension rewrite, hide or omit the splice, match lighting across the change."
+  ],
+  "faq": [
+   {
+    "q": "What is Set Transition in film?",
+    "a": "A set transition changes location in camera as architecture rewrites around the subject. Both sides of the join are places on one continuous path, not two shots with a hard cut."
+   },
+   {
+    "q": "Set Transition vs Invisible Cut",
+    "a": "An invisible cut hides an edit; the set might not change. A set transition makes geography the edit: walls walk, rooms become other rooms. One conceals a splice; the other rewrites space."
+   },
+   {
+    "q": "When should I use Set Transition?",
+    "a": "Use it when spaces should feel porous and the camera should not admit a cut. Do not use it as a flex when a straight scene change would be clearer."
+   },
+   {
+    "q": "How do I prompt Set Transition for AI image or video?",
+    "a": "Name both locations and a continuous camera. Example: Set transition around [Subject], walls walking, one space becoming another. Video: the set transforms without a hard cut. Keep the body stable."
+   }
+  ]
+ },
+ {
+  "slug": "smash-cut",
+  "title": "Smash Cut",
+  "zh_title": "硬切",
+  "narrative": [
+   "A night walk tightens. A bus door hisses into the frame.",
+   "The scare was a vehicle, not a monster, and the cut is the joke and the slap at once. Or: a grave visit settles, then a hand breaks the earth.",
+   "The next image should hurt. Use it when contrast is the meaning.",
+   "It is the wrong tool when the two sides are similar, or when you still need the audience inside one continuous action. Similar frames with missing time are a Jump Cut .",
+   "A few stolen frames of another image are a Flash Cut . Earn the first state.",
+   "A smash from nowhere, with no quiet or no prayer, is only loud."
+  ],
+  "how": [
+   "Hold A long enough to establish tone, scale, or apparent closure. Cut to B with a large change in brightness, loudness, shot size, or subject class: silence to noise, interior to blast, hymn to murder.",
+   "No dissolve, no fade, no matched contour unless the match is itself the insult. Coordinate picture and sound so they smash together, or delay the sound for a second smash (the blast seen, then heard).",
+   "Prompt: from [Subject] to a violently different image, no polite dissolve."
+  ],
+  "when": [
+   "Use it at the false ending, the bus in the dark, the cut from a kiss to a siren. Do not use it on every scene change.",
+   "If nothing in A was quiet, sacred, or resolved, B has nothing to smash."
+  ],
+  "vs": [
+   "A Jump Cut stays in a similar frame and skips time. A Crash Cut is a hard collision used as percussion or as a start inside an event; smash cut is contrast after a state has been earned.",
+   "A Match Cut rhymes; smash cut usually refuses the rhyme. Cross-Cutting alternates lines over time; smash is one brutal join."
+  ],
+  "examples_film": [
+   "Cat People uses the bus to interrupt a tense walk: the cut is the scare and its release. Carrie lets the aftermath settle, then destabilizes the coda.",
+   "Whiplash smashes quiet into the kit. Oppenheimer lets the Trinity flash arrive before the blast sound.",
+   "Contrast as grammar, not a shot to duplicate."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dissolve (polite) or a Jump Cut (same setup). The tell: A and B have similar brightness, scale, and tone, so nothing smashes.",
+   "The fix: earn a state on A, change at least two axes (sound and scale, or tone and time) on B, cut hard."
+  ],
+  "faq": [
+   {
+    "q": "What is Smash Cut in film?",
+    "a": "A smash cut is an abrupt, high-contrast join in image, sound, tone, scale, or time. One side of the splice has a state; the other side breaks it without a blend."
+   },
+   {
+    "q": "Smash Cut vs Jump Cut",
+    "a": "A jump cut skips time inside a similar framing. A smash cut leaves that world for a violently different one. Similarity is the jump cut's tell; contrast is the smash cut's tell."
+   },
+   {
+    "q": "When should I use Smash Cut?",
+    "a": "Use it when the next image should hurt after quiet, prayer, or false closure. Do not use it as a default scene change."
+   },
+   {
+    "q": "How do I prompt Smash Cut for AI image or video?",
+    "a": "Name the earned state and the contradicting image. Example: Smash cut from [Subject] to a violently different image, silence to noise, no dissolve. Hold A, then hard-cut to B."
+   }
+  ]
+ },
+ {
+  "slug": "split-screen",
+  "title": "Split Screen",
+  "zh_title": "分屏",
+  "narrative": [
+   "A phone call places two apartments in one picture. A party splits into the night you wanted and the night you got.",
+   "Dual identity, dual time, or dual witness: the pane is the grammar. Use it when two rooms must be one moment, or when comparison is the joke.",
+   "It is the wrong tool when the audience should assume contact and then be wrong: that surprise is often better as Cross-Cutting . It is also not a window, doorway, or mirror inside the set.",
+   "That is Frame within Frame , a diegetic frame, not a panel. Replaying an event from another angle does not automatically make the accounts unreliable.",
+   "Split screen can show agreement as easily as a lie."
+  ],
+  "how": [
+   "Shoot or generate each pane with matched eye-lines, horizon, or motion if you want the split to feel like one organism (a Match Split ). Or keep the panes frankly separate for a phone call.",
+   "Decide the boundary: hard vertical, architectural, torn. Keep identity stable unless the point is two versions of one person.",
+   "Prompt: split screen with [Subject] in one pane and another life in the other, simultaneous spaces, phone-call cinema or dual identity."
+  ],
+  "when": [
+   "Use it for simultaneous phone calls, twins, expectation versus reality, four quadrants of one hour. Do not use it as wallpaper on a single conversation that wants ordinary coverage.",
+   "If you need the second room later, cut later."
+  ],
+  "vs": [
+   "Cross-Cutting alternates; split screen co-presents. Frame within Frame is a picture found in the world (a window, a phone, a doorway).",
+   "Match Split is a split whose dividing line or contour continues from one world into the other. Montage sequences images; split screen stacks them now."
+  ],
+  "examples_film": [
+   "Pillow Talk and other studio comedies park two ends of a phone call in one frame. Timecode runs four continuous views in quadrants.",
+   "Kill Bill and Sisters use panels as simultaneous action. (500) Days of Summer splits expectation and reality at a party.",
+   "Use the pane logic, not a copied poster."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Frame within Frame (a real window) or Cross-Cutting (sequential). The tell: a doorway in the set, or the model giving you one wide with a scratch down the middle.",
+   "The fix: two fully directed spaces, a graphic divide, simultaneous time."
+  ],
+  "faq": [
+   {
+    "q": "What is Split Screen in film?",
+    "a": "Split screen shows multiple image fields at once. Both sides of the join occupy the frame together, so two rooms or two versions share one moment."
+   },
+   {
+    "q": "Split Screen vs Cross-Cutting",
+    "a": "Cross-cutting alternates lines so you see one, then the other. Split screen presents them simultaneously. Alternation creates meanwhile; panels create co-presence."
+   },
+   {
+    "q": "When should I use Split Screen?",
+    "a": "Use it when two spaces must be one moment: a call, twins, expectation versus reality. Do not use it as a substitute for a window in the set or for ordinary coverage."
+   },
+   {
+    "q": "How do I prompt Split Screen for AI image or video?",
+    "a": "Describe each pane and the divide. Example: Split screen with [Subject] in one pane and another life in the other, simultaneous spaces. Specify a hard boundary and two complete scenes."
+   }
+  ]
+ },
+ {
+  "slug": "transitions",
+  "title": "Transitions",
+  "zh_title": "转场",
+  "narrative": [
+   "A wipe turns a page. A match claims an idea.",
+   "A dissolve remembers. A whip throws you.",
+   "The cut should be seen. This is the parent of those gestures, not a substitute for choosing one.",
+   "Use it when invisible continuity would lie, or when the join is the joke, the thesis, or the chapter mark. It is the wrong tool when the scene should feel found and unedited.",
+   "Then hide the cut, or do not cut. Pick a species.",
+   "'A cool transition' is not a shot list. Name wipe, match, mix, light, or whip."
+  ],
+  "how": [
+   "Decide what the join must do: rhyme ( Match Cut ), mix ( Dissolve ), empty ( Fade In / Fade Out ), travel an edge ( Wipe ), point ( Iris ), blur ( Whip Pan ), or rewrite space ( Set Transition ). Design A and B together so the chosen gesture has material to work with.",
+   "Prompt: a designed transition around [Subject], the join as a gesture: wipe, morph, match, or light."
+  ],
+  "when": [
+   "Use it at act breaks, world leaps, jokes about cinema, or any time the how of leaving matters. Do not use a designed transition on every reverse in a talk scene.",
+   "If nothing in the story changes at the splice except the camera, a straight cut is the design."
+  ],
+  "vs": [
+   "A Match Cut is a correspondence across a hard cut. A Dissolve is a mix.",
+   "A Whip Pan can hide or announce a join through blur. A Wipe shows a traveling edge.",
+   "This page is the choice to make the join a gesture; those pages are the species. Invisible Cut is the opposing doctrine."
+  ],
+  "examples_film": [
+   "Star Wars makes scene changes into directional wipes, a serial grammar. 2001: A Space Odyssey makes a hard match the largest leap in the film.",
+   "Use them as proof that a visible join can carry story, not as a kit to paste on every cut."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is an Invisible Cut you accidentally made visible, or a morph used because no join was chosen. The tell: A and B have no designed relationship, and a filter slurries them.",
+   "The fix: pick a species, give both sides a job, execute that physics only."
+  ],
+  "faq": [
+   {
+    "q": "What is Transitions in film?",
+    "a": "Transitions in this sense are designed joins, splices the audience is meant to notice. Both sides of the join are planned as a pair, and the gesture (wipe, match, mix, light) is part of the sentence."
+   },
+   {
+    "q": "Transitions vs Match Cut",
+    "a": "A match cut is one species of designed join: correspondence across a hard cut. Transitions as a heading means choosing a visible gesture at all, which might be a match, a wipe, a dissolve, or a whip."
+   },
+   {
+    "q": "When should I use Transitions?",
+    "a": "Use a designed transition when the how of leaving A is story. Do not decorate every reverse. If the join should vanish, do not design it as a gesture."
+   },
+   {
+    "q": "How do I prompt Transitions for AI image or video?",
+    "a": "Name A, B, and the species of join. Example: a designed transition around [Subject], the join as a gesture: wipe, morph, match, or light. Forbid vague words like seamless or cool."
+   }
+  ]
+ },
+ {
+  "slug": "wipe",
+  "title": "Wipe",
+  "zh_title": "划像转场",
+  "narrative": [
+   "A vertical line walks left to right and a village becomes a mountain pass. Geography has changed as a page turn, not as an invisible cut.",
+   "Adventure, serials, and playful maps like that honesty. Use it when the change of scene should feel brisk, storybook, or openly constructed.",
+   "It is the wrong tool when you need the audience not to feel an edit: that is Invisible Cut or Match on Action . A wipe is not a person walking in front of the lens (occlusion).",
+   "Occlusion can hide a cut; a wipe displays one. Direction and speed should agree with the next action.",
+   "A wipe against the traveler's walk fights the grammar."
+  ],
+  "how": [
+   "Choose a boundary: vertical, horizontal, diagonal, clock hand, barn-door, shape. Animate it across a clean pair of shots.",
+   "Soft-edged or hard-edged is a taste choice; the edge must remain a graphic, not a morph of the scenery. A motivated object edge (a passing wall, a cloak) can justify a wipe, but then you are close to an invisible occlusion cut.",
+   "Prompt: wipe replacing [Subject] with the next image, a line traveling across the frame, a clock hand or a hard vertical."
+  ],
+  "when": [
+   "Use it to leap from planet to planet, village to road, chapter to chapter in a serial cadence. Do not use it to hide a continuity error.",
+   "If the join should vanish, do not wipe."
+  ],
+  "vs": [
+   "An Iris is a radial mask from a center, not a traveling edge. A Match Cut rhymes two full frames with a hard cut and no boundary.",
+   "A Dissolve mixes opacities. An Invisible Cut uses a real object or blur to conceal the splice; the wipe's graphic boundary is intentional and visible."
+  ],
+  "examples_film": [
+   "Star Wars uses directional wipes as adventure punctuation between locations. Seven Samurai uses wipes to mark narrative progression with a visible page-turn.",
+   "Those are grammar samples for an honest scene change, not compositions to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is an Invisible Cut (hidden occlusion) or a Dissolve . The tell: the edge is gooey, or a passing extra is doing the work while you call it a wipe.",
+   "The fix: a clean traveling mask, two intact pictures, direction matched to the story's travel."
+  ],
+  "faq": [
+   {
+    "q": "What is Wipe in film?",
+    "a": "A wipe replaces one shot with another through a moving boundary across the screen. Both sides of the join are full pictures; the traveling edge is the edit, and it is meant to be seen."
+   },
+   {
+    "q": "Wipe vs Iris",
+    "a": "A wipe's edge travels (left to right, clock, barn-door). An iris is a circular or shaped mask that opens or closes around a center. One is a page turn; the other is a pointing hole."
+   },
+   {
+    "q": "When should I use Wipe?",
+    "a": "Use it for adventure, serial geography, or a playful scene change that should not pretend to be invisible. Do not use it to hide a splice the audience must not feel."
+   },
+   {
+    "q": "How do I prompt Wipe for AI image or video?",
+    "a": "Name both images and the traveling edge. Example: Wipe replacing [Subject] with the next image, a line traveling across the frame. Specify direction and a clean mask, not a morph."
+   }
+  ]
+ },
+ {
+  "slug": "altered-state",
+  "title": "Altered State",
+  "zh_title": "意识异变",
+  "narrative": [
+   "Edges trail. Hue unhooks from the room.",
+   "A face leaves a stain. Focus and speed refuse to sit still.",
+   "The set may be an apartment. The picture is a nervous system.",
+   "Use it when perception is the plot: drugs, vertigo, dying, revelation. Pick a few physical tells and repeat them so the state has rules.",
+   "A smear plus a color unhook is a language. Everything at once is noise.",
+   "It is the wrong tool for a single clean optic (one fisheye, one flare) that the character would still recognize as the room. If the codec collapses, that is datamosh.",
+   "If two times overlay as density, that is double exposure. Altered state may borrow those, but it has to be motivated as seeing."
+  ],
+  "how": [
+   "Combine a short list: long shutter smear, step-printed time, wrong white balance, afterimages, a diopter or a distorting optic, occasional overlay. Keep the body of the subject readable enough to stay in the scene.",
+   "Prompt: perception bent, edges trailing, color unhooked from the room, as if consciousness is slipping, not a random glitch pack."
+  ],
+  "when": [
+   "A close interior where the frame warps as a character slips, trailing edges, hue wrong, time sticky. Do not apply it to a wide establishing shot that still has to map the street."
+  ],
+  "vs": [
+   "Dreamcore is a genre look of liminal rooms and childhood lighting gone wrong. Altered state is the perceptual event, often in an ordinary set.",
+   "Datamosh is codec collapse. Double Exposure is a stacked record.",
+   "Distortions are geometric lies in the glass. Altered state may include distortion, plus time and color that will not sit."
+  ],
+  "examples_film": [
+   "Enter the Void binds camera, smear, and color to a consciousness that will not stay in a body. Requiem for a Dream uses speed, close optics, and cutting as intoxication and crash.",
+   "Fear and Loathing in Las Vegas is the wide-angle, wrong-color cousin."
+  ],
+  "mistakes": [
+   "Wrong cousin: a single fisheye, a datamosh, or a dreamcore bedroom with no perceptual event. Tell: a clean room with one sticker effect, or total illegibility.",
+   "Fix: motivate two or three repeating tells, keep the subject locatable, let the room remain a room that is failing."
+  ],
+  "faq": [
+   {
+    "q": "What is altered state in film?",
+    "a": "Subjective photography in which smear, afterimage, color, and time report a mind rather than a sober room. It is a motivated bundle, not one optic."
+   },
+   {
+    "q": "Altered state vs distortions",
+    "a": "Distortions are geometric warps from glass or air. Altered state may use those, plus color and time errors, as consciousness. Distortion can be sober (a peephole). Altered state is not."
+   },
+   {
+    "q": "When should I use altered state?",
+    "a": "When the mind is the location. Do not use it as decoration on coverage that still has to be geographically clear."
+   },
+   {
+    "q": "How do I prompt altered state for AI image or video?",
+    "a": "Name two or three tells (trail, afterimage, wrong hue, sticky time) and say consciousness is slipping. Forbid a generic glitch overlay and keep the subject readable."
+   }
+  ]
+ },
+ {
+  "slug": "anamorphic-flare",
+  "title": "Anamorphic Flare",
+  "zh_title": "变形镜头光晕",
+  "narrative": [
+   "Night lamps and headlights write a bar across the frame because the front optic stretches one axis. The streak is cyan, blue, or magenta depending on coatings, and it stays level with the squeezed world.",
+   "Oval highlights in the background confirm the same glass. Use it when the night should be written on the taking lens: wet streets, neon, a car coming toward camera.",
+   "The streak is evidence of scope optics, not of brightness alone. It is the wrong tool in spherical coverage, or when you want a circular ghost of the iris.",
+   "If the bokeh is round and the streak is a random rainbow, you have mixed two lens families."
+  ],
+  "how": [
+   "Shoot anamorphic (typically 2x squeeze). Put a hard point source in or near frame: headlight, practical, sun.",
+   "Keep the cylindrical axis consistent so streaks stay horizontal. Coatings and the front element decide color and length.",
+   "Stop down and ovals become more polygonal. In a prompt, say horizontal anamorphic streak, name the hue, and demand oval bokeh, not round discs."
+  ],
+  "when": [
+   "A car cresting a wet overpass at night, headlights drawing cyan bars through a figure in a raincoat. Do not add horizontal streaks to a spherical 50mm close-up with round bokeh."
+  ],
+  "vs": [
+   "Lens Flare covers ghosts, veiling, and spherical scatter. Anamorphic flare is the horizontal bar from cylindrical glass.",
+   "Anamorphic is the lens format itself: squeeze, oval bokeh, and the flare are consequences. Bokeh is the out-of-focus disc shape.",
+   "Oval discs support the claim. Round discs contradict it."
+  ],
+  "examples_film": [
+   "Blade Runner lets neon and headlights write on anamorphic glass. J.",
+   "Abrams films push the horizontal streak until it becomes a signature. Super 8 (2011) uses the same family of bars as period scope language."
+  ],
+  "mistakes": [
+   "Wrong cousin: generic lens flare or a spherical rainbow. Tell: round bokeh with a pasted horizontal bar that ignores source position.",
+   "Fix: match oval highlights, keep streaks horizontal, and lock them to a pictured point source."
+  ],
+  "faq": [
+   {
+    "q": "What is anamorphic flare in film?",
+    "a": "A horizontal streak from light hitting cylindrical anamorphic elements. It is optical, usually paired with oval bokeh from the same squeeze."
+   },
+   {
+    "q": "Anamorphic flare vs lens flare",
+    "a": "Lens flare is any scatter in the optic. Anamorphic flare is specifically the long horizontal bar of squeezed glass, not circular ghosts or a general veil."
+   },
+   {
+    "q": "When should I use anamorphic flare?",
+    "a": "When night points (headlights, neon, practicals) should write on scope glass. Do not use it on spherical lenses with round bokeh."
+   },
+   {
+    "q": "How do I prompt anamorphic flare for AI image or video?",
+    "a": "Ask for horizontal streaks, a named hue, oval bokeh, and a point source in or near frame. Ban round discs and floating rainbows."
+   }
+  ]
+ },
+ {
+  "slug": "anthropo",
+  "title": "Anthropo",
+  "zh_title": "拟人化",
+  "narrative": [
+   "A red balloon waits, follows, sulks. A robot tilts its head at a trash cube.",
+   "The object is not a prop in a still life. It is covered like a person: singles, looks, pauses.",
+   "Will is implied by blocking and eyeline, not by a drawn smile unless the story needs one. Use it to give a thing agency: a balloon, a machine, a relic, an animal shot as a colleague.",
+   "The rest of the scene should treat it as a presence. It is the wrong tool when you simply shoot an object from its own optical position (that is object POV) or when a tableau arranges bodies as a picture.",
+   "Anthropo is performance coverage of a nonhuman. Object POV is a camera mount."
+  ],
+  "how": [
+   "Assign an eyeline height. Cover the object with the same sizes you would give an actor: wide for entrance, medium for dialogue, close for reaction.",
+   "Let humans look at it as a partner. Puppet, wire, or animation can supply gesture.",
+   "Prompt: an object or animal given human scale, gesture, or eyeline, the inanimate performing, not a POV from inside the object."
+  ],
+  "when": [
+   "A balloon at head height, held in a single, a child looking to it as if it might answer. Do not bolt the camera to the balloon and call that anthropo.",
+   "That is object POV."
+  ],
+  "vs": [
+   "Object POV puts the camera in the object's position. Anthropo looks at the object as an actor.",
+   "Tableau freezes people into a composed picture. Anthropo keeps a will in motion.",
+   "Macro can isolate an object as texture without giving it an eyeline."
+  ],
+  "examples_film": [
+   "The Red Balloon covers a balloon as a companion, with waits and follows that belong to a performer. WALL-E plays a machine with human gesture and eyeline without needing a human face.",
+   "Those are coverage choices, not mascots to copy."
+  ],
+  "mistakes": [
+   "Wrong cousin: object POV, a cute sticker face, or a still-life insert. Tell: the camera is mounted in the object, or the object sits as a prop with no eyeline.",
+   "Fix: assign a look, a height, and reaction coverage. Let others treat it as a partner."
+  ],
+  "faq": [
+   {
+    "q": "What is anthropo in film?",
+    "a": "Staging and covering an object or animal as if it were a performer: scale, gesture, eyeline, reactions. Agency is in the blocking, not necessarily in a painted face."
+   },
+   {
+    "q": "Anthropo vs object POV",
+    "a": "Object POV is the camera from the thing's position. Anthropo is the camera looking at the thing as an actor. One is a mount. The other is a performance."
+   },
+   {
+    "q": "When should I use anthropo?",
+    "a": "When a nonhuman should have a will in the scene. Do not use it for a mere product insert or for a true POV from inside the object."
+   },
+   {
+    "q": "How do I prompt anthropo for AI image or video?",
+    "a": "Specify human scale, a clear eyeline, gesture, and coverage as if the object were a player. Forbid interior POV unless you want that cousin."
+   }
+  ]
+ },
+ {
+  "slug": "argus",
+  "title": "Argus",
+  "zh_title": "百眼视觉",
+  "narrative": [
+   "Surveillance becomes anatomy. A wall of cameras.",
+   "A god covered in irises. Use it when paranoia, divinity, or the internet should be visible as too much seeing.",
+   "It is the wrong tool for a single honest portrait, and for a tidy split of two scenes. If the same person repeats as clones, that is duplication.",
+   "If the frame is divided into panels, that is split screen. If facets mirror one image, that is a kaleidoscope."
+  ],
+  "how": [
+   "Count the eyes. Place them as objects: on skin, on walls, as a field of viewpoints around a still center.",
+   "Keep a readable subject so the swarm has a king. Light each iris with a small catchlight if they are organs.",
+   "If they are cameras, give each lens a tiny practical. Do not dissolve them into noise.",
+   "Prompt an Argus image of the subject: many eyes, many viewpoints, a creature or a city of looking."
+  ],
+  "when": [
+   "Use it for paranoia, gods, a network that stares. Do not use it as extra pupils on a portrait that only needed one pair."
+  ],
+  "vs": [
+   "Duplication repeats a person. Argus multiplies looking, not necessarily the whole body.",
+   "Split Screen divides the frame into panels of action. Argus can be one composition swarming with eyes.",
+   "Kaleidoscope mirrors facets. Here the eyes are the point."
+  ],
+  "examples_film": [
+   "Doctor Strange kaleidoscopes tunnel looking into too many angles. The Fountain multiplies visionary sight.",
+   "Grammar of a swarm of gazes, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is flare on a face, or a Split Screen . The tell is no extra eyes as objects, or a tidy two-way divide.",
+   "The fix is countable pupils or viewpoints, a swarm with a center."
+  ],
+  "faq": [
+   {
+    "q": "What is Argus in film?",
+    "a": "Argus is many eyes and many viewpoints: a creature or a city of looking. One gaze is not enough. Looking becomes a swarm."
+   },
+   {
+    "q": "Argus vs duplication",
+    "a": "Duplication repeats a person in the frame. Argus multiplies eyes or viewpoints. You may still have one body. The surplus is seeing."
+   },
+   {
+    "q": "When should I use Argus?",
+    "a": "Use it for paranoia, gods, networks of watching. Skip it on a single honest portrait, and skip it when you only need two panels of action."
+   },
+   {
+    "q": "How do I prompt Argus for AI image or video?",
+    "a": "Write Argus image of [Subject], many eyes, many viewpoints. Count them. Keep a center so it is not noise. Eyes should be objects, not flare."
+   }
+  ]
+ },
+ {
+  "slug": "bokeh",
+  "title": "Bokeh",
+  "zh_title": "焦外散景",
+  "narrative": [
+   "A city, a string of practicals, or a wet street becomes a field of discs. Circular blades make circles.",
+   "Anamorphic squeeze makes ovals. Mechanical vignetting cats-eyes the discs at the frame edge.",
+   "Nervous, outlined, or onion-ring discs are also bokeh. They are just unkind bokeh.",
+   "Use it when the world behind or in front of a face should become light rather than information. One plane stays true.",
+   "The rest is the optic's handwriting. It is the wrong tool when you need the room.",
+   "If background signs, eyelines, or geography still have to read, creamy discs are hiding the scene. It is also the wrong word for a masked cutout with no optical discs at all."
+  ],
+  "how": [
+   "Open the aperture, separate subject from background, and choose glass: spherical circles, anamorphic ovals, Petzval swirl, cat-eye at the edges. Point sources (practicals, speculars, rain catches) make the discs visible.",
+   "Distance and focal length set disc size. Prompt the disc shape and the source of the highlights, not blurry background alone."
+  ],
+  "when": [
+   "A close portrait in a cramped apartment, amber lamps and a magenta neon turning into circular or oval discs while the near eye stays sharp. Do not melt a wide master that still has blocking to read."
+  ],
+  "vs": [
+   "Shallow Focus is the thin sharp plane. Bokeh is the look of whatever is off that plane.",
+   "Anamorphic turns those discs into ovals and often adds streaks. Rack Focus moves the sharp plane during the shot.",
+   "Bokeh can change as focus moves, but the pull is a different verb."
+  ],
+  "examples_film": [
+   "In the Mood for Love turns crowded Hong Kong lamps into soft discs around faces. Her isolates Theodore against city lights whose character is the glass, not a painted smear."
+  ],
+  "mistakes": [
+   "Wrong cousin: a cutout mask or generic shallow focus with no disc structure. Tell: hair cut out like a sticker, no specular discs, background replaced rather than optically soft.",
+   "Fix: keep optical discs, cat-eye at edges if wide open, and a real distance between planes."
+  ],
+  "faq": [
+   {
+    "q": "What is bokeh in film?",
+    "a": "The character of out-of-focus rendering: circles, ovals, cat-eyes, swirl, onion rings. It describes how blur looks, not merely that something is soft."
+   },
+   {
+    "q": "Bokeh vs shallow focus",
+    "a": "Shallow focus is a narrow depth of field. Bokeh is the optical handwriting of that blur. You can have shallow focus with ugly bokeh."
+   },
+   {
+    "q": "When should I use bokeh?",
+    "a": "When only one plane may be true and the rest should become light. Do not use it when the background still has to carry information."
+   },
+   {
+    "q": "How do I prompt bokeh for AI image or video?",
+    "a": "Specify circular or oval discs, name the highlight sources, keep the subject sharp, and forbid cutout edges or a smeared backdrop."
+   }
+  ]
+ },
+ {
+  "slug": "bubbles",
+  "title": "Bubbles",
+  "zh_title": "泡泡",
+  "narrative": [
+   "A face repeats in a drifting sphere. Joy or threat depends on the light.",
+   "Use it when the air should be glass, cheap optics that still photograph. It is the wrong tool for a boardroom, and for sparks that have no film surface.",
+   "If the bits are solid motes, you want particles. If the picture is a mirror or a wet street, you want reflections on a plane."
+  ],
+  "how": [
+   "Backlight or side-light soap films so each sphere shows a highlight and a refraction of the face. Keep surfaces: thin-film color at the edge, a wet tick.",
+   "The subject remains readable through the swarm. Shallow space helps.",
+   "Do not replace bubbles with out-of-focus lamps. Prompt bubbles around the subject: refraction worlds that still read as joy or threat.",
+   "Name soap or air bubbles, not bokeh."
+  ],
+  "when": [
+   "Use it for joy, drowning, a spell, an underwater breath. Do not use it as fake bokeh on a night street with no soap films."
+  ],
+  "vs": [
+   "Particles are solid, countable motes: dust, sparks, pollen. Bubbles have surfaces and refraction.",
+   "Reflections are images on glass, water, or chrome planes. A bubble is a tiny closed optic in the air."
+  ],
+  "examples_film": [
+   "The Shape of Water lets water optics and drifting spheres share space with a body. Music videos use soap-film refraction as a lyric field.",
+   "Grammar of air as glass, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Bokeh disks or a particle mist. The tell is circles with no surface, no refraction, no wet edge.",
+   "The fix is soap films as little lenses, highlights on a skin of air."
+  ],
+  "faq": [
+   {
+    "q": "What is bubbles in film?",
+    "a": "Bubbles are little lenses in the air: soap films that refract the subject, with rainbow edges and wet highlights. Each one is an optic, not a blur disk."
+   },
+   {
+    "q": "Bubbles vs particles",
+    "a": "Particles are solid bits. Bubbles have a film surface and refraction. One you could sweep up. The other is a sphere of air with a wet skin."
+   },
+   {
+    "q": "When should I use bubbles?",
+    "a": "Use them when the air should be glass: joy, drowning, a spell. Skip them in a dry room that only needs dust, and skip fake bokeh."
+   },
+   {
+    "q": "How do I prompt bubbles for AI image or video?",
+    "a": "Write Bubbles around [Subject], refraction worlds. Demand soap-film surfaces, rainbow edges, and the face repeating in the spheres. Do not ask for bokeh lamps."
+   }
+  ]
+ },
+ {
+  "slug": "chromatic-aberration",
+  "title": "Chromatic Aberration",
+  "zh_title": "色差",
+  "narrative": [
+   "Cheap, wide, or vintage glass fails to put all colors on the same plane. A branch, a shoulder, a neon sign grows a red or cyan beard.",
+   "The optic is imperfect on purpose, or it is simply old. Use it when the glass should confess: lo-fi night, a dream that is optical rather than a grade, a wide at full aperture.",
+   "Tie fringes to contrast edges, stronger in the corners. It is the wrong tool as a full-frame RGB split, which is a channel offset, not aberration.",
+   "If the whole image is three layers of the same picture, you have a digital treatment, not CA."
+  ],
+  "how": [
+   "Wide angle, wide open, simple or vintage designs. Lateral CA scales with distance from center.",
+   "Longitudinal CA shows as color bokeh (magenta in front, green behind, or the reverse). Recreate by fringing high-contrast edges, not by sliding entire channels.",
+   "Prompt: red-cyan fringing at high-contrast edges, stronger at the frame edge, cheap or vintage glass."
+  ],
+  "when": [
+   "A night overpass, raincoat against neon, red-cyan fringes on the brightest sign edges and the silhouette. Do not RGB-split the entire figure as if it were a channel offset."
+  ],
+  "vs": [
+   "Lens Flare is scatter and ghosts, not edge fringes. Fisheye is extreme barrel distortion.",
+   "It can carry CA but is a geometry, not a color error. Vintage Cine Glass often includes CA plus haze and vignette.",
+   "Distortions are spatial warps. CA is a color-focus error on top of, or instead of, those warps."
+  ],
+  "examples_film": [
+   "Spring Breakers lets cheap-looking fringing and analog error sit on party lights. Music videos often push lateral CA as a wide-open night look.",
+   "Enter the Void uses optical error as subjective night, which is grammar, not a template."
+  ],
+  "mistakes": [
+   "Wrong cousin: RGB split, lens flare, or fisheye stretch. Tell: the whole subject is three colored copies, or only a rainbow streak with no edge fringe.",
+   "Fix: confine color to high-contrast edges, increase it off center, keep the core image registered."
+  ],
+  "faq": [
+   {
+    "q": "What is chromatic aberration in film?",
+    "a": "Color fringing from wavelengths that do not share a focus or a magnification. Lateral CA beards edges. Longitudinal CA colors the blur in front of and behind the mark."
+   },
+   {
+    "q": "Chromatic aberration vs lens flare",
+    "a": "Flare is stray light making ghosts and veils. Chromatic aberration is a focusing error that puts different colors on contrast edges. One is scatter. The other is dispersion."
+   },
+   {
+    "q": "When should I use chromatic aberration?",
+    "a": "When the optic should look imperfect: vintage glass, wide night work, a slightly untrustworthy image. Do not use a full-frame channel split."
+   },
+   {
+    "q": "How do I prompt chromatic aberration for AI image or video?",
+    "a": "Ask for red-cyan (or named) fringing on high-contrast edges, stronger at the corners, from cheap or vintage glass. Ban whole-image RGB offsets."
+   }
+  ]
+ },
+ {
+  "slug": "cinemagraph",
+  "title": "Cinemagraph",
+  "zh_title": "微动图",
+  "narrative": [
+   "The picture looks dead, then a kettle breathes. A coat is still.",
+   "Only the rain tracks the window. Time is allowed in one masked region.",
+   "The rest is a still. Use it when a photograph should refuse to fully stop: fashion, a poster that lives, a memory with one leak of motion.",
+   "The moving part must be plausible as a cycle. It is the wrong tool when the whole scene moves, or when all motion stops (freeze-frame).",
+   "If every element loops, that is an infinite loop of a shot, not a cinemagraph. If the loop is a boomerang of the entire take, that is a different toy."
+  ],
+  "how": [
+   "Shoot a locked camera. Choose one motion that can cycle (steam, rain, flicker).",
+   "Mask that region in post, freeze the rest from a single frame, loop the live patch so the join is invisible. Prompt: almost a still, only one named element loops, locked camera, no other motion."
+  ],
+  "when": [
+   "A woman at a rain window, body frozen, only the rain and a thread of steam looping. Do not let her blink, the curtains blow, and the neon flicker all at once."
+  ],
+  "vs": [
+   "Freeze Frame stops everything. Infinite Loop repeats the entire shot.",
+   "Boomerang plays a whole action forward and back. A cinemagraph freezes the majority and loops a patch.",
+   "Time-Lapse advances the whole world in steps."
+  ],
+  "examples_film": [
+   "The form comes from fashion stills (Jamie Beck and Kevin Burg) and advertising, not from a single feature grammar. Fashion films and window displays are the well-known uses: one living detail in a still.",
+   "La Jetee is a cousin of stills and motion, not a cinemagraph loop."
+  ],
+  "mistakes": [
+   "Wrong cousin: freeze-frame, full-shot loop, or a normal live take. Tell: several motions alive, a visible loop bump, or a frozen frame with no live patch.",
+   "Fix: one masked element, invisible join, everything else from a single still."
+  ],
+  "faq": [
+   {
+    "q": "What is a cinemagraph in film?",
+    "a": "A still image with one isolated looping motion. The rest is frozen. It sits between a photograph and a clip."
+   },
+   {
+    "q": "Cinemagraph vs freeze-frame",
+    "a": "A freeze-frame stops all motion. A cinemagraph stops almost all motion and keeps one element alive on a loop."
+   },
+   {
+    "q": "When should I use a cinemagraph?",
+    "a": "When a still should have one living detail: steam, rain, a flicker. Do not use it if the whole scene needs to play, or if nothing should move."
+   },
+   {
+    "q": "How do I prompt a cinemagraph for AI image or video?",
+    "a": "Say almost still, locked camera, and name the single looping element. Forbid additional motion and a visible loop cut."
+   }
+  ]
+ },
+ {
+  "slug": "collage",
+  "title": "Collage",
+  "zh_title": "拼贴",
+  "narrative": [
+   "A head from one still, a building from another, newsprint, a painted sky. You can see the scissors.",
+   "Mixed grain, mixed contrast, maybe a bit of tape. One image was not enough, so the frame was assembled.",
+   "Use it when sources should remain sources: titles, satire, memory as scrapbook, a graphic sequence that refuses photographic unity. It is the wrong tool when two photographs should fuse as density (double exposure) or when live action and animation share a photographed space without torn edges.",
+   "Mixed media can do either. Collage insists on the cut."
+  ],
+  "how": [
+   "Shoot or collect plates. Cut them.",
+   "Leave borders, torn fiber, misregistered printing, different grain structures. Composite with hard or torn masks, not a screen blend.",
+   "Prompt: torn layers, mixed stocks, cut paper and live action sharing one plane, visible joins, not a smooth double exposure."
+  ],
+  "when": [
+   "A portrait built from a live face, a city fragment, and newsprint, joins visible. Do not dissolve the same elements into a ghosted overlay and call it collage."
+  ],
+  "vs": [
+   "Double Exposure is an optical or additive stack without scissors. Mixed Media is the broader family (animation plus live, print plus plate).",
+   "Collage is the cut-and-paste grammar inside that family. Split Screen divides the frame into simultaneous pictures with a designed border, usually live.",
+   "Collage can ignore a shared timebase."
+  ],
+  "examples_film": [
+   "Terry Gilliam's Monty Python work is cut-out collage in motion. The Jinx titles treat documents and images as a stacked graphic plane.",
+   "Bruce Conner's A Movie is found-footage collage as a film, which is grammar for the cut, not a look to clone."
+  ],
+  "mistakes": [
+   "Wrong cousin: double exposure or a clean split-screen. Tell: translucent blend, matching grain across pieces, or a hard live divider without paper or tear.",
+   "Fix: mismatched stocks, torn or cut borders, graphic stacking."
+  ],
+  "faq": [
+   {
+    "q": "What is collage in film?",
+    "a": "A frame assembled from cut or torn pieces of different images and materials, with joins meant to be seen. It is construction, not a seamless composite."
+   },
+   {
+    "q": "Collage vs double exposure",
+    "a": "Double exposure blends records as density. Collage keeps edges: scissors, paper, mixed stocks. One is optical stack. The other is cut and paste."
+   },
+   {
+    "q": "When should I use collage?",
+    "a": "When one photograph is not enough and the sources should stay visible. Do not use it for a ghosted memory overlay or a seamless twin shot."
+   },
+   {
+    "q": "How do I prompt collage for AI image or video?",
+    "a": "Ask for torn layers, mixed film stocks or paper, live action plus cut pieces, and visible joins. Ban smooth double exposure."
+   }
+  ]
+ },
+ {
+  "slug": "cyclope",
+  "title": "Cyclope",
+  "zh_title": "独眼巨眼",
+  "narrative": [
+   "A machine stares. A lighthouse stares.",
+   "A god stares. Distortion is the character.",
+   "The subject looms, edges fall away, a catchlight keeps the hole an organ. It is the wrong tool for a beauty close-up, and for a human point of view with hands in frame.",
+   "If you only want extreme wide geometry, use a fisheye as a lens. If a body owns the camera, that is first-person."
+  ],
+  "how": [
+   "Write an extreme fisheye or a circular iris mask. Place the subject near the glass so the nose or the machine fills the hole.",
+   "Edges barrel. Keep one catchlight.",
+   "Do not add a Dutch unless the creature is off its axis. The camera is the eye.",
+   "Height is the creature's height, often slightly high or dead-on. Prompt a cyclope view: a single giant iris, fisheye as a monster eye, one hole looking."
+  ],
+  "when": [
+   "Use it for surveillance, monsters, HAL-like machines, a stare that is not human. Do not use it on a portrait that still needs courtesy."
+  ],
+  "vs": [
+   "Fisheye is the optic without the monster-eye mask: a wide, barrelled world. Cyclope is that optic as one organ.",
+   "First-Person implies a human body, hands, breath. Cyclope is a single hole that looks."
+  ],
+  "examples_film": [
+   "2001 's HAL is a red iris that watches. The Lighthouse turns a stare into a blinding organ.",
+   "Grammar of one eye, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a mildly wide close-up. The tell is a normal nose and a rectangular room.",
+   "The fix is a mountain of a near feature, a globe of a room, one iris."
+  ],
+  "faq": [
+   {
+    "q": "What is cyclope in film?",
+    "a": "Cyclope is a single giant iris looking, fisheye as a monster eye. The camera is one hole, too close, and distortion is the character."
+   },
+   {
+    "q": "Cyclope vs fisheye",
+    "a": "Fisheye is a lens choice that barrels the world. Cyclope uses that distortion as a creature or machine eye, often with a circular hole and a catchlight."
+   },
+   {
+    "q": "When should I use cyclope?",
+    "a": "Use it for a nonhuman stare: surveillance, monsters, a machine. Skip it for a flattering close-up or a human POV with hands."
+   },
+   {
+    "q": "How do I prompt cyclope for AI image or video?",
+    "a": "Write Cyclope view of [Subject], a single giant iris, fisheye as a monster eye, one hole looking. Demand barrel distortion and a catchlight. Keep one eye."
+   }
+  ]
+ },
+ {
+  "slug": "datamosh",
+  "title": "Datamosh",
+  "zh_title": "数据融化",
+  "narrative": [
+   "The I-frame never arrives. P-frames keep describing motion that no longer has a valid picture.",
+   "A mouth stretches into a wall. A cut happens in time but not in pixels.",
+   "Digital ruin is the style. Use it when the file should break on purpose: a music video, a corrupted memory, a broadcast that fails.",
+   "The smear should follow motion vectors, not a random RGB offset. It is the wrong tool for a stutter of whole frames (that is stop-stutter), for chromatic fringing, or for an altered-state smear from a long shutter.",
+   "If the image trails because the shutter was open, that is photography. If it trails because the codec predicted the wrong future, that is datamosh."
+  ],
+  "how": [
+   "Encode with inter-frame compression, drop or repeat I-frames, let P-frames or B-frames run. The artifact is temporal and blocky, often with residual macroblocks.",
+   "Prompt: inter-frame collapse, faces smearing into the next GOP, codec wreckage, not RGB split, not film smear."
+  ],
+  "when": [
+   "A cut from a face to a city in which the face's pixels are dragged across the skyline by leftover motion vectors. Do not step-print the same clip or add red-cyan edge fringe and call it datamosh."
+  ],
+  "vs": [
+   "Stutter / Stop-Stutter repeats or steps whole frames as a temporal rhythm. Datamosh destroys the picture between frames.",
+   "Altered State is perceptual and photographic. Chromatic Aberration is optical color fringing.",
+   "Datamosh is codec wreckage, not a general noise overlay."
+  ],
+  "examples_film": [
+   "Chairlift's Evident Utensil is a well-known datamosh music video: GOP collapse as the picture. Other music videos adopted the same inter-frame smear.",
+   "Features rarely hold it long because it destroys coverage."
+  ],
+  "mistakes": [
+   "Wrong cousin: stutter, long-shutter smear, or RGB split. Tell: clean frame repeats, photochemical motion blur, or three colored copies of the subject.",
+   "Fix: blocky temporal bleed across a cut, leftover pixels from the previous picture, no new I-frame."
+  ],
+  "faq": [
+   {
+    "q": "What is datamosh in film?",
+    "a": "Deliberate video-codec collapse. Without a fresh keyframe, motion vectors smear the last valid picture into the next, producing inter-frame wreckage."
+   },
+   {
+    "q": "Datamosh vs stutter",
+    "a": "Stutter repeats or steps complete frames. Datamosh lets predicted frames destroy the image. One is a rhythm of whole pictures. The other is a melt between them."
+   },
+   {
+    "q": "When should I use datamosh?",
+    "a": "When the file should fail as the point: music video, corrupted feed, a digital breakdown. Do not use it as a substitute for optical smear or a simple jump cut."
+   },
+   {
+    "q": "How do I prompt datamosh for AI image or video?",
+    "a": "Ask for inter-frame collapse, GOP smear, codec wreckage across a cut. Forbid shutter blur, RGB channel split, and freeze-frame stutter unless those are extra."
+   }
+  ]
+ },
+ {
+  "slug": "deep-focus",
+  "title": "Deep Focus",
+  "zh_title": "深焦",
+  "narrative": [
+   "A hand stamps a form near the lens. A visitor waits in a distant doorway.",
+   "Both are readable. The audience may look at either without a pull or a cut dictating the choice.",
+   "Cause and effect share the room. Use it when the story is the whole space: a child outside a window while adults sign papers, a street and a face, two rooms through a doorway.",
+   "Staging does the directing. The lens declines to choose.",
+   "It is the wrong tool for intimacy that should exclude the world, or when light cannot support a small aperture. Two sharp planes with a blur belt between them are a split diopter or a composite, not deep focus."
+  ],
+  "how": [
+   "Balance shorter focal length, smaller aperture, enough illumination, and subject distances that the stop can cover. Some famous deep-focus-looking shots also used in-camera composites.",
+   "The screen result does not prove a single-pass method. Prompt: everything sharp from a named near object to the far plane, no rack, no seam, continuous space."
+  ],
+  "when": [
+   "A clerk's hand in the near field and an anxious visitor in a far doorway, both sharp, locked wide. Do not claim deep focus if a blur boundary splits the frame in two."
+  ],
+  "vs": [
+   "Shallow Focus isolates one plane. Deep focus refuses that isolation.",
+   "Split Diopter cheats two sharp distances with a visible or hidden seam and a soft belt. Layered Depth is compositional stacking.",
+   "It can be shot shallow or deep. Rack Focus would choose for the audience.",
+   "Deep focus leaves the choice open. Forced Perspective may need deep focus so the scale lie is not exposed by blur."
+  ],
+  "examples_film": [
+   "Citizen Kane keeps young Kane readable outside the window behind the adults. Touch of Evil holds near and distant figures in the same legible compositions.",
+   "The Best Years of Our Lives uses deep space so a whole room can act at once."
+  ],
+  "mistakes": [
+   "Wrong cousin: split diopter or a composite of two sharp layers with mush in the middle. Tell: a vertical blur stripe, mismatched grain between planes, or a rack hiding in the still.",
+   "Fix: one continuous volume, matched perspective, both distances sharp without a join."
+  ],
+  "faq": [
+   {
+    "q": "What is deep focus in film?",
+    "a": "A large range of distances appearing acceptably sharp in one image, so near and far action can be read together without a focus pull."
+   },
+   {
+    "q": "Deep focus vs split diopter",
+    "a": "Deep focus is continuous sharpness through space. A split diopter is a half-lens that sharpens two planes and leaves a blur seam between them."
+   },
+   {
+    "q": "When should I use deep focus?",
+    "a": "When the audience should find the story in the whole room. Do not use it when isolation is the point, or when the stop would underexpose the set."
+   },
+   {
+    "q": "How do I prompt deep focus for AI image or video?",
+    "a": "Name a near object and a far plane, require both sharp, forbid rack focus and a split seam, and keep perspective continuous."
+   }
+  ]
+ },
+ {
+  "slug": "diorama",
+  "title": "Diorama",
+  "zh_title": "微缩模型",
+  "narrative": [
+   "A city, a ship, a hotel wing sits on a table or a stage, built at an inch to the foot or another ratio. The camera treats it as full size: enough stop for deep focus, a slow pass, fine windows, hard distant key.",
+   "Water, fire, and smoke are the hard parts, because fluids do not scale. Use it when a world should be tactile and built: a spacecraft, an industrial skyline, a storybook hotel.",
+   "The pleasure is that light is true on small surfaces. It is the wrong tool when you point a tilt-shift lens at a real city to make it look like a model, or when you align two live actors at different distances to lie about size.",
+   "Those are cousins. If depth of field is a thin band, the miniature will look like a miniature."
+  ],
+  "how": [
+   "Build surface scale (panel lines, dirt, tiny lights). Light with a hard, distant key as if the sun were far.",
+   "Stop down. Move slowly.",
+   "For water and fire, high-speed capture can help scale. Prompt: miniature world photographed as full size, deep enough focus, tactile model surfaces, not tilt-shift toy blur."
+  ],
+  "when": [
+   "An orbital freighter as a detailed model, slow camera pass, tiny windows, deep focus against a black field. Do not add a thin horizontal band of focus that announces tabletop scale."
+  ],
+  "vs": [
+   "Tilt-Shift tilts the plane of focus to make a real landscape look like a toy. Diorama is an actual model, usually shot deep to hide scale.",
+   "Forced Perspective uses live people and scaled set pieces from one viewpoint. Macro is close focus on small things as small things.",
+   "Diorama wants the small thing to read as large."
+  ],
+  "examples_film": [
+   "Blade Runner uses industrial miniatures for city and architecture. 2001: A Space Odyssey photographs spacecraft and stations as models.",
+   "The Grand Budapest Hotel uses storybook miniatures as a designed world. Those are model stages, not tilt-shift streets."
+  ],
+  "mistakes": [
+   "Wrong cousin: tilt-shift, or a digital city with shallow tabletop focus. Tell: a thin focus band, fast toy-like motion, coarse textures, fluids that look like pouring on a desk.",
+   "Fix: finer detail, deeper stop, slower move, scale-aware effects."
+  ],
+  "faq": [
+   {
+    "q": "What is diorama in film?",
+    "a": "Photography of scale models standing in for large objects or places. Real light on real miniature surfaces, sold as full size by focus, speed, and texture."
+   },
+   {
+    "q": "Diorama vs tilt-shift",
+    "a": "Diorama is a real model, usually shot with enough depth of field to look large. Tilt-shift is a focus trick that makes a real full-size scene look small."
+   },
+   {
+    "q": "When should I use diorama?",
+    "a": "When a world should be a built, tactile miniature. Do not use it if you only want a toy look on a real city, or a live-action size lie between two actors."
+   },
+   {
+    "q": "How do I prompt diorama for AI image or video?",
+    "a": "Specify a physical miniature, fine surface scale, deep focus, slow camera. Forbid tilt-shift shallow bands and fast toy acceleration."
+   }
+  ]
+ },
+ {
+  "slug": "distortions",
+  "title": "Distortions",
+  "zh_title": "镜头畸变",
+  "narrative": [
+   "Walls lean. Faces balloon as they near the glass.",
+   "A hallway breathes. Space is not trustworthy.",
+   "The cause can be a very wide spherical, a fisheye, anamorphic mumps, heat shimmer, or a shot through a glass of water. Use it when the location should feel unsafe or subjective: a droogs' wide, a binge, a peephole, a fever.",
+   "Pick a distortion family and keep it consistent with the glass. It is the wrong tool for a clean normal-lens master, for flare without warp, or for a kaleidoscope of mirrors.",
+   "If color fringes without bent lines, that is chromatic aberration. If the whole mind is unhooked, consider altered state, of which distortion may be one part."
+  ],
+  "how": [
+   "Choose the glass: 14 mm or fisheye for barrel, long glass for pincushion, anamorphic for mumps and wave, a close diopter for melt at the edge. Get too close to faces on a wide and perspective distortion adds to optical distortion.",
+   "Prompt: optical distortion around [Subject], stretched edges, melted geometry, named wide or fisheye, not a flare overlay."
+  ],
+  "when": [
+   "A close wide on a face in a tense interior, edges stretching, the room bowing, space untrustworthy. Do not keep a 50 mm rectilinear room and paste melted corners as a sticker."
+  ],
+  "vs": [
+   "Fisheye is the extreme barrel member of this family, with a circular or strongly bowed field. Lens Flare is scatter, not geometry.",
+   "Chromatic Aberration fringes color on edges. 14mm Ultra-Wide distorts through field of view and proximity even when the designer corrects barrel.",
+   "Altered State may include distortion plus time and color."
+  ],
+  "examples_film": [
+   "A Clockwork Orange uses extreme wides so rooms and faces are geometrically hostile. Fear and Loathing in Las Vegas melts space as intoxication.",
+   "Those are glass and proximity, not a warp filter parked on a normal lens."
+  ],
+  "mistakes": [
+   "Wrong cousin: lens flare, fisheye circular crop without the scene, or altered-state color smear with straight walls. Tell: rainbow streaks, a round porthole sticker, or a clean rectilinear room with a melted overlay.",
+   "Fix: choose a lens family, bow lines, let near faces balloon, keep the warp attached to the optic."
+  ],
+  "faq": [
+   {
+    "q": "What is lens distortion in film?",
+    "a": "Geometric warping of space by the optic or by shooting through a distorting surface. Straight lines bow or stretch. The map of the room is no longer true."
+   },
+   {
+    "q": "Distortions vs fisheye",
+    "a": "Fisheye is a specific extreme barrel lens. Distortions is the larger family: barrel, pincushion, anamorphic wave, heat, glass of water. Fisheye is one tool in that kit."
+   },
+   {
+    "q": "When should I use distortions?",
+    "a": "When space should not be trustworthy. Do not use them on coverage that still has to be architecturally honest."
+   },
+   {
+    "q": "How do I prompt distortions for AI image or video?",
+    "a": "Name the glass (ultra-wide, fisheye) or the surface, describe bowed lines and stretched edges, and forbid flare-only artifacts or a sticker warp."
+   }
+  ]
+ },
+ {
+  "slug": "double-exposure",
+  "title": "Double Exposure",
+  "zh_title": "双重曝光",
+  "narrative": [
+   "A face in a city. A ghost in rain.",
+   "Fireplace flames laid over a locked interior. Two times share density.",
+   "The result can be lyrical (memory, a second self) or purely practical (an element you could not shoot with the first pass). Use it when two records should coexist: a thought over a room, a spirit over a landscape, fire added later.",
+   "Superimposition is the family. Actor doubling with a split matte is one application, not the whole technique.",
+   "It is the wrong tool when you need two solid bodies that occlude each other, cast contact shadows, and pass objects. That is duplication or a split-matte composite, not a ghosted overlay.",
+   "It is also the wrong tool when a dissolve would carry you from one time to the next instead of stacking them."
+  ],
+  "how": [
+   "In camera: expose, matte off part of the gate or shoot a full overlay, rewind, expose again with matched lighting. Optically: bi-pack or printer pass.",
+   "Digitally: additive mix or screened layers, or a hard split matte for twins. Lock the camera unless both passes share motion control.",
+   "Prompt two named images sharing one frame, optical overlay, not a hard cut and not a morph."
+  ],
+  "when": [
+   "A face superimposed over rain-soaked rooftops so memory and place occupy one still. Do not use a translucent overlay when two twins must sit at one table and pour tea."
+  ],
+  "vs": [
+   "Dissolve is a temporal crossfade from shot A to shot B. Double exposure holds both at once.",
+   "Duplication makes two solid performances of the same body in one space, usually with mattes, not ghosts. Morph interpolates geometry from one form into another.",
+   "Overlay is not transformation. Match Cut joins two shots.",
+   "Double exposure never cuts."
+  ],
+  "examples_film": [
+   "Persona stacks faces until identity is a density problem. The Tree of Life lays memory over photographed nature.",
+   "The Shining adds fireplace flames with a separate exposure. The Parent Trap and Adaptation use related splitting and doubling when two bodies must coexist, which is the cousin, not the same overlay."
+  ],
+  "mistakes": [
+   "Wrong cousin: dissolve, morph, or twin duplication. Tell: one image simply fades into the next, or two solid people with no shared density, or a face melting into a building.",
+   "Fix: keep both images present, set opacity or a matte on purpose, and decide whether the second pass is ghost or solid."
+  ],
+  "faq": [
+   {
+    "q": "What is double exposure in film?",
+    "a": "Two image records combined on one frame, in camera, in an optical printer, or digitally. Elements shot at different times appear together."
+   },
+   {
+    "q": "Double exposure vs dissolve",
+    "a": "A dissolve is a transition that leaves shot A for shot B. A double exposure is a stack: both pictures remain visible in the same frame."
+   },
+   {
+    "q": "When should I use double exposure?",
+    "a": "When two times, two selves, or two elements should occupy one image. Do not use it when you need two solid, occluding bodies."
+   },
+   {
+    "q": "How do I prompt double exposure for AI image or video?",
+    "a": "Name both images, say optical overlay or in-camera double exposure, and specify whether the second pass is translucent or matted. Ban morph and hard split-screen unless that is the job."
+   }
+  ]
+ },
+ {
+  "slug": "duplication",
+  "title": "Duplication",
+  "zh_title": "同屏分身",
+  "narrative": [
+   "One person is not a single self. Two performances share a kitchen.",
+   "They argue, pass a look, fail to occupy the same chair. Contact shadows, eyelines, and any exchanged object are the hard problems.",
+   "Two similar-looking people are not automatically this effect. Use it when identity splits in space: twins, a writer and his brother, a man meeting himself.",
+   "The encounter should feel physically ordinary. It is the wrong tool when the second self is a ghost (double exposure), when the frame is simply divided (split-screen as the visible device), or when one body melts into another (morph).",
+   "If they cannot sit in depth and occlude, you have the wrong cousin."
+  ],
+  "how": [
+   "Lock the camera or repeat the move with motion control. Record a clean plate.",
+   "Shoot each performance with matched light. Use a split matte where bodies stay apart, or tracked masks where they overlap.",
+   "Plan contact and handed objects as separate shots or as later help. Prompt: the same figure twice in one frame, solid bodies, matched lighting, not a ghost overlay, not a visible split line unless you want split-screen."
+  ],
+  "when": [
+   "Two versions of one woman across a kitchen table, distinct posture and clothing, shared shadows, locked camera. Do not stack them as translucent densities, and do not leave a vertical join down the table."
+  ],
+  "vs": [
+   "Double Exposure is additive overlay. Ghosts, not two sitters.",
+   "Split Screen shows two pictures with a designed border, which can be how duplication is done if the join is visible. Seamless duplication hides the join.",
+   "Morph turns one form into another over time. Duplication keeps both."
+  ],
+  "examples_film": [
+   "The Parent Trap seats one performer as both twins in shared compositions. Adaptation puts Charlie and Donald in the same scenes.",
+   "Enemy multiplies a man as encounter. The Social Network uses similar motion-control doubling for the Winklevoss pair."
+  ],
+  "mistakes": [
+   "Wrong cousin: double exposure, split-screen with a hard line, or two lookalikes who are not the same face. Tell: translucent stack, a seam down the set, mismatched grain or key, hovering hands.",
+   "Fix: locked or motion-controlled plates, identical identity, shared shadows, planned occlusion."
+  ],
+  "faq": [
+   {
+    "q": "What is duplication in film?",
+    "a": "The same performer appearing more than once in a shot as solid bodies, usually via split mattes or motion control. It is a spatial double, not a ghost overlay."
+   },
+   {
+    "q": "Duplication vs double exposure",
+    "a": "Double exposure stacks densities so both images show through. Duplication composites two performances so each body can occlude, sit, and cast shadow."
+   },
+   {
+    "q": "When should I use duplication?",
+    "a": "When one person must meet themselves as a physical other. Do not use it for a memory ghost or for a morph from one face into another."
+   },
+   {
+    "q": "How do I prompt duplication for AI image or video?",
+    "a": "Ask for the same face twice, distinct poses, matched lighting, contact shadows, locked camera. Forbid translucent overlay and a visible split line unless split-screen is the point."
+   }
+  ]
+ },
+ {
+  "slug": "echo-print",
+  "title": "Echo Print",
+  "zh_title": "残影印片",
+  "narrative": [
+   "Use it when a gesture has already happened and the present cannot shake it. A head turns and the old profile hangs a few pixels away.",
+   "A step leaves a faint body where the foot was. Time reads as a registration error.",
+   "It is the wrong tool for a clean double of two living people in conversation. If both images are fully exposed and equally sharp, you shot a superimposition, not a stain."
+  ],
+  "how": [
+   "Keep the camera locked or on a short path. Copy the previous frame, offset it along the motion vector by a few pixels or a few milliseconds, and print it at lower opacity.",
+   "Optical printers did this with a slight mis-register. Video echo does it with delay.",
+   "One key still lights the live body. The ghost has no second key.",
+   "Prompt an afterimage offset in time or register, and say that the last frame is still printed on this one."
+  ],
+  "when": [
+   "Use it for the beat after a look, a blow, or a departure, when the last pose should remain as a stain. Do not use it to introduce a twin who must occupy the room as a solid person."
+  ],
+  "vs": [
+   "Double Exposure combines two complete pictures. An echo print is a faded offset of the same action.",
+   "Step Printing repeats discrete frames to slow or stutter a take. The echo is a smear of register, not a held frame."
+  ],
+  "examples_film": [
+   "Experimental optical printing and title-design ghosts are the grammar: a credit or a figure that leaves a trail of itself. Video-echo music videos do the same with delay.",
+   "These are uses of the stain, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Double Exposure . The tell is two equally solid bodies, both keyed, both sharp.",
+   "The fix is one live subject and a fainter, offset copy of the same pose, no second lamp."
+  ],
+  "faq": [
+   {
+    "q": "What is echo print in film?",
+    "a": "Echo print leaves a ghosted afterimage offset in time or register, as if the last frame were still printed on this one. The past of the gesture remains visible as a stain."
+   },
+   {
+    "q": "Echo print vs double exposure",
+    "a": "Double exposure combines two complete images. Echo print reprints a delayed or mis-registered copy of the same action at lower strength. One is two pictures. The other is a trail."
+   },
+   {
+    "q": "When should I use echo print?",
+    "a": "Use it when a movement should leave a mark: a turn, a blow, a person already gone. Skip it when you need two solid people sharing a scene."
+   },
+   {
+    "q": "How do I prompt echo print for AI image or video?",
+    "a": "Name the subject, then demand a ghosted afterimage offset in time or register. Keep one key. Say the last frame is still printed on this one. For video, afterimages should trail the present pose."
+   }
+  ]
+ },
+ {
+  "slug": "feedback",
+  "title": "Feedback",
+  "zh_title": "视频反馈",
+  "narrative": [
+   "The medium stares at itself. A face on a tube is recaptured, recaptured again, and the room becomes a hallway of the same look.",
+   "Use it when the story is about watching, broadcast, or a mind that cannot get out of the signal. It is the wrong tool for a simple loop of action.",
+   "If the last frame merely sews to the first, you have a cycle in time, not a camera eating its monitor."
+  ],
+  "how": [
+   "Aim the taking lens at a playback screen that shows the live feed. A slight off-axis angle builds a corridor.",
+   "Dead-on nesting builds rectangles inside rectangles. Gain, lag, and the phosphor or pixel bloom set how fast the tunnel eats itself.",
+   "The subject is usually close to the screen so the first generation is readable. Prompt video feedback around the subject: camera looking into its own output, infinite corridor of the same face."
+  ],
+  "when": [
+   "Use it when a person is trapped in a transmission, a title, or a night of monitors. Do not use it as wallpaper behind a dialogue scene that still needs geography."
+  ],
+  "vs": [
+   "Kaleidoscope mirrors facets of one image into symmetry. Feedback nests generations of the same capture.",
+   "Infinite Loop sews the last frame to the first in time. Feedback is optical recursion, not a cycle of action."
+  ],
+  "examples_film": [
+   "1960s tape experiments pointed cameras at monitors until the image tunnelled. The Doctor Who howlaround titles are the famous broadcast version.",
+   "Music videos still use the same recursive corridor. Grammar, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Kaleidoscope or a simple video loop. The tell is mirrored wedges or a repeating walk with no nested screen.",
+   "The fix is a camera aimed at its own output, generations shrinking down a tunnel."
+  ],
+  "faq": [
+   {
+    "q": "What is feedback in film?",
+    "a": "Video feedback is a camera looking into its own output so the image rephotographs itself into a nested corridor. Bloom, lag, and a tunnel of the same face are the picture."
+   },
+   {
+    "q": "Feedback vs kaleidoscope",
+    "a": "A kaleidoscope mirrors one image into symmetric facets. Feedback recaptures the live picture from a monitor, stacking generations rather than folding the frame."
+   },
+   {
+    "q": "When should I use feedback?",
+    "a": "Use it when the story is the signal watching itself: broadcast, hypnosis, a face trapped in a tube. Skip it for ordinary looping action."
+   },
+   {
+    "q": "How do I prompt feedback for AI image or video?",
+    "a": "Say video feedback, camera looking into its own output, infinite corridor of the same face. For motion, the image should eat itself into a tunnel. Keep a readable first generation."
+   }
+  ]
+ },
+ {
+  "slug": "film-grain",
+  "title": "Film Grain",
+  "zh_title": "胶片颗粒",
+  "narrative": [
+   "The image is made of particles that change every frame. Shadows crawl.",
+   "Midtones have a living grain. Highlights are not a separate smooth plate.",
+   "Format and stock speed set the size: 16mm reads coarser in the frame than 35mm or 65mm. Use it when the picture should feel exposed and processed, not drawn.",
+   "A rooftop at blue hour, a winter platform, a handheld interior. Grain should scale with density, not stamp the same speckle on sky and coat alike.",
+   "It is the wrong tool as a default film look on a sharp digital plate. If the grain is identical on every frame, or floats above motion blur, it is a layer, not an emulsion."
+  ],
+  "how": [
+   "On film, choose stock and format: faster stocks and smaller negatives show more grain. Push processing increases it.",
+   "Digitally, generate monochromatic grain that is denser in midtones and shadows, temporally unstable, and finer on larger implied formats. Do not sharpen after.",
+   "Prompt 16mm or 35mm texture, living grain, no overlay."
+  ],
+  "when": [
+   "A charcoal coat on wet slate at blue hour, 35mm grain in the dusk, chimney smoke breaking into particles. Do not paste coarse grain on an already sharp product still and call it developed."
+  ],
+  "vs": [
+   "Halation is highlight bloom in the layers, not the particle field. Filmic Faded is a contrast and color decision (lifted blacks, reduced saturation), which can sit with grain but is not grain.",
+   "Light Leak fogs from the edge with unfiltered light. Grain is the stock's texture everywhere the image has density."
+  ],
+  "examples_film": [
+   "The Revenant lets natural-light textures read as a developed image rather than a clean sensor. Roma is large-format stillness with a photochemical finish, not a grain storm.",
+   "Saving Private Ryan uses a harsher, tighter grain as combat stock language."
+  ],
+  "mistakes": [
+   "Wrong cousin: a repeating overlay, digital noise, or halation bloom. Tell: identical grain on every frame, speckle in clipped whites, or a wallpaper that ignores motion.",
+   "Fix: per-frame grain, format-sized particles, density-weighted, no overlay."
+  ],
+  "faq": [
+   {
+    "q": "What is film grain in film?",
+    "a": "Random texture from silver crystals or dye clouds in the emulsion. Size follows stock speed and negative area. It changes every frame."
+   },
+   {
+    "q": "Film grain vs halation",
+    "a": "Grain is the particle structure of the image. Halation is a warm glow around bright highlights from light bouncing in the film layers."
+   },
+   {
+    "q": "When should I use film grain?",
+    "a": "When the image should feel developed rather than rendered. Match grain size to format. Do not stamp one overlay on every shot."
+   },
+   {
+    "q": "How do I prompt film grain for AI image or video?",
+    "a": "Name 16mm or 35mm, ask for living per-frame texture in shadows and midtones, and forbid a repeating overlay."
+   }
+  ]
+ },
+ {
+  "slug": "floating-fall",
+  "title": "Floating Fall",
+  "zh_title": "漂浮坠落",
+  "narrative": [
+   "Someone has left the roof. The coat opens late.",
+   "Hair hangs. The street is still far.",
+   "Use it for the beat after the push, when the drop should feel like a hymn and a disaster at once. It is the wrong tool for a hover, and for a real-time camera drop.",
+   "If there is no net descent, you shot levitation. If the whole frame is simply overcranked equally, you shot slow motion of a normal fall."
+  ],
+  "how": [
+   "Keep downward travel. Delay gravity on hair, coat, and debris more than on the torso.",
+   "If the camera is locked, the body drifts down through a stable frame. If the camera also drops, the building or cliff should still parallax as falling-past.",
+   "A side-key keeps the body separate from the void. Name the height and what is already below.",
+   "Prompt a floating fall: a body hanging in slow drop, delayed gravity. For video, falls in slow, floating pieces, delayed gravity."
+  ],
+  "when": [
+   "Use it for the second after leaving the ledge, the dream of dropping, the stunt that should hang. Do not use it for a slapstick trip down stairs unless the joke is that time went soft."
+  ],
+  "vs": [
+   "Levitation hovers with no net drop. Falling uses real-time weight, ground rushing.",
+   "Slow Motion overcranks the whole shot equally. A floating fall delays gravity on the body while descent remains the plot."
+  ],
+  "examples_film": [
+   "Inception 's hallway physics turns a fall into a drift through architecture. The Matrix rooftop and street drops hang bodies in delayed time.",
+   "Grammar of delayed gravity, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousins are balloon Levitation and ordinary Slow Motion . The tell is a body that never descends, or a normal fall that is only slowed.",
+   "The fix is net downward travel, delayed cloth, and a readable ground."
+  ],
+  "faq": [
+   {
+    "q": "What is floating fall in film?",
+    "a": "A floating fall is a drop with delayed gravity: the body hangs in a slow descent, hair and coat late, the ground still far. It is a fall, not a hover."
+   },
+   {
+    "q": "Floating fall vs levitation",
+    "a": "Levitation stays up. A floating fall goes down with the clock wrong. One needs a gap under the feet that does not close. The other needs a ground that is coming."
+   },
+   {
+    "q": "When should I use floating fall?",
+    "a": "Use it for the beat after the push, when a drop should hang. Skip it for a true hover, and for a real-time camera fall with rushing ground."
+   },
+   {
+    "q": "How do I prompt floating fall for AI image or video?",
+    "a": "Write Floating fall of [Subject], a body hanging in slow drop, hair and coat in delayed gravity. Name height and ground. For video, slow floating pieces, path still down."
+   }
+  ]
+ }
+]

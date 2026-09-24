@@ -23,6 +23,7 @@ const S = {
   subject: store.get('subject', ''),
   zh: store.get('zh', true),
   tab: store.get('tab', 'pi'),
+  bodyEn: store.get('body-en', false),
   pick: store.get('pick', {}),          // 收藏夹里被勾选进组合的条目（默认全选）
   lib: { q: '', cat: '', kind: '', favOnly: false }
 };
@@ -584,7 +585,9 @@ function renderModal(slug) {
     lessonLinks,
     h('div', { class: 'm-def' },
       h('p', { class: 'def-zh' }, e.d[1]),
-      h('p', { class: 'def-en', lang: 'en' }, e.d[0])),
+      h('p', { class: 'def-en', lang: 'en' }, e.d[0]),
+      h('button', { type: 'button', class: 'jump', onclick: () => { const t = panel.querySelector('.m-text'); if (t) t.scrollIntoView({ behavior: 'smooth', block: 'start' }); } },
+        '读完整讲解：叙事作用 · 怎么拍 · 常见错误', icon('right'))),
     promptPanel(e));
 
   const rel = e.r && e.r.length ? h('section', { class: 'm-related' },
@@ -596,6 +599,7 @@ function renderModal(slug) {
 
   panel.appendChild(head);
   panel.appendChild(h('div', { class: 'm-body' }, media, info));
+  panel.appendChild(bodySection(slug));
   if (rel) panel.appendChild(rel);
   if (list) panel.appendChild(h('p', { class: 'm-hint' }, '快捷键：← → 切换 · F 收藏 · Esc 关闭'));
   panel.focus({ preventScroll: true });
@@ -633,6 +637,66 @@ function promptPanel(e) {
   wrap.appendChild(body);
   draw();
   return wrap;
+}
+/* ----- 原站讲解（逐条 JSON，打开详情时才加载） ----- */
+const BODY_SECS = [
+  ['narrative', '叙事作用', '这个手法在故事里做什么'],
+  ['how', '怎么拍', '机位、器材与执行要点'],
+  ['when', '什么时候用', '适合与不适合的场景'],
+  ['vs', '和相近手法的区别', '容易混淆的邻居'],
+  ['examples_film', '电影里的例子', '去哪些片子里看'],
+  ['mistakes', '常见错误', '通常哪里会出问题，怎么修'],
+  ['faq', '常见问题', '']
+];
+const bodyCache = {};
+function loadBody(slug) {
+  if (bodyCache[slug] == null) {
+    bodyCache[slug] = fetch('body/' + slug + '.json?v=__BODYV__').then(r => { if (r.ok === false) throw new Error(r.status); return r.json(); });
+    bodyCache[slug].catch(() => { delete bodyCache[slug]; });
+  }
+  return bodyCache[slug];
+}
+function bodySection(slug) {
+  const enBtn = h('button', { type: 'button', class: 'chip-toggle' + (S.bodyEn ? ' on' : ''), 'aria-pressed': S.bodyEn ? 'true' : 'false' }, '对照英文原文');
+  const grid = h('div', { class: 'bt-grid' }, h('p', { class: 'muted' }, '正在载入讲解…'));
+  const sec = h('section', { class: 'm-text' },
+    h('div', { class: 'bt-head' }, h('div', null, h('h3', null, '原站讲解'), h('small', null, '译自 Melies 原站正文，英文可对照')), enBtn),
+    grid);
+  let data = null;
+  function draw() {
+    grid.textContent = '';
+    BODY_SECS.forEach(([k, title, sub]) => {
+      const zh = data.zh[k] || [], en = data.en[k] || [];
+      if (zh.length === 0) return;
+      const card = h('article', { class: 'bt-card bt-' + k }, h('h4', null, title, sub ? h('small', null, sub) : null));
+      zh.forEach((p, i) => {
+        if (k === 'faq') {
+          card.appendChild(h('div', { class: 'qa' },
+            h('p', { class: 'q' }, p.q), h('p', null, p.a),
+            S.bodyEn && en[i] ? h('p', { class: 'en', lang: 'en' }, en[i].q + ' — ' + en[i].a) : null));
+        } else {
+          card.appendChild(h('p', null, p));
+          if (S.bodyEn && en[i]) card.appendChild(h('p', { class: 'en', lang: 'en' }, en[i]));
+        }
+      });
+      grid.appendChild(card);
+    });
+  }
+  enBtn.addEventListener('click', () => {
+    S.bodyEn = S.bodyEn === false;
+    store.set('body-en', S.bodyEn);
+    enBtn.classList.toggle('on', S.bodyEn);
+    enBtn.setAttribute('aria-pressed', S.bodyEn ? 'true' : 'false');
+    if (data) draw();
+  });
+  function load() {
+    loadBody(slug).then(b => { data = b; draw(); }, () => {
+      grid.textContent = '';
+      grid.appendChild(h('p', { class: 'muted' }, '讲解载入失败。', h('button', { type: 'button', class: 'btn', onclick: () => { grid.textContent = '正在载入讲解…'; load(); } }, '重试')));
+    });
+  }
+  load();
+  return sec;
 }
 function hideModal() {
   if (modal.hidden) return;

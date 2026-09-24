@@ -1,0 +1,2530 @@
+[
+ {
+  "slug": "dolly-in",
+  "title": "Dolly In",
+  "zh_title": "推轨推进",
+  "narrative": [
+   "The camera enters a mind, a room, or a threat by occupying new air. Unlike a cut, the audience experiences the change of attention continuously.",
+   "A small travel can make a thought feel consequential because space itself has agreed to close. It is the wrong tool when you want optical compression without new geography, or when the beat is only a sting.",
+   "If the track is longer than the thought, the move tours."
+  ],
+  "how": [
+   "Lay track or roll a wheeled dolly on a known axis. Fix focal length, usually a moderate spherical such as 40mm.",
+   "Keep eye height constant unless the story changes rank. Tie the arrival at close-up to a change in the actor's thought.",
+   "Foreground objects will slide. Prompt a physical dolly in on track, camera body gliding forward, parallax shifting, no optical zoom."
+  ],
+  "when": [
+   "Use it to enter a mind, a room, or a threat, because geography changes when the camera walks. Concrete beat: a medium two-shot that arrives on a lie forming in one face.",
+   "Do not use a digital zoom and call it a dolly."
+  ],
+  "vs": [
+   "A Slow Zoom In keeps the station point and only changes focal length, so there is no walking parallax. A Push In is the pressure job that can be a short dolly, slider, or Steadicam; dolly in names the wheeled path and the traction.",
+   "Tracking Shot matches a mover instead of closing on a still thought."
+  ],
+  "examples_film": [
+   "The Shining uses measured forward travel through the hotel so rooms become traps. Goodfellas often walks the camera as social pressure, distinct from its Copa track.",
+   "Oldboy 's corridor work is mostly lateral tracking; use it as a reminder that forward dolly and side track are different axes. Grammar for translation, not a shot to duplicate."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Slow Zoom In or a crop. The tell is missing parallax: walls grow but never slide.",
+   "The fix is a real translation, fixed focal length, constant eye height, and an end frame tied to a thought, not to a clock."
+  ],
+  "faq": [
+   {
+    "q": "What is Dolly In in film?",
+    "a": "It is a physical advance of the camera on wheels or track toward a subject, changing perspective and introducing parallax as the frame tightens."
+   },
+   {
+    "q": "Dolly In vs Slow Zoom In",
+    "a": "Slow zoom in enlarges from a locked position and compresses space. Dolly in walks the camera, so near objects move faster than far ones and the room rearranges."
+   },
+   {
+    "q": "When should I use Dolly In?",
+    "a": "When a thought, a threat, or a room must be entered in continuous space. Do not use it for a one-frame sting or for a lens-only squeeze."
+   },
+   {
+    "q": "How do I prompt Dolly In for AI image or video?",
+    "a": "Say physical dolly in on track, fixed lens, forward body travel, visible foreground parallax, no optical zoom. Name the start size and the arrival size."
+   }
+  ]
+ },
+ {
+  "slug": "dolly-left",
+  "title": "Dolly Left",
+  "zh_title": "推轨左移",
+  "narrative": [
+   "The shot surveys a space or stays with a walker without yawing the head. New information enters from the left as the right side of the room exits.",
+   "Because the camera translates, pillars and furniture change their overlap instead of merely sweeping. It is the wrong tool when you only need to look left from a locked tripod.",
+   "A pan would rotate; this move relocates."
+  ],
+  "how": [
+   "Lay track parallel to the action, horizon locked, height constant. Do not pan to invent the move: the body slides, the lens holds its relative aim.",
+   "Subject may stay framed while the world peels, or the camera may discover a new person as it trucks. Prompt a lateral dolly left on track, background planes peeling, subject tracked in frame."
+  ],
+  "when": [
+   "Use it to survey a space or stay with a walker without turning the camera. Concrete beat: sliding along a diner counter so each stool and face arrives in order.",
+   "Do not pan from sticks and label it a truck."
+  ],
+  "vs": [
+   "A Pan Left rotates on a fixed vertical axis with no body travel. A Dolly Right is the same translation the other way: pick the direction that reveals new information.",
+   "Tracking Shot often trucks like this while matching a mover's pace; dolly left can also survey a still line of objects."
+  ],
+  "examples_film": [
+   "There Will Be Blood uses lateral travel to read rooms and landscapes as systems. In the Mood for Love slides along corridors and walls so delay and gossip live in the peeling planes.",
+   "Use the side-slip, not the color grade."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Pan Left . The tell is a rotating horizon of objects with no change of station point, and no peeling of near columns against far walls.",
+   "The fix is a true sideways translation, level horizon, fixed height."
+  ],
+  "faq": [
+   {
+    "q": "What is Dolly Left in film?",
+    "a": "It is a lateral truck of the camera body to the left on wheels or track, keeping the lens aimed while space peels in parallax."
+   },
+   {
+    "q": "Dolly Left vs Pan Left",
+    "a": "Pan left turns the head on a locked tripod. Dolly left moves the support sideways, so foreground and background slide at different speeds."
+   },
+   {
+    "q": "When should I use Dolly Left?",
+    "a": "When the next fact is to the left in real space and you want to arrive there by traveling, not by looking. Do not use it if a simple pan connects the two facts."
+   },
+   {
+    "q": "How do I prompt Dolly Left for AI image or video?",
+    "a": "Specify lateral dolly left on track, no pan, locked horizon, visible parallax, subject held in frame. Name what new architecture enters from the left."
+   }
+  ]
+ },
+ {
+  "slug": "dolly-out",
+  "title": "Dolly Out",
+  "zh_title": "推轨后拉",
+  "narrative": [
+   "We understand an expression first, then discover the social situation or danger that gives it meaning. Leaving someone behind is a spatial fact: the camera walks away, so the person is abandoned in a real room.",
+   "It is the wrong tool when you only need a detached, flat widening, or when the famous pull-back you remember was actually a zoom. Check perspective before you name the rig."
+  ],
+  "how": [
+   "Compose the tight and wide endpoints first. Reveal surrounding elements in a deliberate order as the dolly retreats.",
+   "Keep focal length fixed so size change comes from distance. Foreground will enter from the edges.",
+   "Prompt a physical dolly out on track, true parallax, subject shrinking inside architecture, no zoom-out."
+  ],
+  "when": [
+   "Use it to leave someone behind, or to show how small they are in the system. Concrete beat: a confession in close coverage, then the camera retreats until the office owns them.",
+   "Do not call every famous pull-back a dolly."
+  ],
+  "vs": [
+   "A Pull Out is the generic retreat job and may be virtual, Steadicam, or crane-backed; dolly out specifies wheeled translation at human height. A Slow Zoom Out widens without walking.",
+   "An Aerial Pullback leaves the ground and hands the scene to geography from above."
+  ],
+  "examples_film": [
+   "A Clockwork Orange withdraws from Alex to reveal the Korova Milk Bar. The Godfather opens by withdrawing from Bonasera until the office encounter is the room.",
+   "The Truman Show uses retreat to disclose the container around a life. Confirm each shot's parallax before treating it as track."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Slow Zoom Out . The tell is a flat grow of the frame with no new overlap of furniture.",
+   "The fix: translate backward, keep the lens fixed, and let foreground objects arrive at the edges in order."
+  ],
+  "faq": [
+   {
+    "q": "What is Dolly Out in film?",
+    "a": "It is a physical retreat of the camera on wheels or track, opening space around a subject with changing perspective and parallax."
+   },
+   {
+    "q": "Dolly Out vs Slow Zoom Out",
+    "a": "Slow zoom out stays put and only widens the lens. Dolly out moves the camera backward, so the room's layers slide and the person is left in real space."
+   },
+   {
+    "q": "When should I use Dolly Out?",
+    "a": "When isolation, abandonment, or a revealed system must be walked, not merely disclosed by the lens. Do not use it for a sting widen."
+   },
+   {
+    "q": "How do I prompt Dolly Out for AI image or video?",
+    "a": "Write physical dolly backward on track, fixed focal length, parallax, subject shrinking in architecture. Ban optical zoom out."
+   }
+  ]
+ },
+ {
+  "slug": "dolly-right",
+  "title": "Dolly Right",
+  "zh_title": "推轨右移",
+  "narrative": [
+   "Direction is a reveal order. Trucking right can disclose a listener, a door, or a threat that was legally off-screen to camera right.",
+   "The horizon stays level; only the world slides. It is the wrong tool when the camera should yaw to glance, or when a few centimeters of slider would be enough.",
+   "Pick the side that produces information, not a decorative glide."
+  ],
+  "how": [
+   "Track parallel, height and tilt constant, no compensatory pan unless you are combining moves on purpose. Keep the horizon locked.",
+   "Prompt a lateral dolly right, smooth sideways travel, layered parallax, locked horizon."
+  ],
+  "when": [
+   "Use the opposite of dolly left: pick the direction that reveals new information. Concrete beat: sliding right along a car's profile until a second passenger appears.",
+   "Do not truck both ways in one clip without a reason."
+  ],
+  "vs": [
+   "Dolly Left is the same physics mirrored. A Pan Right only rotates.",
+   "Tracking Shot uses this lateral axis when the subject is also moving; dolly right can scan a still lineup. A Slider Shot is a short version of the same linear idea."
+  ],
+  "examples_film": [
+   "Children of Men often relocates the camera through real streets rather than glancing from a locked head. The Player 's studio-lot sentence includes lateral travel as part of a longer choreography.",
+   "Take the side-slip as grammar, not the whole oner."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Pan Right or an 360-Degree Orbit that starts to curve. The tell is yaw, a dipping horizon, or a changing camera-to-subject distance.",
+   "The fix: straight track, rightward translation, constant radius to the subject if you are holding them."
+  ],
+  "faq": [
+   {
+    "q": "What is Dolly Right in film?",
+    "a": "It is a sideways translation of the camera to the right on wheels or track, with the lens holding its aim and the background peeling in parallax."
+   },
+   {
+    "q": "Dolly Right vs Pan Right",
+    "a": "Pan right is rotation from a fixed support. Dolly right relocates the support, so near objects pass faster than distant ones."
+   },
+   {
+    "q": "When should I use Dolly Right?",
+    "a": "When the story fact you need is to camera right and should be reached by travel. Do not use it as a default polish on a lock-off."
+   },
+   {
+    "q": "How do I prompt Dolly Right for AI image or video?",
+    "a": "Write dolly right on track, no pan, locked horizon, layered parallax, subject kept in frame. State what enters from the right."
+   }
+  ]
+ },
+ {
+  "slug": "dolly-zoom",
+  "title": "Dolly Zoom",
+  "zh_title": "希区柯克变焦",
+  "narrative": [
+   "The person appears fixed while the world becomes unreliable. Recognition, fear, or vertigo becomes a spatial event rather than merely a reaction close-up.",
+   "Use once; repeating it turns a contradiction into a trick. It is the wrong tool for a normal approach, and the wrong tool if subject size also changes.",
+   "If the crop simply grows, you zoomed. If the person grows and the room slides, you dollied.",
+   "The effect needs both, opposed."
+  ],
+  "how": [
+   "Rehearse a dolly-in with zoom-out, or dolly-out with zoom-in. Match subject scale at both ends and coordinate focus.",
+   "Background perspective stretches or compresses while the chosen subject holds size. Prompt a dolly zoom: camera dollies while the lens counter-zooms so the figure stays the same size as the background warps."
+  ],
+  "when": [
+   "Use it for a realization that the ground is not stable, and use it once. Concrete beat: a seated watcher understands the water is no longer safe, body size holds, beach warps.",
+   "Do not use it as a stylish walk-up."
+  ],
+  "vs": [
+   "A Dolly In changes subject size and perspective together. A Slow Zoom In changes size without walking.",
+   "Dolly zoom holds size and breaks perspective. That opposition is the whole technique."
+  ],
+  "examples_film": [
+   "Vertigo looks down the bell-tower stairwell as space flexes. Jaws holds Brody's size on the beach while the background warps.",
+   "Goodfellas uses the diner talk near the end as a trap in stretched space. La Haine has a well-known rooftop cousin.",
+   "Geometry, not a face to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Slow Zoom In or a background warp in post. The tell is a changing subject size, or a stretch with no camera travel.",
+   "The fix: opposite dolly and zoom, subject scale matched at both ends, perspective actually changing."
+  ],
+  "faq": [
+   {
+    "q": "What is Dolly Zoom in film?",
+    "a": "It is a simultaneous dolly and opposite zoom that keeps a subject roughly the same size while the surrounding perspective stretches or compresses."
+   },
+   {
+    "q": "Dolly Zoom vs Dolly In",
+    "a": "Dolly in walks closer and the person grows. Dolly zoom walks and counter-zooms so the person holds while the world becomes geometrically untrustworthy."
+   },
+   {
+    "q": "When should I use Dolly Zoom?",
+    "a": "When fear or recognition should happen in space itself. Use it once. Do not use it as a default push."
+   },
+   {
+    "q": "How do I prompt Dolly Zoom for AI image or video?",
+    "a": "Write dolly in while zooming out (or the reverse), subject size constant, background warping. Ban a digital stretch without camera travel."
+   }
+  ]
+ },
+ {
+  "slug": "dolly-zoom-in",
+  "title": "Dolly Zoom In",
+  "zh_title": "推轨变焦推入",
+  "narrative": [
+   "Approach that makes the world sick. The person stays large or grows while the room or street stretches and recedes.",
+   "Vertigo as getting closer. A plain push-in keeps perspective honest.",
+   "A plain zoom-out shrinks the person. The compound is the disagreement.",
+   "If either half is missing, you do not have the warp."
+  ],
+  "how": [
+   "Dolly in along the lens axis while zooming toward a wider focal length, timed so subject size holds or grows. Background perspective opens (more wide-angle) as you near, which reads as the world warping inward or falling away.",
+   "Prompt: Dolly zoom in on [Subject], counter-zoom so the figure grows while the background warps inward, vertigo as approach."
+  ],
+  "when": [
+   "Use it for a realization that arrives as nausea while you approach. Do not use it on a walk that only needs a dolly."
+  ],
+  "vs": [
+   "Dolly Zoom is the parent compound. Push In translates without the opposite zoom.",
+   "Dolly Zoom Out reverses the pair: retreat while zooming in, space yawning the other way."
+  ],
+  "examples_film": [
+   "Jaws uses the beach shock as an approach that makes the world recede around a still-large face. Vertigo names the warp.",
+   "Goodfellas uses a diner compound as the ground dropping under a thought. Grammar: size and space at odds."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a push-in or a zoom. The tell: the person grows and the background grows with them, or the person shrinks.",
+   "The fix: dolly in plus zoom out, subject size held or growing, background perspective warping."
+  ],
+  "faq": [
+   {
+    "q": "What is Dolly Zoom In in film?",
+    "a": "A dolly zoom in dollies toward the subject while zooming out, so the figure holds or grows as the background warps. Size and space disagree."
+   },
+   {
+    "q": "Dolly Zoom In vs Push In",
+    "a": "A push-in approaches with honest perspective. Dolly zoom in adds an opposite zoom so the world warps while the person stays large or grows."
+   },
+   {
+    "q": "When should I use Dolly Zoom In?",
+    "a": "Use it for an approach that should feel sick: a realization, a threat arriving. Do not use it as default coverage."
+   },
+   {
+    "q": "How do I prompt Dolly Zoom In for AI image or video?",
+    "a": "Write dolly in plus zoom out. Example: Dolly zoom in on [Subject], counter-zoom so the figure grows while the background warps inward."
+   }
+  ]
+ },
+ {
+  "slug": "dolly-zoom-out",
+  "title": "Dolly Zoom Out",
+  "zh_title": "推轨变焦拉出",
+  "narrative": [
+   "Leave, but keep the face. A hallway that lengthens, a room that becomes a tunnel, a person stranded in stretching space.",
+   "The retreat is physical; the glass fights it so the figure does not simply become a speck. A plain pull-out shrinks everyone honestly.",
+   "A plain zoom-in tightens from sticks. The compound keeps a face in play while geography yawns."
+  ],
+  "how": [
+   "Dolly out along the lens axis while zooming toward a longer focal length, timed so subject size holds or shrinks slowly. Background compresses and stretches away (more telephoto) as you retreat.",
+   "Prompt: Dolly zoom out on [Subject], the figure shrinking or holding while space yawns, a retreat that stretches the room."
+  ],
+  "when": [
+   "Use it to leave a person while keeping their face in the argument, the room stretching. Do not use it as a fancy pull-out for headroom."
+  ],
+  "vs": [
+   "Dolly Zoom is the parent. Pull Out retreats with honest perspective.",
+   "Dolly Zoom In approaches with the opposite glass. The out version is the Vertigo tower feeling: depth stretching as you leave."
+  ],
+  "examples_film": [
+   "Poltergeist stretches a hallway as a retreat that will not release the figure. Goodfellas again uses the compound when space should feel wrong.",
+   "Grammar: leave, keep the face, yawn the room."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a pull-out. The tell: the person shrinks and the room stays honest.",
+   "The fix: dolly out plus zoom in, background stretching, face held or slowly shrinking."
+  ],
+  "faq": [
+   {
+    "q": "What is Dolly Zoom Out in film?",
+    "a": "A dolly zoom out dollies away while zooming in, so the figure holds or shrinks slowly while the background stretches. The room yawns; the face can stay."
+   },
+   {
+    "q": "Dolly Zoom Out vs Pull Out",
+    "a": "A pull-out retreats with honest perspective and the person simply gets smaller. Dolly zoom out fights the retreat with a zoom-in so space warps."
+   },
+   {
+    "q": "When should I use Dolly Zoom Out?",
+    "a": "Use it to leave someone while keeping their face, the geography stretching. Do not use it for ordinary headroom."
+   },
+   {
+    "q": "How do I prompt Dolly Zoom Out for AI image or video?",
+    "a": "Write dolly out plus zoom in. Example: Dolly zoom out on [Subject], the figure shrinking or holding while space yawns, a retreat that stretches the room."
+   }
+  ]
+ },
+ {
+  "slug": "double-dolly",
+  "title": "Double Dolly",
+  "zh_title": "双推轨",
+  "narrative": [
+   "An interior state made external. Fate, dread, or transcendence carries the person through a hallway while the world slides.",
+   "It differs from a stabilized walk because normal stepping is missing on purpose. It is the wrong tool if the performer walks normally, and the wrong tool if only the camera dollies toward a planted actor.",
+   "Both must share the ride."
+  ],
+  "how": [
+   "Conceal a platform (or a virtual equivalent) that carries actor and camera. Coordinate speed so background parallax is the only travel.",
+   "For generation, keep the feet still and the body upright while the environment passes. Prompt a double dolly: subject and camera share one rolling platform, figure gliding, feet skating."
+  ],
+  "when": [
+   "Use it when an interior state should be made external: the person is carried by an idea. Concrete beat: an armed figure glides down a hallway, feet not walking.",
+   "Do not use it as a fancy walk-and-talk."
+  ],
+  "vs": [
+   "A Dolly In moves only the camera. Steadicam lets both walk, with normal gait.",
+   "Double dolly freezes the relationship and removes the walk. If the feet cycle, the float is gone."
+  ],
+  "examples_film": [
+   "Do the Right Thing is the float's home grammar. Malcolm X stylizes approach toward the assassination sequence.",
+   "BlacKkKlansman ends on an armed glide through a hallway. Inside Man uses a floating reaction after the apparent hostage killing.",
+   "Feet still, world passing: that is the tell."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Steadicam walk or a solo Dolly In . The tell is a normal gait, or a planted actor growing in frame.",
+   "The fix: shared platform, feet not stepping, environment streaming, body upright."
+  ],
+  "faq": [
+   {
+    "q": "What is Double Dolly in film?",
+    "a": "It is a shot where actor and camera ride the same moving platform, so the person glides and the world slides while their size in frame stays oddly constant."
+   },
+   {
+    "q": "Double Dolly vs Steadicam",
+    "a": "Steadicam follows a walking person. Double dolly carries both, suppressing the walk so the figure floats."
+   },
+   {
+    "q": "When should I use Double Dolly?",
+    "a": "When a mental state should carry a body through space. Do not use it for ordinary corridor dialogue."
+   },
+   {
+    "q": "How do I prompt Double Dolly for AI image or video?",
+    "a": "Write subject and camera on the same dolly, figure gliding, feet still, environment passing. Ban a normal walk."
+   }
+  ]
+ },
+ {
+  "slug": "dutch-roll",
+  "title": "Dutch Roll",
+  "zh_title": "荷兰角滚转",
+  "narrative": [
+   "The world itself tilts while we watch. Rank, gravity, and architecture go off their contract in duration rather than in a single locked cant.",
+   "You can stop on a Dutch angle, but the technique is the roll that got you there. It is the wrong tool when the floor is already the story (a listing ship), and the wrong tool if you needed a full continuous spin until up is gone.",
+   "A slow roll into a cant is not a revolving corridor."
+  ],
+  "how": [
+   "Rotate around the optical axis (roll), usually from a locked nodal point. Keep pan and tilt still unless you combine on purpose.",
+   "End on a readable Dutch or return to level when the character finds the floor. Prompt a slow roll on the lens axis, horizon rotating from level into a Dutch angle."
+  ],
+  "when": [
+   "Use it for unease that arrives in time, not as a still cant. Concrete beat: a level street, then the horizon slowly dies as a fever starts.",
+   "Do not start already tilted if the arrival is the point."
+  ],
+  "vs": [
+   "A Dutch Angle is a still cant. A Camera Roll continues until gravity is optional, or uses a rotating set.",
+   "Dutch roll is the timed transition on the roll axis into (or out of) a Dutch. Do not confuse it with terrain incline."
+  ],
+  "examples_film": [
+   "The Third Man is the still-cant grammar this move can arrive at: Vienna off its axis. Do the Right Thing lets living camera attitude, including roll and cant, sit in a hot street.",
+   "Use the moving horizon, not a postcard of a tilted doorway."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a locked Dutch Angle or a full Camera Roll . The tell is a still tilt from frame one, or a continuous spin past 45 degrees with no stop.",
+   "The fix: start level, roll on axis over time, end on a chosen cant."
+  ],
+  "faq": [
+   {
+    "q": "What is Dutch Roll in film?",
+    "a": "It is a camera roll around the lens axis over time, turning a level horizon into a Dutch angle (or the reverse) as a move."
+   },
+   {
+    "q": "Dutch Roll vs Dutch Angle",
+    "a": "A Dutch angle is a still canted frame. Dutch roll is the motion that creates or releases that cant."
+   },
+   {
+    "q": "When should I use Dutch Roll?",
+    "a": "When unease should arrive in duration. Do not use it if you only needed a locked cant, or a full gravity-free spin."
+   },
+   {
+    "q": "How do I prompt Dutch Roll for AI image or video?",
+    "a": "Write camera slowly rolls on its lens axis, horizon from level into a Dutch angle around [Subject]. No pan, no full 360 roll unless you change technique."
+   }
+  ]
+ },
+ {
+  "slug": "earth-zoom",
+  "title": "Earth Zoom",
+  "zh_title": "地球变焦",
+  "narrative": [
+   "Start from the planet. Introduce a person as a point on Earth, or punch a joke from cosmos to porch.",
+   "Landmarks should shrink in order: cloud, coast, grid, roof, face. Once per film is plenty.",
+   "A conversation does not need the planet. A generic aerial that never reaches the person is not this.",
+   "A crash zoom that starts on a rooftop is not this. Keep identity stable from wide to tight or the face at the end is a stranger."
+  ],
+  "how": [
+   "Design nested environments and scale transitions in 3D or compositing. Preserve direction and visual anchors.",
+   "Name the start as satellite or stratosphere, the end as eyes or feet, the path as one continuous zoom. Do not add a pan or an orbit on the way down.",
+   "Prompt: Earth zoom into [Subject], satellite to street in one rush, the planet collapsing into a face."
+  ],
+  "when": [
+   "Use it to place a person on Earth in one rush, or as a scale gag. Do not use it to open a dialogue scene."
+  ],
+  "vs": [
+   "Aerial Push In approaches from the air inside one place-scale. Crash Zoom In is an optical punch from a locked camera, usually starting in a room or a street.",
+   "Earth zoom starts at orbit and nested scales."
+  ],
+  "examples_film": [
+   "Contact 's opening withdraws from Earth into larger cosmic scales (the reverse direction of the same grammar). Powers of Ten runs outward and inward from a picnic.",
+   "The Simpsons couch gags punch from cosmos to porch. Reverence and joke are the same funnel."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a generic aerial or a rooftop crash zoom. The tell: you cannot feel continents, or the face at the end is a new person.",
+   "The fix: start at orbit, collapse nested scales in order, keep identity."
+  ],
+  "faq": [
+   {
+    "q": "What is Earth Zoom in film?",
+    "a": "An earth zoom is a continuous scale rush from satellite or orbit down to a person, continent to street to face, along one axis."
+   },
+   {
+    "q": "Earth Zoom vs Aerial Push In",
+    "a": "An aerial push approaches from the air inside a location. Earth zoom starts at planetary scale and collapses nested geographies until a face is the map."
+   },
+   {
+    "q": "When should I use Earth Zoom?",
+    "a": "Use it to place a person on Earth, or as a scale gag. Do not use it for a conversation."
+   },
+   {
+    "q": "How do I prompt Earth Zoom for AI image or video?",
+    "a": "Write orbit to street to face on one axis. Example: Earth zoom into [Subject], satellite to street in one rush, the planet collapsing into a face."
+   }
+  ]
+ },
+ {
+  "slug": "eating-zoom",
+  "title": "Eating Zoom",
+  "zh_title": "吃播急推",
+  "narrative": [
+   "The bite is the cut. Noodles, a first date, a villain who eats too well: the camera snaps to food meeting mouth.",
+   "Comic or sensual depends on how kind the light is. A wide dinner master does not want this.",
+   "If you still see the restaurant, you did not crash. If there is no food in the last frame, you shot a mouth-in."
+  ],
+  "how": [
+   "Write a snap zoom, under a second, ending on the bite. Hold.",
+   "Do not dolly. Show steam, gloss, or dripping as proof of the food.",
+   "The face can be partial. Prompt: Eating zoom on [Subject], a crash into the bite, chopsticks or spoon as the last foreground, appetite as a punch-in."
+  ],
+  "when": [
+   "Use it when the bite is the event. Do not use it on an empty plate or a whole table."
+  ],
+  "vs": [
+   "A Crash Zoom In can land on anything; this one must land on food meeting mouth. Mouth In travels into the orifice without requiring the dish.",
+   "Macro is a scale, often locked, not a crash."
+  ],
+  "examples_film": [
+   "Tampopo treats the bite as the scene. ASMR tables stole the grammar and made it soft.",
+   "The still should let you name the dish."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a mouth-in or a restaurant wide. The tell: no food in the last frame, or the whole dining room still visible.",
+   "The fix: snap into the bite, utensil as last foreground, hold."
+  ],
+  "faq": [
+   {
+    "q": "What is Eating Zoom in film?",
+    "a": "An eating zoom is a crash zoom into a bite, with food or a utensil as the last foreground. Appetite is the punch-in."
+   },
+   {
+    "q": "Eating Zoom vs Mouth In",
+    "a": "Mouth in enters the mouth as landscape. Eating zoom is optical and food-first: the crash ends on the bite."
+   },
+   {
+    "q": "When should I use Eating Zoom?",
+    "a": "Use it when the bite is the event. Do not use it as coverage of a whole dinner table."
+   },
+   {
+    "q": "How do I prompt Eating Zoom for AI image or video?",
+    "a": "Write a snap into food meeting mouth. Example: Eating zoom on [Subject], a crash into the bite, chopsticks or spoon as the last foreground."
+   }
+  ]
+ },
+ {
+  "slug": "eyes-in",
+  "title": "Eyes In",
+  "zh_title": "推入眼睛",
+  "narrative": [
+   "The thought is in the eye. Realization, a lie, a memory: you go there by traveling, not by cutting to an ECU.",
+   "The world around the face falls away until the eye is the room. A beauty close-up that never moves is not this shot.",
+   "If the eyes are not the location, stay at MCU. Mouth-in is the appetite cousin; do not mix the destinations."
+  ],
+  "how": [
+   "Start on a face, end inside the eye. Slow push, no tilt, catchlights held.",
+   "Macro or a close diopter may finish the last centimeters. Identity must hold or the end face is a cut.",
+   "Prompt: Eyes-in push on [Subject], the camera traveling into the gaze until the irises own the frame, a portrait that becomes an interior."
+  ],
+  "when": [
+   "Use it when the scene turns inward: a decision, a lie, a memory landing in the pupil. Do not use it as a default portrait."
+  ],
+  "vs": [
+   "A Push In can stop at a close-up of the whole face. Extreme Close-Up is a frame size, not necessarily a move.",
+   "Mouth In travels into lips and teeth. Eyes-in has one destination: the iris as architecture."
+  ],
+  "examples_film": [
+   "Requiem for a Dream punches into pupils until the eye is a location. The Passion of Joan of Arc already lived in the eyes as architecture, often without the travel.",
+   "Grammar: the gaze as a room."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a pretty ECU with large eyes and no travel. The tell: a still portrait, whole face, no arrival inside the iris.",
+   "The fix: write the end state as iris fill, slow push, identity held."
+  ],
+  "faq": [
+   {
+    "q": "What is Eyes In in film?",
+    "a": "Eyes in is a push that travels into the gaze until the iris fills the frame. The portrait becomes an interior, not a standard close-up."
+   },
+   {
+    "q": "Eyes In vs Extreme Close-Up",
+    "a": "An extreme close-up is a frame size and can be locked. Eyes in is a move whose destination is the iris as a room."
+   },
+   {
+    "q": "When should I use Eyes In?",
+    "a": "Use it when the thought lives in the eye: realization, lie, memory. Do not use it as a beauty default."
+   },
+   {
+    "q": "How do I prompt Eyes In for AI image or video?",
+    "a": "Write a push that ends on an iris fill. Example: Eyes-in push on [Subject], the camera traveling into the gaze until the irises own the frame."
+   }
+  ]
+ },
+ {
+  "slug": "falling",
+  "title": "Falling",
+  "zh_title": "坠落镜头",
+  "narrative": [
+   "Gravity is the plot. A jump, a slip, a body leaving a roof: the shot lasts as long as the drop, often a few seconds, and the camera either falls with the subject or is the subject.",
+   "A crane down is not a fall. If the arm is supported and the speed is chosen, you have a boom, not weight.",
+   "A drone that eases down is also not this shot."
+  ],
+  "how": [
+   "The camera is dropped, thrown, or flown on a path that accelerates downward: wire, descender, or a digital fall with the same acceleration. Wide or moderate-wide helps the ground grow.",
+   "Prompt: Falling camera with [Subject], the lens dropping through air, weight, and wind, a body or viewpoint in free fall. Video: six seconds of drop, rushing air, ground rising."
+  ],
+  "when": [
+   "Use it when the beat is a drop: a leap, a slip, a body leaving structure. Do not use it as a stylish way to enter a lobby."
+  ],
+  "vs": [
+   "An FPV Drone can fall, but it can also turn, climb, and thread. Falling is committed to gravity.",
+   "Ground Level is a height at the end, not the drop. A Crane Down is a supported boom with chosen speed."
+  ],
+  "examples_film": [
+   "The Walk puts viewpoint and body into air above a city. Point Break uses freefall as the scene, not as a garnish.",
+   "Grammar: weight, wind, ground rising."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a crane down or a drone descend. The tell: constant speed, stable horizon, no sense of weight.",
+   "The fix: accelerate down, let the ground rise, add wind and a short duration."
+  ],
+  "faq": [
+   {
+    "q": "What is Falling in film?",
+    "a": "A falling camera drops through air under gravity, with the ground rising and wind in the frame. The path is a fall, not a supported boom."
+   },
+   {
+    "q": "Falling vs Crane Down",
+    "a": "A crane down is a chosen, supported descent. Falling accelerates with weight; the camera is in free fall with or as the body."
+   },
+   {
+    "q": "When should I use Falling?",
+    "a": "Use it when gravity is the beat: a jump, a slip, a drop from a roof. Do not use it to enter a room in style."
+   },
+   {
+    "q": "How do I prompt Falling for AI image or video?",
+    "a": "Write a drop, rushing air, and ground rising. Example: Falling camera with [Subject], the lens dropping through air, weight, and wind, a body or viewpoint in free fall."
+   }
+  ]
+ },
+ {
+  "slug": "fixed-cam",
+  "title": "Fixed Cam",
+  "zh_title": "固定摄影机",
+  "narrative": [
+   "Trust blocking. A kitchen, a hallway, a stage: people enter, work, leave, and the frame stays a law.",
+   "Duration becomes visible because the camera refuses to help. It is the wrong tool when a look or a stand requires a reframe to keep power readable.",
+   "If you start drifting to be kind, you no longer have a fixed cam. You have a timid pan."
+  ],
+  "how": [
+   "Sticks, a wall mount, or a hidden lock-off. Pick height (often eye or a formal chest) and a lens that holds the room (often 35 to 50mm).",
+   "Deep enough focus that action in more than one plane can be read. Prompt: Fixed camera on [Subject], locked position and tilt, all motion belonging to the world, not the operator."
+  ],
+  "when": [
+   "Use it when the scene is blocking: chores, a ritual, a joke that happens in the wide. Do not free the head to chase a line."
+  ],
+  "vs": [
+   "Static Locked-Off is the locked-off shot as a catalog size of move (none). Tableau is a staging idea: a composed field to be read as a picture.",
+   "Fixed cam is the camera-movement rule: the support does not participate. A Pan that only adjusts a little is already a different contract."
+  ],
+  "examples_film": [
+   "Jeanne Dielman holds rooms until chores become the film. Rope is often cited for long takes, but those cameras travel; a true fixed cam would not.",
+   "Use Akerman as the lock-off grammar."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a slow wander or a motivated pan. The tell: the frame eases to keep a face centered.",
+   "The fix: pick a composition, lock pan and tilt, and let people leave the frame if they must."
+  ],
+  "faq": [
+   {
+    "q": "What is Fixed Cam in film?",
+    "a": "A fixed camera is locked in position and tilt. People and weather may move; the operator does not."
+   },
+   {
+    "q": "Fixed Cam vs Tableau",
+    "a": "Tableau is a staging idea, a picture to be read. Fixed cam is the mechanical rule that the support does not pan, tilt, or travel. They often meet, but they are not the same word."
+   },
+   {
+    "q": "When should I use Fixed Cam?",
+    "a": "Use it when blocking can carry the scene: a room, a ritual, a gag in the wide. Do not free the head to chase dialogue."
+   },
+   {
+    "q": "How do I prompt Fixed Cam for AI image or video?",
+    "a": "Write a locked position and tilt. Example: Fixed camera on [Subject], locked position and tilt, all motion belonging to the world, not the operator."
+   }
+  ]
+ },
+ {
+  "slug": "flying-cam-transition",
+  "title": "Flying Cam Transition",
+  "zh_title": "飞行穿梭转场",
+  "narrative": [
+   "Change rooms without a cut. Virtuoso intros, dreams, a house that is a mind: the camera flies a readable path through a named threshold and arrives.",
+   "A cut hidden by a passing truck is not this. Through-object uses a prop; this uses the building.",
+   "Geography has to stay readable or the stunt is only noise."
+  ],
+  "how": [
+   "FPV energy on a planned 3D or practical path: window, hole, door, then a settle in the second space. Subject waiting on the other side or carried with us.",
+   "One move. Prompt: Flying-cam transition through [Subject]'s world, one continuous flight that punches a wall or window and lands in a new room."
+  ],
+  "when": [
+   "Use it to change rooms in one flight. Do not use it between every scene."
+  ],
+  "vs": [
+   "Pass Through may ignore matter as a straight architectural cheat. FPV Drone is the flight platform; the transition is the designed join into a new space.",
+   "Set Transition is the broader idea of a designed join. Through-object uses a cup or keyhole, not a wall as tunnel."
+  ],
+  "examples_film": [
+   "Enter the Void flies through walls and windows as continuous travel. Birdman treats continuity of space as a stunt, punching thresholds without a cut.",
+   "Grammar: flight plus a hole plus a landing."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is an invisible cut on a dark frame. The tell: a pop into a new room with no travel through a hole.",
+   "The fix: fly through a named threshold and land; keep geography readable."
+  ],
+  "faq": [
+   {
+    "q": "What is Flying Cam Transition in film?",
+    "a": "A flying cam transition is one continuous flight that punches a wall or window and lands in a new room, changing spaces without a cut."
+   },
+   {
+    "q": "Flying Cam Transition vs Pass Through",
+    "a": "Pass-through is the matter-optional path. Flying cam transition is specifically a flight that uses architecture as a tunnel and lands as a designed join."
+   },
+   {
+    "q": "When should I use Flying Cam Transition?",
+    "a": "Use it to change rooms in one flight, for intros or dream geography. Do not use it as a default scene join."
+   },
+   {
+    "q": "How do I prompt Flying Cam Transition for AI image or video?",
+    "a": "Write one flight through a named threshold into a new space. Example: Flying-cam transition through [Subject]'s world, one continuous flight that punches a wall or window and lands in a new room."
+   }
+  ]
+ },
+ {
+  "slug": "follow",
+  "title": "Follow Shot",
+  "zh_title": "跟随镜头",
+  "narrative": [
+   "You are taken with them, not shown beside them. Doorways reveal themselves as they would to a stalker or a guardian.",
+   "The face is withheld, which can be predatory or intimate depending on distance and height. It is the wrong tool when the audience must read both faces of a conversation, and the wrong tool if the camera is bolted to the chest looking back at the actor.",
+   "Behind is a choice; body-mount is another."
+  ],
+  "how": [
+   "Match movement through the space at a fixed offset. Steadicam, gimbal, or handheld can execute it; the grammar is the trailing station, not the vest.",
+   "Keep the head as a stable foreground mass. Prompt a follow shot behind the subject, camera trailing at a fixed offset, back of the head as foreground, the world opening ahead."
+  ],
+  "when": [
+   "Use it for pursuit, haunting, or walking someone into a room. Concrete beat: behind a child on a tricycle as the corridor keeps producing corners.",
+   "Do not follow if the scene is a two-hander that needs eyes."
+  ],
+  "vs": [
+   "Tracking Shot often rides beside and shows the body's full action. Steadicam is a common support for follow.",
+   "A SnorriCam is mounted to the performer and faces them, so the face is pinned and the world sloshes. Follow looks at their back, not into their face from a chest rig."
+  ],
+  "examples_film": [
+   "The Shining puts us behind Danny in the hotel so corners arrive as he arrives. Enter the Void uses trailing and floating follow as afterlife grammar.",
+   "Goodfellas ' Copa entrance is a follow that becomes a social descent into a room. Path grammar, not a hotel to rebuild."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a side Tracking Shot shot or a SnorriCam . The tell is a full profile, or a pinned face with a sliding world.",
+   "The fix: behind, fixed offset, head as foreground, space opening ahead."
+  ],
+  "faq": [
+   {
+    "q": "What is Follow Shot in film?",
+    "a": "It is a camera that trails a mover, usually from behind, matching their path so we enter rooms as they do."
+   },
+   {
+    "q": "Follow Shot vs Tracking Shot",
+    "a": "Tracking is the family of subject-locked travel and is often lateral. Follow specifies the trailing station: back of the head, world ahead."
+   },
+   {
+    "q": "When should I use Follow Shot?",
+    "a": "When pursuit or entrance should be experienced from behind. Do not use it when both faces of a talk must read."
+   },
+   {
+    "q": "How do I prompt Follow Shot for AI image or video?",
+    "a": "Write camera follows behind [Subject], fixed offset, back of the head in foreground, matching movement. Ban a side track and ban a chest-mounted face cam."
+   }
+  ]
+ },
+ {
+  "slug": "fpv-drone",
+  "title": "FPV Drone",
+  "zh_title": "穿越机航拍",
+  "narrative": [
+   "Impossible closeness at velocity. Windows, girders, and shoulders are obstacles in a flight path, not composition toys at a distance.",
+   "The horizon rolls because the craft banks. It is the wrong tool for a chapter-close aerial pullback, and the wrong tool for a dialogue two-shot.",
+   "If the drone flies like a tripod, you wanted a different aerial."
+  ],
+  "how": [
+   "A small quad flown in first-person view, often with a bound or slightly stabilized camera. Banked turns, fast acceleration, edge motion blur, proximity to surfaces.",
+   "Name the route and the end composition. Prompt FPV drone racing past the subject, first-person flight, banking turns, proximity to architecture, motion blur on edges."
+  ],
+  "when": [
+   "Use it for impossible proximity and speed. Concrete beat: through a hangar, past a fuselage, out a door, into sky.",
+   "Do not FPV a still interview."
+  ],
+  "vs": [
+   "An Aerial Pullback rises and recedes until geography wins, usually from helicopter or high drone with a level horizon. A Crash Zoom In is an optical snap from sticks, not a fly-by.",
+   "A Crane Up is an arm on the ground, tens of feet, not a missile path. FPV is 6DOF flight."
+  ],
+  "examples_film": [
+   "Top Gun: Maverick second-unit language made high-speed proximity a feature grammar. Music-video FPV popularized threading architecture and bodies at racing speeds.",
+   "Use the banked path and the near-miss, not a particular jet."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a slow Aerial Pullback or a Crane Up . The tell is a level, hovering horizon and no bank.",
+   "The fix: first-person flight, banking, speed, named obstacles, a physical end frame."
+  ],
+  "faq": [
+   {
+    "q": "What is FPV Drone in film?",
+    "a": "It is a first-person-view drone path that banks and threads space at speed, with the camera flying as a small aircraft rather than hovering as a crane."
+   },
+   {
+    "q": "FPV Drone vs Aerial Pullback",
+    "a": "Aerial pullback recedes until a person is a mark on a map, usually level and high. FPV stays close, banks, and treats architecture as a course."
+   },
+   {
+    "q": "When should I use FPV Drone?",
+    "a": "When proximity and speed are the information. Do not use it to gently reveal a landscape."
+   },
+   {
+    "q": "How do I prompt FPV Drone for AI image or video?",
+    "a": "Write FPV drone, first-person flight, banking turns, proximity to structures, edge blur, named route and end composition. Ban a slow level crane."
+   }
+  ]
+ },
+ {
+  "slug": "gimbal",
+  "title": "Gimbal Shot",
+  "zh_title": "稳定器拍摄",
+  "narrative": [
+   "Run-and-gun smoothness without a Steadicam vest. Stairs, crowds, and vehicles become possible with a smaller footprint.",
+   "The image can feel slightly more weightless than a vest-and-arm, because motors, not a spring, do the isolation. It is the wrong tool when you want documentary tremor, or when a rehearsed vest walk through connected rooms is the grammar you actually mean.",
+   "Name the support; smoothness is not one thing."
+  ],
+  "how": [
+   "A 3-axis motorized gimbal with IMU. The operator walks or rides; the horizon can be locked.",
+   "You can still boom and yaw with the handles. Prompt a gimbal move, electronically stabilized but still human-carried, smoother than handheld, freer than dolly."
+  ],
+  "when": [
+   "Use it for run-and-gun smoothness without a Steadicam vest. Concrete beat: down a stair, through a crowd, into a car, horizon mostly locked.",
+   "Do not gimbal a shot that should breathe as handheld."
+  ],
+  "vs": [
+   "Steadicam is mechanical vest, arm, and sled. Handheld keeps tremor.",
+   "Gimbal is motors. All three can Follow Shot or track ; the difference is how the support isolates the lens from the body."
+  ],
+  "examples_film": [
+   "1917 mixes long connecting movement across supports; some passages read as gimbal-enabled freedom more than as classical vest work. Extraction uses motorized stabilization for action paths through crowds and vehicles.",
+   "Use the electronic lock and human carry, not a war to duplicate."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Handheld shake or a full Steadicam vest sentence. The tell is tremor, or a claim of Steadicam when the image has that weightless motor lock.",
+   "The fix: name gimbal, horizon hold, human-carried, no footfall bounce."
+  ],
+  "faq": [
+   {
+    "q": "What is Gimbal Shot in film?",
+    "a": "It is a camera move on a motorized stabilizer that damps shake while a person still carries or mounts the rig."
+   },
+   {
+    "q": "Gimbal Shot vs Steadicam",
+    "a": "Steadicam isolates with a mechanical arm and vest. A gimbal isolates with motors. Both can be smooth; the mass and gait feel different."
+   },
+   {
+    "q": "When should I use Gimbal Shot?",
+    "a": "When you need smooth walking or vehicle movement without laying track or wearing a vest. Do not use it as fake handheld energy."
+   },
+   {
+    "q": "How do I prompt Gimbal Shot for AI image or video?",
+    "a": "Write gimbal, electronically stabilized, human-carried, horizon mostly locked, no handheld tremor, no dolly track. Name the path."
+   }
+  ]
+ },
+ {
+  "slug": "handheld",
+  "title": "Handheld",
+  "zh_title": "手持",
+  "narrative": [
+   "Urgency, documentary contract, or a mind that cannot sit still. The operator is a body in the room, which can make escape routes and vulnerability tangible.",
+   "Used well, the shake is a result of attention and movement, not a plugin. It is the wrong tool for a formal lock-off, and the wrong tool if you add random shake to a tripod clip.",
+   "Do not describe a car ambush as simply a person with a Steadicam inside an ordinary car when the original was a designed interior path."
+  ],
+  "how": [
+   "Hold the camera at the shoulder, chest, or under-slung. Let gait and breath exist; do not stabilize them out.",
+   "Exposure and focus are harder because the body is the head. Prompt handheld, breathing micro-shake, documentary immediacy, organic micro-tremors, no stabilization."
+  ],
+  "when": [
+   "Use it for urgency, documentary truth, or a mind that cannot sit still. Concrete beat: a raid through a crowd where the operator cannot get a clean view.",
+   "Do not handheld a still product on a table."
+  ],
+  "vs": [
+   "Steadicam isolates footfall mechanically. A Gimbal Shot kills roll and high-frequency shake with motors.",
+   "Handheld keeps the operator's body in the frame's nerves. A Follow Shot can be handheld, but follow is a station, not a support."
+  ],
+  "examples_film": [
+   "The Battle of Algiers presents street raids with newsreel-like immediacy. Rosetta and The Hurt Locker keep bodies and breath in the operating.",
+   "The Bourne Ultimatum uses aggressive handheld as fight grammar. Children of Men 's car ambush is a designed interior path among occupants, not a casual shake preset."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a shake preset on a Gimbal Shot or Static Locked-Off clip. The tell is wobble without mass, or a perfectly level horizon with fake jitter.",
+   "The fix: operator-held weight, breath, attention, no electronic lock."
+  ],
+  "faq": [
+   {
+    "q": "What is Handheld in film?",
+    "a": "It is a camera operated from the body without a stabilizer, so the operator's mass, breath, and micro-tremor remain in the image."
+   },
+   {
+    "q": "Handheld vs Steadicam",
+    "a": "Steadicam walks smoothly by isolating the camera from footfall. Handheld lets that footfall and breath into the frame as part of the contract."
+   },
+   {
+    "q": "When should I use Handheld?",
+    "a": "When immediacy, documentary ethics, or panic should be visible in the operating. Do not add shake to a shot that wanted a lock-off."
+   },
+   {
+    "q": "How do I prompt Handheld for AI image or video?",
+    "a": "Write handheld, natural operator shake, breathing micro-tremors, no stabilization, no gimbal. Name who is held in frame and the space."
+   }
+  ]
+ },
+ {
+  "slug": "head-tracking",
+  "title": "Head Tracking",
+  "zh_title": "头部追踪",
+  "narrative": [
+   "The face is the only stable point. Disorientation, intimacy, a character who cannot see the room changing: the world slides around a pinned portrait.",
+   "A close-up that pans with them from far away is not glued. Snorricam is chest-mounted and sees the body; head tracking pins the face.",
+   "Turns must sweep the background."
+  ],
+  "how": [
+   "Helmet rig, face mount, or a digital lock to the skull. Face sharp, no extra zoom.",
+   "When they turn, the room orbits. Prompt: Head-tracking camera on [Subject], the lens glued to the skull, background sliding as the face stays pinned."
+  ],
+  "when": [
+   "Use it when the face must stay while the world becomes weather. Do not use a long-lens pan and claim a lock."
+  ],
+  "vs": [
+   "SnorriCam rides the chest and often sees torso and world, face at the edge or absent. Locked-On is the general glued-to-subject idea (body, car, object).",
+   "Head tracking is skull-specific."
+  ],
+  "examples_film": [
+   "Gravity pins faces while debris and station geometry shear around the skull. Enter the Void uses head-locked subjectivity so the world orbits a consciousness.",
+   "Grammar: the skull is the tripod."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a close-up panned from a distance. The tell: the face drifts in frame, or the background does not shear on a turn.",
+   "The fix: lock to the skull, pin the face, let the room orbit."
+  ],
+  "faq": [
+   {
+    "q": "What is Head Tracking in film?",
+    "a": "Head tracking glues the camera to the skull so the face stays pinned while the background orbits as the person turns."
+   },
+   {
+    "q": "Head Tracking vs SnorriCam",
+    "a": "Snorricam is typically chest-mounted and sees the body in the world. Head tracking pins the face; the skull is the tripod."
+   },
+   {
+    "q": "When should I use Head Tracking?",
+    "a": "Use it for disorientation or intimacy when the face is the only stable point. Do not fake it with a long-lens pan."
+   },
+   {
+    "q": "How do I prompt Head Tracking for AI image or video?",
+    "a": "Write a camera locked to the head, face sharp, world sliding. Example: Head-tracking camera on [Subject], the lens glued to the skull, background sliding as the face stays pinned."
+   }
+  ]
+ },
+ {
+  "slug": "hero-cam",
+  "title": "Hero Cam",
+  "zh_title": "英雄机位",
+  "narrative": [
+   "They should look inevitable. Arrivals, title walks, a character who has already won in their head: the camera tracks at hip or knee, three-quarter, rim, slow walk.",
+   "Glam is beauty without the walk. A low-angle still of a standing person is not this shot.",
+   "They should be walking. The camera should travel.",
+   "Do not crash-zoom."
+  ],
+  "how": [
+   "Track at hip or knee height, three-quarter front, one direction. Rim or kicker separates the figure from dust or city.",
+   "Pace is a walk, not a sprint unless you say so. Prompt: Hero-cam on [Subject], low three-quarter, rim light, a walk that sells myth, comic-book arrival."
+  ],
+  "when": [
+   "Use it for an arrival walk that should feel inevitable. Do not use it on a seated talk."
+  ],
+  "vs": [
+   "Low Angle is a height and can be locked. Tracking Shot follows at any height without the rim-and-walk recipe.",
+   "Glam is a beauty key, not a path. Hero cam is the walk plus the low three-quarter plus the rim."
+  ],
+  "examples_film": [
+   "The Dark Knight and Black Panther title walks are the grammar: myth at walking speed, low three-quarter, an edge of light. Use them as a recipe, not as frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a static low-angle portrait. The tell: standing, no travel, no walk.",
+   "The fix: track at hip or knee, three-quarter, rim, walking pace."
+  ],
+  "faq": [
+   {
+    "q": "What is Hero Cam in film?",
+    "a": "Hero cam is a low three-quarter tracking walk with rim light. It is an arrival recipe: height, travel, and an edge of light at walking speed."
+   },
+   {
+    "q": "Hero Cam vs Low Angle",
+    "a": "A low angle can be a locked still. Hero cam requires a walk, a tracking camera, and usually a rim. The person should look inevitable because they are moving."
+   },
+   {
+    "q": "When should I use Hero Cam?",
+    "a": "Use it for arrivals and title walks. Do not use it on a seated conversation."
+   },
+   {
+    "q": "How do I prompt Hero Cam for AI image or video?",
+    "a": "Write a low three-quarter tracking walk with rim light. Example: Hero-cam on [Subject], low three-quarter, rim light, a walk that sells myth, comic-book arrival."
+   }
+  ]
+ },
+ {
+  "slug": "hyperlapse",
+  "title": "Hyperlapse",
+  "zh_title": "移动延时",
+  "narrative": [
+   "Duration becomes velocity. A walk that would take an afternoon becomes a few seconds, but unlike a locked time-lapse the station point travels: streets are traversed, not merely watched from one roof.",
+   "It is the wrong tool for real-time tracking, and the wrong tool for a tripod time-lapse of clouds over a still city. If the camera did not move between frames, it is not a hyperlapse."
+  ],
+  "how": [
+   "Shoot discrete frames along a surveyed path (or simulate that in 3D), then play them at time-lapse rates. Align each frame so the move reads as a glide.",
+   "Crowds, traffic, and shadows should race. Prompt a hyperlapse toward or around the subject, time compressed, crowds and weather racing, camera advancing in steps that become a glide."
+  ],
+  "when": [
+   "Use it to show duration as velocity along a path. Concrete beat: approaching a monument while hours of foot traffic smear.",
+   "Do not hyperlapse a 6-second real-time conversation."
+  ],
+  "vs": [
+   "Time-Lapse is often a locked or slowly panned interval. Tracking Shot is real-time travel.",
+   "Hyperlapse is both: interval shooting plus significant displacement. A Slider Shot interval on 100 centimeters is a tiny cousin, not a city traverse."
+  ],
+  "examples_film": [
+   "Koyaanisqatsi compresses traffic and weather into velocity, sometimes from moving viewpoints. Baraka and related city-interval work sit in the same family.",
+   "Music-video hyperlapse made the stepped camera path a popular grammar. Use time plus travel, not a particular skyline."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a locked Time-Lapse or a real-time Tracking Shot shot with a speed ramp. The tell is a still station point, or real-time gait.",
+   "The fix: camera position changes between frames, time compressed, path readable as a glide."
+  ],
+  "faq": [
+   {
+    "q": "What is Hyperlapse in film?",
+    "a": "It is time-lapse shot while the camera moves a significant distance, so both time and viewpoint are compressed into one glide."
+   },
+   {
+    "q": "Hyperlapse vs Time-Lapse",
+    "a": "A classic time-lapse often sits on a locked tripod. Hyperlapse relocates the camera between frames, traversing space as hours pass."
+   },
+   {
+    "q": "When should I use Hyperlapse?",
+    "a": "When a long approach or a city's duration should play as speed. Do not use it for real-time dialogue."
+   },
+   {
+    "q": "How do I prompt Hyperlapse for AI image or video?",
+    "a": "Write hyperlapse, camera advancing through space, time compressed, crowds and clouds racing. Ban a locked tripod time-lapse and ban real-time tracking."
+   }
+  ]
+ },
+ {
+  "slug": "jib",
+  "title": "Jib Shot",
+  "zh_title": "小摇臂镜头",
+  "narrative": [
+   "A few feet is enough. Music-video and dialogue coverage live here because the accent is intimate: over a drum kit, up from a plate, a gentle lift off a two-shot.",
+   "You are not turning a person into a city. It is the wrong tool for a skyline chapter-close, and the wrong tool if you needed a straight column with no arc.",
+   "If the arm is tens of feet, you are in Technocrane country."
+  ],
+  "how": [
+   "Pivot a short arm from a base, remote or fluid head compensating so the subject stays composed. Typical travel is human-scale: table to standing, seated to slightly above.",
+   "Parallax is real but modest. Prompt a short jib move, compact crane arm lifting or sweeping a few feet, more intimate than a full Technocrane."
+  ],
+  "when": [
+   "Use it when a small height change is enough, especially music-video and dialogue coverage . Concrete beat: lift off a two-shot at a restaurant table so the room returns.",
+   "Do not jib if the story needed a city."
+  ],
+  "vs": [
+   "A Crane Up is the large version that can make geography the subject. A Pedestal Up rises on a column with no arc.",
+   "A jib always draws a small radius. If you only nod, you wanted a Tilt Up ."
+  ],
+  "examples_film": [
+   "La La Land uses small lifts as well as larger cranes; keep the jib examples at human height, over docks and rooms. Whiplash works close to the kit, where a short arm is an accent around sweat and sticks.",
+   "Grammar for a few feet of pivot."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a full Crane Up or a Pedestal Up . The tell is a skyline, or a perfectly vertical column with no arc.",
+   "The fix: name a short arm, a few feet of travel, and an intimate end frame."
+  ],
+  "faq": [
+   {
+    "q": "What is Jib Shot in film?",
+    "a": "It is a camera move on a short pivoting arm that raises, lowers, or sweeps a few feet, a compact member of the crane family."
+   },
+   {
+    "q": "Jib Shot vs Crane Up",
+    "a": "Crane up can run tens of feet and turn a person into landscape. A jib is the small radius: table, kit, two-shot, a short lift."
+   },
+   {
+    "q": "When should I use Jib Shot?",
+    "a": "When a small height or sweep accent is enough. Do not use it to close a film on a city."
+   },
+   {
+    "q": "How do I prompt Jib Shot for AI image or video?",
+    "a": "Write compact jib arm, a few feet of lift or sweep, intimate scale, no Technocrane skyline. Name start and end height."
+   }
+  ]
+ },
+ {
+  "slug": "jib-down",
+  "title": "Jib Down",
+  "zh_title": "小摇臂下降",
+  "narrative": [
+   "A full crane is too much city. Sit down into the talk: a table, a face, a huddle.",
+   "You drop from standing-eye or a little above into the scene like a guest sitting down. An aerial of a fortress wants a crane.",
+   "A tilt down from a locked tripod has no sliding foreground. Speed is polite unless you say otherwise.",
+   "Do not travel a city block."
+  ],
+  "how": [
+   "Short jib, remote or operator on the arm, start a little high, end at the subject. Nearby foreground (glasses, a lamp, a railing) should parallax.",
+   "Prompt: Jib down onto [Subject], a short descending arm, intimate arrival, nearby foreground sliding as the camera sits down."
+  ],
+  "when": [
+   "Use it to arrive at a table, a secret, a song starting. Do not use it when you need a city to drop away."
+  ],
+  "vs": [
+   "Crane Down is the big cousin, tens of feet, map becoming a person. Jib Up is the reverse small lift.",
+   "A Tilt Down only pitches from sticks. Jib down translates a short arm."
+  ],
+  "examples_film": [
+   "Music videos and small-set drama are the grammar: intimate sit-downs, a guest arriving at a table. The still is the end of the sit-down, not a skyline."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a tilt down. The tell: the support never moved, no foreground shear.",
+   "The fix: a short descending arm, nearby objects sliding, human-scale arrival."
+  ],
+  "faq": [
+   {
+    "q": "What is Jib Down in film?",
+    "a": "A jib down is a short descending crane arm, a few feet of boom, arriving at a person with nearby foreground sliding. Intimate, not city-scale."
+   },
+   {
+    "q": "Jib Down vs Crane Down",
+    "a": "A crane down can drop from rooftops or hills. A jib down is a small arm sitting into a table, a face, or a huddle."
+   },
+   {
+    "q": "When should I use Jib Down?",
+    "a": "Use it to sit down into a talk or a song. Do not use it when a fortress or a skyline must fall away."
+   },
+   {
+    "q": "How do I prompt Jib Down for AI image or video?",
+    "a": "Write a short descending arm and sliding foreground. Example: Jib down onto [Subject], a short descending arm, intimate arrival, nearby foreground sliding as the camera sits down."
+   }
+  ]
+ },
+ {
+  "slug": "jib-up",
+  "title": "Jib Up",
+  "zh_title": "小摇臂上升",
+  "narrative": [
+   "Leave the face, keep the architecture small. Endings of talks, a stand-up, a reveal of who else is in the room.",
+   "Intimate lift, not a city crane-up. If the background does not parallax, the arm did not move: you tilted.",
+   "A Technocrane that finds a skyline is a different scale. One axis, a short rise, a near object shearing."
+  ],
+  "how": [
+   "Short jib, start on the subject, end with the room. Parallax of a near object (table edge, lamp, shoulder).",
+   "Prompt: Jib up from [Subject], a short rising arm, the table or face giving the room back, human-scale lift."
+  ],
+  "when": [
+   "Use it to leave a face and show who else is in the room. Do not use it when the beat is a person becoming a city."
+  ],
+  "vs": [
+   "Crane Up climbs toward rooftops and maps, often easing back. Jib Down sits in.",
+   "A Tilt Up only pitches. Jib up is a few feet of true boom."
+  ],
+  "examples_film": [
+   "Music videos and dialogue coverage use the polite cousin of crane-up: human-scale lift off a face or a table. Grammar: the room is given back, not a skyline."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a tilt up. The tell: no shear of a table or lamp, only a change of angle.",
+   "The fix: boom a short arm, let a near object slide, end on the room."
+  ],
+  "faq": [
+   {
+    "q": "What is Jib Up in film?",
+    "a": "A jib up is a short rising crane arm that leaves a face or table and gives the room back. Human-scale lift, not a city climb."
+   },
+   {
+    "q": "Jib Up vs Crane Up",
+    "a": "A crane-up can rise and ease back until a person is geography. A jib up is a few feet, revealing who else is in the room."
+   },
+   {
+    "q": "When should I use Jib Up?",
+    "a": "Use it to leave a face and show the rest of a small space. Do not use it when the world must become a skyline."
+   },
+   {
+    "q": "How do I prompt Jib Up for AI image or video?",
+    "a": "Write a short rising arm and a room reveal. Example: Jib up from [Subject], a short rising arm, the table or face giving the room back, human-scale lift."
+   }
+  ]
+ },
+ {
+  "slug": "lazy-susan",
+  "title": "Lazy Susan",
+  "zh_title": "转盘拍摄",
+  "narrative": [
+   "Use it to inspect. A coat, a bottle, a weapon, a figure treated as merchandise: every azimuth is offered without a cut.",
+   "Light should stay consistent so the object, not the room, is what changes. It is the wrong tool when geography matters.",
+   "If walls, extras, and lamps must slide to prove a living space, you want an orbit. A conversation, a chase, a blocked room: those need the camera to travel."
+  ],
+  "how": [
+   "The classic rig is a motorized disc under the subject; the camera is locked on sticks at eye or product height, often 50 to 85mm so the silhouette stays clean. Alternate: a circular slider at constant radius with the subject locked.",
+   "Either way, nodal distance is constant. Prompt a slow turntable rotation or a camera circling at product-hero distance, one revolution or a 90-degree reveal, no zoom."
+  ],
+  "when": [
+   "Show an object or costume from every side: a dress on a dummy, a car on a cyc, a relic on glass. Do not use it for a talk; faces in dialogue do not need a spin."
+  ],
+  "vs": [
+   "360-Degree Orbit walks the camera around a living space so walls and extras shear. A lazy susan keeps radius and usually the room still.",
+   "3D Rotation treats the figure as a virtual sculpture in computed space. An Arc is a partial circle that still faces a person in a real room."
+  ],
+  "examples_film": [
+   "Product films and music-video costume spins are the grammar: perfume turntables, album-cover rotations, a hero prop shown as a specimen. These are inspection uses, not a narrative street orbit."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is an orbit. The tell: background sliding, a lamp shearing, the room turning.",
+   "The fix: lock the camera or lock the subject to a disc, keep radius constant, let only the object rotate."
+  ],
+  "faq": [
+   {
+    "q": "What is Lazy Susan in film?",
+    "a": "A lazy susan shot rotates the subject on a turntable with the camera locked, or circles the object at a fixed product-hero distance, so every side is shown without a change in scale."
+   },
+   {
+    "q": "Lazy Susan vs 360-Degree Orbit",
+    "a": "An orbit moves the camera through a real room so parallax of walls and extras is the proof. A lazy susan keeps the radius and usually the background still; the object turns like a specimen."
+   },
+   {
+    "q": "When should I use Lazy Susan?",
+    "a": "Use it to show a costume, product, or relic from every side. Skip it when the location has to act; then orbit or arc instead."
+   },
+   {
+    "q": "How do I prompt Lazy Susan for AI image or video?",
+    "a": "Write a turntable rotation or a camera circling at product-hero distance. Name the object, hold distance, and say no zoom. Example: Lazy-Susan rotation of [Subject] on a turntable while the camera stays put."
+   }
+  ]
+ },
+ {
+  "slug": "locked-on",
+  "title": "Locked-On",
+  "zh_title": "锁定跟踪",
+  "narrative": [
+   "One thing is the only law in a moving world. A steering wheel, a spinning astronaut, a driver's eyes: everything else is weather.",
+   "The constraint is rigidity to the subject, not a vest walking nearby. It is the wrong tool when you wanted a body-mounted face rig, and the wrong tool when a normal track should keep a walking distance.",
+   "Bolted is not following."
+  ],
+  "how": [
+   "Mount to the subject, the vehicle, or match-move as if bolted. Distance and angle to the chosen object stay nearly constant; background parallax and rotation can be extreme.",
+   "Prompt a locked-on move, camera glued to one object or face, environment streaming past, as if bolted to a vehicle or a falling body."
+  ],
+  "when": [
+   "Use it when one thing is the only stable point in a moving world. Concrete beat: a close steering wheel and dash while the city smears the windows.",
+   "Do not use it for a sidewalk follow."
+  ],
+  "vs": [
+   "A SnorriCam is a specific body-mount facing the actor. Tracking Shot holds distance to a mover but is not bolted; the relationship can breathe.",
+   "Locked-on is a rigid constraint: the camera and the chosen subject share a mount or a match-move as if they did."
+  ],
+  "examples_film": [
+   "Gravity treats falling bodies and visors as the stable mount while Earth streams. Baby Driver bolts attention to drivers, wheels, and the car's interior while streets smear.",
+   "Use the rigid glue, not the soundtrack."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Follow Shot or SnorriCam . The tell is a walking offset behind a person, or a chest rig whose job is the face as tripod for a sidewalk.",
+   "The fix: name the mount, keep subject scale and angle constant, let only the world stream."
+  ],
+  "faq": [
+   {
+    "q": "What is Locked-On in film?",
+    "a": "It is a camera rigidly tied to one subject so that object stays glued in frame while the environment moves around it."
+   },
+   {
+    "q": "Locked-On vs SnorriCam",
+    "a": "SnorriCam is a body-mount facing the wearer. Locked-on is the broader bolt: a car, a helmet, a falling body, any subject as the only stable point."
+   },
+   {
+    "q": "When should I use Locked-On?",
+    "a": "When a vehicle, a fall, or an object should be the still law. Do not use it as a synonym for following someone down a hall."
+   },
+   {
+    "q": "How do I prompt Locked-On for AI image or video?",
+    "a": "Write camera glued to [Subject], as if bolted, environment streaming past, subject size and angle constant. Name the mount."
+   }
+  ]
+ },
+ {
+  "slug": "mouth-in",
+  "title": "Mouth In",
+  "zh_title": "推入嘴部",
+  "narrative": [
+   "Speech or hunger is the scene. A threat spoken, a kiss that should feel like a location, a bite that is architecture: the mouth is not a detail in a portrait.",
+   "Eating zoom is the comic, food-first version of the same aggression. A random gore insert is not this shot unless the film has already made the mouth a room.",
+   "Keep the rest of the body out."
+  ],
+  "how": [
+   "Prompt a push into the mouth, lips as foreground, interior as arrival. One move.",
+   "Light the teeth like architecture. Do not also rack focus or whip-pan.",
+   "Prompt: Mouth-in move on [Subject], the camera entering speech or appetite, lips as landscape."
+  ],
+  "when": [
+   "Use it for appetite, a spoken threat, a kiss as a location. Avoid it as unmotivated body horror unless that is the film."
+  ],
+  "vs": [
+   "Eyes In goes to the iris. Eating Zoom is an optical crash whose last foreground is food meeting mouth.",
+   "Extreme Close-Up can be a locked mouth; mouth-in travels until lips and teeth are the set."
+  ],
+  "examples_film": [
+   "The Cook, the Thief , His Wife & Her Lover treats orifices and appetite as rooms. Requiem for a Dream uses close oral imagery as locations of need.",
+   "Grammar: the mouth as landscape."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a face with an open mouth. The tell: a portrait, teeth visible, camera never arriving inside.",
+   "The fix: end past the lips, teeth as architecture, no leftover MCU."
+  ],
+  "faq": [
+   {
+    "q": "What is Mouth In in film?",
+    "a": "Mouth in is a camera move that enters the mouth until lips and teeth become the set. Speech or appetite is treated as a location."
+   },
+   {
+    "q": "Mouth In vs Eating Zoom",
+    "a": "Mouth in travels into the orifice as landscape. Eating zoom is a snap into the bite, with food or a utensil as the last foreground."
+   },
+   {
+    "q": "When should I use Mouth In?",
+    "a": "Use it when speech, hunger, or a kiss should feel like a place. Do not use it as a random shock insert."
+   },
+   {
+    "q": "How do I prompt Mouth In for AI image or video?",
+    "a": "Write a push that ends past the lips. Example: Mouth-in move on [Subject], the camera entering speech or appetite, lips as landscape."
+   }
+  ]
+ },
+ {
+  "slug": "omnidirectional",
+  "title": "Omnidirectional",
+  "zh_title": "全向拍摄",
+  "narrative": [
+   "There is no behind the camera. Staging has to work in a sphere: crew, lights, and unfinished walls cannot hide at the operator's back.",
+   "The rectangle of cinema is a later crop, or the piece is truly VR. It is the wrong tool for classical coverage .",
+   "If you need off-screen as a threat, you need a directed frame with edges. A 360 file that is only ever viewed as a locked wide is a waste of the sphere."
+  ],
+  "how": [
+   "A spherical rig or a pair of fisheyes stitched into an equirectangular world. Nodal point is a point in the room, not a rectangle.",
+   "Hide stands above or in set dressing; light has to live in the space. Prompt: Omnidirectional capture of [Subject], a world that can look every way, spherical space, no off-screen."
+  ],
+  "when": [
+   "Use it when the audience must be able to look anywhere: VR cinema , a room that is a trap in every direction. Do not use it as a fancy synonym for an orbit."
+  ],
+  "vs": [
+   "360-Degree Orbit is a directed camera walking a circle; there is still off-screen. First-Person is a character's bodily view, usually a rectangle with hands.",
+   "Omnidirectional is a sphere. A Pan only yaws a limited angle from sticks."
+  ],
+  "examples_film": [
+   "VR cinema is the native grammar. Hardcore Henry is first-person, a cousin in subjectivity, not a sphere.",
+   "Do not cite it as 360 capture."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is an orbit-360. The tell: a framed shot that travels around a person with a clear behind-camera.",
+   "The fix: spherical space, look-anywhere, no hidden crew, no off-screen."
+  ],
+  "faq": [
+   {
+    "q": "What is Omnidirectional in film?",
+    "a": "Omnidirectional capture records a sphere with a 360 camera, so the viewer can look any direction and nothing hides behind the operator."
+   },
+   {
+    "q": "Omnidirectional vs 360-Degree Orbit",
+    "a": "An orbit-360 is a normal framed camera walking a circle. Omnidirectional is spherical capture with no off-screen."
+   },
+   {
+    "q": "When should I use Omnidirectional?",
+    "a": "Use it for VR or any scene that must work in every direction. Do not use it when off-screen threat is the point."
+   },
+   {
+    "q": "How do I prompt Omnidirectional for AI image or video?",
+    "a": "Write spherical space and look-anywhere. Example: Omnidirectional capture of [Subject], a world that can look every way, spherical space, no off-screen."
+   }
+  ]
+ },
+ {
+  "slug": "orbit-360",
+  "title": "360-Degree Orbit",
+  "zh_title": "360°环绕",
+  "narrative": [
+   "Time can feel as if it collapsed around one kiss, one threat, or one product. Unlike a pan, the camera reveals different sides of the subject and changes their relation to every wall.",
+   "A full orbit calls attention to space itself; a partial arc can be quieter. It is the wrong tool when you only needed a quarter-turn to change a conversation axis, and the wrong tool if the subject is spinning on a turntable while the camera sits still.",
+   "Separate live-speed orbiting from bullet time, which also manipulates time."
+  ],
+  "how": [
+   "Lay a circular path, pick a center, coordinate focus as distance breathes. Keep height even unless you also boom.",
+   "Do not zoom during the orbit unless you want a different technique. Prompt a full 360-degree orbit, constant radius, always facing the subject, background wrapping as a ribbon of light."
+  ],
+  "when": [
+   "Use it when a moment should close around one person: kiss, threat, or product hero. Concrete beat: a couple kisses while the room becomes a ribbon.",
+   "Do not also zoom, and do not let the subject rotate instead of the camera."
+  ],
+  "vs": [
+   "Arc Left and Arc Right are partial orbits, often about 90 degrees, for axis change rather than spectacle. A Lazy Susan turns the object while the camera may stay put.",
+   "A pan never relocates the support. Orbit 360 is a full inspection on an azimuth circle."
+  ],
+  "examples_film": [
+   "The Matrix circles suspended action in the rooftop bullet-time sequence: orbit plus time manipulation, so keep the distinction. Vertigo circles Scottie and Judy as the remembered setting appears.",
+   "Carlito's Way and American Beauty use live-speed orbits as trap or rapture. Grammar of the circle, not a costume to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a subject rotating on the spot, or a Pan Left from sticks. The tell is a fixed background with a spinning body, or no parallax.",
+   "The fix: camera travels a circle, subject mostly still, background wrapping, constant radius."
+  ],
+  "faq": [
+   {
+    "q": "What is 360-Degree Orbit in film?",
+    "a": "It is a camera path that circles a subject all the way around, usually facing them at a steady distance, so every side and every background wall appears."
+   },
+   {
+    "q": "360-Degree Orbit vs Arc Shot",
+    "a": "An arc is a partial curve, often a quarter-turn to change axis. A 360 orbit completes the circle and makes space itself the event."
+   },
+   {
+    "q": "When should I use 360-Degree Orbit?",
+    "a": "When a kiss, a threat, or a hero object should own time. Do not use a full spin if a 90-degree arc would do."
+   },
+   {
+    "q": "How do I prompt 360-Degree Orbit for AI image or video?",
+    "a": "Write camera orbits 360 degrees around [Subject], constant radius, always facing them, background wrapping. Ban a turntable subject and ban extra zoom."
+   }
+  ]
+ },
+ {
+  "slug": "pan",
+  "title": "Pan",
+  "zh_title": "摇镜头",
+  "narrative": [
+   "Connect two facts without moving the feet. A look, a landscape, a second person: the pan can reveal, follow, anticipate, or delay.",
+   "Small pans also reframe blocking so the camera stays almost invisible while power changes inside the frame. Unmotivated constant drifting weakens that change.",
+   "If nothing new is being connected, the pan is fidget. A truck or a dolly is the tool when you need parallax, not a swing."
+  ],
+  "how": [
+   "Tripod or a locked remote head. Rotate on the vertical axis; keep the bubble level unless you mean a Dutch.",
+   "Speed is a choice: crawl, follow, or whip. Near objects smear at the edges on a fast pan; they do not shear as they would on a dolly.",
+   "Prompt: Pan across [Subject], camera rotating on its vertical axis from a fixed point, a horizontal sweep of the world."
+  ],
+  "when": [
+   "Use it to join two facts from one stance: a gun and a face, a window and a street, a speaker and a listener. Do not pan as a substitute for laying track."
+  ],
+  "vs": [
+   "Pan Left and Pan Right name direction. A Whip Pan is the same axis at a speed that blurs the join.",
+   "A Tilt pitches on the other axis. A Dolly moves the body, so parallax appears."
+  ],
+  "examples_film": [
+   "The Searchers and There Will Be Blood sweep land from a planted stance. Eyes Wide Shut adjusts framing as dance partners move.",
+   "12 Angry Men reframes as the jury's alliances shift. Rear Window surveys a courtyard.",
+   "The Stendhal Syndrome uses a museum pan as a survey."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a trucking shot. The tell: foreground shearing as if the camera walked.",
+   "The fix: lock the position, yaw only, keep the horizon level, and let the join be angular, not spatial."
+  ],
+  "faq": [
+   {
+    "q": "What is Pan in film?",
+    "a": "A pan rotates the camera horizontally from a fixed position. The feet stay put; the frame sweeps left or right to connect two facts."
+   },
+   {
+    "q": "Pan vs Dolly",
+    "a": "A pan yaws on sticks, so distances do not change by travel. A dolly moves the camera through space and produces parallax."
+   },
+   {
+    "q": "When should I use Pan?",
+    "a": "Use it to connect two facts without walking, or to reframe blocking. Do not use it as fake geography."
+   },
+   {
+    "q": "How do I prompt Pan for AI image or video?",
+    "a": "Write a tripod, a level horizon, and no body travel. Example: Pan across [Subject], camera rotating on its vertical axis from a fixed point, a horizontal sweep of the world."
+   }
+  ]
+ },
+ {
+  "slug": "pan-left",
+  "title": "Pan Left",
+  "zh_title": "向左摇",
+  "narrative": [
+   "Two facts in one geography get connected by a look. A rider and a doorway, a speaker and the person they will not face.",
+   "Because the sticks stay put, the audience remains in one station and is asked only to turn. It is the wrong tool when you must pass behind a column with true parallax, or when the blur of a whip is the point.",
+   "If foreground does not need to slide, a pan is enough. If it does, truck."
+  ],
+  "how": [
+   "Level the horizon on a fluid head. Rotate yaw only.",
+   "Start and end on composed frames, feather the start and stop, and keep the nodal point over the tripod so the pan does not walk. No body travel.",
+   "Prompt a slow pan left from a locked tripod, rotation on the vertical axis, level horizon, new architecture to the left."
+  ],
+  "when": [
+   "Use it to connect two things in one geography without moving the support. Concrete beat: a look off left, then the pan finds what they see.",
+   "Do not tour a whole room if a cut or a track would be cleaner."
+  ],
+  "vs": [
+   "A Dolly Left translates and peels planes. A Pan Right is the same rotation the other way.",
+   "A Whip Pan is this axis past the blur threshold, often used as a join. A Tilt Up rotates on the horizontal axis instead."
+  ],
+  "examples_film": [
+   "The Searchers connects rider, land, and doorway with turning looks from a held position. The Rules of the Game (on the sister page as a right pan) is the same Renoir law: a head turn through deep space.",
+   "Weekend is often listed beside long connecting moves; confirm whether a given beat is a pan or a lateral track before copying its mechanism."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dolly Left . The tell is missing parallax of near objects, or the opposite: you added a slide by accident.",
+   "The fix: freeze the tripod position, yaw left, level horizon, composed start and end."
+  ],
+  "faq": [
+   {
+    "q": "What is Pan Left in film?",
+    "a": "It is a leftward rotation of a camera on a locked support around the vertical axis, changing where the lens points without relocating the tripod."
+   },
+   {
+    "q": "Pan Left vs Dolly Left",
+    "a": "Dolly left moves the camera sideways through space. Pan left only turns the head, so perspective from the station point stays the same."
+   },
+   {
+    "q": "When should I use Pan Left?",
+    "a": "When two facts share a geography and a turn of attention is enough. Do not pan if you need to physically pass objects in depth."
+   },
+   {
+    "q": "How do I prompt Pan Left for AI image or video?",
+    "a": "Say locked tripod, pan left, vertical-axis rotation only, level horizon, no body travel. Name the start subject and what is revealed to the left."
+   }
+  ]
+ },
+ {
+  "slug": "pan-right",
+  "title": "Pan Right",
+  "zh_title": "向右摇",
+  "narrative": [
+   "End on the story beat, not on a wall. The rightward turn can follow a look, a car, or a line of dialogue that points off-screen.",
+   "Because the camera does not walk, the ethics of the shot stay those of a witness who can turn but cannot follow. It is the wrong tool for a chase that must match pace, and the wrong tool for a sting that needs motion blur as a cut."
+  ],
+  "how": [
+   "Fluid head, yaw only, horizon level, feathered stop on a composed end frame. Keep exposure in mind if you pan into a window.",
+   "Prompt a slow pan right from a locked tripod, fluid head rotation, level horizon, a continuous horizontal reveal."
+  ],
+  "when": [
+   "Same job as pan left, other direction. End on the story beat.",
+   "Concrete beat: a speaker finishes, the pan finds the listener who will decide. Do not overshoot and hunt."
+  ],
+  "vs": [
+   "Pan Left is the mirrored yaw. A Dolly Right trucks the body.",
+   "A Whip Pan blurs this same axis on purpose. If the support slides, you left the pan family."
+  ],
+  "examples_film": [
+   "There Will Be Blood turns across interiors and landscapes to bind oil, prayer, and land in one station. The Rules of the Game uses fluid pans through the chateau so class and hunting share deep space.",
+   "Grammar of the turn, not a layout to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dolly Right or a Whip Pan that never resolves. The tell is parallax you did not want, or blur that never hard-stops.",
+   "The fix: locked sticks, yaw right, level horizon, clean settle."
+  ],
+  "faq": [
+   {
+    "q": "What is Pan Right in film?",
+    "a": "It is a rightward yaw of the camera on a fixed tripod, sweeping the view horizontally without moving the support."
+   },
+   {
+    "q": "Pan Right vs Dolly Right",
+    "a": "Dolly right relocates the camera on an X axis. Pan right only rotates, so you look at a new part of the same place from the same spot."
+   },
+   {
+    "q": "When should I use Pan Right?",
+    "a": "When the next fact is to the right and a turn is enough to connect it. Do not use it to fake a track along a street."
+   },
+   {
+    "q": "How do I prompt Pan Right for AI image or video?",
+    "a": "Write fixed tripod, pan right, horizontal rotation only, level horizon, no body travel. Name the landing frame."
+   }
+  ]
+ },
+ {
+  "slug": "parallax",
+  "title": "Parallax",
+  "zh_title": "视差运镜",
+  "narrative": [
+   "Prove the world has layers. A foreground railing, a mid-ground person, a far ridge: once the camera moves, their relative speeds cannot be faked by a zoom.",
+   "The shot is less a named rig than a test you apply to any travel. A zoom that claims depth will fail this test.",
+   "If you need a graphic flatten, zoom on purpose. If you need air and furniture, translate."
+  ],
+  "how": [
+   "Any real translation works: dolly, tracking, arc, handheld, aerial. Place a near object in frame (post, glass, leaves).",
+   "The near plane should slide faster than the subject, the subject faster than the horizon. Prompt: Parallax around [Subject], near things racing, far things crawling, depth proven by relative speed."
+  ],
+  "when": [
+   "Use it when the room or land must feel thick: a walk past columns, a car past trees. Do not add fake 2.5D wobble to a still and call it a dolly."
+  ],
+  "vs": [
+   "A Dolly is a wheeled translation that produces parallax. Tracking Shot produces it along a path.",
+   "A Zoom changes size without relative speed between planes. A Wiggle is a tiny stereo rock, parallax as a fidget, not a path."
+  ],
+  "examples_film": [
+   "The Tree of Life uses moving viewpoints so near nature shears against far sky. Gravity lets debris and faces disagree in speed as the camera translates.",
+   "Grammar: relative motion as proof of depth."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a zoom. The tell: the whole picture enlarges as one card.",
+   "The fix: translate the camera and keep a near object in frame so it outruns the horizon."
+  ],
+  "faq": [
+   {
+    "q": "What is Parallax in film?",
+    "a": "Parallax is the relative apparent motion of near and far objects when the camera translates. Near planes slide faster; that difference proves depth."
+   },
+   {
+    "q": "Parallax vs Zoom",
+    "a": "A zoom scales the image from a locked body, so planes do not shear. Parallax needs the camera to move through space."
+   },
+   {
+    "q": "When should I use Parallax?",
+    "a": "Use it whenever travel should prove a thick world: columns, glass, trees. Do not fake it with a zoom."
+   },
+   {
+    "q": "How do I prompt Parallax for AI image or video?",
+    "a": "Write a translating camera and a near object that slides faster than the far plane. Example: Parallax around [Subject], near things racing, far things crawling, depth proven by relative speed."
+   }
+  ]
+ },
+ {
+  "slug": "pass-through",
+  "title": "Pass Through",
+  "zh_title": "穿越镜头",
+  "narrative": [
+   "Cut the building, not the film. A house can become a mechanism, a club a sequence of rooms, a body a door.",
+   "The audience is given omniscient access to geography. If you hide a cut on a passing truck, you have an invisible cut, not a pass-through.",
+   "The thickness of the wall or the flesh has to occupy the lens for a moment, or the cheat will read."
+  ],
+  "how": [
+   "Build a 3D route or a set with a removable wall, then composite so objects keep thickness and shape. Lens behavior should stay coherent (no melting plaster).",
+   "Speed can ease through the barrier. Prompt: Pass-through of [Subject], the camera traveling through a wall, a body, a window as if matter were optional."
+  ],
+  "when": [
+   "Use it to enter the next room without a cut, or to treat a house as a machine. Do not use it as a default transition between any two shots."
+  ],
+  "vs": [
+   "Flying Cam Transition is a flight that punches a threshold and lands in a new room as a designed join. Through Object In uses a named prop (keyhole, cup) and often changes scale.",
+   "Object Portal is the object-as-door idea. FPV Drone can thread a real opening; pass-through may ignore matter."
+  ],
+  "examples_film": [
+   "Enter the Void flies through Tokyo rooms and bodies as if walls were optional. The Fight Club house tour treats a dwelling as a continuous mechanism.",
+   "Grammar: thickness, then the next space."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a cut on a dark frame or a passing object. The tell: a pop to a new room with no thickness.",
+   "The fix: travel through the barrier and keep its shape during the passage."
+  ],
+  "faq": [
+   {
+    "q": "What is Pass Through in film?",
+    "a": "A pass-through sends the camera through a wall, body, or window as a continuous path, treating matter as optional while keeping the next space coherent."
+   },
+   {
+    "q": "Pass Through vs Through Object In",
+    "a": "Pass-through uses architecture or a body as the barrier. Through-object-in enters via a named prop such as a keyhole or cup, often with a scale change."
+   },
+   {
+    "q": "When should I use Pass Through?",
+    "a": "Use it to change rooms without a cut, or to make a building feel like a mechanism. Do not use it as a cheap wipe."
+   },
+   {
+    "q": "How do I prompt Pass Through for AI image or video?",
+    "a": "Name the barrier and the arrival space, and keep the path continuous. Example: Pass-through of [Subject], the camera traveling through a wall, a body, a window as if matter were optional."
+   }
+  ]
+ },
+ {
+  "slug": "pedestal-down",
+  "title": "Pedestal Down",
+  "zh_title": "垂直下降",
+  "narrative": [
+   "Return to human height after a high formal view, or sit the camera down to a child, a table, a wound. Because tilt is constant, the world does not bow; we simply stand lower in it.",
+   "It is the wrong tool when you must look down as you drop, or when the arm should swing over a railing. If pitch changes, you left the pedestal."
+  ],
+  "how": [
+   "Translate on Y only. Keep tilt, and usually keep yaw.",
+   "Vertical parallax reverses the up-move: architecture climbs the frame. Prompt a pedestal down, camera lowering vertically, no tilt, a calm descent through the same axis."
+  ],
+  "when": [
+   "Use it to return to human height after a high formal view. Concrete beat: from a chandelier's height down to the couple, still looking along the ballroom, not down at the floor.",
+   "Do not tilt to keep them in frame; change height instead."
+  ],
+  "vs": [
+   "A Crane Down can arc, advance, and even hand off to a walk. A Tilt Down pitches from a fixed height.",
+   "Pedestal Up is the opposite column. Pedestal down sits the camera down while it keeps looking the same way."
+  ],
+  "examples_film": [
+   "Barry Lyndon favors formal, measured height and locked geometry over swooping arms. 2001: A Space Odyssey again treats vertical station as a physical fact of the set.",
+   "Use them as tilt-locked descent grammar."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Tilt Down or Crane Down . The tell is a nodding horizon or a curved path over furniture.",
+   "The fix: straight drop, tilt frozen, end at the new eyeline."
+  ],
+  "faq": [
+   {
+    "q": "What is Pedestal Down in film?",
+    "a": "It is a straight vertical lowering of the camera with tilt unchanged, so the lens occupies a lower station without nodding."
+   },
+   {
+    "q": "Pedestal Down vs Crane Down",
+    "a": "Crane down travels on an arm and often changes angle as it arrives. Pedestal down is a column drop: same pitch, new height."
+   },
+   {
+    "q": "When should I use Pedestal Down?",
+    "a": "When rank or scale should change by sitting the camera down, not by looking down. Do not use it to dive at a face from a rooftop."
+   },
+   {
+    "q": "How do I prompt Pedestal Down for AI image or video?",
+    "a": "Write camera lowers straight down on a pedestal, tilt constant, no arc. Name the start height and the settle."
+   }
+  ]
+ },
+ {
+  "slug": "pedestal-up",
+  "title": "Pedestal Up",
+  "zh_title": "垂直升起",
+  "narrative": [
+   "Height changes without the drama of a crane arc. You are still looking the same way, only from higher, so rank and horizon shift together.",
+   "It is a formal lift, useful when the camera must stay architecturally true. It is the wrong tool when you need to boom out over a crowd or ease back as you rise.",
+   "A pedestal does not draw an arc; a crane does."
+  ],
+  "how": [
+   "Use a studio pedestal, a column, or a virtual Y-axis translate. Lock tilt and usually lock yaw.",
+   "The nodal point gains height, so you get vertical parallax: near objects drop faster than the far skyline. Prompt a pedestal up, camera rising vertically on a column with no tilt change, eyeline climbing."
+  ],
+  "when": [
+   "Use it to change height without the drama of a crane arc. Concrete beat: from a tabletop to the standing speaker, looking the same direction the whole way.",
+   "Do not add a tilt-up and call it a pedestal."
+  ],
+  "vs": [
+   "A Crane Up arcs through space and often eases backward, changing X and Z as well as Y. A Tilt Up only pitches from a fixed height.",
+   "A Jib Shot is a short pivoting arm, so its path is an arc, not a column. Pedestal Down is the same column the other way."
+  ],
+  "examples_film": [
+   "2001: A Space Odyssey treats vertical camera placement as spacecraft geometry rather than as a flourish. Studio multi-camera drama uses the pedestal column as the default lift.",
+   "Pair those as grammar for tilt-locked height, not as a look to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Tilt Up or a Crane Up . The tell is a pitching horizon, or a backward boom that reveals a city.",
+   "The fix: straight Y travel, tilt locked, no arc."
+  ],
+  "faq": [
+   {
+    "q": "What is Pedestal Up in film?",
+    "a": "It is a straight vertical rise of the whole camera with tilt held constant, so you look from a higher station in the same direction."
+   },
+   {
+    "q": "Pedestal Up vs Crane Up",
+    "a": "Crane up follows an arm's arc and often backs away. Pedestal up is a column: height only, pitch unchanged."
+   },
+   {
+    "q": "When should I use Pedestal Up?",
+    "a": "When you need a clean height change and a stable horizon, often in architecture or studio blocking. Do not use it for a skyline reveal that requires boom-out."
+   },
+   {
+    "q": "How do I prompt Pedestal Up for AI image or video?",
+    "a": "Say camera rises straight up on a pedestal, no tilt change, no crane arc. Name start height and end height."
+   }
+  ]
+ },
+ {
+  "slug": "pull-out",
+  "title": "Pull Out",
+  "zh_title": "拉镜头",
+  "narrative": [
+   "Show the container around a feeling. The person remains while the world claims them.",
+   "Unlike a zoom out, furniture and doorways can pass the lens because the camera is retreating. It is the wrong tool when you needed a high aerial to let land win, and the wrong tool when a locked optical widen would be more detached.",
+   "Define whose viewpoint the retreat represents."
+  ],
+  "how": [
+   "Translate backward on dolly, Steadicam, or virtual camera. Fix focal length.",
+   "Compose the wide end so the new walls mean something. Prompt a slow pull out, intimacy widening into environment, the person remaining while the world claims them."
+  ],
+  "when": [
+   "Use it to show the container around a feeling. Concrete beat: a crying close coverage that retreats until the empty apartment is the sentence.",
+   "Do not pull out into a blank sky with no new fact."
+  ],
+  "vs": [
+   "A Dolly Out is this job on wheels at human height. An Aerial Pullback leaves the ground.",
+   "A Slow Zoom Out discloses context without walking. Pull out is the generic physical or virtual retreat: the container appears because we backed up."
+  ],
+  "examples_film": [
+   "The Truman Show discloses the constructed world by leaving the intimate frame. The Player uses retreat as part of longer moving sentences that reveal the lot as a system.",
+   "Treat them as container grammar, not as setups to duplicate."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Slow Zoom Out . The tell is no parallax as the room grows.",
+   "The fix: move the camera away, fixed lens, new architecture passing the edges."
+  ],
+  "faq": [
+   {
+    "q": "What is Pull Out in film?",
+    "a": "It is a camera retreat that opens space around a subject because the station point moves away, not because the lens widens alone."
+   },
+   {
+    "q": "Pull Out vs Dolly Out",
+    "a": "Dolly out names the wheeled path. Pull out is the broader retreat job and may be Steadicam, virtual, or track. Both should show parallax; a zoom out will not."
+   },
+   {
+    "q": "When should I use Pull Out?",
+    "a": "When the room, street, or system around a feeling is the next sentence. Do not use it as an aerial chapter-close."
+   },
+   {
+    "q": "How do I prompt Pull Out for AI image or video?",
+    "a": "Write slow pull out, camera moving away, environment entering, no optical zoom. Name the container that must appear."
+   }
+  ]
+ },
+ {
+  "slug": "push-in",
+  "title": "Push In",
+  "zh_title": "推镜头",
+  "narrative": [
+   "A thought lands. Do not rush it.",
+   "The job is the realization, the lie, the trap, not the display of a rig. Parallax still appears, even if the travel is only a meter, because the station point changes.",
+   "It is the wrong tool when you wanted optical compression from a locked body, and the wrong tool when you wanted a long track into a room as geography. If you add a second flourish, the thought is gone."
+  ],
+  "how": [
+   "Dolly, slider, Steadicam, or virtual camera on the Z axis, usually from medium to medium close-up. Keep the lens fixed so the push is distance, not zoom.",
+   "Tiny parallax is the honesty. Prompt an imperceptibly slow push in, medium into medium close-up, walls closing before the motion is noticed."
+  ],
+  "when": [
+   "Use it when a thought lands and you should not rush it. Concrete beat: a listener understands they are caught, medium to MCU over 6 seconds.",
+   "Do not push in on every line."
+  ],
+  "vs": [
+   "A Dolly In names the wheeled support and often travels farther, as geography. A Slow Zoom In never moves the camera, so there is no parallax.",
+   "Push in is the pressure beat: short, physical or virtual, tied to a thought. If the track is a room long, you are dollying."
+  ],
+  "examples_film": [
+   "The Silence of the Lambs uses slow physical approaches so conversations become traps. The Shining and There Will Be Blood let small advances register as mental weather.",
+   "Use the patience and the parallax, not a particular actor's blocking as a clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Slow Zoom In . The tell is enlargement without sliding foreground.",
+   "The fix: translate closer, fixed lens, short path, end on the thought, no extra move."
+  ],
+  "faq": [
+   {
+    "q": "What is Push In in film?",
+    "a": "It is a short, usually slow advance of the camera toward a subject so the frame tightens because the lens occupies a nearer station."
+   },
+   {
+    "q": "Push In vs Dolly In",
+    "a": "Dolly in specifies a wheeled or tracked translation and can be a long geographic enter. Push in is the pressure job: often shorter, sometimes virtual, always tied to a thought landing."
+   },
+   {
+    "q": "When should I use Push In?",
+    "a": "When a realization or trap should close the air around a face. Do not use it as a default on every close-up."
+   },
+   {
+    "q": "How do I prompt Push In for AI image or video?",
+    "a": "Write very slow push in, camera walking closer, medium to MCU, 6 seconds, no optical zoom. Mention slight parallax."
+   }
+  ]
+ },
+ {
+  "slug": "rapid-zoom-in",
+  "title": "Rapid Zoom In",
+  "zh_title": "快速变焦推近",
+  "narrative": [
+   "No time for a dolly. Emphasis as a weapon: a face, a gun, a sign.",
+   "The snap is so short it can read as an axial cut with a trail of glass. A crash zoom is already fast; this is faster than a polite crash.",
+   "If you can feel a leisurely enlarge, it is not rapid. If the body moved, you dollied."
+  ],
+  "how": [
+   "Locked sticks or a locked handheld brace, zoom thrown to the end stop in a fraction of a second, then hold. Wide to tight.",
+   "No parallax. Prompt: Rapid zoom in on [Subject], faster than a polite crash, almost a cut, the world snapping tight."
+  ],
+  "when": [
+   "Use it when a fact must arrive as a snap, not a walk. Do not use it on every line."
+  ],
+  "vs": [
+   "Crash Zoom In is the punch that is still readable as a zoom. Rapid is nearer a cut.",
+   "YoYo Zoom comes back out. A true cut would have no optical trail."
+  ],
+  "examples_film": [
+   "Hot Fuzz weaponizes snap zooms as punctuation. Kill Bill uses snap zooms as comic and violent emphasis.",
+   "Grammar: almost a cut, then a hold."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a dolly-in or a slow crash. The tell: parallax, or a leisurely enlarge.",
+   "The fix: locked body, snap to tight in a few frames, hold."
+  ],
+  "faq": [
+   {
+    "q": "What is Rapid Zoom In in film?",
+    "a": "A rapid zoom in is an extremely fast optical snap into the subject, almost a cut, then a hold. The camera body stays put."
+   },
+   {
+    "q": "Rapid Zoom In vs Crash Zoom In",
+    "a": "A crash zoom in is a fast but readable punch. Rapid zoom in is faster than a polite crash, nearer to a cut with a trail of glass."
+   },
+   {
+    "q": "When should I use Rapid Zoom In?",
+    "a": "Use it when there is no time for a dolly and the fact must snap tight. Do not use it on every line."
+   },
+   {
+    "q": "How do I prompt Rapid Zoom In for AI image or video?",
+    "a": "Write an extremely fast zoom, then a hold. Example: Rapid zoom in on [Subject], faster than a polite crash, almost a cut, the world snapping tight."
+   }
+  ]
+ },
+ {
+  "slug": "rapid-zoom-out",
+  "title": "Rapid Zoom Out",
+  "zh_title": "快速变焦拉远",
+  "narrative": [
+   "Reveal as a joke or a shock. A close face becomes a tiny figure in a huge problem: a crowd, a desert, a mess.",
+   "The snap is the gag. A pull-out walks away with parallax.",
+   "A crash zoom out is the readable cousin. Rapid is the snap.",
+   "If the environment does not suddenly exist, you only loosened a portrait."
+  ],
+  "how": [
+   "Locked body, zoom thrown wide in a few frames, then hold. Tight to wide.",
+   "Prompt: Rapid zoom out from [Subject], the environment exploding into view in a snap."
+  ],
+  "when": [
+   "Use it to reveal scale or context as a shock. Do not use a slow zoom out and call it rapid."
+  ],
+  "vs": [
+   "Crash Zoom Out is the readable optical reverse. Pull Out translates the camera away.",
+   "Rapid zoom out is the snap to a wide, then a hold, body still."
+  ],
+  "examples_film": [
+   "Shaun of the Dead snaps out to dump a person into a problem. Scott Pilgrim uses snap outs as graphic punctuation.",
+   "Grammar: environment exploding into view."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a pull-out. The tell: the camera walked, lamps sheared.",
+   "The fix: lock the body, snap the glass wide, hold on the new map."
+  ],
+  "faq": [
+   {
+    "q": "What is Rapid Zoom Out in film?",
+    "a": "A rapid zoom out is a snap from the subject to a wide in a few frames, environment exploding into view, then a hold. No body travel."
+   },
+   {
+    "q": "Rapid Zoom Out vs Pull Out",
+    "a": "A pull-out physically retreats and produces parallax. Rapid zoom out only changes focal length, as a snap, then holds."
+   },
+   {
+    "q": "When should I use Rapid Zoom Out?",
+    "a": "Use it to reveal context as a shock or a joke. Do not use it as a slow opener."
+   },
+   {
+    "q": "How do I prompt Rapid Zoom Out for AI image or video?",
+    "a": "Write a snap to a wide, then a hold. Example: Rapid zoom out from [Subject], the environment exploding into view in a snap."
+   }
+  ]
+ },
+ {
+  "slug": "road-rush",
+  "title": "Road Rush",
+  "zh_title": "贴地疾驰",
+  "narrative": [
+   "Intros to chases, night highways, a nightmare of driving: get down and let tarmac fill the frame. Lane dashes streak; light becomes paint.",
+   "A standing-height car commercial is not this shot. FPV is flight; this is tarmac.",
+   "Do not rise to a pretty three-quarter beauty pass unless you end there on purpose."
+  ],
+  "how": [
+   "Low mount, bumper height or below, wide, shutter that allows streak. Lane lines, cat's eyes, wet asphalt.",
+   "Motion blur as paint. Prompt: Road-rush of [Subject], low to the asphalt, speed as smear, headlights and lane lines as weapons."
+  ],
+  "when": [
+   "Use it when the road is the event. Do not use it as a default car portrait from chest height."
+  ],
+  "vs": [
+   "Car Chasing keeps two machines in a hunt. FPV Drone leaves the ground.",
+   "Motion Blur is a shutter fact that road-rush uses as grammar. Road-rush can exist with no car in frame at all."
+  ],
+  "examples_film": [
+   "Tron Legacy's highway treats lanes as weapons of light. Death Proof keeps the camera down on asphalt as a threat.",
+   "Grammar: low, fast, tarmac as the subject."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a car commercial from standing height. The tell: you can read the whole vehicle cleanly and the asphalt is a thin strip.",
+   "The fix: drop to the tarmac, streak the lanes, let the road own the frame."
+  ],
+  "faq": [
+   {
+    "q": "What is Road Rush in film?",
+    "a": "Road rush is a low camera on asphalt at speed, with lane lines and headlights streaking. The road is the subject."
+   },
+   {
+    "q": "Road Rush vs Car Chasing",
+    "a": "Car chasing covers pursuit from a second vehicle. Road rush can ignore the hunter and treat tarmac, lanes, and smear as the event."
+   },
+   {
+    "q": "When should I use Road Rush?",
+    "a": "Use it for night highways, chase intros, and driving as threat. Do not use it as a standing-height product pass."
+   },
+   {
+    "q": "How do I prompt Road Rush for AI image or video?",
+    "a": "Write a low rush along asphalt with streaking lanes. Example: Road-rush of [Subject], low to the asphalt, speed as smear, headlights and lane lines as weapons."
+   }
+  ]
+ },
+ {
+  "slug": "robo-arm",
+  "title": "Robo Arm",
+  "zh_title": "机械臂运镜",
+  "narrative": [
+   "The path must be identical every take. Commercials, previs stages , a bottle that must match a CGI pass, a stunt that must fit a plate: the arm does not interpret.",
+   "A human dolly will drift. An orbit-360 can be walked and will breathe.",
+   "Bolt cam is a throw, not a repeatable spline (unless the throw is itself robotic). If you want error and life, do not use the arm."
+  ],
+  "how": [
+   "Motion-control arm or a six-axis robot, programmed XYZ and pan/tilt/roll. Speed can be inhumanly even or inhumanly fast.",
+   "Product tables, crash pads, or a repeatable orbit. Prompt: Robotic arm move around [Subject], programmed path, inhuman precision, product or stunt geometry."
+  ],
+  "when": [
+   "Use it when takes must match: VFX, product, a stunt plate. Do not use it for a scene that needs human drift."
+  ],
+  "vs": [
+   "360-Degree Orbit can be a human walk or a circular dolly with breath. Bolt Cam is a crash throw aimed at impact.",
+   "Robo-arm is the repeatable spline, any shape, no shake."
+  ],
+  "examples_film": [
+   "Commercials and previs stages are the native grammar: bottles, cars, and stunt geometry that must composite. The precision is the style."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a steadicam orbit. The tell: a little sway, a human accel.",
+   "The fix: write programmed path, identical takes, no operator shake."
+  ],
+  "faq": [
+   {
+    "q": "What is Robo Arm in film?",
+    "a": "A robo arm is a robotic camera on a programmed path, repeatable every take, with no human shake. Product and stunt geometry live here."
+   },
+   {
+    "q": "Robo Arm vs 360-Degree Orbit",
+    "a": "An orbit-360 is a circular walk or dolly and can breathe. A robo arm can orbit, but the point is a programmed spline that matches take to take."
+   },
+   {
+    "q": "When should I use Robo Arm?",
+    "a": "Use it when the path must be identical: VFX plates, product, stunts. Do not use it when you want human error."
+   },
+   {
+    "q": "How do I prompt Robo Arm for AI image or video?",
+    "a": "Write a programmed path with no shake. Example: Robotic arm move around [Subject], programmed path, inhuman precision, product or stunt geometry."
+   }
+  ]
+ },
+ {
+  "slug": "slider",
+  "title": "Slider Shot",
+  "zh_title": "滑轨镜头",
+  "narrative": [
+   "A full dolly is too much. A few centimeters of travel can prove the room has depth: a microphone in the foreground slides against a face, a bottle turns against a window.",
+   "The move is small on purpose. It is the wrong tool for a city block, and the wrong tool if you needed a curve around a product.",
+   "If the rail is meters long, you are dollying. If the path is a circle, you are orbiting."
+  ],
+  "how": [
+   "Clamp a short rail, level it, choose a constant speed. Keep the move lateral or a tiny push; do not hide a zoom inside it.",
+   "Prompt a short slider move, 60 to 120 centimeters of lateral travel, product or interview parallax, precise and small."
+  ],
+  "when": [
+   "Use it when a full dolly is too much and a lock-off needs a little parallax. Concrete beat: an interview single with a lamp sliding in the foreground over 6 seconds.",
+   "Do not slider a chase."
+  ],
+  "vs": [
+   "A Dolly Left is the same linear idea at room or street scale. An 360-Degree Orbit is curved and long.",
+   "A Push In may use a slider as the rail, but push in is the Z-axis thought; slider names the short linear tool. Slider is compact travel, not a path through architecture."
+  ],
+  "examples_film": [
+   "The grammar is commercial and interview more than a single famous scene: tabletop product films , documentary talking heads, small table moves inside features. Use the 60-to-120-centimeter parallax, not a particular ad to clone."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a full Dolly Left or a tiny 360-Degree Orbit . The tell is meters of travel, or a curve.",
+   "The fix: name the short rail, linear path, subtle parallax, end still in the same room."
+  ],
+  "faq": [
+   {
+    "q": "What is Slider Shot in film?",
+    "a": "It is a short linear camera move on a compact rail, typically under about 120 centimeters, used to add small parallax to a still setup."
+   },
+   {
+    "q": "Slider Shot vs Dolly Left",
+    "a": "Dolly left can travel a room or a street. A slider is the compact rail version: interview, product, a lamp sliding against a face."
+   },
+   {
+    "q": "When should I use Slider Shot?",
+    "a": "When a lock-off feels dead and a full track would be too much. Do not use it as a substitute for covering a walk."
+   },
+   {
+    "q": "How do I prompt Slider Shot for AI image or video?",
+    "a": "Write short slider, 60 to 120 centimeters, lateral, subtle parallax, 6 seconds. Ban a long dolly and ban a circular orbit."
+   }
+  ]
+ },
+ {
+  "slug": "slow-zoom-in",
+  "title": "Slow Zoom In",
+  "zh_title": "慢速变焦推近",
+  "narrative": [
+   "The shot is a thought that closes without walking. Geography stays put, so the audience feels watched or analyzed rather than approached.",
+   "Faces grow, walls stay in the same relation, and the pressure is optical. Use it when attention must narrow and the room must not rearrange itself.",
+   "It is the wrong tool when you need to enter a mind by occupying the same air: that job belongs to a physical approach, because a zoom never changes the camera's station point."
+  ],
+  "how": [
+   "Lock a heavy tripod. Keep height, tilt, and nodal point still.",
+   "Drive focal length smoothly over several seconds and rehearse focus compensation as depth of field shallows. Compression increases: distant planes look closer to the subject even though nobody moved.",
+   "Prompt a locked camera body, a gradual optical zoom in, rising compression, and an explicit ban on dolly parallax."
+  ],
+  "when": [
+   "Use it to raise pressure on a still figure while the architecture stays legally the same. Concrete beat: a surveillance long-lens slowly isolating one person in a crowd.",
+   "Do not use it if foreground objects must peel and prove the camera walked."
+  ],
+  "vs": [
+   "A Dolly In translates the whole camera, so foreground and background change speed. A Push In is a physical or virtual walk whose job is a realization landing.",
+   "A Crash Zoom In uses the same optical mechanism at sting speed. Stay on slow zoom in when the station point must not move."
+  ],
+  "examples_film": [
+   "The Conversation isolates figures in Union Square with a gradual long-lens close. There Will Be Blood and Phantom Thread use slow optical tightening as patience and scrutiny.",
+   "These are grammar for locked-body compression, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dolly In or a digital crop sold as a zoom. The tell is parallax: if a foreground chair slides against the wall, you translated.",
+   "The fix is a locked head, a true focal-length change, and a hold on the final tight frame."
+  ],
+  "faq": [
+   {
+    "q": "What is Slow Zoom In in film?",
+    "a": "It is a gradual increase of focal length with the camera support still. The image tightens and space compresses, but the camera does not occupy a new position."
+   },
+   {
+    "q": "Slow Zoom In vs Dolly In",
+    "a": "Dolly in walks the camera so perspective and parallax change. Slow zoom in only walks the lens: size grows, relative geometry of planes stays the same."
+   },
+   {
+    "q": "When should I use Slow Zoom In?",
+    "a": "When you want pressure, scrutiny, or a slow isolation and you need the room to remain the same place. Skip it if the beat is actually entering the space."
+   },
+   {
+    "q": "How do I prompt Slow Zoom In for AI image or video?",
+    "a": "Name a locked tripod, optical zoom in, duration, and no body travel. Example: camera body locked, lens slowly zooming in for 6 seconds, compression increasing, no dolly."
+   }
+  ]
+ },
+ {
+  "slug": "slow-zoom-out",
+  "title": "Slow Zoom Out",
+  "zh_title": "慢速变焦拉远",
+  "narrative": [
+   "The joke, the trap, or the social system was already around the person. The lens simply admits it.",
+   "Because the station point is unchanged, the reveal feels observational: we were always this far away, we only chose to see more. It is the wrong tool when the camera must retreat through a doorway, lose a foreground, or leave someone behind in real space.",
+   "Optical widening cannot walk out of a room."
+  ],
+  "how": [
+   "Lock the tripod and reverse the zoom. Start on a composed tight frame and pre-compose the wide end so heads, signs, and negative space land.",
+   "Focus will deepen as focal length shortens. Prompt a tripod-locked optical zoom out, no camera body travel, and name what architecture must appear by the last frame."
+  ],
+  "when": [
+   "Use it to reveal context, isolation, or an off-screen joke that was already in the location. Concrete beat: a tight face opening onto a dinner table that has been watching.",
+   "Do not use it to exit a location: that is a physical pull."
+  ],
+  "vs": [
+   "A Pull Out and a Dolly Out move the camera backward, so foreground objects leave the frame with parallax. A slow zoom out only changes the lens angle of view.",
+   "If you also need a Slow Zoom In cousin in the same scene, keep both bodies locked so the pair stays optical."
+  ],
+  "examples_film": [
+   "Barry Lyndon widens into painterly social tableaux without walking the camera into the party. The Social Network , Her, and Lost in Translation use slow optical opening to place a person inside a system they cannot leave.",
+   "Grammar, not frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a Dolly Out . The tell is a sliding foreground: plants, shoulders, or door jambs changing their overlap.",
+   "The fix is to freeze the support and drive only focal length, then hold the wide."
+  ],
+  "faq": [
+   {
+    "q": "What is Slow Zoom Out in film?",
+    "a": "It is a gradual decrease of focal length from a locked camera, so the frame widens while the camera's position stays the same."
+   },
+   {
+    "q": "Slow Zoom Out vs Dolly Out",
+    "a": "Dolly out retreats through space and creates parallax. Slow zoom out stays on the sticks and only widens the lens, so planes keep their original perspective relation."
+   },
+   {
+    "q": "When should I use Slow Zoom Out?",
+    "a": "When the surrounding situation is the punchline or the prison, and you want to disclose it without relocating the camera. Do not use it as a substitute for leaving the room."
+   },
+   {
+    "q": "How do I prompt Slow Zoom Out for AI image or video?",
+    "a": "State locked tripod, optical zoom out, and what must be revealed. Example: tripod locked, lens slowly zooming out for 6 seconds, architecture entering, no body travel."
+   }
+  ]
+ },
+ {
+  "slug": "snorricam",
+  "title": "SnorriCam",
+  "zh_title": "斯诺里康",
+  "narrative": [
+   "Trap the audience in a body that cannot get out. Panic, intoxication, or dissociation becomes spatial because the person is locked to the image and the street will not sit still.",
+   "It is the wrong tool for a first-person view of what they see. A SnorriCam faces the wearer.",
+   "It is not a body-cam showing the world, and it is not a follow from behind."
+  ],
+  "how": [
+   "Use a safely fitted lightweight body rig, or reproduce the relative motion in a virtual scene. Preserve tiny bodily movements without letting the face float independently of the torso.",
+   "Prompt a SnorriCam body-mounted on the subject, camera locked to the torso, face pinned, world sloshing behind."
+  ],
+  "when": [
+   "Use it to trap the audience in a body that cannot get out. Concrete beat: a panicked walk down a sidewalk, pupils steady in frame, storefronts shearing.",
+   "Do not use it as POV of the sidewalk."
+  ],
+  "vs": [
+   "Point of View shows what they look at, from beside or as them. Handheld is an operator nearby, not bolted to the chest.",
+   "Locked-On glues the camera to a subject that may not be the wearer, often from outside a vehicle or a fall. SnorriCam is body-mounted and facing the actor."
+  ],
+  "examples_film": [
+   "Requiem for a Dream uses body-mounted shots during panic and disorientation. Pi destabilizes Max's movement through the city with a pinned face.",
+   "Mean Streets is part of the same body-rig family. Face stable, world not: that is the grammar."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Point of View or a Follow Shot from behind. The tell is seeing the street as the actor would, or seeing their back.",
+   "The fix: camera on the body, pointed at the face, background shearing."
+  ],
+  "faq": [
+   {
+    "q": "What is SnorriCam in film?",
+    "a": "It is a camera rigged to the performer and aimed at them, so their face stays oddly stable while the environment moves around it."
+   },
+   {
+    "q": "SnorriCam vs Point of View",
+    "a": "POV shows what the person sees. SnorriCam shows the person, locked to their torso, with the world unmoored behind them."
+   },
+   {
+    "q": "When should I use SnorriCam?",
+    "a": "When panic, drugs, or dissociation should trap us in a body. Do not use it as a helmet-cam of the street."
+   },
+   {
+    "q": "How do I prompt SnorriCam for AI image or video?",
+    "a": "Write body-mounted camera locked to the torso, face centered and pinned, background sliding wildly. Ban POV of the environment."
+   }
+  ]
+ },
+ {
+  "slug": "static",
+  "title": "Static Locked-Off",
+  "zh_title": "固定机位",
+  "narrative": [
+   "Trust blocking and duration. Movement would be noise.",
+   "Comedy, ritual, and dread all live here because the audience cannot be rescued by a pan when something enters, or fails to enter, the rectangle. It is the wrong tool when geography must be discovered in motion, and the wrong tool if you add a slider 'for life' and destroy the contract.",
+   "Silence of the head is a relationship to the action, not a frozen audio file."
+  ],
+  "how": [
+   "Heavy sticks, locked head, level bubble, no touch after slate. Actors and air may move; the camera may not.",
+   "Prompt a perfectly static locked-off shot, heavy tripod, zero camera movement, composition doing all the work."
+  ],
+  "when": [
+   "Use it when blocking and duration should carry the beat and movement would be noise. Concrete beat: a domestic task held in a fixed composition until the task changes meaning.",
+   "Do not drift."
+  ],
+  "vs": [
+   "A Tableau is a related still, often more presentational. A Long Take may be static or moving; length is not the lock-off.",
+   "Any dolly, pan, or zoom leaves this family. Static is zero camera path."
+  ],
+  "examples_film": [
+   "Jeanne Dielman holds domestic tasks in fixed compositions. Tokyo Story lets rooms and sitting do the motion.",
+   "The Grand Budapest Hotel uses lock-offs as diagram. 2001: A Space Odyssey plants some spacecraft views as still geometry.",
+   "Grammar of the rectangle, not a kitchen to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a tiny Slider Shot or a breathing Handheld . The tell is any parallax or micro-pan.",
+   "The fix: locked head, no virtual drift, action inside a still frame."
+  ],
+  "faq": [
+   {
+    "q": "What is Static Locked-Off in film?",
+    "a": "It is a shot with no camera movement: the support is locked and only the world or the actors may move inside the composition."
+   },
+   {
+    "q": "Static Locked-Off vs Long Take",
+    "a": "A long take is about duration and may travel. A static lock-off is about a frozen camera, whether the shot is 3 seconds or 3 minutes."
+   },
+   {
+    "q": "When should I use Static Locked-Off?",
+    "a": "When blocking, comedy, or dread should happen inside a decided rectangle. Do not slide 'to add life' if the contract is stillness."
+   },
+   {
+    "q": "How do I prompt Static Locked-Off for AI image or video?",
+    "a": "Write completely locked-off camera, heavy tripod, zero camera movement. Subject may breathe. Ban pan, dolly, zoom, and drift."
+   }
+  ]
+ },
+ {
+  "slug": "steadicam",
+  "title": "Steadicam",
+  "zh_title": "斯坦尼康",
+  "narrative": [
+   "Long connecting moves through architecture. Light temperatures shift as rooms change.",
+   "The operator is walking, so the camera can turn corners, climb stairs, and arrive in a new social weather without laying track through every door. It is the wrong tool when you want documentary shake, or when a straight corridor would be cleaner and cheaper on track.",
+   "It is also not a gimbal: the isolation comes from a mechanical arm and the operator's trained gait, not from motors alone."
+  ],
+  "how": [
+   "Vest, spring arm, sled, and a balanced camera. The operator walks a rehearsed line; the camera is isolated from footfall.",
+   "You can still boom slightly with the arm. Prompt Steadicam floating with the subject through connected spaces, preternatural smoothness, operator walking, no footfall shake."
+  ],
+  "when": [
+   "Use it for long connecting moves through architecture, neither handheld nor dolly. Concrete beat: through a kitchen, down a stair, into a club, one path.",
+   "Do not Steadicam a lock-off that only needed sticks."
+  ],
+  "vs": [
+   "A Gimbal Shot uses motorized electronic stabilization and is often run without a vest. Handheld keeps the operator's mass in the image as micro-tremor.",
+   "Tracking Shot is the job; Steadicam is a support that can execute tracks, follows, and Walk and Talk coverage. A Oner may be shot on Steadicam, but length of take is not the stabilizer."
+  ],
+  "examples_film": [
+   "The Shining 's corridor work is the textbook Steadicam walk. Goodfellas ' Copa is a vest-and-arm descent through service spaces into a table.",
+   "Boogie Nights connects rooms as social circuits. Smooth path, human scale: that is the grammar."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is Handheld shake added as a preset, or a Gimbal Shot clip that never feels like a vest. The tell is tremor, or a weightless electronic drift with no human gait.",
+   "The fix: name Steadicam, operator walking, isolated footfall, connected architecture."
+  ],
+  "faq": [
+   {
+    "q": "What is Steadicam in film?",
+    "a": "It is a mechanical stabilizer worn by an operator (vest, arm, sled) that lets the camera walk smoothly through spaces that track cannot easily enter."
+   },
+   {
+    "q": "Steadicam vs Gimbal Shot",
+    "a": "Gimbal stabilization is motorized and often handheld without a vest. Steadicam isolates movement mechanically through an arm and trained operator gait."
+   },
+   {
+    "q": "When should I use Steadicam?",
+    "a": "When you need a long, smooth walk through doorways and rooms. Do not use it as a synonym for any moving shot."
+   },
+   {
+    "q": "How do I prompt Steadicam for AI image or video?",
+    "a": "Write Steadicam, operator walking, floating smoothness, no footfall shake, through connected rooms. Name the path and the end room."
+   }
+  ]
+ },
+ {
+  "slug": "super-dolly-in",
+  "title": "Super Dolly In",
+  "zh_title": "超长推轨推进",
+  "narrative": [
+   "A normal dolly is not enough. The room is consumed: lamps, furniture, and walls shear hard, and the face is suddenly too close.",
+   "Threat, obsession, a corridor that becomes a portrait. A crash zoom does this optically with no shear.",
+   "A polite dolly-in keeps manners. Super is length plus speed plus violent parallax.",
+   "If the path is short, you only had a push."
+  ],
+  "how": [
+   "Long track or a long steadicam drive on the lens axis, often wide at the start so the room can be eaten. Speed is high; the end is a close-up.",
+   "Prompt: Super dolly in on [Subject], a long aggressive travel that eats the room, parallax violent, the face arriving too fast."
+  ],
+  "when": [
+   "Use it when approach must feel too much: a threat, a corridor, a face that arrives early. Do not use it for a gentle thought."
+  ],
+  "vs": [
+   "Dolly In is the polite wheel-in, same axis, human speed. Crash Zoom In snaps glass from a locked body.",
+   "Super-dolly-in translates far and fast until the room is gone."
+  ],
+  "examples_film": [
+   "The Shining 's long hotel approaches eat space toward a person, whether on wheels or a vest. Oldboy 's corridor drive-in is the grammar of a long aggressive travel that becomes a fight and a face.",
+   "Use them as space-eating approach, not as frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a crash zoom or a short push. The tell: no long shear of the room, or the whole picture simply enlarges.",
+   "The fix: a long physical path, violent parallax, face arriving too fast."
+  ],
+  "faq": [
+   {
+    "q": "What is Super Dolly In in film?",
+    "a": "A super dolly in is a long, fast physical approach that eats the room with violent parallax until the face is suddenly close."
+   },
+   {
+    "q": "Super Dolly In vs Dolly In",
+    "a": "A dolly in is a controlled approach. Super dolly in is the same axis stretched in length and speed until geography collapses into a close-up."
+   },
+   {
+    "q": "When should I use Super Dolly In?",
+    "a": "Use it when a polite approach is not enough: threat, corridor, obsession. Do not use it for a gentle thought."
+   },
+   {
+    "q": "How do I prompt Super Dolly In for AI image or video?",
+    "a": "Write a long fast travel with violent parallax. Example: Super dolly in on [Subject], a long aggressive travel that eats the room, the face arriving too fast."
+   }
+  ]
+ },
+ {
+  "slug": "super-dolly-out",
+  "title": "Super Dolly Out",
+  "zh_title": "超长推轨后拉",
+  "narrative": [
+   "Leave them in the system. A constructed world revealed, a street that was a room, a face that becomes a statistic of space.",
+   "The retreat is long enough that the map wins. An aerial pullback continues until land is everything.",
+   "Super-dolly-out stays on a human axis, wheels or vest, but the path is long and the dump is fast. A short pull-out only gives headroom."
+  ],
+  "how": [
+   "Long reverse track on the lens axis, often starting close. Speed is high; end wide.",
+   "Parallax opens the room rather than eating it. Prompt: Super dolly out from [Subject], a long retreat that dumps the person into geography, the room exploding open."
+  ],
+  "when": [
+   "Use it to dump a person into a larger system in one retreat. Do not use a short pull for headroom and call it super."
+  ],
+  "vs": [
+   "Dolly Out is the polite reverse. Aerial Pullback leaves the human axis and wins as a map from the air.",
+   "Super-dolly-out stays grounded but goes far and fast."
+  ],
+  "examples_film": [
+   "The Truman Show retreats until a constructed world owns the person. A reverse of the Copacabana energy (leaving the club instead of entering) is the grammar of dumping a figure back into a system.",
+   "Use them as long retreats, not as frames to copy."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a zoom out or a short pull. The tell: the face shrinks with no shear, or the path is only a step.",
+   "The fix: long physical reverse, room exploding open, environment owning the frame."
+  ],
+  "faq": [
+   {
+    "q": "What is Super Dolly Out in film?",
+    "a": "A super dolly out is a long, fast physical retreat that dumps a person into geography until the environment owns the frame."
+   },
+   {
+    "q": "Super Dolly Out vs Aerial Pullback",
+    "a": "An aerial pullback leaves by air until land is the subject. Super dolly out stays on a grounded axis but the reverse is long and the dump is fast."
+   },
+   {
+    "q": "When should I use Super Dolly Out?",
+    "a": "Use it to leave someone inside a system that suddenly looks huge. Do not use a short pull for headroom."
+   },
+   {
+    "q": "How do I prompt Super Dolly Out for AI image or video?",
+    "a": "Write a long reverse until the environment owns the frame. Example: Super dolly out from [Subject], a long retreat that dumps the person into geography."
+   }
+  ]
+ },
+ {
+  "slug": "through-object-in",
+  "title": "Through Object In",
+  "zh_title": "穿物进入",
+  "narrative": [
+   "Enter through a thing. Impossible reveals, jokes, a house tour that ignores walls: the named object is the door, not a generic wall.",
+   "Objects must keep thickness and shape during the passage. A cut from a cup to a face is not this.",
+   "Flying-cam transition punches architecture; this punches a prop. The practical task is continuity of space."
+  ],
+  "how": [
+   "Build a 3D route and connect plates to digital interiors. Choose believable lens behavior and speed changes.",
+   "Name the object, the travel through it, and the arrival. Prompt: Through-object-in on [Subject], the camera entering via a cup, keyhole, speaker, or mouth, matter as a door."
+  ],
+  "when": [
+   "Use it for an impossible reveal through a named object. Do not use a straight cut and call it a pass."
+  ],
+  "vs": [
+   "Pass Through uses walls or bodies. Object Portal is the object-as-door idea.",
+   "Through Object Out is the reverse exit. Through-object-in arrives on the subject after the prop."
+  ],
+  "examples_film": [
+   "Panic Room explores a townhouse through physically inaccessible openings. Fight Club opens from microscopic neural imagery into the narrator's predicament.",
+   "The Secret in Their Eyes passes from aerial into a crowd as if continuous. Being John Malkovich treats a portal as a door in a thing."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a cut from a cup to a face. The tell: no interior of the object, no thickness.",
+   "The fix: travel through the named prop, keep its shape, arrive on the far side."
+  ],
+  "faq": [
+   {
+    "q": "What is Through Object In in film?",
+    "a": "Through object in is a continuous camera path that enters via a named object (keyhole, cup, speaker, mouth) and arrives on the subject, often changing scale."
+   },
+   {
+    "q": "Through Object In vs Pass Through",
+    "a": "Pass-through uses architecture or a body. Through-object-in uses a named prop as the door and often includes a scale change."
+   },
+   {
+    "q": "When should I use Through Object In?",
+    "a": "Use it to enter a scene through a thing: a joke, an impossible house tour, a portal. Do not fake it with a cut."
+   },
+   {
+    "q": "How do I prompt Through Object In for AI image or video?",
+    "a": "Name the object, the travel, and the arrival. Example: Through-object-in on [Subject], the camera entering via a cup, keyhole, speaker, or mouth, matter as a door."
+   }
+  ]
+ },
+ {
+  "slug": "through-object-out",
+  "title": "Through Object Out",
+  "zh_title": "穿物而出",
+  "narrative": [
+   "Leave through a thing. Endings, a mind opening onto a city, a room that becomes a street by way of a window, a pupil, a barred frame: absence can be the dramatic center.",
+   "The effect is the viewpoint abandoning the person, not merely passing an obstacle. A zoom out that never enters matter is not this shot.",
+   "The object must occupy the frame as a tunnel."
+  ],
+  "how": [
+   "Stage room, object, and exterior as one spatial problem. Removable barrier, support transfer, or composite.",
+   "Choreograph exterior action and offscreen sound to carry the event if the camera looks away. Prompt: Through-object-out from [Subject], the camera exiting via an object into a wider world, the interior becoming exterior."
+  ],
+  "when": [
+   "Use it to leave a person through a thing into a larger space. Do not use a plain pull-out and claim a portal."
+  ],
+  "vs": [
+   "Through Object In arrives. Aerial Pullback leaves by gaining altitude until geography wins, without needing a prop as tunnel.",
+   "Through-object-out needs the object as the exit."
+  ],
+  "examples_film": [
+   "The Passenger 's late hotel-room shot moves toward and beyond a barred window, then looks back. Contact and The Tree of Life use exits of scale and matter as revelation.",
+   "Grammar: leave through a thing, interior becoming exterior."
+  ],
+  "mistakes": [
+   "The usual wrong cousin is a zoom out or a crane-up. The tell: the world enlarges but no object ever fills the frame as a passage.",
+   "The fix: occupy the lens with the object, travel through it, then the wider world."
+  ],
+  "faq": [
+   {
+    "q": "What is Through Object Out in film?",
+    "a": "Through object out is a moving viewpoint that leaves a subject by traveling out through an object into a larger space, interior becoming exterior."
+   },
+   {
+    "q": "Through Object Out vs Through Object In",
+    "a": "Through-object-in enters via a prop and arrives on the person. Through-object-out exits via a prop and can abandon the person to a wider world."
+   },
+   {
+    "q": "When should I use Through Object Out?",
+    "a": "Use it for endings and scale reveals that leave through a thing. Do not use a plain pull-out with no portal."
+   },
+   {
+    "q": "How do I prompt Through Object Out for AI image or video?",
+    "a": "Start on the subject, travel out through a named object, arrive in a larger space. Example: Through-object-out from [Subject], the camera exiting via an object into a wider world."
+   }
+  ]
+ }
+]
