@@ -11,7 +11,17 @@ def short(slug):
     zh = (lib[slug]["d"][1] or "").replace("\n", " ").strip()
     first = zh.split("。")[0]
     return (first[:58] + "…") if len(first) > 58 else first
-items = [[r[0], r[2], r[1], r[3], 1 if r[4] else 0, r[5], r[6] or 0, short(r[0])] for r in ct["index"]]
+def long(slug):
+    zh = (lib[slug]["d"][1] or "").replace("\n", " ").strip()
+    out = ""
+    for part in zh.split("。"):
+        if not part:
+            continue
+        if len(out) + len(part) > 150 and out:
+            break
+        out += part + "。"
+    return out[:170]
+items = [[r[0], r[2], r[1], r[3], 1 if r[4] else 0, r[5], r[6] or 0, short(r[0]), long(r[0])] for r in ct["index"]]
 chapters = []
 for c in ct["chapters"]:
     seen = []
