@@ -289,8 +289,6 @@ function renderView(path, prev) {
     setNav('library'); viewLibrary(); document.title = '手法图鉴｜电影语言入门';
   } else if (path === '/quiz') {
     setNav('quiz'); viewQuiz(); document.title = '看片测验｜电影语言入门';
-  } else if (path === '/game') {
-    setNav('game'); viewGame(); document.title = '看片连击｜电影语言入门';
   } else if (path === '/board') {
     setNav('board'); viewBoard(); document.title = '收藏夹｜电影语言入门';
   } else {
@@ -300,7 +298,7 @@ function renderView(path, prev) {
   if (anchor) requestAnimationFrame(() => anchor.scrollIntoView({ block: 'start', behavior: sameChapter ? 'smooth' : 'auto' }));
   else window.scrollTo(0, 0);
 }
-function stopViewMedia() { gameLeave(); main.querySelectorAll('video').forEach(v => { try { v.pause(); } catch (e) { /* ignore */ } }); }
+function stopViewMedia() { main.querySelectorAll('video').forEach(v => { try { v.pause(); } catch (e) { /* ignore */ } }); }
 
 /* ----- home ----- */
 function progressBar(done, total, label) {
@@ -353,9 +351,7 @@ function viewHome() {
   main.appendChild(h('section', { class: 'section' },
     h('div', { class: 'section-head' },
       h('div', null, h('h2', null, '学习路线'), h('p', null, '建议按顺序学，每次只学一课：读讲解 → 看片例 → 拍 10 秒练习 → 标记已练习。')),
-      h('div', { class: 'row' },
-        h('a', { class: 'link-more', href: '#/game' }, '看片连击（新）', icon('right')),
-        h('a', { class: 'link-more', href: '#/quiz' }, wrongList().length ? '错题本还有 ' + wrongList().length + ' 个，去复习' : '学完几章？来测一测', icon('right')))),
+      h('a', { class: 'link-more', href: '#/quiz' }, wrongList().length ? '错题本还有 ' + wrongList().length + ' 个，去复习' : '学完几章？来测一测', icon('right'))),
     grid));
 
   // 按原站分类快速进入图鉴
@@ -915,8 +911,6 @@ function quizEnd(wrap) {
       h('a', { class: 'btn', href: '#/learn/0' }, '回到学习路线'))));
   Q.round = null;
 }
-
-//__GAME__
 
 /* ----- board (收藏夹 + 提示词组合) ----- */
 function viewBoard() {

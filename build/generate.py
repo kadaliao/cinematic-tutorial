@@ -7,7 +7,7 @@ Inputs (this directory):
   zh_titles.json  - slug -> 中文手法名（图鉴、搜索、测验用）
   body_zh.json    - 原站正文中文译文（与 origin_raw.json 逐段对齐）
   catnames.json   - origin category slug -> display name
-  page.html / app.css / app.js / game.js - page shell, styles, app logic (hand-written)
+  page.html / app.css / app.js - page shell, styles, app logic (hand-written)
 
 Outputs (repository root):
   index.html        - page shell with app.css / app.js inlined
@@ -139,7 +139,7 @@ ver = lambda s: hashlib.sha1(s.encode()).hexdigest()[:10]  # 内容变了 URL �
 
 page = (HERE / "page.html").read_text()
 page = (page.replace("/*__CSS__*/", (HERE / "app.css").read_text().strip())
-            .replace("/*__JS__*/", (HERE / "app.js").read_text().replace("//__GAME__", (HERE / "game.js").read_text().strip()).strip())
+            .replace("/*__JS__*/", (HERE / "app.js").read_text().strip())
             .replace("__TOTAL__", str(len(library)))
             .replace("__TUTV__", ver(tut_js))
             .replace("__LIBV__", ver(lib_js))
