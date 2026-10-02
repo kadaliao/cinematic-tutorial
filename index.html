@@ -484,6 +484,115 @@ mark.subj.set{background:var(--accent);color:var(--accent-ink)}
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{animation:none!important;transition:none!important}
 }
+
+/* ---------- game：看片连击 ---------- */
+.game{max-width:1100px}
+.g-lamps{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.g-lamp{position:relative;display:grid;grid-template-columns:auto 1fr;gap:0 10px;align-items:center;padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:var(--surface);font-size:13px;color:var(--muted)}
+.g-lamp i{grid-row:span 2;width:14px;height:14px;border-radius:50%;background:var(--surface-3);box-shadow:inset 0 0 0 1px var(--line-2)}
+.g-lamp b{font:600 11px/1 var(--mono);color:var(--faint)}
+.g-lamp span{color:var(--text-2);font-size:13.5px;line-height:1.3}
+.g-lamp small{grid-column:2;font-size:11.5px}
+.g-lamp.lit{border-color:var(--accent);color:var(--accent)}
+.g-lamp.lit i{background:var(--accent);box-shadow:0 0 12px 2px var(--accent)}
+.g-togs{display:flex;gap:6px}
+.g-tog{height:30px;padding:0 11px;border-radius:999px;border:1px solid var(--line-2);background:transparent;font-size:12.5px;color:var(--muted)}
+.g-tog.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+
+.g-stage{position:relative;overflow:hidden;border-radius:18px;border:1px solid var(--line);background:var(--bg-2);padding:18px clamp(12px,2.4vw,26px) 24px;transition:box-shadow .6s,background .6s}
+.g-stage>*{position:relative;z-index:2}
+.g-stage>.g-bar,.g-stage>.g-grain,.g-stage>.g-flare,.g-stage>.g-beam{position:absolute;pointer-events:none;z-index:1}
+.g-stage>.g-fx{position:absolute;inset:0;pointer-events:none;z-index:6;overflow:hidden}
+/* 第 1 幕：胶片边（带片孔） */
+.g-bar{left:0;right:0;height:0;background:#0a0a0c;transition:height .6s;overflow:hidden}
+.g-bar::after{content:"";position:absolute;inset:6px 0;background:repeating-linear-gradient(90deg,transparent 0 10px,#2c2c31 10px 22px,transparent 22px 32px);border-radius:3px;mask:linear-gradient(#000,#000) top/100% 8px no-repeat}
+.g-bar.top{top:0}.g-bar.bot{bottom:0}
+.g-bar.bot::after{mask:none;-webkit-mask:none;height:8px;top:auto;bottom:6px}
+.g-stage:not([data-stage="0"]) .g-bar{height:20px}
+.g-stage:not([data-stage="0"]){padding-top:34px;padding-bottom:40px}
+/* 第 2 幕：颗粒 */
+.g-grain{inset:-50%;opacity:0;transition:opacity .8s;mix-blend-mode:overlay;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");animation:g-grain .5s steps(4) infinite}
+.g-stage[data-stage="2"] .g-grain,.g-stage[data-stage="3"] .g-grain,.g-stage[data-stage="4"] .g-grain{opacity:.32}
+@keyframes g-grain{0%{transform:translate(0,0)}25%{transform:translate(-3%,2%)}50%{transform:translate(2%,-3%)}75%{transform:translate(-2%,-1%)}100%{transform:translate(0,0)}}
+/* 第 3 幕：镜头光 + 暗角 */
+.g-flare{inset:0;opacity:0;transition:opacity .8s;background:radial-gradient(ellipse at center,transparent 55%,rgba(0,0,0,.45) 100%)}
+.g-flare::before{content:"";position:absolute;left:-30%;top:46%;width:60%;height:3px;border-radius:3px;background:linear-gradient(90deg,transparent,rgba(130,190,255,.9),#fff,rgba(130,190,255,.9),transparent);filter:blur(1px);box-shadow:0 0 22px 5px rgba(120,180,255,.45);animation:g-streak 5.5s ease-in-out infinite}
+@keyframes g-streak{0%{transform:translateX(0);opacity:0}15%{opacity:1}60%{opacity:1}100%{transform:translateX(280%);opacity:0}}
+.g-stage[data-stage="3"] .g-flare,.g-stage[data-stage="4"] .g-flare{opacity:1}
+/* 终幕：聚光灯 + 光晕 */
+.g-beam{top:-10%;width:42%;height:120%;opacity:0;transition:opacity .8s;transform-origin:50% 0;background:linear-gradient(180deg,rgba(255,236,190,.34),transparent 78%);clip-path:polygon(44% 0,56% 0,100% 100%,0 100%);mix-blend-mode:screen}
+.g-beam.l{left:4%;animation:g-sway 6s ease-in-out infinite}
+.g-beam.r{right:4%;animation:g-sway 7s ease-in-out infinite reverse}
+@keyframes g-sway{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
+.g-stage[data-stage="4"] .g-beam{opacity:1}
+.g-stage[data-stage="4"]{box-shadow:0 0 0 2px var(--accent),0 0 70px -6px var(--accent);animation:g-glow 2.4s ease-in-out infinite}
+@keyframes g-glow{50%{box-shadow:0 0 0 2px var(--accent),0 0 110px 0 var(--accent)}}
+.g-stage.g-slam{animation:g-slam .5s}
+@keyframes g-slam{0%{transform:scale(1)}30%{transform:scale(1.012)}100%{transform:scale(1)}}
+.g-stage.calm *,.g-stage.calm{animation:none!important}
+/* HUD */
+.g-hud{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:16px}
+.g-stats{flex:1 1 220px;min-width:0;display:flex;align-items:center;gap:12px;font-size:13px;color:var(--text-2)}
+.g-stats .progress{flex:1;min-width:60px}
+.g-stagename{color:var(--accent);white-space:nowrap}
+.g-score{display:flex;align-items:baseline;gap:6px}
+.g-score b{font:700 22px/1 var(--serif);color:var(--text)}
+.g-score small{font-size:11.5px;color:var(--muted);margin-right:8px}
+.g-combo.hot{color:var(--accent);animation:g-beat .6s ease-in-out infinite alternate}
+@keyframes g-beat{to{transform:scale(1.18)}}
+/* 场记板吉祥物 */
+.g-clap{width:54px;flex:none;filter:drop-shadow(0 4px 8px rgba(0,0,0,.4))}
+.clap-top{height:13px;border-radius:3px 3px 0 0;background:repeating-linear-gradient(135deg,#f2efe9 0 8px,#17181c 8px 16px);transform-origin:2px 100%;transform:rotate(-16deg);margin-bottom:-1px}
+.clap-body{position:relative;height:36px;border-radius:0 0 6px 6px;background:#17181c;border:2px solid #f2efe9;display:flex;justify-content:center;gap:11px;padding-top:9px}
+.clap-body .eye{width:6px;height:6px;border-radius:50%;background:#f2efe9}
+.clap-body .mouth{position:absolute;left:50%;bottom:7px;width:12px;height:6px;margin-left:-6px;border-bottom:2px solid var(--accent);border-radius:0 0 12px 12px}
+.g-clap.yes .clap-top{animation:g-snap .5s}
+.g-clap.yes{animation:g-hop .5s}
+.g-clap.no{animation:g-wobble .5s}
+.g-clap.no .mouth{border-bottom:0;border-top:2px solid var(--accent);border-radius:12px 12px 0 0;bottom:6px}
+@keyframes g-snap{0%{transform:rotate(-34deg)}35%{transform:rotate(0)}100%{transform:rotate(-16deg)}}
+@keyframes g-hop{40%{transform:translateY(-10px)}}
+@keyframes g-wobble{20%{transform:rotate(-8deg)}60%{transform:rotate(7deg)}}
+.g-opt.g-nope{animation:g-wobble .35s}
+/* 幕标题 */
+.g-banner{position:absolute!important;left:0;right:0;top:42%;text-align:center;font:700 clamp(26px,5vw,46px)/1.2 var(--serif);letter-spacing:.08em;color:#fff;text-shadow:0 2px 24px rgba(0,0,0,.8),0 0 40px var(--accent);opacity:0;pointer-events:none;z-index:7!important}
+.g-banner.show{animation:g-banner 1.5s ease-out}
+@keyframes g-banner{0%{opacity:0;transform:scale(.7)}18%{opacity:1;transform:scale(1.05)}70%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(1.08)}}
+/* 粒子（胶片碎片） */
+.g-p{position:absolute;left:36%;top:38%;width:var(--w);height:calc(var(--w) * 1.3);background:var(--c);border-radius:1px;animation:g-burst .95s cubic-bezier(.15,.7,.3,1) forwards}
+@keyframes g-burst{0%{transform:translate(0,0) rotate(0);opacity:1}100%{transform:translate(var(--dx),calc(var(--dy) + 120px)) rotate(var(--r));opacity:0}}
+/* 手法命中演出：画面真的做一次这个手法 */
+.g-vid.fx-tilt{animation:fx-tilt .9s ease-in-out}
+.g-vid.fx-push{animation:fx-push .8s cubic-bezier(.2,.7,.2,1)}
+.g-vid.fx-whip{animation:fx-whip .55s ease-in}
+.g-vid.fx-shake{animation:fx-shake .6s linear}
+.g-vid.fx-pull{animation:fx-pull .9s ease-in-out}
+.g-vid.fx-flare{animation:fx-flare .7s ease-out}
+.g-vid.fx-noir{animation:fx-noir .9s ease-in-out}
+.g-vid.fx-slow{animation:fx-slow 1.1s ease-in-out}
+.g-vid.fx-rise{animation:fx-rise .9s ease-out}
+.g-vid.fx-pan{animation:fx-pan .8s ease-in-out}
+.g-vid.fx-pop{animation:fx-pop .45s ease-out}
+@keyframes fx-tilt{0%,100%{transform:rotate(0)}35%{transform:rotate(-9deg) scale(1.18)}70%{transform:rotate(6deg) scale(1.1)}}
+@keyframes fx-push{0%{transform:scale(1)}100%{transform:scale(1.16)}}
+@keyframes fx-whip{0%{transform:translateX(0);filter:blur(0)}60%{transform:translateX(-14%);filter:blur(9px)}100%{transform:translateX(0);filter:blur(0)}}
+@keyframes fx-shake{0%,100%{transform:translate(0)}15%{transform:translate(-2%,1%)}35%{transform:translate(2%,-1.5%)}55%{transform:translate(-1.5%,-1%)}75%{transform:translate(1.5%,1.5%)}}
+@keyframes fx-pull{0%,100%{filter:blur(0)}45%{filter:blur(10px)}}
+@keyframes fx-flare{0%{filter:brightness(1)}25%{filter:brightness(2.2) saturate(1.3)}100%{filter:brightness(1)}}
+@keyframes fx-noir{0%,100%{filter:none}40%{filter:grayscale(1) contrast(1.5) brightness(.55)}}
+@keyframes fx-slow{0%,100%{filter:saturate(1);transform:scale(1)}50%{filter:saturate(.5) brightness(1.1);transform:scale(1.05)}}
+@keyframes fx-rise{0%{transform:translateY(8%) scale(1.1)}100%{transform:translateY(-3%) scale(1.1)}}
+@keyframes fx-pan{0%,100%{transform:translateX(0) scale(1.12)}50%{transform:translateX(5%) scale(1.12)}}
+@keyframes fx-pop{50%{transform:scale(1.05)}}
+/* 结果 */
+.g-end{display:flex;flex-direction:column;gap:12px;padding:8px 0}
+.g-endsub{margin:0;font-size:15px;color:var(--text-2)}
+.g-stage.fin .g-bar{height:20px}
+@media (max-width:560px){
+  .g-hud{gap:10px}
+  .g-clap{width:44px}
+  .g-lamps{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
 </style>
 </head>
 <body>
@@ -499,6 +608,7 @@ mark.subj.set{background:var(--accent);color:var(--accent-ink)}
       <a href="#/learn/0" data-nav="learn">学习路线</a>
       <a href="#/library" data-nav="library">手法图鉴</a>
       <a href="#/quiz" data-nav="quiz">看片测验</a>
+      <a href="#/game" data-nav="game">看片连击</a>
       <a href="#/board" data-nav="board">收藏夹<span class="nav-badge" id="fav-count" hidden></span></a>
     </nav>
     <div class="top-actions">
@@ -833,6 +943,8 @@ function renderView(path, prev) {
     setNav('library'); viewLibrary(); document.title = '手法图鉴｜电影语言入门';
   } else if (path === '/quiz') {
     setNav('quiz'); viewQuiz(); document.title = '看片测验｜电影语言入门';
+  } else if (path === '/game') {
+    setNav('game'); viewGame(); document.title = '看片连击｜电影语言入门';
   } else if (path === '/board') {
     setNav('board'); viewBoard(); document.title = '收藏夹｜电影语言入门';
   } else {
@@ -842,7 +954,7 @@ function renderView(path, prev) {
   if (anchor) requestAnimationFrame(() => anchor.scrollIntoView({ block: 'start', behavior: sameChapter ? 'smooth' : 'auto' }));
   else window.scrollTo(0, 0);
 }
-function stopViewMedia() { main.querySelectorAll('video').forEach(v => { try { v.pause(); } catch (e) { /* ignore */ } }); }
+function stopViewMedia() { gameLeave(); main.querySelectorAll('video').forEach(v => { try { v.pause(); } catch (e) { /* ignore */ } }); }
 
 /* ----- home ----- */
 function progressBar(done, total, label) {
@@ -895,7 +1007,9 @@ function viewHome() {
   main.appendChild(h('section', { class: 'section' },
     h('div', { class: 'section-head' },
       h('div', null, h('h2', null, '学习路线'), h('p', null, '建议按顺序学，每次只学一课：读讲解 → 看片例 → 拍 10 秒练习 → 标记已练习。')),
-      h('a', { class: 'link-more', href: '#/quiz' }, wrongList().length ? '错题本还有 ' + wrongList().length + ' 个，去复习' : '学完几章？来测一测', icon('right'))),
+      h('div', { class: 'row' },
+        h('a', { class: 'link-more', href: '#/game' }, '看片连击（新）', icon('right')),
+        h('a', { class: 'link-more', href: '#/quiz' }, wrongList().length ? '错题本还有 ' + wrongList().length + ' 个，去复习' : '学完几章？来测一测', icon('right')))),
     grid));
 
   // 按原站分类快速进入图鉴
@@ -1455,6 +1569,359 @@ function quizEnd(wrap) {
       h('a', { class: 'btn', href: '#/learn/0' }, '回到学习路线'))));
   Q.round = null;
 }
+
+/* ----- game：看片连击（借鉴 dopa-drill：答对越多演出越盛大，答错不扣分、不结束） ----- */
+const GAME = { round: null };
+const GS = store.get('game', { best: 0, played: 0, combo: 0, master: {} });   // master: slug -> 首答即对次数
+const gsave = () => store.set('game', GS);
+const FX = {
+  sound: store.get('g-sound', true),
+  motion: store.get('g-motion', !window.matchMedia('(prefers-reduced-motion: reduce)').matches)
+};
+const STAGE_NAMES = ['开机', '第 1 幕 · 胶片边', '第 2 幕 · 颗粒', '第 3 幕 · 镜头光', '终幕 · 首映'];
+const stageOf = (correct, total) => Math.min(4, Math.floor(correct * 5 / Math.max(1, total)));
+const gMastered = s => (GS.master[s] || 0) > 0;
+
+/* 合成音效与分层 BGM：全部 Web Audio，不用音频文件 */
+const AU = {
+  ctx: null, out: null, nbuf: null, timer: 0, nextT: 0, step: 0, stage: 0,
+  CH: [[220, 261.63, 329.63], [174.61, 220, 261.63], [261.63, 329.63, 392], [196, 246.94, 293.66]],
+  ensure() {
+    if (!FX.sound) return false;
+    if (!this.ctx) {
+      const C = window.AudioContext || window.webkitAudioContext;
+      if (!C) return false;
+      this.ctx = new C();
+      this.out = this.ctx.createGain(); this.out.gain.value = 0.55; this.out.connect(this.ctx.destination);
+      const b = this.ctx.createBuffer(1, this.ctx.sampleRate, this.ctx.sampleRate), d = b.getChannelData(0);
+      for (let i = 0; i < d.length; i++) d[i] = Math.random() * 2 - 1;
+      this.nbuf = b;
+    }
+    if (this.ctx.state === 'suspended') this.ctx.resume();
+    return true;
+  },
+  tone(f, t, d, type, v) {
+    const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.type = type; o.frequency.setValueAtTime(f, t);
+    g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(v, t + 0.01); g.gain.exponentialRampToValueAtTime(0.0001, t + d);
+    o.connect(g); g.connect(this.out); o.start(t); o.stop(t + d + 0.05);
+  },
+  noise(t, d, v, f) {
+    const s = this.ctx.createBufferSource(), fl = this.ctx.createBiquadFilter(), g = this.ctx.createGain();
+    s.buffer = this.nbuf; fl.type = 'bandpass'; fl.frequency.value = f; fl.Q.value = 0.8;
+    g.gain.setValueAtTime(v, t); g.gain.exponentialRampToValueAtTime(0.0001, t + d);
+    s.connect(fl); fl.connect(g); g.connect(this.out); s.start(t, Math.random() * 0.5); s.stop(t + d + 0.02);
+  },
+  kick(t) {
+    const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.frequency.setValueAtTime(130, t); o.frequency.exponentialRampToValueAtTime(45, t + 0.14);
+    g.gain.setValueAtTime(0.5, t); g.gain.exponentialRampToValueAtTime(0.0001, t + 0.18);
+    o.connect(g); g.connect(this.out); o.start(t); o.stop(t + 0.2);
+  },
+  hit(combo) {                                   // 快门声 + 随连击爬升的五声音阶
+    if (!this.ensure()) return;
+    const t = this.ctx.currentTime, sc = [0, 2, 4, 7, 9], i = Math.min(Math.max(combo, 1) - 1, 14);
+    this.noise(t, 0.03, 0.45, 2600); this.noise(t + 0.055, 0.04, 0.3, 1900);
+    const f = 523.25 * Math.pow(2, (sc[i % 5] + 12 * Math.floor(i / 5)) / 12);
+    this.tone(f, t + 0.02, 0.28, 'triangle', 0.24); this.tone(f * 2, t + 0.02, 0.16, 'sine', 0.07);
+  },
+  miss() {                                       // 柔和的下行双音，不刺耳
+    if (!this.ensure()) return;
+    const t = this.ctx.currentTime;
+    this.tone(247, t, 0.18, 'sine', 0.16); this.tone(196, t + 0.12, 0.26, 'sine', 0.13);
+  },
+  stageUp() {
+    if (!this.ensure()) return;
+    const t = this.ctx.currentTime;
+    this.noise(t, 0.05, 0.6, 1200); this.noise(t + 0.09, 0.07, 0.8, 900);   // 打板
+    [523.25, 659.25, 783.99, 1046.5].forEach((f, k) => this.tone(f, t + 0.14 + k * 0.07, 0.4, 'triangle', 0.2));
+  },
+  fin() {
+    if (!this.ensure()) return;
+    const t = this.ctx.currentTime;
+    [261.63, 329.63, 392, 523.25, 659.25].forEach((f, k) => this.tone(f, t + k * 0.09, 1.1, 'triangle', 0.16));
+  },
+  start(stage) {
+    this.stage = stage;
+    if (this.timer || !stage || !this.ensure()) return;
+    this.nextT = this.ctx.currentTime + 0.1; this.step = 0;
+    this.timer = setInterval(() => this.sched(), 80);
+  },
+  stop() { clearInterval(this.timer); this.timer = 0; },
+  sched() {
+    while (this.nextT < this.ctx.currentTime + 0.25) { this.play(this.step, this.nextT); this.nextT += 0.3; this.step++; }
+  },
+  play(s, t) {
+    const st = this.stage, ch = this.CH[Math.floor(s / 8) % 4];
+    if (st >= 1) { if (s % 4 === 0) this.kick(t); if (s % 2 === 1) this.noise(t, 0.03, 0.06, 7000); }
+    if (st >= 2 && s % 2 === 0) this.tone(ch[0] / 2, t, 0.26, 'sine', 0.2);
+    if (st >= 3) this.tone(ch[s % 3] * 2, t, 0.2, 'triangle', 0.06);
+    if (st >= 4) {
+      if (s % 8 === 0) ch.forEach(f => this.tone(f, t, 2.2, 'sine', 0.05));
+      if (s % 8 === 4) this.noise(t, 0.09, 0.14, 1800);
+    }
+  }
+};
+document.addEventListener('visibilitychange', () => { if (document.hidden) AU.stop(); else if (GAME.round && curPath === '/game' && GAME.round.stage) AU.start(GAME.round.stage); });
+function gameLeave() { AU.stop(); }
+
+/* 手法 → 命中演出：让画面做一次这个手法 */
+function fxFor(slug) {
+  if (/dutch/.test(slug)) return 'tilt';
+  if (/whip/.test(slug)) return 'whip';
+  if (/handheld|shake|earthquake/.test(slug)) return 'shake';
+  if (/rack|diopter|tilt-shift|halation|fisheye/.test(slug)) return 'pull';
+  if (/flare/.test(slug)) return 'flare';
+  if (/noir|silhouette|low-key/.test(slug)) return 'noir';
+  if (/slow/.test(slug)) return 'slow';
+  if (/crane|rise|ascend/.test(slug)) return 'rise';
+  if (/zoom|dolly-in|push|dolly/.test(slug)) return 'push';
+  if (/pan|tilt|orbit|tracking/.test(slug)) return 'pan';
+  return 'pop';
+}
+function replay(el, cls) { if (el.classList.contains('g-clap')) el.classList.remove('yes', 'no'); el.classList.remove(cls); void el.offsetWidth; el.classList.add(cls); }
+
+function chapterMastery(ci) {
+  const sl = quizPool(String(ci)), m = sl.filter(gMastered).length;
+  return { m, n: sl.length, lit: sl.length > 0 && m / sl.length >= 0.8 };
+}
+
+function viewGame() {
+  const wrap = h('div', { class: 'game' });
+  main.appendChild(h('section', { class: 'page-head' },
+    h('p', { class: 'eyebrow' }, 'COMBO · 看片连击'),
+    h('h1', null, '看片连击'),
+    h('p', { class: 'lead' }, '看片例，认手法。答对越多，片场越热闹：胶片边、颗粒、镜头光、首映灯光和配乐一层层叠上来。答错只提示，不扣分、不结束，也不会收回已经点亮的东西。')));
+  main.appendChild(wrap);
+  if (GAME.round) gameShell(wrap); else gameStart(wrap);
+}
+
+function toggleBtn(label, on, fn) {
+  const b = h('button', { type: 'button', class: 'g-tog' + (on ? ' on' : ''), 'aria-pressed': String(on), onclick: () => {
+    const v = fn();
+    b.classList.toggle('on', v); b.setAttribute('aria-pressed', String(v));
+  } }, label);
+  return b;
+}
+function gameToggles() {
+  return h('div', { class: 'g-togs' },
+    toggleBtn('声音', FX.sound, () => {
+      FX.sound = !FX.sound; store.set('g-sound', FX.sound);
+      if (!FX.sound) AU.stop(); else if (GAME.round && GAME.round.stage) AU.start(GAME.round.stage);
+      return FX.sound;
+    }),
+    toggleBtn('动效', FX.motion, () => {
+      FX.motion = !FX.motion; store.set('g-motion', FX.motion);
+      const st = main.querySelector('.g-stage'); if (st) st.classList.toggle('calm', !FX.motion);
+      return FX.motion;
+    }));
+}
+
+function gameStart(wrap) {
+  wrap.textContent = '';
+  const wl = wrongList();
+  const sel = h('select', { class: 'input', 'aria-label': '出题范围' },
+    h('option', { value: 'all' }, '全部 12 章（' + quizPool('all').length + ' 个片例）'),
+    CH.map((c, ci) => h('option', { value: String(ci) }, '第 ' + (ci + 1) + ' 章 · ' + c.n + '（' + quizPool(String(ci)).length + '）')));
+  if (wl.length) sel.insertBefore(h('option', { value: 'wrong' }, '错题本（' + wl.length + ' 个）'), sel.firstChild.nextSibling);
+  const begin = () => {
+    AU.ensure();
+    let pool = quizPool(sel.value).slice();
+    shuffle(pool);
+    if (sel.value !== 'wrong') pool.sort((a, b) => (gMastered(a) ? 1 : 0) - (gMastered(b) ? 1 : 0));   // 先出还没认熟的
+    pool = pool.slice(0, Math.min(12, pool.length));
+    GAME.round = { qs: pool, i: 0, correct: 0, first: 0, combo: 0, maxCombo: 0, heat: 0, stage: 0, cleared: 0, missed: [], misses: 0, dead: [], state: 'ask', opts: null };
+    gameShell(wrap);
+  };
+  const lamps = h('div', { class: 'g-lamps' }, CH.map((c, ci) => {
+    const ms = chapterMastery(ci);
+    return h('div', { class: 'g-lamp' + (ms.lit ? ' lit' : ''), title: ms.m + ' / ' + ms.n + ' 个认熟' },
+      h('i', { 'aria-hidden': 'true' }), h('b', null, pad(ci + 1)), h('span', null, c.n),
+      h('small', null, ms.lit ? '已点亮' : ms.m + '/' + ms.n));
+  }));
+  wrap.appendChild(h('div', { class: 'quiz-start card' },
+    h('label', { class: 'field' }, h('span', null, '出题范围（每轮 12 题，优先出还没认熟的）'), sel),
+    h('div', { class: 'row' },
+      h('button', { class: 'btn primary', type: 'button', onclick: begin }, '开机', icon('right')),
+      gameToggles()),
+    h('p', { class: 'muted' }, GS.played ? '已玩 ' + GS.played + ' 轮 · 最高热度 ' + GS.best + ' · 最长连击 ' + GS.combo : '一轮 12 题，数字键 1–4 作答。声音默认开，可随时关。')));
+  wrap.appendChild(h('section', { class: 'section g-lamps-sec' },
+    h('div', { class: 'section-head' }, h('div', null, h('h2', null, '片场灯'), h('p', null, '一章里 80% 的片例首答就认对过，这盏灯就亮了，不会再熄。'))),
+    lamps));
+}
+
+function gameShell(wrap) {
+  const R = GAME.round;
+  wrap.textContent = '';
+  R.mascot = h('div', { class: 'g-clap', 'aria-hidden': 'true' },
+    h('div', { class: 'clap-top' }),
+    h('div', { class: 'clap-body' }, h('i', { class: 'eye' }), h('i', { class: 'eye' }), h('b', { class: 'mouth' })));
+  R.el = {
+    hud: h('div', { class: 'g-hud' }),
+    body: h('div', { class: 'g-body' }),
+    fx: h('div', { class: 'g-fx', 'aria-hidden': 'true' }),
+    banner: h('div', { class: 'g-banner', role: 'status', 'aria-live': 'polite' })
+  };
+  R.el.stage = h('div', { class: 'g-stage' + (FX.motion ? '' : ' calm'), 'data-stage': R.stage },
+    h('div', { class: 'g-bar top', 'aria-hidden': 'true' }), h('div', { class: 'g-bar bot', 'aria-hidden': 'true' }),
+    h('div', { class: 'g-grain', 'aria-hidden': 'true' }), h('div', { class: 'g-flare', 'aria-hidden': 'true' }),
+    h('div', { class: 'g-beam l', 'aria-hidden': 'true' }), h('div', { class: 'g-beam r', 'aria-hidden': 'true' }),
+    R.el.hud, R.el.body, R.el.fx, R.el.banner);
+  wrap.appendChild(R.el.stage);
+  R.stage = Math.min(R.stage, 4);
+  AU.start(R.stage);
+  gameHud(); gameQuestion();
+}
+
+function gameHud() {
+  const R = GAME.round;
+  R.el.hud.textContent = '';
+  R.el.hud.appendChild(R.mascot);
+  R.el.hud.appendChild(h('div', { class: 'g-stats' },
+    h('span', { class: 'g-act' }, '第 ' + Math.min(R.i + 1, R.qs.length) + ' / ' + R.qs.length + ' 镜'),
+    progressBar(R.correct, R.qs.length, '本轮进度'),
+    h('span', { class: 'g-stagename' }, STAGE_NAMES[R.stage])));
+  R.el.hud.appendChild(h('div', { class: 'g-score' },
+    h('b', { class: 'g-combo' + (R.combo >= 3 ? ' hot' : '') }, '×' + R.combo), h('small', null, '连击'),
+    h('b', null, R.heat), h('small', null, '热度')));
+  R.el.hud.appendChild(gameToggles());
+  R.el.hud.appendChild(h('button', { type: 'button', class: 'btn ghost quiz-quit', onclick: () => { AU.stop(); GAME.round = null; gameStart(main.querySelector('.game')); } }, '结束'));
+}
+
+function gameQuestion() {
+  const R = GAME.round, slug = R.qs[R.i], e = CT.lib[slug], r = IDXMAP[slug];
+  R.state = 'ask'; R.misses = 0; R.dead = [];
+  const others = IDX.filter(x => x[0] !== slug && x[2] !== r[2]);
+  const same = shuffle(others.filter(x => x[3] === r[3] && CT.lib[x[0]]));
+  const rest = shuffle(others.filter(x => CT.lib[x[0]] && x[3] !== r[3]));
+  R.opts = shuffle([slug].concat(same.slice(0, 2).concat(rest).slice(0, 3).map(x => x[0])));
+  const media = r[4]
+    ? h('video', { class: 'g-vid', src: r[6], poster: r[5], muted: true, loop: true, autoplay: true, playsinline: true, controls: true, preload: 'auto' })
+    : thumbImg(e.m[1], '片例静帧');
+  media.classList.add('g-vid');
+  if (media.tagName === 'VIDEO') media.muted = true;
+  R.media = media;
+  R.fb = h('div', { class: 'g-fbwrap' });
+  const opts = h('div', { class: 'quiz-opts', role: 'group', 'aria-label': '选项' }, R.opts.map((s, k) => {
+    const x = IDXMAP[s];
+    return h('button', { type: 'button', class: 'quiz-opt g-opt', dataset: { slug: s }, onclick: () => gameAnswer(s) },
+      h('kbd', null, k + 1), h('span', null, h('b', null, x[2]), h('small', { lang: 'en' }, x[1])));
+  }));
+  R.optsEl = opts;
+  R.el.body.textContent = '';
+  R.el.body.appendChild(h('div', { class: 'quiz-card g-card' },
+    h('div', { class: 'quiz-media g-media' }, media),
+    h('div', { class: 'quiz-side' }, h('h2', null, '这个镜头用的是哪种手法？'), opts, R.fb)));
+}
+
+function gameAnswer(s) {
+  const R = GAME.round;
+  if (!R || R.state !== 'ask' || R.dead.indexOf(s) >= 0) return;
+  AU.ensure();
+  const slug = R.qs[R.i], e = CT.lib[slug];
+  const btn = R.optsEl.querySelector('[data-slug="' + s + '"]');
+  if (s !== slug) {
+    R.misses++; R.dead.push(s); R.combo = 0;
+    if (R.misses === 1) { markWrong(slug); R.missed.push(slug); }
+    btn.disabled = true; btn.classList.add('wrong');
+    AU.miss(); replay(R.mascot, 'no'); replay(btn, 'g-nope');
+    R.fb.textContent = '';
+    R.fb.appendChild(h('div', { class: 'quiz-feedback no' },
+      h('b', null, '再看一次'), h('span', { class: 'fb-note' }, '已收进错题本，不扣分'),
+      h('p', null, R.misses === 1 ? '提示：它属于「' + catZh(IDXMAP[slug][3]) + '」。' : '提示：' + e.d[1])));
+    gameHud();
+    return;
+  }
+  // 答对
+  R.state = 'done';
+  const first = R.misses === 0;
+  R.correct++;
+  if (first) {
+    R.combo++; R.maxCombo = Math.max(R.maxCombo, R.combo); R.first++;
+    R.heat += 10 + 5 * Math.min(R.combo, 10);
+    GS.master[slug] = (GS.master[slug] || 0) + 1;
+    if (clearWrong(slug)) R.cleared++;
+  } else R.heat += 5;
+  R.optsEl.querySelectorAll('.g-opt').forEach(b => { b.disabled = true; b.classList.add(b.dataset.slug === slug ? 'right' : 'dim'); });
+  const last = R.i + 1 >= R.qs.length;
+  R.fb.textContent = '';
+  R.fb.appendChild(h('div', { class: 'quiz-feedback ok' },
+    h('b', null, first ? '漂亮！' + e.z : '认出来了：' + e.z), first && R.combo >= 3 ? h('span', { class: 'fb-note' }, R.combo + ' 连击') : null,
+    h('p', null, e.d[1]),
+    h('div', { class: 'row' },
+      h('button', { class: 'btn primary', type: 'button', id: 'g-next', onclick: () => gameNext() }, last ? '看首映结果' : '下一镜', icon('right')),
+      h('a', { class: 'btn', href: '#/game?e=' + slug, onclick: ev => { ev.preventDefault(); openEntry(slug); } }, '看详情与提示词'))));
+  AU.hit(first ? R.combo : 1);
+  replay(R.mascot, 'yes');
+  if (FX.motion) { replay(R.media, 'fx-' + fxFor(slug)); burst(first ? 10 + R.stage * 6 : 6); }
+  const ns = stageOf(R.correct, R.qs.length);
+  if (ns > R.stage) stageUp(ns);
+  gameHud();
+  const nb = $('#g-next'); if (nb) nb.focus({ preventScroll: true });
+}
+
+function stageUp(ns) {
+  const R = GAME.round;
+  R.stage = ns;
+  R.el.stage.setAttribute('data-stage', String(ns));
+  AU.stageUp(); AU.start(ns); AU.stage = ns;
+  R.el.banner.textContent = STAGE_NAMES[ns];
+  replay(R.el.banner, 'show');
+  if (FX.motion) { replay(R.el.stage, 'g-slam'); burst(26); }
+}
+function burst(n) {
+  const fx = GAME.round.el.fx, cols = ['var(--accent)', '#fff', 'var(--ok)', '#ff7a8a', '#7fb7ff'];
+  for (let i = 0; i < n; i++) {
+    const a = Math.random() * Math.PI * 2, d = 90 + Math.random() * 230;
+    const p = h('i', { class: 'g-p', style: '--dx:' + Math.round(Math.cos(a) * d) + 'px;--dy:' + Math.round(Math.sin(a) * d - 60) + 'px;--r:' + Math.round(Math.random() * 540 - 270) + 'deg;--c:' + cols[i % cols.length] + ';--w:' + (6 + Math.round(Math.random() * 8)) + 'px' });
+    p.addEventListener('animationend', () => p.remove());
+    fx.appendChild(p);
+  }
+}
+
+function gameNext() {
+  const R = GAME.round;
+  if (!R || R.state !== 'done') return;
+  R.i++;
+  if (R.i >= R.qs.length) gameEnd(); else { gameHud(); gameQuestion(); }
+}
+
+function gameEnd() {
+  const R = GAME.round;
+  AU.stop(); AU.fin();
+  GS.played++; GS.best = Math.max(GS.best, R.heat); GS.combo = Math.max(GS.combo, R.maxCombo); gsave();
+  const lit = CH.filter((_, ci) => chapterMastery(ci).lit).length;
+  const rate = R.qs.length ? Math.round(R.first / R.qs.length * 100) : 0;
+  R.el.hud.textContent = '';
+  R.el.hud.appendChild(R.mascot); replay(R.mascot, 'yes');
+  R.el.stage.setAttribute('data-stage', '4');
+  R.el.stage.classList.add('fin');
+  if (FX.motion) burst(40);
+  R.el.body.textContent = '';
+  R.el.body.appendChild(h('div', { class: 'g-end' },
+    h('p', { class: 'eyebrow' }, 'FIN · 本轮首映'),
+    h('p', { class: 'quiz-score' }, R.heat),
+    h('p', { class: 'g-endsub' }, '热度 · 最长 ' + R.maxCombo + ' 连击 · 首答即对 ' + R.first + ' / ' + R.qs.length + '（' + rate + '%）'),
+    R.cleared ? h('p', { class: 'muted' }, '从错题本移出 ' + R.cleared + ' 个。') : null,
+    h('p', { class: 'muted' }, '片场灯已点亮 ' + lit + ' / ' + CH.length + ' 盏。' + (R.heat > 0 && R.heat >= GS.best ? '这是你的最高热度。' : '')),
+    R.missed.length ? h('div', null, h('p', null, R.missed.length + ' 个先答错过，已收进错题本，点开看一眼：'), h('div', { class: 'tile-grid' }, R.missed.map(s => tile(s, { list: R.missed, def: true })))) : h('p', null, '全部首答即对，满分首映。'),
+    h('div', { class: 'row' },
+      h('button', { class: 'btn primary', type: 'button', onclick: () => { GAME.round = null; gameStart(main.querySelector('.game')); } }, '再来一轮'),
+      h('a', { class: 'btn', href: '#/quiz' }, '去看片测验'))));
+  GAME.round = null;
+}
+
+document.addEventListener('keydown', ev => {
+  const R = GAME.round;
+  if (curPath !== '/game' || !R || ev.metaKey || ev.ctrlKey || ev.altKey) return;
+  if (!modal.hidden || !pal.hidden || typing(ev.target)) return;
+  if (/^[1-4]$/.test(ev.key)) {
+    const b = R.optsEl && R.optsEl.querySelectorAll('.g-opt')[+ev.key - 1];
+    if (b && !b.disabled) b.click();
+  } else if ((ev.key === 'Enter' || ev.key === 'ArrowRight') && R.state === 'done' && ev.target.tagName !== 'BUTTON' && ev.target.tagName !== 'A') {
+    ev.preventDefault(); gameNext();
+  }
+});
 
 /* ----- board (收藏夹 + 提示词组合) ----- */
 function viewBoard() {
